@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-tirak-pink: #F5A6BF;
+  --color-tirak-purple: #9B8FD9;
+  --color-tirak-gradient: linear-gradient(135deg, #F5A6BF 0%, #9B8FD9 100%);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-bg: rgba(255, 255, 255, 0.1);
+  --glass-blur: 10px;
+}
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  background: #0f0f13; /* Dark background for glassmorphism */
+  color: white;
+  overflow-x: hidden;
+}
+
+@layer utilities {
+  .text-gradient {
+    background: var(--color-tirak-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
