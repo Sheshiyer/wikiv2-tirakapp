@@ -20,3 +20,4 @@
 - [DONE] Document cleanup process and canonical routes
 - [DONE] Replace duplicate H1 with accessible logo
 - [DONE] Update homepage card copy for brand alignment
+- [DONE] Refresh README and site meta title/description

@@ -89,3 +89,10 @@ Transforming Tirak campaign documentation into an Astro-powered glassmorphism wi
 - **Errors Fixed**: N/A.
 - **Code Changes**: Updated `tirak-wiki/src/pages/index.astro`.
 - **Next Dependencies**: None.
+
+## [2026-01-22] Task Completed: Refresh README and Site Metadata
+- **Outcome**: Replaced the root README with a professional wiki overview and updated meta title/description.
+- **Breakthrough**: Standardized public-facing messaging to match the companion-first positioning.
+- **Errors Fixed**: N/A.
+- **Code Changes**: Updated `README.md` and `tirak-wiki/src/layouts/BaseLayout.astro`.
+- **Next Dependencies**: None.
