@@ -8,6 +8,7 @@ interface AdAsset {
   body: string;
   cta: string;
   format: 'feed' | 'story' | 'carousel';
+  image?: string;
 }
 
 interface AdAssetGridProps {
@@ -28,10 +29,16 @@ export const AdAssetGrid = ({ assets }: AdAssetGridProps) => {
             <span>{asset.format} Ad</span>
           </div>
 
-          {/* Visual Placeholder */}
-          <div className="w-full aspect-video bg-gray-100 dark:bg-white/5 rounded-lg mb-4 flex items-center justify-center border border-white/10 group-hover:bg-gray-200 dark:group-hover:bg-white/10 transition-colors">
-            <ImageIcon className="text-gray-400" />
-          </div>
+          {/* Visual Placeholder or Image */}
+          {asset.image ? (
+            <div className="w-full aspect-video bg-gray-100 dark:bg-white/5 rounded-lg mb-4 flex items-center justify-center overflow-hidden border border-white/10">
+               <img src={asset.image} alt={asset.headline} className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" />
+            </div>
+          ) : (
+            <div className="w-full aspect-video bg-gray-100 dark:bg-white/5 rounded-lg mb-4 flex items-center justify-center border border-white/10 group-hover:bg-gray-200 dark:group-hover:bg-white/10 transition-colors">
+              <ImageIcon className="text-gray-400" />
+            </div>
+          )}
 
           <div className="flex-grow space-y-3">
             <h3 className="font-bold text-lg leading-tight text-gray-900 dark:text-white">

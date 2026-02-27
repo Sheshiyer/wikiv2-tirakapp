@@ -1,409 +1,254 @@
 ---
-title: Pre-Launch Emails
-description: Companion Recruitment Email Sequence (Announcement & Reminder)
-category: campaign
-order: 2
-icon: mail
-lastUpdated: 2026-01-22
+title: Pre Launch Email Sequence
 ---
 
-# Pre-Launch Email Sequence: Tirak Dream Journeys
-**Campaign Focus:** Companion Recruitment (Supply-Side Priority)  
-**Audience:** Thai locals (22-35) who expressed interest via Facebook ads, landing page, or referrals  
-**Goal:** Drive companion sign-ups before official platform launch  
-**Sequence:** 2 emails (Announcement T-7 days, Reminder T-1 day)
+**Launch Date**: 2024-07-15
 
----
+**Vip Window Start**: 2024-07-14T10:00:00Z
 
-## Email #1: Pre-Launch Announcement (T-7 Days Before Launch)
+**Vip Window End**: 2024-07-15T10:00:00Z
 
-### Subject Line Options (A/B Test)
+**Preview Link**: https://tirak.com/vip-preview-access
 
-**Subject A (Direct Economics):**  
-"Nok, keep 80-85% of your earnings (not 60-70%)"
+**Launch Link**: https://tirak.com/launch-day-access
 
-**Subject B (Speed to Income):**  
-"Start earning next week: Same-day approval, no photos required"
+## Email Sequence
 
-**Subject C (Urgency + VIP):**  
-"Early access: Join 50 Bangkok companions before public launch"
+**Email Id**: pre_launch_announcement_t-7
 
-**Recommended:** Subject A (highest open rate expected - specific economic benefit)
+**Send Date Offset**: T-7 days
 
----
+**Segment**: VIPs & Main List
 
-### Preview Text
-"Tirak launches next week. Be first to earn ฿8K-15K/month with fair 15-20% commission."
+**Type**: Announcement
 
----
+#### Subject Lines
 
-### Email Body
+- Get Ready: Tirak is Launching Soon! Your Exclusive Sneak Peek Awaits.
+- Unlock Unforgettable Experiences: Tirak Pre-Launch Preview Just For You.
 
-**FROM:** Tirak Team <hello@tirak.com>  
-**TO:** [Companion Name]  
-**SUBJECT:** [Subject A/B/C from above]
+#### Body
 
----
+**Greeting**: Hello [Name],
 
-สวัสดี [Name]! 👋
+**Headline**: The Future of Connection is Here: Tirak is Almost Live!
 
-Quick question: How much of your earnings do you keep when you host travelers?
+**Intro**: Get ready to redefine how you explore the world and connect with others. Tirak, your ultimate platform for shared experiences, is launching in just 7 days! We're thrilled to introduce a new way to discover, engage, and truly live.
 
-If you're using **Withlocals**, you keep **฿1,400** on a ฿2,000 booking (they take ฿600).  
-If you're using **ToursByLocals**, you keep **฿1,200** (they take ฿800).  
-If you're using **Airbnb**, you keep **฿1,600** (they take ฿400)... *if* they ever approve you (current wait time: 3-6 months).
+**Value Proposition**: Whether you're a seasoned Traveler seeking authentic local encounters or a passionate Companion eager to share your expertise, Tirak brings your world to life. Imagine effortlessly finding the perfect partner for any adventure or sharing your unique passions with appreciative explorers.
 
-**Here's what changed:** Next week, you'll be able to keep **฿1,600-1,700** with **Tirak** (we take only ฿300-400).
+##### Category Benefits
 
-That's **฿200-600 MORE** per booking. In YOUR pocket. Not theirs.
+**Category**: Culture
+
+**Description**: For Travelers: Discover hidden historical gems with local guides. For Companions: Share your city's rich heritage, from art walks to museum tours.
 
 ---
 
-## Why We Built Tirak
+**Category**: Adventure
 
-I watched my friend Nok—a brilliant Bangkok local who speaks fluent English and knows the city better than any guidebook—work 8 hours showing a traveler around.
-
-Withlocals took ฿900 of her ฿3,000 fee.
-
-That's **30%**. That's her electric bill. That's groceries for a week.
-
-She did 100% of the work. They took 30% of her money.
-
-That's when I knew: **Thai companions deserve better.**
+**Description**: For Travelers: Find hiking buddies, dive partners, or cycling companions for your next thrill. For Companions: Lead exhilarating expeditions, from mountain biking to kayaking.
 
 ---
 
-## What Makes Tirak Different
+**Category**: Wellness
 
-**🔥 15-20% Commission (Not 30-40%)**  
-You keep 80-85% of every booking. More money for you, less for us.
-
-**⚡ Same-Day Approval**  
-Apply at 9am, go live by 5pm. No 3-month wait. No reference letters. No video auditions.
-
-**📸 No Photo Police**  
-iPhone selfies at street food stalls? Perfect. No ฿5,000 photographer required.
-
-**🗓️ Your Schedule, Your Rates**  
-Work weekends only? Full-time? Random Tuesdays? Instant availability toggle. You control everything.
-
-**🛡️ Verified Travelers Only**  
-ID checks, reviews, in-app messaging. No sketchy Reddit DMs. Your safety is non-negotiable.
-
-**💰 24-48 Hour Payouts**  
-Money hits your account fast. No 30-day waiting periods.
-
-**👥 Community Support**  
-Join 50+ Bangkok companions in our WhatsApp group. Share tips. Get advice. Monthly meetups.
+**Description**: For Travelers: Connect with yoga instructors, meditation groups, or fitness partners abroad. For Companions: Offer unique wellness retreats, personal training, or guided mindfulness sessions.
 
 ---
 
-## Early Access Preview (This Week Only)
+**Category**: Nightlife
 
-Before we launch publicly next Monday (January 29th), we're inviting **50 Bangkok companions** to join early and help us test the platform.
-
-**Early Access Benefits:**
-✅ Get approved and start earning before public launch  
-✅ Build your reviews and reputation first (early-mover advantage)  
-✅ Waived platform fee for your first 5 bookings (keep 100%!)  
-✅ Featured in "New to Tirak" section on launch day  
-✅ Exclusive invite to founder meetup (coffee + Q&A session)
-
-**How It Works:**
-1. **Click the button below** to start your application (takes 10 minutes)
-2. Upload 3-5 authentic photos (iPhone selfies OK)
-3. Write a short bio (100-200 words about you and Bangkok)
-4. Get approved same day (we review within 4 hours)
-5. Set your rates and availability
-6. Start accepting bookings from verified travelers
-
-👉 **[Apply for Early Access - Free]**  
-(Link: https://tirak.com/apply?ref=prelaunch-email-1)
+**Description**: For Travelers: Explore vibrant local bars, secret speakeasies, and dance floors with insider Companions. For Companions: Curate unforgettable nights out, from pub crawls to exclusive club access.
 
 ---
 
-## What You'll Earn (Real Numbers)
+**Category**: Lifestyle
 
-**Weekend Warrior (4 experiences/month):**  
-4 bookings × ฿1,800 average × 85% = **฿6,120/month**
-
-**Part-Time (8 experiences/month):**  
-8 bookings × ฿1,800 average × 85% = **฿12,240/month**
-
-**Full-Time (20 experiences/month):**  
-20 bookings × ฿1,800 average × 85% = **฿30,600/month**
-
-*(Based on average 4-hour experience at ฿1,800, with Tirak's 15% commission)*
+**Description**: For Travelers: Find shopping partners, fashion advisors, or local experts for bespoke experiences. For Companions: Share your expertise in fashion, photography, or unique local trends.
 
 ---
 
-## Questions? We're Here.
+**Category**: Private
 
-Reply to this email and I'll personally answer within 2 hours. Or join our **WhatsApp community** (50+ Bangkok companions already chatting): [WhatsApp Link]
-
-**Important dates:**
-- **Today (Jan 22):** Early access applications open
-- **Friday (Jan 26):** Early access closes (50 spots only)
-- **Monday (Jan 29):** Public launch (platform goes live to all travelers)
-
-This isn't just another platform. It's a movement toward **fair pay for Thai companions**.
-
-Join us.
-
-ขอบคุณครับ/ค่ะ,
-
-[Founder Name]  
-Founder, Tirak Dream Journeys
-
-P.S. — Still on Withlocals or ToursByLocals? Calculate how much you're losing: [Commission Calculator Tool Link]
+**Description**: For Travelers: Secure exclusive, personalized tours and bespoke services. For Companions: Offer high-end, confidential experiences, from private chefs to executive guides.
 
 ---
 
-### Email Footer
-Tirak Dream Journeys  
-Bangkok, Thailand  
-[Unsubscribe] | [Update Preferences] | [View in Browser]
+**Category**: Cinema
+
+**Description**: For Travelers: Discover local film festivals, indie movie nights, or classic cinema clubs. For Companions: Organize themed movie marathons, film discussions, or guide visits to iconic film locations.
 
 ---
 
-## Email #2: Pre-Launch Reminder (T-1 Day Before Launch)
+**Category**: Events
 
-### Subject Line Options (A/B Test)
-
-**Subject A (Urgency + Scarcity):**  
-"48 hours left: Last chance to join before public launch"
-
-**Subject B (FOMO + Social Proof):**  
-"42 Bangkok companions already joined. Are you in?"
-
-**Subject C (Direct Benefit):**  
-"Your first 5 bookings = 100% earnings (no commission)"
-
-**Recommended:** Subject B (social proof reduces hesitation)
+**Description**: For Travelers: Find partners for concerts, festivals, sports games, or local gatherings. For Companions: Host unique events, from themed parties to local workshops, connecting with eager participants.
 
 ---
 
-### Preview Text
-"Early access closes tomorrow. Join 42 Bangkok companions earning fair income."
+**Category**: Food & Drink
+
+**Description**: For Travelers: Embark on culinary tours, discover authentic eateries, or join cooking classes. For Companions: Lead gastronomic adventures, from street food safaris to wine tastings, sharing your local foodie secrets.
 
 ---
 
-### Email Body
 
-**FROM:** Tirak Team <hello@tirak.com>  
-**TO:** [Companion Name]  
-**SUBJECT:** [Subject A/B/C from above]
+**Cta Message**: As a valued member of our community, we're giving you an exclusive opportunity to get a sneak peek before anyone else. Explore Tirak's features, discover potential connections, and start planning your first unforgettable experience.
 
----
+**Closing**: Don't miss out on being among the first to experience Tirak. Your journey begins now!
 
-[Name],
+**Signature**: The Tirak Team
 
-Quick update: **42 Bangkok companions** have already joined Tirak early access.
+#### Image Slots
 
-Nok from Thonglor. Pim from Ari. Som from Sukhumvit. Kai from Silom.
+- Hero image: Dynamic collage showcasing diverse people connecting across various activities (e.g., hiking, cooking, exploring a city, attending an event).
+- Feature image: Split visual demonstrating 'Traveler' perspective (e.g., looking for an activity) and 'Companion' perspective (e.g., offering an activity).
 
-They're approved. They're setting their rates. They're ready to start earning **tomorrow** when we launch publicly.
+#### Button Cta
 
-**Question:** Will you join them? Or will you keep giving 30-40% of your earnings to platforms that don't respect you?
+**Text**: Get Your Exclusive Preview
 
----
-
-## Last Chance: Early Access Closes Tomorrow (Friday 11:59pm)
-
-After tomorrow, we open to the public. That means:
-- ❌ No "first 5 bookings = 100% earnings" bonus
-- ❌ No early-mover advantage (42 companions already have reviews and visibility)
-- ❌ No founder meetup invite (closed to early access only)
-
-**But if you apply TODAY:**
-- ✅ Keep 100% of your first 5 bookings (฿0 commission = ฿9,000+ extra)
-- ✅ Get featured on launch day (higher visibility = more bookings)
-- ✅ Join founder coffee meetup next week (exclusive to first 50)
-
-👉 **[Apply Now - Last 8 Spots]**  
-(Link: https://tirak.com/apply?ref=prelaunch-email-2)
+**Link**: https://tirak.com/vip-preview-access
 
 ---
 
-## Real Companion Stories (From This Week)
+**Email Id**: pre_launch_reminder_t-1_vip
 
-**Nok, 27, Hotel Manager:**
-> "I applied Monday morning (uploaded 3 iPhone photos). Approved by 2pm. Set my rates. Ready to go. Finally, a platform that respects my time and doesn't make me wait months. First traveler booked me for Saturday night—฿1,800 for 4-hour bar crawl. I keep ฿1,530 (85%). Withlocals would've taken ฿540. That's my phone bill."
+**Send Date Offset**: T-1 day
 
-**Pim, 29, Full-Time Host:**
-> "I quit my corporate job 6 months ago to host full-time on Withlocals. Made ฿35,000/month but gave up ฿15,000 in commissions. That's ฿15,000 I could've saved or invested. Tirak's 15% commission means I'll keep ฿5,250 MORE per month. That's ฿63,000/year. That's life-changing."
+**Segment**: VIPs
 
-**Som, 24, University Student:**
-> "I was scared to meet travelers from the internet. But Tirak verifies everyone—ID, reviews, everything. I messaged my first traveler before accepting (Connor, 31, software engineer from San Francisco). We vibed. Met at BTS Ari, showed him street food spots and rooftop bars. He left me 5 stars and a ฿200 tip. Platform held payment in escrow, so no awkward cash exchange. I felt safe the whole time."
+**Type**: Reminder (VIP First)
 
----
+#### Subject Lines
 
-## The Math Is Simple
+- VIP Reminder: Your Exclusive Tirak Access Starts Tomorrow!
+- Last Chance for Early Access: Tirak's VIP Window Opens Soon!
 
-**Withlocals (30% commission):**  
-10 bookings × ฿2,000 = ฿20,000 revenue  
-→ You keep ฿14,000 (lose ฿6,000)
+#### Body
 
-**Tirak (15% commission):**  
-10 bookings × ฿2,000 = ฿20,000 revenue  
-→ You keep ฿17,000 (lose ฿3,000)
+**Greeting**: Hello [Name],
 
-**Difference:** ฿3,000 MORE in your pocket every month.
+**Headline**: Your Exclusive Tirak Journey Begins Tomorrow!
 
----
+**Intro**: The wait is almost over! As a valued VIP, your exclusive early access to Tirak begins tomorrow, [VIP_WINDOW_START_TIME]. Get ready to be among the very first to explore a world of connections and experiences, before the general public.
 
-## Join 42 Bangkok Companions Before It's Too Late
+**Value Proposition**: This is your chance to get a head start – discover unique Companions, plan your next adventure, or set up your profile to offer unparalleled experiences. Tirak is designed to seamlessly connect Travelers with passionate Companions, fostering genuine interactions across every interest.
 
-We're capping early access at **50 companions** to ensure quality control and personalized support during launch week.
+##### Category Benefits
 
-**42 spots taken. 8 spots left.**
+**Category**: Culture, Adventure, Wellness
 
-After tomorrow (Friday 11:59pm), early access closes and we launch publicly.
-
-Your choice:
-1. **Apply today** → Get 100% earnings on first 5 bookings + founder meetup + featured placement
-2. **Wait until Monday** → Pay 15% commission from Day 1 + no early-mover advantage
-
-👉 **[Claim Your Spot Now]**  
-(Link: https://tirak.com/apply?ref=prelaunch-email-2-final)
+**Description**: Be the first to secure your spot on exclusive cultural tours, adventurous excursions, or rejuvenating wellness retreats. Travelers, find your perfect guide; Companions, showcase your unique offerings.
 
 ---
 
-## Questions? Reply to This Email.
+**Category**: Nightlife, Lifestyle, Private
 
-I'm reading every reply personally. Average response time: 90 minutes.
-
-Or join our **WhatsApp community** (42 Bangkok companions already sharing tips): [WhatsApp Link]
-
-See you on the platform,
-
-[Founder Name]  
-Founder, Tirak Dream Journeys
-
-P.S. — "Is Tirak legit?" Yes. Here's our [Company Registration], [Terms of Service], [Privacy Policy], and [Safety Guidelines]. We're not a scam. We're Thai companions fighting back against exploitation.
+**Description**: Gain priority access to curated nightlife experiences, bespoke lifestyle services, and truly private, personalized interactions. Elevate your experiences or offer your premium services first.
 
 ---
 
-### Email Footer
-Tirak Dream Journeys  
-Bangkok, Thailand  
-[Unsubscribe] | [Update Preferences] | [View in Browser]
+**Category**: Cinema, Events, Food & Drink
+
+**Description**: Discover and book tickets for niche film screenings, popular local events, or coveted culinary experiences before they're gone. Connect with fellow enthusiasts or host your own unforgettable gatherings.
 
 ---
 
-## Scheduling & Segmentation Notes
 
-### Email #1: Pre-Launch Announcement
-**Send Date:** T-7 days (Monday, January 22, 2026)  
-**Send Time:** 11:00 AM Bangkok time (after morning work commute, before lunch)  
-**Segment:** All email subscribers who haven't signed up yet  
-**Expected Open Rate:** 35-45% (strong subject line, relevant audience)  
-**Expected Click Rate:** 12-18% (clear CTA, compelling offer)  
-**Expected Conversion Rate:** 8-12% (landing page → sign-up completion)
+**Cta Message**: Remember, your VIP access grants you the first pick of experiences and the opportunity to establish your presence on Tirak ahead of the crowd. Make sure you're ready to log in and explore tomorrow!
 
-### Email #2: Pre-Launch Reminder
-**Send Date:** T-1 day (Friday, January 26, 2026)  
-**Send Time:** 6:00 PM Bangkok time (after work, evening scroll time)  
-**Segment:** Email #1 recipients who clicked but didn't sign up  
-**Expected Open Rate:** 28-35% (reminder fatigue, but urgency helps)  
-**Expected Click Rate:** 15-22% (FOMO + scarcity + social proof)  
-**Expected Conversion Rate:** 10-15% (urgency drives action)
+**Closing**: Get ready to connect, explore, and experience like never before.
 
-### A/B Testing Strategy
-- **Email #1:** Test Subject A vs Subject B (send 50/50 split to first 200 opens, winner gets remaining sends)
-- **Email #2:** Test Subject B vs Subject C (social proof vs direct benefit)
-- **Track:** Open rate, click rate, sign-up rate, time-to-apply
+**Signature**: The Tirak Team
+
+#### Image Slots
+
+- Hero image: A stylized clock or calendar indicating 'T-1 Day', emphasizing urgency and exclusivity.
+- Feature image: A lock icon transforming into an open gateway, symbolizing exclusive access.
+
+#### Button Cta
+
+**Text**: Access Tirak Tomorrow!
+
+**Link**: https://tirak.com/launch-day-access
 
 ---
 
-## Optional: Email #3 (Launch Day - Monday)
+**Email Id**: pre_launch_reminder_t-1_main_list
 
-**Only send if:**
-- Email #1 & #2 recipients still haven't signed up
-- Early access closed (50 spots filled)
-- Public launch is live
+**Send Date Offset**: T-1 day
 
-**Subject Line:**  
-"We're live. 50 Bangkok companions already earning."
+**Segment**: Main List
 
-**Body (Short):**
-> [Name],
-> 
-> Tirak is officially live.
-> 
-> 50 Bangkok companions joined early access. They're approved, they're earning, and they already have reviews.
-> 
-> You can still join (no early access bonus, but same fair 15-20% commission).
-> 
-> Apply now: [Link]
-> 
-> Or keep giving 30-40% to Withlocals/ToursByLocals.
-> 
-> Your choice.
-> 
-> — [Founder]
+**Type**: Reminder (General)
 
----
+#### Subject Lines
 
-## JSON Handoff Data
+- Tirak Launches Tomorrow: Don't Miss Out on Unforgettable Experiences!
+- Your World is About to Expand: Tirak Goes Live Tomorrow!
 
-```json
-{
-  "sequence_meta": {
-    "campaign_name": "Pre-Launch Companion Recruitment",
-    "total_emails": 2,
-    "send_schedule": [
-      {
-        "email_number": 1,
-        "send_date": "T-7 days",
-        "send_time": "11:00 AM Bangkok",
-        "subject_winner": "Subject A (Direct Economics)",
-        "cta_link": "https://tirak.com/apply?ref=prelaunch-email-1"
-      },
-      {
-        "email_number": 2,
-        "send_date": "T-1 day",
-        "send_time": "6:00 PM Bangkok",
-        "subject_winner": "Subject B (Social Proof)",
-        "cta_link": "https://tirak.com/apply?ref=prelaunch-email-2"
-      }
-    ]
-  },
-  "targeting": {
-    "segment": "Email subscribers who haven't signed up",
-    "location": "Bangkok, Thailand",
-    "age_range": "22-35",
-    "interests": ["hospitality", "tourism", "teaching", "entrepreneurship"]
-  },
-  "kpis": {
-    "email_1": {
-      "open_rate_target": "35-45%",
-      "click_rate_target": "12-18%",
-      "conversion_rate_target": "8-12%"
-    },
-    "email_2": {
-      "open_rate_target": "28-35%",
-      "click_rate_target": "15-22%",
-      "conversion_rate_target": "10-15%"
-    }
-  },
-  "early_access_incentives": [
-    "First 5 bookings = 100% earnings (no commission)",
-    "Featured placement on launch day",
-    "Founder meetup invite (coffee + Q&A)",
-    "Early-mover advantage (build reviews first)"
-  ]
-}
-```
+#### Body
+
+**Greeting**: Hello [Name],
+
+**Headline**: Get Ready! Tirak Launches Tomorrow!
+
+**Intro**: The moment you've been waiting for is almost here! Tirak officially launches tomorrow, [LAUNCH_DATE_TIME]. Prepare to unlock a world of incredible connections and experiences designed just for you.
+
+**Value Proposition**: Whether you're a Traveler eager to discover new places with local insights or a Companion ready to share your passions and expertise, Tirak is your gateway to meaningful interactions and unforgettable moments. Say goodbye to solo adventures and hello to a community built on shared interests.
+
+##### Category Benefits
+
+**Category**: Culture & Adventure
+
+**Description**: Embark on guided cultural tours or find partners for thrilling adventures, from city explorations to mountain treks.
 
 ---
 
-**Sequence Status:** READY TO DEPLOY  
-**Next Steps:**
-1. Load email list into ESP (Mailchimp, ConvertKit, or SendGrid)
-2. Set up UTM tracking on all links
-3. Schedule Email #1 for T-7 days (Monday 11am Bangkok)
-4. Schedule Email #2 for T-1 day (Friday 6pm Bangkok)
-5. Monitor performance, adjust Email #2 subject line if Email #1 underperforms
+**Category**: Wellness & Nightlife
 
-**Estimated Results:** 30-50 companion sign-ups from 2-email sequence (assuming 500-person email list)
+**Description**: Discover local wellness activities or dive into vibrant nightlife scenes with informed Companions.
+
+---
+
+**Category**: Lifestyle & Private
+
+**Description**: Connect for shared hobbies, personal development, or even discrete, bespoke experiences.
+
+---
+
+**Category**: Cinema & Events
+
+**Description**: Find companions for film screenings, concerts, festivals, and local events that truly resonate with you.
+
+---
+
+**Category**: Food & Drink
+
+**Description**: Explore culinary delights, join cooking classes, or find a foodie partner for your next gastronomic journey.
+
+---
+
+
+**Cta Message**: Tomorrow, you'll gain full access to Tirak, where connecting with like-minded individuals for any experience is just a click away. Get ready to explore, share, and live life to the fullest.
+
+**Closing**: Your next great adventure awaits.
+
+**Signature**: The Tirak Team
+
+#### Image Slots
+
+- Hero image: Exciting montage of people engaging in various activities, with a 'Launching Tomorrow!' overlay.
+- Feature image: A diverse group of smiling faces, emphasizing community and connection.
+
+#### Button Cta
+
+**Text**: Be Ready for Launch!
+
+**Link**: https://tirak.com/launch-day-access
+
+---
+
+

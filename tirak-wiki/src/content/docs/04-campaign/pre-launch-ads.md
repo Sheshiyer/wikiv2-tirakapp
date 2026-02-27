@@ -1,610 +1,1074 @@
 ---
-title: Pre-Launch Ads
-description: 80% Companion Recruitment (Supply-Side) Campaign Dossier
-category: campaign
-order: 1
-icon: megaphone
-lastUpdated: 2026-01-22
+title: Pre Launch Ads
 ---
 
-# Pre-Launch Ad Campaign Dossier: Tirak Dream Journeys
-**Campaign Focus:** 80% Companion Recruitment (Supply-Side) / 20% Traveler Demand  
-**Platform:** Facebook + Instagram (Thailand targeting)  
-**Campaign Goal:** HIGH CONVERSION (Companion Sign-Ups)  
-**Budget Allocation:** ฿2,350 over 30 days (80% to companion ads, 20% to traveler ads)
+## Campaign Overview
 
----
+**Campaign Name**: Pre-Launch Ad Campaign: TIRAK - Your World, Unlocked.
 
-## Phase 1: Strategic Calibration
+**Objective**: Build a high-quality email list for Indiegogo/Kickstarter launch, generate early interest, and drive initial pledges by showcasing TIRAK's unique value proposition across diverse travel niches for both solo explorers and group travelers.
 
-### Step 1: Goal Analysis
-**Campaign Goal:** HIGH CONVERSION (Companion Recruitment Priority)  
-**Strategic Direction:** Prioritize direct offers, economic benefits, immediate action (same-day approval, earnings potential, fair commission). Secondary: emotional hooks (respect, empowerment, community).
+**Budget Tier**: lean
 
-**Why High Conversion:**
-- Cold start problem requires 100 companions before scaling traveler demand
-- Need immediate sign-ups, not just brand awareness
-- Budget constraint (฿2,350) requires efficient spend
-- 60-day timeline demands fast supply growth
+**Tone**: conversion-focused, empowering, adventurous, community-oriented
 
-### Step 2: Persona Injection
-**Primary Persona:** Nok "The Culture Connector" (27, hotel manager, wants ฿8K-15K/month side income)
+### Target Platforms
 
-**Bleeding Neck Pain Points:**
-1. Exploited by 30-40% commissions (feels like robbery)
-2. Waiting 2-6 months for approval (opportunity cost)
-3. Pressure to invest in ฿5,000 professional photos
-4. No control over schedule/pricing (rigid platforms)
-5. Safety concerns with unvetted travelers
+- Indiegogo
+- Kickstarter
+- Facebook (Feed, Stories, Reels)
+- Instagram (Feed, Stories, Reels)
+- Twitter
+- Pinterest
+- Email Marketing
+- Google Search Ads
+- Display Networks
 
-**Dream State:**
-- Keep 80-85% of earnings (not 60-70%)
-- Start earning TODAY (not next quarter)
-- Work weekends only (or full-time, flexible)
-- Feel respected as cultural ambassador
-- Build sustainable side income that compounds
+### Key Message Pillars
 
-### Step 3: Product Extraction
-**Hero Feature:** 15-20% commission (vs. 30-40% competitors)  
-**Killer Spec:** Same-day approval (apply 9am, go live 5pm)  
-**Secondary Differentiator:** No professional photos required
+- Personalized Travel: Curated experiences for every passion.
+- Seamless Planning: Effortless discovery and booking.
+- Connect & Share: Enhance journeys whether solo or with loved ones.
+- Authentic Experiences: Beyond the tourist traps.
 
-**Economic Logic:** On ฿2,000 booking:
-- Withlocals (30%): Keep ฿1,400
-- ToursByLocals (40%): Keep ฿1,200
-- Tirak (15-20%): Keep ฿1,600-1,700
-- **Difference:** ฿200-500 MORE per booking
+## Ad Assets
 
-### Step 4: Tone Setting
-**Ad Voice:** "Direct + Empowering + Economically Clear"  
-**NOT:** Corporate jargon, fake urgency, desperate pleading  
-**IS:** Peer-to-peer, data-driven, respectful challenger
+**Ad Id**: PA_001
 
-**Example Tone:**
-✅ "Keep ฿85 of every ฿100 you earn. Not ฿60."
-✅ "30% commission? That's not a partnership, that's a tax."
-❌ "AMAZING OPPORTUNITY! JOIN NOW!!! LIMITED SPOTS!!!"
+**Ad Type**: Facebook Feed Ad
+
+**Persona**: Traveler
+
+**Category**: Culture
+
+**Headline**: Unlock Hidden Worlds. Experience Culture Like Never Before.
+
+**Body Copy**: Tired of generic history lessons? TIRAK connects you to local storytellers, exclusive heritage sites, and authentic cultural immersion. Dive deeper, understand more. Be an early adopter – get VIP access and launch discounts. #TIRAK #CulturalTravel #ExploreMore
+
+**Cta**: Discover & Pre-Order Now
+
+**Visual Concept Description**: Close-up of a traveler engaging with a local artisan, a vibrant street festival, or an ancient ruin seen from a unique perspective. Authentic, engaging, and rich in detail.
+
+#### Keywords
+
+- cultural travel
+- authentic experiences
+- local culture
+- heritage tours
+- solo exploration
+
+**Target Audience Segment**: Culture enthusiasts, solo travelers, history buffs, art lovers (28-55)
 
 ---
 
-## Phase 2: Campaign Concept (The "Big Idea")
+**Ad Id**: PA_002
 
-### Step 5: Campaign Name
-**Internal Codename:** "Operation: Fair Pay Bangkok"  
-**Creative Theme:** "The Commission Rebellion"  
-**Emotional Arc:** Frustration → Hope → Empowerment → Action
+**Ad Type**: Instagram Story Ad
 
-### Step 6: The Hook Strategy
-**Why This Angle Stops the Scroll for Nok:**
+**Persona**: Companion
 
-Nok is scrolling Facebook at 11pm after a long shift at the hotel. She's tired, underpaid, and frustrated. She sees yet another "earn money online!" scam ad and her thumb is about to swipe past. But then she sees a number: **"Keep ฿85 of every ฿100"** with Withlocals crossed out showing "฿60."
+**Category**: Culture
 
-This stops her because:
-1. **Specificity beats vagueness:** Not "earn extra income" but exact baht amounts she can mentally calculate
-2. **Competitive context:** Shows she's being exploited RIGHT NOW by platforms she knows
-3. **Math is empowering:** She can immediately calculate: "If I earn ฿2,000, I lose ฿400 to Withlocals but only ฿300 to Tirak. That's my electric bill!"
-4. **Validation:** Someone finally SEES the exploitation and is calling it out
+**Headline**: Share the Story. Unforgettable Cultural Journeys Await!
 
-The hook taps into **existing frustration** (she already feels exploited) and offers **immediate solution** (start today, not 3 months from now). It's not selling a dream—it's fixing a problem she already has.
+**Body Copy**: Planning a trip with friends or family? TIRAK makes discovering shared cultural experiences effortless. From group cooking classes to private museum tours, create lasting memories together. Swipe up for early bird deals!
 
-### Step 7: The Visual Directive
-**Master Creative Style:**
+**Cta**: Plan Your Group Adventure
 
-**Visual A (Comparison Chart):**
-- Split screen: Left side shows ฿2,000 booking
-- Top row: "Withlocals" with ฿600 crossed out in red (30%)
-- Middle row: "ToursByLocals" with ฿800 crossed out in red (40%)
-- Bottom row: "Tirak" with ฿300-400 in green (15-20%)
-- Big bold text: "Keep ฿1,600-1,700 vs. ฿1,200-1,400"
+**Visual Concept Description**: Short, dynamic video montage: friends laughing at a local market, a family participating in a traditional craft workshop, a couple admiring art. Text overlay: 'Culture Together. Memories Forever.'
 
-**Visual B (UGC Style - iPhone Selfie):**
-- Authentic photo of Thai woman (25-30) at Bangkok street food cart or BTS station
-- No professional polish, looks like real Instagram story
-- Text overlay: "I earned ฿3,400 this weekend showing travelers the real Bangkok"
-- Screenshot of payment notification in corner
+#### Keywords
 
-**Visual C (Founder Story):**
-- Simple headshot of founder (or illustration) with quote:
-- "I watched my friend Nok work 8 hours showing tourists around. Withlocals took ฿900 of her ฿3,000 fee. That's rent money. That's when I knew we had to build something better."
+- group cultural travel
+- family travel
+- friends trip
+- shared experiences
+- easy planning
 
-**Do NOT use:**
-- Stock photos of white tourists at temples
-- Fake urgency timers ("Only 3 spots left!")
-- Overpolished corporate aesthetics
-- Generic "join us!" group photos
+**Target Audience Segment**: Families, couples, friend groups interested in cultural travel (35-60)
 
 ---
 
-## Phase 3: The Headline Stack (18 Assets)
+**Ad Id**: PA_003
 
-### Step 8: Discount Offer Headlines (3 Variants)
+**Ad Type**: Google Search Ad Headline
 
-**H1-DISCOUNT-1:**  
-"Keep 80-85% of Your Earnings This Month. Not 60-70%."
+**Persona**: Traveler
 
-**H1-DISCOUNT-2:**  
-"Same-Day Approval + Zero Fees to Join. Start Earning ฿1,500-2,000 Per Experience."
+**Category**: Adventure
 
-**H1-DISCOUNT-3:**  
-"฿0 Upfront Cost. ฿0 Monthly Fees. Just 15-20% Commission (Not 30-40%)."
+**Headline**: Adventure Travel Redefined | TIRAK Early Access
 
-**Logic:** Highlights economic benefit (low commission = more take-home pay). Uses specificity (baht amounts, percentages) to build credibility. "Discount" framing = you're saving ฿400-500 per booking vs. competitors.
+**Body Copy**: Extreme sports, hidden trails, epic journeys. Craft your solo adventure. Pre-order now for exclusive perks.
 
----
+**Cta**: Get Early Bird Deals
 
-### Step 9: Hyperbole Headlines (3 Variants)
+**Visual Concept Description**: N/A (text-based ad)
 
-**H2-HYPERBOLE-1:**  
-"Bangkok's Fairest Travel Companion Platform (15-20% Commission, Not 30-40%)"
+#### Keywords
 
-**H2-HYPERBOLE-2:**  
-"The Only Platform That Lets Thai Locals Keep 80-85% of Their Earnings"
+- adventure travel
+- solo adventure
+- extreme sports travel
+- backpacking app
 
-**H2-HYPERBOLE-3:**  
-"Thailand's Fastest Onboarding: Apply in Morning, Go Live by Afternoon"
-
-**Logic:** Superlatives position Tirak as category leader ("fairest," "only," "fastest"). Backs up hyperbole with data (15-20% vs. 30-40%, same-day approval). Not empty hype—proof included.
+**Target Audience Segment**: Searchers for 'adventure travel apps', 'solo adventure trips', 'unique travel experiences'
 
 ---
 
-### Step 10: Summary of Features Headlines (3 Variants)
+**Ad Id**: PA_004
 
-**H3-FEATURES-1:**  
-"15-20% Commission + Same-Day Approval + No Photo Requirements + Your Schedule"
+**Ad Type**: Twitter Post
 
-**H3-FEATURES-2:**  
-"Keep 80-85% | Instant Availability Toggle | Verified Travelers | ฿1,500-2,500 Per Experience"
+**Persona**: Companion
 
-**H3-FEATURES-3:**  
-"Same-Day Approval • No DSLR Photos • Flexible Hours • 24-48 Hour Payouts"
+**Category**: Adventure
 
-**Logic:** Stacks value immediately. Uses visual separators (+ | •) for scannability. Hits all key differentiators in 10 words or less. High perceived value.
+**Headline**: Epic Group Adventures Made Easy with TIRAK!
 
----
+**Body Copy**: Planning a thrilling getaway with your squad? From rafting to safaris, TIRAK helps you find and book unforgettable group adventures. Tag your adventure buddy! 👇 #TIRAK #GroupTravel #AdventureTime #PreOrder
 
-### Step 11: Emotional Selling Headlines (3 Variants)
+**Cta**: Discover Group Trips
 
-**H4-EMOTIONAL-1:**  
-"Tired of Platforms Taking 30-40%? Keep What You Earn."
+**Visual Concept Description**: Image of a group of friends celebrating at the peak of a hike or mid-action in a water sport. High energy, camaraderie.
 
-**H4-EMOTIONAL-2:**  
-"Stop Waiting 3 Months for Approval. Start Earning Today."
+#### Keywords
 
-**H4-EMOTIONAL-3:**  
-"No More Professional Photoshoots. Show Up as YOU Are."
+- group adventure
+- friends travel
+- adventure planning
+- shared thrills
 
-**Logic:** Taps into "Anti-Goals" from persona data (exploitation, waiting, photo pressure). Agitation → solution format. Emotional resonance drives clicks.
+**Target Audience Segment**: Young adults, friend groups, adventure sports enthusiasts (22-40)
 
 ---
 
-### Step 12: Soundbyte Headlines (3 Variants)
+**Ad Id**: PA_005
 
-**H5-SOUNDBYTE-1:**  
-"Keep ฿85. Not ฿60."
+**Ad Type**: Email Subject Line
 
-**H5-SOUNDBYTE-2:**  
-"Same-Day. No Photos."
+**Persona**: Traveler
 
-**H5-SOUNDBYTE-3:**  
-"Fair Pay. Finally."
+**Category**: Wellness
 
-**Logic:** Under 5 words. Pattern interrupt. Extremely high CTR potential. Uses contrast (฿85 vs ฿60) and specificity. Memorable.
+**Headline**: Your Mindful Escape Awaits: TIRAK Exclusive Access
 
----
+**Body Copy**: N/A
 
-### Step 13: Founder/Brand Story Headlines (3 Variants)
+**Cta**: N/A
 
-**H6-STORY-1:**  
-"My Friend Lost ฿900 to Withlocals. I Built Tirak So You Keep 80-85%."
+**Visual Concept Description**: N/A
 
-**H6-STORY-2:**  
-"Why I Left My Corporate Job to Build a Platform That Respects Thai Companions"
+#### Keywords
 
-**H6-STORY-3:**  
-"The Problem: 30-40% Commissions. The Solution: 15-20%. The Result: Fair Income."
+- wellness travel
+- mindful travel
+- yoga retreat
+- solo retreat
 
-**Logic:** Authority through founder narrative. Builds trust ("someone gets it"). Explains mission (not just profit-driven). Emotional connection.
+**Target Audience Segment**: Subscribers interested in 'wellness travel', 'yoga retreats', 'mindfulness getaways'
 
 ---
 
-## Phase 4: The Body Copy Stack (21 Assets)
+**Ad Id**: PA_006
 
-### Step 14: Bulleted Feature List (3 Variants)
+**Ad Type**: Facebook Carousel Ad (Slide 1)
 
-**B1-FEATURES-1:**
-```
-✅ Keep 80-85% of your earnings (not 60-70%)
-✅ Same-day approval (apply 9am, go live 5pm)
-✅ No professional photos required (iPhone selfies OK)
-✅ Instant availability toggle (work weekends only or full-time)
-✅ Verified travelers only (ID checks, reviews, safety first)
-✅ ฿1,500-2,000 per 4-hour experience average
-✅ 24-48 hour payouts (money in your account fast)
+**Persona**: Companion
 
-Join 100+ Bangkok companions earning ฿8K-15K/month sharing authentic Thai culture.
+**Category**: Wellness
 
-👉 Sign up free: [LINK]
-```
+**Headline**: Recharge Together. Find Your Perfect Wellness Retreat.
 
-**B1-FEATURES-2:**
-```
-🔥 15-20% commission (vs. 30-40% competitors)
-🔥 Your schedule, your rates, your way
-🔥 No ฿5,000 photographer needed
-🔥 Work part-time or full-time (you choose)
-🔥 Platform handles payments, insurance, support
-🔥 Earnings dashboard tracks your income
-🔥 WhatsApp community of 100+ companions
+**Body Copy**: TIRAK curates tranquil wellness experiences for couples and friends. Spa weekends, nature escapes, meditation retreats. Start planning your shared serenity. Pre-order for exclusive launch perks!
 
-Start earning today. No upfront costs. No hidden fees.
+**Cta**: Explore Wellness Journeys
 
-💰 Apply now: [LINK]
-```
+**Visual Concept Description**: Image: Two people doing yoga together on a serene beach at sunrise.
 
-**B1-FEATURES-3:**
-```
-📍 Bangkok's fairest companion platform
-📍 80-85% take-home pay (industry-leading)
-📍 Same-day onboarding (not 2-6 months)
-📍 Authentic photos celebrated (not corporate polish)
-📍 Flexible calendar (instant on/off toggle)
-📍 Verified travelers (safe, reviewed, accountable)
-📍 Community support (monthly meetups, WhatsApp group)
+#### Keywords
 
-No waiting. No photoshoots. No exploitation. Just fair income.
+- couple wellness
+- friends retreat
+- spa getaway
+- shared relaxation
 
-✨ Join Tirak: [LINK]
-```
-
-**Logic:** Feature-Benefit-Emoji format. Scannability. Emojis guide eye. Each bullet = one differentiator. CTA at end.
+**Target Audience Segment**: Couples, friends, families interested in relaxation and wellness (30-60)
 
 ---
 
-### Step 15: Benefit List (3 Variants)
+**Ad Id**: PA_007
 
-**B2-BENEFITS-1:**
-```
-Imagine earning ฿10,000-15,000 extra per month by doing what you already love—showing travelers the real Bangkok.
+**Ad Type**: Instagram Feed Ad
 
-No more giving up ฿600 of every ฿2,000 to platforms that don't respect you.
-No more waiting 3 months for approval while watching income slip away.
-No more pressure to hire expensive photographers.
+**Persona**: Traveler
 
-With Tirak:
-→ You keep 80-85% of every booking
-→ You start earning the day you apply
-→ You work when YOU want (weekends, evenings, weekdays—your call)
-→ You meet fascinating people from around the world
-→ You build a side business that compounds over time
+**Category**: Nightlife
 
-Join 100+ Bangkok companions who said "enough" to exploitation and "yes" to fair pay.
+**Headline**: Own the Night. Discover Unforgettable Nightlife with TIRAK.
 
-Apply free: [LINK]
-```
+**Body Copy**: Beyond the tourist traps: TIRAK unlocks exclusive access to local bars, underground music scenes, and authentic evening entertainment. Your solo night out, elevated. Get early access and be the first to party! #TIRAKNightlife #SoloTravel #ExploreLocal
 
-**B2-BENEFITS-2:**
-```
-What would you do with an extra ฿10,000-15,000 per month?
+**Cta**: Discover Nightlife Deals
 
-• Pay rent on time without stress
-• Save for your own apartment
-• Support your family
-• Build emergency fund
-• Invest in yourself
+**Visual Concept Description**: Stylish shot of a vibrant, authentic local bar with interesting decor, or a street performer in a lively evening square. Focus on energy and authenticity.
 
-Tirak makes it possible. Show travelers authentic Bangkok experiences 4-5 times per month. Earn ฿1,500-2,000 per experience. Keep 80-85% (not 60-70% like competitors).
+#### Keywords
 
-No boss. No rigid schedule. No exploitation. Just you, your city, and fair income.
+- solo nightlife
+- local bars
+- underground music
+- evening entertainment
 
-Start today: [LINK]
-```
-
-**B2-BENEFITS-3:**
-```
-Your time is valuable. Your culture is valuable. Your expertise is valuable.
-
-So why do platforms take 30-40% of your earnings?
-
-Tirak believes Thai companions deserve:
-✓ Fair commissions (15-20%, not 30-40%)
-✓ Fast approval (same-day, not 3-6 months)
-✓ Flexible work (part-time, full-time, weekends only)
-✓ Respect (no photo police, no rigid scripts)
-✓ Safety (verified travelers, support team)
-✓ Community (100+ Bangkok companions supporting each other)
-
-This isn't just side income. It's building something sustainable on your own terms.
-
-Join us: [LINK]
-```
-
-**Logic:** Pure lifestyle outcomes. "So what?" answered. Emotional benefits > features. Aspirational but grounded (specific baht amounts).
+**Target Audience Segment**: Younger travelers, solo explorers, music lovers, socialites (21-40)
 
 ---
 
-### Step 16: Product Description (3 Variants: Short, Medium, Long)
+**Ad Id**: PA_008
 
-**B3-DESCRIPTION-SHORT:**
-```
-Tirak connects travelers with Thai locals for authentic experiences. You set your rates, keep 80-85%, and work on your schedule. Same-day approval. No professional photos needed.
+**Ad Type**: Facebook Video Ad (15s Concept)
 
-Apply free: [LINK]
-```
+**Persona**: Companion
 
-**B3-DESCRIPTION-MEDIUM:**
-```
-Tirak is Bangkok's fairest travel companion platform. Unlike Withlocals (30% commission) or ToursByLocals (40% commission), we let you keep 80-85% of your earnings.
+**Category**: Nightlife
 
-How it works:
-1. Apply in 10 minutes (ID, bio, 3-5 photos)
-2. Get approved same day (not 2-6 months)
-3. Set your rates and availability
-4. Accept bookings from verified travelers
-5. Earn ฿1,500-2,000 per 4-hour experience
-6. Get paid in 24-48 hours
+**Headline**: Your Best Night Out, Planned. TIRAK Does the Work!
 
-No upfront costs. No monthly fees. No professional photos. Just fair income for sharing authentic Bangkok.
+**Body Copy**: Gather your crew! TIRAK helps you find the hottest clubs, coolest lounges, and unforgettable evening events for your group. No more endless searching. Pre-order and make your next night legendary!
 
-Join 100+ companions: [LINK]
-```
+**Cta**: Plan Your Party Night
 
-**B3-DESCRIPTION-LONG:**
-```
-Tired of platforms taking 30-40% of your hard-earned money? Meet Tirak.
+**Visual Concept Description**: Fast-paced montage: friends laughing, dancing, enjoying cocktails in different vibrant nightlife settings. Text overlay: 'Night Out. Sorted.'
 
-We're Bangkok's first companion-first platform built by someone who watched their friend lose ฿900 to Withlocals on a single ฿3,000 booking. That's rent money. That's when we knew something had to change.
+#### Keywords
 
-What makes Tirak different:
+- group nightlife
+- party planning
+- friends night out
+- best clubs
 
-💰 15-20% Commission (Not 30-40%)
-On a ฿2,000 booking:
-• Withlocals: Keep ฿1,400 (lose ฿600)
-• ToursByLocals: Keep ฿1,200 (lose ฿800)
-• Tirak: Keep ฿1,600-1,700 (lose ฿300-400)
-= ฿200-500 MORE per booking in YOUR pocket
-
-⚡ Same-Day Approval (Not 2-6 Months)
-Apply at 9am, go live by 5pm. No reference letters. No video auditions. No waiting. Start earning TODAY.
-
-📸 No Photo Police (Your Authentic Self)
-Airbnb rejects hosts for "non-professional" photos. We celebrate authenticity. iPhone selfies at street food stalls? Perfect. That's REAL Bangkok.
-
-🗓️ Your Schedule, Your Rates
-Work weekends only? Full-time? Random Tuesdays? Instant availability toggle. Charge ฿2,000 on Saturday, ฿1,200 on Tuesday. You control everything.
-
-🛡️ Safety First
-Every traveler is ID-verified, reviewed, and accountable. In-app messaging (no personal phone sharing). Report button. Emergency contact. Your safety is non-negotiable.
-
-👥 Community Support
-Join 100+ Bangkok companions in our WhatsApp group. Share tips. Get advice. Monthly meetups. You're not alone.
-
-This isn't just side income. It's building a sustainable business where YOU'RE respected, paid fairly, and in control.
-
-Ready to join the commission rebellion?
-
-Apply free: [LINK]
-```
-
-**Logic:** Three lengths for different ad placements. Short = Instagram story. Medium = Facebook feed. Long = blog post or detailed targeting.
+**Target Audience Segment**: Friend groups, party-goers, social planners (25-45)
 
 ---
 
-### Step 17: Problem Introduction (3 Variants - Agitation → Solution)
+**Ad Id**: PA_009
 
-**B4-PROBLEM-1:**
-```
-You spend 8 hours showing a traveler the real Bangkok.
+**Ad Type**: Google Search Ad Description
 
-You plan the route. You navigate the traffic. You share your culture. You answer questions. You make them feel welcome.
+**Persona**: Traveler
 
-They pay ฿3,000.
+**Category**: Lifestyle
 
-Withlocals takes ฿900.
+**Headline**: Curate Your Journey. TIRAK Early Bird Offers.
 
-That's ฿900 you could've used for rent. Or groceries. Or saving for your future.
+**Body Copy**: From boutique shopping to unique urban experiences, design your ideal travel lifestyle. Pre-order TIRAK today.
 
-You did 100% of the work. They took 30% of your money.
+**Cta**: Get Exclusive Access
 
-That's not a partnership. That's exploitation.
+**Visual Concept Description**: N/A
 
-Tirak takes 15-20%. You keep ฿2,400-2,550.
+#### Keywords
 
-That's ฿300-600 MORE in YOUR pocket. Every single booking.
+- lifestyle travel
+- boutique shopping
+- urban exploration
+- luxury solo travel
 
-Join 100+ Bangkok companions who said "no more" to unfair commissions.
-
-Apply free: [LINK]
-```
-
-**B4-PROBLEM-2:**
-```
-March: You apply to Airbnb Experiences, excited to start earning.
-April: Still waiting for approval.
-May: They ask you to resubmit photos (not "professional enough").
-June: They want a video introduction.
-July: Still "under review."
-August: You give up.
-
-5 months wasted. Zero income. Peak tourist season gone.
-
-Meanwhile, you could've been earning ฿8,000-15,000/month on Tirak.
-
-We approve you SAME DAY. Apply at 9am, go live by 5pm. No photo police. No video auditions. No bureaucracy.
-
-Stop waiting. Start earning.
-
-Apply now: [LINK]
-```
-
-**B4-PROBLEM-3:**
-```
-They tell you to hire a professional photographer.
-฿5,000 for a DSLR photoshoot.
-฿5,000 to APPLY to a platform.
-
-But travelers don't want studio photos. They want to see the REAL you at real Bangkok spots.
-
-Your iPhone selfie at a street food cart? That's authentic.
-Your photo with friends at Chatuchak Market? That's genuine.
-Your picture at your favorite coffee shop? That's you.
-
-Airbnb wants polish. Tirak wants authenticity.
-
-No ฿5,000 photographer required. Just upload 3-5 real photos and go live same day.
-
-Join us: [LINK]
-```
-
-**Logic:** Pain-agitation-solution. Starts with emotional pain, amplifies it, then presents Tirak as relief. Specific scenarios (not abstract).
+**Target Audience Segment**: Searchers for 'boutique travel apps', 'luxury urban experiences', 'personalized travel lifestyle'
 
 ---
 
-### Step 18: Testimonial Review (3 Simulated User Reviews)
+**Ad Id**: PA_010
 
-**B5-TESTIMONIAL-1:**
-```
-"I've earned ฿47,000 in my first 4 months on Tirak. 🔥
+**Ad Type**: Twitter Post
 
-I was hesitant at first (another platform promising 'fair pay'?). But the 15% commission is real. On a ฿2,000 booking, I keep ฿1,700. Withlocals would've taken ฿600.
+**Persona**: Companion
 
-The travelers are verified and respectful. No creepy DMs. No no-shows. Platform actually has my back.
+**Category**: Lifestyle
 
-Best decision I made this year. If you're tired of being exploited, join Tirak."
+**Headline**: Live Your Best Life, Together! TIRAK for Lifestyle Travel.
 
-— Nok, 27, Bangkok (4.9⭐, 87 experiences hosted)
-```
+**Body Copy**: Elevate your next group getaway. TIRAK helps you discover chic cafes, trendy boutiques, and unique local experiences for you and your travel companions. Sign up for launch alerts! #TIRAK #LifestyleTravel #FriendsWhoTravel
 
-**B5-TESTIMONIAL-2:**
-```
-"Same-day approval changed everything.
+**Cta**: Explore Lifestyle Trips
 
-I applied on Monday morning (uploaded 3 iPhone photos, wrote my bio). Approved by 3pm. First booking Tuesday evening.
+**Visual Concept Description**: Image of friends enjoying brunch at a stylish cafe, or shopping in a charming local market. Captures a relaxed, aspirational lifestyle.
 
-No 3-month wait. No professional photographer. No video audition.
+#### Keywords
 
-I've hosted 23 experiences in 6 weeks. Earning ฿9,000/month while keeping my day job. Weekends only.
+- group lifestyle travel
+- trendy travel
+- chic getaways
+- friends travel style
 
-This is what fair platforms look like."
-
-— Pim, 29, Bangkok (4.8⭐, 23 experiences)
-```
-
-**B5-TESTIMONIAL-3:**
-```
-"I was scared to meet travelers from the internet. But Tirak verifies everyone.
-
-Every traveler has ID, reviews, and profile. I message them before accepting to confirm vibe. If someone's sketchy, I decline (no penalty).
-
-I've hosted 15 experiences. Zero safety issues. Platform responds to support messages in 30 minutes.
-
-Finally, a platform that actually cares about host safety."
-
-— Som, 24, Bangkok (5.0⭐, 15 experiences)
-```
-
-**Logic:** Matches Voice Persona (casual, data-driven, specific). Addresses objections (safety, approval time, earnings). Includes social proof (star rating, experience count). Feels real (not corporate).
+**Target Audience Segment**: Social media users interested in fashion, food, and travel with friends (25-50)
 
 ---
 
-### Step 19: Audience Callout (3 Variants)
+**Ad Id**: PA_011
 
-**B6-CALLOUT-1:**
-```
-Attention Bangkok Hotel Staff, Bartenders, Teachers, and Tour Guides:
+**Ad Type**: Email Subject Line
 
-You already know the best spots in Bangkok.
-You already speak English fluently.
-You already love meeting people from different cultures.
+**Persona**: Traveler
 
-Why not get paid FAIRLY for it?
+**Category**: Private
 
-Tirak lets you keep 80-85% of your earnings (not 60-70%).
+**Headline**: Exclusive Journeys: Your Private World, Unveiled by TIRAK
 
-Turn your local knowledge into ฿8,000-15,000/month side income.
+**Body Copy**: N/A
 
-Apply free: [LINK]
-```
+**Cta**: N/A
 
-**B6-CALLOUT-2:**
-```
-For Thai Millennials (22-35) in Bangkok, Chiang Mai, Phuket:
+**Visual Concept Description**: N/A
 
-If you're:
-✓ Working a day job but need extra income
-✓ Tired of platforms taking 30-40% commissions
-✓ Social, outgoing, love sharing Thai culture
-✓ Speak conversational/fluent English
-✓ Want flexible side income (work weekends, evenings, or full-time)
+#### Keywords
 
-Tirak is for you.
+- private tours
+- luxury travel
+- bespoke travel
+- exclusive experiences
 
-Join 100+ Thai companions earning fair income: [LINK]
-```
-
-**B6-CALLOUT-3:**
-```
-Are you a Thai local who:
-→ Gets frustrated when tourists only see Khao San Road?
-→ Wants to show travelers the REAL Bangkok?
-→ Wishes you could earn money doing it WITHOUT giving up 30-40% to platforms?
-
-You're exactly who Tirak was built for.
-
-15-20% commission. Same-day approval. Your schedule. Fair pay.
-
-Apply now: [LINK]
-```
-
-**Logic:** Explicit persona flagging. Increases ad relevance score (lower CPC). Makes reader feel "this is for ME." Qualification criteria included.
+**Target Audience Segment**: High-net-worth individuals, luxury travel enthusiasts, those seeking privacy
 
 ---
 
-### Step 20: The Magic Formula (3 Variants - Math Equation)
+**Ad Id**: PA_012
 
-**B7-FORMULA-1:**
-```
-Problem: 30-40% commissions exploit Thai companions
-+ Tirak: 15-20% commission (keep 80-85%)
-= ฿400-600 MORE per ฿2,000 booking
+**Ad Type**: Facebook Feed Ad
 
-Math: ฿400 extra × 5 bookings/month = ฿2,000 more in YOUR pocket
+**Persona**: Companion
 
-That's your electric bill. Your groceries. Your savings.
+**Category**: Private
 
-Join the fair pay movement: [LINK]
-```
+**Headline**: Unforgettable, Private Group Escapes. Just for You.
 
-**B7-FORMULA-2:**
-```
-Problem: Waiting 3-6 months for approval = lost income
-+ Tirak: Same-day approval (start earning TODAY)
-= ฿0 opportunity cost
+**Body Copy**: Dreaming of a private villa, a bespoke yacht charter, or an exclusive guided tour for your closest circle? TIRAK specializes in crafting discreet, luxurious group experiences. Elevate your next journey. Pre-order for priority access!
 
-If Airbnb takes 4 months to approve you, and you could've earned ฿2,000/week...
+**Cta**: Request Private Itinerary
 
-You just lost ฿32,000.
+**Visual Concept Description**: Elegant image of a group enjoying a private dining experience in a stunning location, or relaxing by a private infinity pool overlooking a scenic view. Focus on exclusivity and comfort.
 
-Stop waiting. Start earning: [LINK]
-```
+#### Keywords
 
-**B7-FORMULA-3:**
-```
-Problem: Professional photos cost ฿5,000 + 2-6 month approval
-+ Tirak: iPhone selfies OK + same-day approval
-= ฿5,000 saved + instant income
+- private group travel
+- luxury group trips
+- bespoke experiences
+- exclusive retreats
 
-That's ฿5,000 you can invest in yourself instead of a photographer.
-
-Apply with authentic photos: [LINK]
-```
-
-**Logic:** Math makes it tangible. Specific baht amounts readers can calculate. "Formula" format is memorable and shareable.
+**Target Audience Segment**: Affluent travelers, corporate groups, families seeking high-end private experiences (40-65)
 
 ---
 
-## Phase 5: The "Scroll-Stopper" Analysis
+**Ad Id**: PA_013
 
-### Step 21: The Persona Test ✅
-**Question:** Would Nok actually read this?
+**Ad Type**: Instagram Story Ad
 
-**Answer:** YES. Testing against Voice Persona:
+**Persona**: Traveler
+
+**Category**: Cinema
+
+**Headline**: Lights, Camera, Travel! Explore Film Locations with TIRAK.
+
+**Body Copy**: Ever wanted to walk onto your favorite movie set? TIRAK guides you to iconic film locations and unique cinematic experiences worldwide. Your solo cinematic adventure starts here. Swipe up for early access!
+
+**Cta**: Find Your Movie Scene
+
+**Visual Concept Description**: Short, engaging video of famous movie locations with a person walking through them, or a clip from a film seamlessly transitioning to the real-life location. Text overlay: 'Be the Star of Your Own Journey.'
+
+#### Keywords
+
+- cinema travel
+- film locations
+- movie tourism
+- solo film tours
+
+**Target Audience Segment**: Film buffs, pop culture enthusiasts, solo travelers (25-50)
+
+---
+
+**Ad Id**: PA_014
+
+**Ad Type**: Twitter Post
+
+**Persona**: Companion
+
+**Category**: Cinema
+
+**Headline**: Movie Magic & Memories: Group Cinema Tours by TIRAK!
+
+**Body Copy**: Gather your film-loving friends! TIRAK helps you plan epic trips to film festivals, studio tours, and iconic movie sets. Share the magic. Sign up for pre-order alerts! #TIRAK #CinemaTravel #FilmBuffs #GroupAdventures
+
+**Cta**: Explore Cinema Trips
+
+**Visual Concept Description**: Image of friends posing in front of a famous movie studio sign or at a film festival. Fun, engaging, and shareable.
+
+#### Keywords
+
+- group cinema travel
+- film festivals
+- studio tours
+- movie fan trips
+
+**Target Audience Segment**: Friend groups, film societies, pop culture enthusiasts (25-55)
+
+---
+
+**Ad Id**: PA_015
+
+**Ad Type**: Google Search Ad Headline
+
+**Persona**: Traveler
+
+**Category**: Events
+
+**Headline**: Attend Global Events Solo | TIRAK Pre-Launch
+
+**Body Copy**: Concerts, sports, festivals. Discover and book unique events worldwide. Get early access & discounts.
+
+**Cta**: Join Early Access
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- solo event travel
+- global festivals
+- sports tourism
+- concert travel
+
+**Target Audience Segment**: Searchers for 'solo travel to festivals', 'international concert tickets', 'event planning apps'
+
+---
+
+**Ad Id**: PA_016
+
+**Ad Type**: Facebook Feed Ad
+
+**Persona**: Companion
+
+**Category**: Events
+
+**Headline**: Your Dream Event, Together. TIRAK Makes it Happen!
+
+**Body Copy**: Planning a trip around a major concert, sporting event, or festival with your crew? TIRAK simplifies finding tickets, accommodations, and local experiences. Don't miss out! Pre-order now for exclusive group deals!
+
+**Cta**: Find Group Event Deals
+
+**Visual Concept Description**: Image of a group of friends cheering at a stadium, dancing at a music festival, or enjoying a live performance. High energy, shared excitement.
+
+#### Keywords
+
+- group event travel
+- concert trips
+- sports tours
+- festival travel
+
+**Target Audience Segment**: Friend groups, sports fans, music lovers, festival-goers (22-50)
+
+---
+
+**Ad Id**: PA_017
+
+**Ad Type**: Instagram Feed Ad
+
+**Persona**: Traveler
+
+**Category**: Food & Drink
+
+**Headline**: Savor the World, One Bite at a Time. Your Solo Culinary Journey.
+
+**Body Copy**: From street food adventures to Michelin-star dining, TIRAK unlocks authentic food & drink experiences tailored for the solo explorer. Taste, discover, indulge. Get early access to exclusive culinary tours! #TIRAKFoodie #SoloTravel #EatLocal
+
+**Cta**: Explore Culinary Tours
+
+**Visual Concept Description**: Beautiful, close-up shot of an exotic dish or a vibrant street food stall, with a sense of a lone traveler enjoying the moment. Emphasize discovery and sensory experience.
+
+#### Keywords
+
+- solo food travel
+- culinary tours
+- street food
+- fine dining solo
+
+**Target Audience Segment**: Foodies, solo travelers, culinary adventurers (28-55)
+
+---
+
+**Ad Id**: PA_018
+
+**Ad Type**: Email Subject Line
+
+**Persona**: Companion
+
+**Category**: Food & Drink
+
+**Headline**: Taste the World, Together: TIRAK's Group Culinary Adventures!
+
+**Body Copy**: N/A
+
+**Cta**: N/A
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- group food tours
+- culinary getaways
+- wine tasting trips
+- friends food travel
+
+**Target Audience Segment**: Subscribers interested in 'group culinary travel', 'foodie trips with friends', 'wine tours'
+
+---
+
+**Ad Id**: PA_019
+
+**Ad Type**: Facebook Feed Ad (Retargeting)
+
+**Persona**: Traveler
+
+**Category**: Adventure
+
+**Headline**: Still Dreaming of Adventure? Your Solo Quest Starts Here.
+
+**Body Copy**: You checked out TIRAK's epic adventures. Don't let your wanderlust fade! Sign up for early bird access and turn dreams into reality. Exclusive discounts waiting!
+
+**Cta**: Claim Your Discount
+
+**Visual Concept Description**: Inspiring shot of a vast, untouched landscape (e.g., desert, mountain range, open ocean). Evokes a sense of longing and opportunity.
+
+#### Keywords
+
+- adventure travel deals
+- solo travel planning
+- last minute adventure
+
+**Target Audience Segment**: Website visitors who viewed 'Adventure' content, cart abandoners
+
+---
+
+**Ad Id**: PA_020
+
+**Ad Type**: Instagram Story Ad (Retargeting)
+
+**Persona**: Companion
+
+**Category**: Lifestyle
+
+**Headline**: Those Group Getaways You Pictured? TIRAK Can Make Them Real!
+
+**Body Copy**: You browsed TIRAK's lifestyle trips for friends. Ready to plan your chic escape? Tap to get priority access and special group rates!
+
+**Cta**: Plan Your Chic Escape
+
+**Visual Concept Description**: Short, aspirational video: a montage of friends enjoying stylish cafes, shopping, and scenic views, with a 'Swipe Up' prompt. Text overlay: 'Your Best Trip. Just a Tap Away.'
+
+#### Keywords
+
+- group lifestyle trips
+- friends getaway deals
+- boutique travel for groups
+
+**Target Audience Segment**: Website visitors who viewed 'Lifestyle' content for companions
+
+---
+
+**Ad Id**: PA_021
+
+**Ad Type**: Google Search Ad Description
+
+**Persona**: Traveler
+
+**Category**: Culture
+
+**Headline**: Authentic Cultural Immersions | TIRAK Pre-Order
+
+**Body Copy**: Connect with local traditions & history. Tailored experiences for solo explorers. Get early access.
+
+**Cta**: Learn More
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- cultural travel solo
+- authentic heritage tours
+- local experiences app
+
+**Target Audience Segment**: Searchers for 'cultural immersion solo', 'local culture tours'
+
+---
+
+**Ad Id**: PA_022
+
+**Ad Type**: Email Body Snippet
+
+**Persona**: Companion
+
+**Category**: Events
+
+**Headline**: Don't Miss Out: Your Group's Next Big Event is Calling!
+
+**Body Copy**: Imagine stress-free planning for that concert, festival, or sports match you've always wanted to attend with your friends. TIRAK handles the details, so you can focus on making memories. Our pre-launch offers include exclusive group perks!
+
+**Cta**: See Group Event Deals
+
+**Visual Concept Description**: N/A (email content)
+
+#### Keywords
+
+- group event planning
+- festival travel deals
+- concert group tickets
+
+**Target Audience Segment**: Email subscribers interested in group travel and events
+
+---
+
+**Ad Id**: PA_023
+
+**Ad Type**: Pinterest Idea Pin (Image + Text)
+
+**Persona**: Traveler
+
+**Category**: Wellness
+
+**Headline**: Find Your Zen: Solo Wellness Retreats with TIRAK
+
+**Body Copy**: Pin this for your next mindful escape! TIRAK helps you discover serene yoga retreats, nature getaways, and rejuvenating solo wellness experiences. Tap to learn more about early bird offers.
+
+**Cta**: Explore Wellness
+
+**Visual Concept Description**: Calm, aesthetically pleasing image of a person meditating by a waterfall or practicing yoga on a quiet beach. Overlay text: 'TIRAK: Your Solo Wellness Journey.'
+
+#### Keywords
+
+- solo wellness
+- yoga retreats
+- mindful travel
+- nature escapes
+- self-care travel
+
+**Target Audience Segment**: Pinterest users searching for 'wellness travel ideas', 'solo retreats', 'mindfulness getaways'
+
+---
+
+**Ad Id**: PA_024
+
+**Ad Type**: Facebook Video Ad (15s Concept)
+
+**Persona**: Companion
+
+**Category**: Food & Drink
+
+**Headline**: Foodie Friends, Unite! TIRAK's Global Culinary Tours.
+
+**Body Copy**: Stop scrolling, start savoring! TIRAK connects you to group cooking classes, wine tastings, and unforgettable foodie adventures. Pre-order for exclusive access to delicious deals!
+
+**Cta**: Taste More, Together
+
+**Visual Concept Description**: Dynamic montage of friends laughing while cooking, clinking glasses, and enjoying diverse cuisines. Text overlay: 'Share Plates. Share Memories.'
+
+#### Keywords
+
+- group culinary tours
+- foodie friends
+- wine tasting trips
+- cooking classes travel
+
+**Target Audience Segment**: Friend groups, food enthusiasts, social travelers (25-55)
+
+---
+
+**Ad Id**: PA_025
+
+**Ad Type**: Instagram Feed Ad
+
+**Persona**: Traveler
+
+**Category**: Private
+
+**Headline**: Your World, Your Rules. Private Solo Experiences by TIRAK.
+
+**Body Copy**: Seek ultimate privacy and bespoke luxury? TIRAK offers exclusive, personalized tours and accommodations designed for the discerning solo traveler. Elevate your journey. Early access to VIP services now available! #TIRAKPrivate #SoloLuxury #BespokeTravel
+
+**Cta**: Explore Private Tours
+
+**Visual Concept Description**: Sophisticated image of a lone traveler enjoying a private balcony view, or a secluded, luxurious setting. Emphasize peace and exclusivity.
+
+#### Keywords
+
+- solo luxury travel
+- private tours solo
+- bespoke travel app
+- exclusive solo experiences
+
+**Target Audience Segment**: Affluent solo travelers, those seeking privacy and exclusivity (35-65)
+
+---
+
+**Ad Id**: PA_026
+
+**Ad Type**: Email Subject Line
+
+**Persona**: Companion
+
+**Category**: Private
+
+**Headline**: Exclusive Group Escapes: Your Private Journey Starts Here.
+
+**Body Copy**: N/A
+
+**Cta**: N/A
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- luxury group travel
+- private villa rentals
+- bespoke group tours
+
+**Target Audience Segment**: Subscribers interested in 'luxury group travel', 'private family vacations'
+
+---
+
+**Ad Id**: PA_027
+
+**Ad Type**: Twitter Post
+
+**Persona**: Traveler
+
+**Category**: Cinema
+
+**Headline**: Lights, Camera, Adventure! 🎬 Discover Film Locations with TIRAK.
+
+**Body Copy**: Walk where your heroes walked. TIRAK helps solo travelers find iconic movie sets & cinematic experiences. Pre-order for early access to film tours! #TIRAK #CinemaTravel #SoloMovies
+
+**Cta**: Explore Film Tours
+
+**Visual Concept Description**: Image of a famous movie location with a subtle overlay of a film reel or clapperboard icon.
+
+#### Keywords
+
+- solo film travel
+- movie location tours
+- cinema tourism app
+
+**Target Audience Segment**: Film enthusiasts, solo travelers interested in unique themes (25-50)
+
+---
+
+**Ad Id**: PA_028
+
+**Ad Type**: Google Search Ad Headline
+
+**Persona**: Companion
+
+**Category**: Nightlife
+
+**Headline**: Group Nightlife Made Easy | TIRAK Pre-Launch Deals
+
+**Body Copy**: Find the best bars & clubs for your crew. Unforgettable nights, simplified planning. Pre-order now.
+
+**Cta**: Get Early Access
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- group nightlife apps
+- best bars for groups
+- party planning travel
+
+**Target Audience Segment**: Searchers for 'group nightlife planning', 'best places for friends to party'
+
+---
+
+**Ad Id**: PA_029
+
+**Ad Type**: Facebook Feed Ad
+
+**Persona**: Traveler
+
+**Category**: Lifestyle
+
+**Headline**: Your Lifestyle, Your Journey. Curated Solo Travel with TIRAK.
+
+**Body Copy**: Indulge in boutique shopping, discover hidden cafes, or immerse yourself in local fashion. TIRAK tailors urban lifestyle experiences for the discerning solo traveler. Get early bird access to elevate your next trip! #TIRAKLifestyle #SoloLuxury #UrbanExplorer
+
+**Cta**: Design Your Lifestyle Trip
+
+**Visual Concept Description**: Stylish image of a person enjoying a unique cafe, browsing a local market, or walking through a chic city street. Focus on personal style and discovery.
+
+#### Keywords
+
+- solo lifestyle travel
+- boutique travel solo
+- urban exploration app
+
+**Target Audience Segment**: Fashion-conscious solo travelers, urban explorers, trendsetters (25-50)
+
+---
+
+**Ad Id**: PA_030
+
+**Ad Type**: Instagram Story Ad
+
+**Persona**: Companion
+
+**Category**: Events
+
+**Headline**: Squad Goals: Your Next Big Event, Perfected by TIRAK!
+
+**Body Copy**: Planning a legendary group trip to a concert, festival, or game? TIRAK makes finding and booking everything effortless. Don't just go, experience it together! Swipe up for exclusive group pre-order deals!
+
+**Cta**: Explore Group Events
+
+**Visual Concept Description**: Upbeat video of friends at a concert, high-fiving at a sports game, or dancing at a festival. Text overlay: 'Events for the Crew. Easy.'
+
+#### Keywords
+
+- group events travel
+- festival trips friends
+- sports travel groups
+
+**Target Audience Segment**: Younger friend groups, social event-goers (20-40)
+
+---
+
+**Ad Id**: PA_031
+
+**Ad Type**: Email Body Snippet
+
+**Persona**: Traveler
+
+**Category**: Wellness
+
+**Headline**: Reclaim Your Peace: Discover Your Perfect Solo Retreat.
+
+**Body Copy**: Imagine a serene escape, tailored just for you. TIRAK connects you to exclusive wellness retreats, meditation centers, and nature experiences where you can truly disconnect and recharge. Our pre-launch offers include special access to tranquil destinations.
+
+**Cta**: Find Your Zen Journey
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- solo mindfulness retreats
+- peaceful travel
+- digital detox trips
+
+**Target Audience Segment**: Email subscribers focused on mental health, self-care, solo travel
+
+---
+
+**Ad Id**: PA_032
+
+**Ad Type**: Pinterest Idea Pin (Image + Text)
+
+**Persona**: Companion
+
+**Category**: Culture
+
+**Headline**: Family & Friends: Explore Culture Together with TIRAK!
+
+**Body Copy**: Pin this for your next group cultural adventure! TIRAK helps you plan engaging trips to museums, historical sites, and local festivals. Tap for early bird group deals!
+
+**Cta**: Plan Cultural Trip
+
+**Visual Concept Description**: Heartwarming image of a family or group of friends exploring an ancient city, or participating in a cultural workshop. Overlay text: 'TIRAK: Culture Shared, Memories Made.'
+
+#### Keywords
+
+- family cultural travel
+- friends heritage tours
+- group learning trips
+
+**Target Audience Segment**: Pinterest users planning family or group vacations, cultural trips
+
+---
+
+**Ad Id**: PA_033
+
+**Ad Type**: Google Search Ad Description
+
+**Persona**: Traveler
+
+**Category**: Nightlife
+
+**Headline**: Authentic Nightlife for Solo Explorers | TIRAK Pre-Order
+
+**Body Copy**: Discover hidden gems & local hotspots. Your perfect night out, simplified. Get early access now.
+
+**Cta**: Explore Nightlife
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- solo nightlife tours
+- local bar finder
+- authentic evening experiences
+
+**Target Audience Segment**: Searchers for 'solo nightlife abroad', 'best local bars app'
+
+---
+
+**Ad Id**: PA_034
+
+**Ad Type**: Facebook Carousel Ad (Slide 2)
+
+**Persona**: Companion
+
+**Category**: Adventure
+
+**Headline**: Challenge Together. Conquer with TIRAK!
+
+**Body Copy**: From mountain treks to ocean dives, TIRAK helps you find and book thrilling group adventures. Build bonds, make memories. Swipe to see more!
+
+**Cta**: See Group Adventures
+
+**Visual Concept Description**: Image: A group of friends celebrating after reaching a challenging summit, or high-fiving after a successful rafting trip. Focus on achievement and camaraderie.
+
+#### Keywords
+
+- group outdoor activities
+- team adventure travel
+- friends challenge trips
+
+**Target Audience Segment**: Friend groups, adventure clubs, corporate team-building organizers (25-50)
+
+---
+
+**Ad Id**: PA_035
+
+**Ad Type**: Instagram Feed Ad
+
+**Persona**: Traveler
+
+**Category**: Events
+
+**Headline**: Your Ticket to the World's Best Events. Go Solo with TIRAK.
+
+**Body Copy**: Global concerts, exclusive exhibitions, thrilling sports. TIRAK connects you to unique events and helps you plan your solo attendance seamlessly. Don't miss out – pre-order for priority access! #TIRAKEvents #SoloTravel #GlobalEvents
+
+**Cta**: Find Solo Events
+
+**Visual Concept Description**: Dynamic shot of a single person enjoying a major event (e.g., concert, art exhibition) with a sense of immersion and joy, not loneliness.
+
+#### Keywords
+
+- solo concert travel
+- international event tickets
+- solo festival trips
+
+**Target Audience Segment**: Solo travelers, event enthusiasts, those seeking unique experiences (25-55)
+
+---
+
+**Ad Id**: PA_036
+
+**Ad Type**: Twitter Post
+
+**Persona**: Companion
+
+**Category**: Cinema
+
+**Headline**: Reel Fun for Your Crew! 🍿 TIRAK's Group Cinema Experiences.
+
+**Body Copy**: Planning a trip to a film fest or movie premiere with friends? TIRAK makes it easy. Share the magic of cinema! Get pre-order alerts! #TIRAK #GroupCinema #FilmFans
+
+**Cta**: Discover Cinema Trips
+
+**Visual Concept Description**: Image of friends enjoying popcorn and laughing at a movie-themed event or cinema. Fun, social, and lighthearted.
+
+#### Keywords
+
+- group movie trips
+- film festival group
+- cinema enthusiasts friends
+
+**Target Audience Segment**: Friend groups, cinema clubs, social media users interested in film (25-50)
+
+---
+
+**Ad Id**: PA_037
+
+**Ad Type**: Email Subject Line
+
+**Persona**: Traveler
+
+**Category**: Food & Drink
+
+**Headline**: Taste Adventure: Your Solo Culinary Journey with TIRAK
+
+**Body Copy**: N/A
+
+**Cta**: N/A
+
+**Visual Concept Description**: N/A
+
+#### Keywords
+
+- solo food tours
+- culinary exploration
+- authentic local cuisine
+
+**Target Audience Segment**: Subscribers interested in 'solo foodie travel', 'unique eating experiences'
+
+---
+
+**Ad Id**: PA_038
+
+**Ad Type**: Facebook Feed Ad (General Awareness)
+
+**Persona**: Traveler
+
+**Category**: All Categories (General)
+
+**Headline**: Travel Your Way. TIRAK: Unlocking the World for Solo Explorers.
+
+**Body Copy**: Adventure, Culture, Wellness, Nightlife, Food & Drink – whatever your passion, TIRAK helps you discover and book personalized experiences. Your journey, simplified. Pre-order for exclusive early bird access!
+
+**Cta**: Get Early Access Now
+
+**Visual Concept Description**: Dynamic collage of diverse solo travel experiences: hiking, exploring a market, meditating, enjoying a meal. Represents variety and personal choice.
+
+#### Keywords
+
+- solo travel app
+- personalized travel
+- travel planner solo
+
+**Target Audience Segment**: General solo travel audience, broad interests (25-55)
+
+---
+
+**Ad Id**: PA_039
+
+**Ad Type**: Instagram Feed Ad (General Awareness)
+
+**Persona**: Companion
+
+**Category**: All Categories (General)
+
+**Headline**: Shared Adventures. Effortless Planning. TIRAK for Group Travel.
+
+**Body Copy**: Culture trips, thrilling adventures, wellness retreats, or epic foodie tours – TIRAK makes planning unforgettable group experiences a breeze. Tag your travel squad! Pre-order for special group discounts! #TIRAK #GroupTravel #TravelTogether
+
+**Cta**: Plan Your Group Trip
+
+**Visual Concept Description**: Vibrant image of a diverse group of friends/family enjoying a variety of activities together (e.g., laughing at dinner, exploring a city, hiking). Emphasize connection and shared joy.
+
+#### Keywords
+
+- group travel app
+- travel planner friends
+- family vacation deals
+
+**Target Audience Segment**: General group travel audience, broad interests (30-60)
+
+---
+
+
