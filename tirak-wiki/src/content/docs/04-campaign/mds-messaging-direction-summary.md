@@ -256,3 +256,11 @@ title: Mds Messaging Direction Summary
 
 **For Companions**: Proud, valued, empowered, connected, fulfilled, recognized, inspired, entrepreneurial, community-driven, impactful, respected.
 
+---
+
+## Partner Resources
+
+Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
+
+[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+

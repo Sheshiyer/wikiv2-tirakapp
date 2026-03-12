@@ -1,95 +1,80 @@
 ---
-title: "Vendor Pipeline Overview"
-description: "Architecture and execution flow of the Tirak vendor acquisition pipeline"
+title: "How to Become a Tirak Partner"
+description: "Step-by-step guide to joining the Tirak Dream Journeys partner network"
 category: "vendor-pipeline"
 order: 1
-icon: "database"
-tags: ["pipeline", "vendors", "scraping", "automation"]
+icon: "heart-handshake"
+tags: ["onboarding", "partners", "guide"]
+cta_text: "Apply Now"
+cta_url: "https://tirak.app/partners"
 ---
 
-# Vendor Pipeline Overview
+# How to Become a Tirak Partner
 
-The **Tirak Vendor Pipeline** is an automated data acquisition and outreach system that scrapes, validates, enriches, and contacts Thailand-based experience vendors across 10 categories. The pipeline operates in a circular loop until every category has ≥50 verified vendors.
+Join **614+ experience vendors** across Thailand who have already partnered with Tirak Dream Journeys. Our platform connects your business with travelers seeking authentic local experiences — and you keep **80–85% of every booking**.
 
-## Pipeline Architecture
+## Your Onboarding Journey
 
-```
-Phase 1: DATA ACQUISITION
-  ┌─ scrape_dmcs.py            → DMC listings from dmcfinder.com
-  ├─ scrape_tirak_vendors.py   → Multi-directory scraping (7 categories)
-  ├─ scrape_directories.py     → Hostelworld, directory backfill
-  ├─ scrape_real_vendors.py    → Backfill categories below 50
-  └─ merge_xlsx_vendors.py     → Merge manual spreadsheet data
+### Step 1: Apply
+Visit [tirak.app/partners](https://tirak.app/partners) and complete the partner application. It takes about 5 minutes.
 
-Phase 2: CIRCULAR PIPELINE (tirak_pipeline.py)
-  ┌──→ AUDIT         — Count vendors per category
-  │    FILL GAPS     — Scrape to fill categories < 50
-  │    ENRICH        — Scrape contact info from websites
-  │    VALIDATE      — Check all URLs are live
-  │    EXPORT        — Write per-category CSVs + master CSV
-  └──← CHECK         — All 10 categories ≥ 50? → Done (max 5 iterations)
+### Step 2: Review
+Our partnerships team reviews your application within 24 hours. We verify your business details, experience offerings, and web presence.
 
-Phase 3: VALIDATION
-  └─ validate_vendors.py       → URL status classification
+### Step 3: Set Up Your Profile
+Once approved, you'll create your partner profile:
+- Upload high-quality photos of your experiences
+- Write compelling descriptions that attract travelers
+- Set your own pricing — you have full control
+- Configure your availability and blackout dates
 
-Phase 4: OUTREACH
-  └─ tirak_outreach_emails.py  → 608 personalized vendor emails
-```
+### Step 4: Go Live
+Your listings go live on the Tirak platform immediately after setup. Travelers across Thailand can now discover and book your experiences.
 
-## Key Statistics
+### Step 5: Earn
+Start receiving bookings and get paid:
+- **80–85% earnings** on every booking (vs. 60–70% on competing platforms)
+- **24–48 hour payouts** via bank transfer
+- Full transparency in your partner dashboard
 
-| Metric | Value |
-|--------|-------|
-| **Total Vendors** | 614 across 10 categories |
-| **Outreach Emails** | 608 personalized `.txt` files |
-| **DMC Records** | 66 from dmcfinder.com |
-| **Python Scripts** | 10 (4,387 lines total) |
-| **Data Files** | 13 CSVs + 3 JSONs |
+## Why Partners Choose Tirak
 
-## Vendor Categories
+| What You Get | Details |
+|-------------|---------|
+| **Fair Earnings** | Keep 80–85% of every booking |
+| **Same-Day Approval** | Go live within 24 hours |
+| **No Exclusivity** | Keep your other channels — we complement, not replace |
+| **Full Pricing Control** | You set your own rates |
+| **Marketing Support** | We promote your experiences to qualified travelers |
+| **Growing Network** | 614+ partners across 10 categories |
 
-| # | Category | Count |
-|---|----------|-------|
-| 1 | Leisure & Experience DMCs | 153 |
-| 2 | MICE & Event DMCs | 56 |
-| 3 | Transport & Transfer Services | 50 |
-| 4 | Adventure & Outdoor Operators | 51 |
-| 5 | Food & Culinary Operators | 50 |
-| 6 | Wellness & Spa Services | 52 |
-| 7 | Boutique Hotels & Hostels | 50 |
-| 8 | Nightlife & Entertainment | 51 |
-| 9 | Cinema & Entertainment | 50 |
-| 10 | Lifestyle & Experiences | 51 |
+## Partner Categories
 
-## Data Model
+We work with vendors across **10 experience categories** spanning Thailand's vibrant tourism economy:
 
-### Master Vendor Record (10 fields)
-```
-category, name, url, location, description, type, source, phone, email, address
-```
+1. 🏛️ Leisure & Experience DMCs (153 partners)
+2. 🎪 MICE & Event DMCs (50 partners)
+3. 🚐 Transport & Transfer Services (50 partners)
+4. 🏔️ Adventure & Outdoor Operators (51 partners)
+5. 🍜 Food & Culinary Operators (50 partners)
+6. 💆 Wellness & Spa Services (52 partners)
+7. 🏨 Boutique Hotels & Hostels (50 partners)
+8. 🎵 Nightlife & Entertainment (51 partners)
+9. 🎬 Cinema & Entertainment (50 partners)
+10. ✨ Lifestyle & Experiences (51 partners)
 
-- **Deduplication**: Normalized name matching (strips Co., Ltd., Inc., Thailand, etc.)
-- **URL normalization**: Strips protocol, `www.`, trailing slash
-- **Source tracking**: Distinguishes scraped vs. `pipeline-curated` data
+## How Tirak Compares
 
-### Validation Classifications
-`LIVE` · `DEAD_404` · `REDIRECT` · `BLOCKED` · `SERVER_ERROR` · `TIMEOUT` · `DNS_FAIL` · `NO_URL`
+| Platform | Your Earnings | Tirak Advantage |
+|----------|--------------|-----------------|
+| Withlocals | 70% | **80–85% with Tirak** |
+| ToursByLocals | 60% | **80–85% with Tirak** |
+| Cookly | 70–75% | **80–85% + no exclusivity** |
+| Booking.com | 75–85% | **80–85% + same-day approval** |
+| GetYourGuide | 70–75% | **80–85% + full pricing control** |
 
-## Technology Stack
+## Ready to Get Started?
 
-- **Python 3** with `scrapling` library (StealthyFetcher for JS pages, Fetcher for static)
-- **URL verification** via HEAD requests with timeout handling
-- **Contact enrichment** with regex patterns for Thai phone formats and email extraction
-- **Polite scraping**: 0.5s delays, domain exclusion lists (TripAdvisor, Yelp, Booking, etc.)
+[**Apply to become a partner →**](https://tirak.app/partners)
 
-## File Structure
-
-```
-vendor-pipeline/
-├── scripts/          # 10 Python scripts
-├── data/             # CSVs + JSONs (vendor data)
-├── outreach/emails/  # 608 personalized outreach emails
-├── templates/        # Email templates, WhatsApp scripts, objection handling
-├── reports/          # Validation reports, dashboards
-└── logs/             # Pipeline execution logs
-```
+Questions? Reach out via WhatsApp or LINE — our partnerships team is here to help.

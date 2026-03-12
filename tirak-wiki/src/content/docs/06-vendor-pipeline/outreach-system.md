@@ -1,106 +1,87 @@
 ---
-title: "Outreach System"
-description: "Multi-channel vendor outreach: email templates, WhatsApp scripts, and objection handling"
+title: "Partner Communications"
+description: "How Tirak communicates with partners throughout the onboarding journey"
 category: "vendor-pipeline"
 order: 3
-icon: "mail"
-tags: ["outreach", "email", "whatsapp", "vendor-acquisition"]
+icon: "message-circle"
+tags: ["communications", "support", "onboarding", "partners"]
 ---
 
-# Outreach System
+# Partner Communications
 
-The Tirak outreach system is a **multi-channel vendor acquisition toolkit** generating personalized communications for 608 Thailand-based vendors across email, WhatsApp/LINE, and phone.
+At Tirak Dream Journeys, we believe in clear, respectful communication. Here's how we stay connected with our partners throughout your journey with us.
 
-## Email Campaign
+## Communication Channels
 
-### Generation
-`tirak_outreach_emails.py` generates **608 personalized `.txt` emails**, one per vendor:
-- **Category-specific** subject lines, hooks, and value propositions
-- **Brand voice**: Direct, confident, peer-to-peer (not corporate)
-- Key selling points in every email:
-  - **80–85% vendor earnings** (vs. 60–70% on competitors)
-  - Same-day listing approval
-  - 600+ vendor network
-  - `tirak.app/partners` signup link
+### WhatsApp & LINE
+Our primary channels for quick, personal communication. Message us anytime for:
+- Onboarding questions
+- Listing support
+- Booking inquiries
+- Technical help
 
-### Email Structure
-```
-Subject: {vendor_name} + Tirak — [category-specific hook]
+### Email
+For formal communications, documentation, and partnership updates:
+- **partners@tirak.app** — general partner inquiries
+- **support@tirak.app** — technical support
 
-Body:
-  → Hook (category-relevant opening)
-  → Introduction paragraph
-  → 4 bullet value propositions
-  → Category-specific social proof paragraph
-  → Clear CTA with signup link
-  → Footer with unsubscribe
-```
+### Partner Dashboard
+Your self-service hub for:
+- Viewing and managing bookings
+- Updating listings and availability
+- Tracking earnings and payouts
+- Accessing reports and analytics
 
-### Competitive Positioning in Emails
+## What to Expect During Onboarding
 
-| Platform | Commission | Tirak Advantage |
-|----------|-----------|-----------------|
-| Withlocals | 30% | 80–85% earnings |
-| ToursByLocals | 40% | 80–85% earnings |
-| Cookly | 25–30% | 80–85% earnings |
-| Booking.com | 15–25% | 80–85% + no exclusivity |
-| GetYourGuide | 25–30% | 80–85% + same-day approval |
+### Day 1: Welcome
+After approval, you'll receive:
+- Welcome message with your partner dashboard access
+- Getting-started guide with profile setup tips
+- Introduction to your partnerships contact
 
-## WhatsApp / LINE Scripts
+### Days 2–3: Profile Setup
+We'll help you with:
+- Optimizing your experience descriptions
+- Photo recommendations for maximum impact
+- Pricing strategy guidance based on your category
 
-A **3-touch messaging sequence** designed for peer-to-peer tone:
+### Day 4–7: Go Live
+Once your profile is complete:
+- Final review by our team
+- Listing goes live on the platform
+- You'll receive confirmation with your public profile link
 
-### Touch 1 — Day 1 (Cold Intro)
-Brief, casual introduction. Category-aware hook. "Reply 'interested' for details" CTA.
+### Ongoing Support
+After launch, we stay in touch with:
+- Monthly performance summaries
+- Seasonal promotion opportunities
+- Platform updates and new features
+- Category-specific tips and insights
 
-### Touch 2 — Day 3–4 (Value Follow-up)
-Specific stat or benefit reminder. Link to partner signup. Low-pressure.
+## Our Communication Promise
 
-### Touch 3 — Day 7 (Final Gentle Nudge)
-"No pressure" closer with time-limited early-adopter incentive.
+- **Respond within 24 hours** to all partner inquiries
+- **No spam** — we only reach out when it matters
+- **Your language** — support in Thai and English
+- **Transparent** — no hidden fees, no surprise policy changes
 
-Category-specific variants exist for: Food, Nightlife, Transport, Adventure, Wellness, Hotels, MICE.
+## Frequently Asked Questions
 
-## Objection Handling
+**How quickly will I hear back?**
+We aim to respond to all messages within 24 hours, though most WhatsApp/LINE messages are answered within a few hours.
 
-Scripted rebuttals organized by objection theme:
+**Can I opt out of marketing communications?**
+Absolutely. Essential communications (booking confirmations, payout notifications) are always sent, but marketing updates are optional.
 
-### Commission & Pricing
-- *"15–20% is too good to be true"* → Platform subsidy model, scale economics
-- *"How do you make money?"* → Service fee to travelers, not vendors
+**Who is my main contact?**
+Every partner is assigned a partnerships contact who understands your business and category.
 
-### Trust & Legitimacy
-- *"Never heard of Tirak"* → TAT partnership, 600+ vendors, backed by [details]
-- *"What if Tirak shuts down?"* → Data export, no exclusivity lock-in
+**What if I have an urgent issue?**
+Flag urgent messages on WhatsApp/LINE and we'll prioritize your request.
 
-### Effort & Setup
-- *"Don't have time"* → 15-minute onboarding, team handles listing
-- *"No professional photos"* → Free photo shoot for early adopters
+## Get in Touch
 
-### Logistics
-- *Payment concerns* → 24–48hr payouts via bank transfer
-- *Schedule control* → Full blackout date control
-- *Pricing freedom* → Vendors set their own prices
+Ready to start a conversation? Reach out through any channel — we'd love to hear from you.
 
-### Category-Specific
-- **Food vendors** → Cookly comparison, same customers better cut
-- **Hotels** → Booking.com comparison, no exclusivity required
-- **Transport** → Complement (not replace) your website
-- **MICE** → We bring you event leads, you keep your direct sales
-
-### Closing "Maybe" Responses
-- Offer trial period with guaranteed payout
-- Connect with existing vendor reference
-- Follow up in 2 weeks with new stats
-
-## Data Outputs
-
-| File | Description |
-|------|-------------|
-| `outreach/emails/*.txt` | 608 personalized vendor emails |
-| `templates/tirak_email_templates.json` | 10 category-specific templates |
-| `templates/tirak_whatsapp_scripts.md` | 3-touch WhatsApp/LINE sequences |
-| `templates/tirak_objection_handling.md` | Full objection handling playbook |
-| `data/tirak_outreach_summary.csv` | Vendor contact status tracker |
-| `reports/tirak_vendor_signup_dashboard.html` | Visual signup tracking dashboard |
-| `reports/tirak_why_tirak_onepager.html` | Partner-facing one-pager |
+[**Contact us →**](https://tirak.app/partners)

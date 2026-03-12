@@ -372,3 +372,11 @@ We occupy the "sweet spot" that doesn't exist yet—**affordable authenticity wi
   }
 }
 ```
+
+---
+
+## What This Means for Partners
+
+As a Tirak partner, you benefit from our unique market positioning. Our platform is designed to give vendors the best possible deal — **80–85% earnings** compared to 60–70% on competing platforms.
+
+[**See full partner benefits →**](/docs/06-vendor-pipeline/scraping-scripts)

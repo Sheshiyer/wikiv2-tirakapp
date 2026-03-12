@@ -269,6 +269,14 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Replace "product launch" language with "platform activation"
 - Cold start strategy (companion acquisition before traveler demand)
 
+---
+
+## What This Means for Partners
+
+As a Tirak partner, you benefit from our unique market positioning. Our platform is designed to give vendors the best possible deal — **80–85% earnings** compared to 60–70% on competing platforms.
+
+[**See full partner benefits →**](/docs/06-vendor-pipeline/scraping-scripts)
+
 **Expected Deliverables:**
 - Companion recruitment email sequences (welcome, onboarding, nurture)
 - Traveler pre-launch and launch email sequences

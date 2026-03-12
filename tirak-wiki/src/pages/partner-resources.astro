@@ -1,0 +1,67 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { DownloadCard } from '../components/DownloadCard';
+import { FileText, BookOpen, Palette } from 'lucide-react';
+---
+
+<BaseLayout title="Partner Resources">
+  <div class="space-y-8">
+    <section class="text-center space-y-4 py-8">
+      <h1 class="text-4xl md:text-5xl font-bold">
+        <span class="text-gradient">Partner Resources</span>
+      </h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
+        Download guides, brand assets, and reference materials to help you succeed as a Tirak partner
+      </p>
+    </section>
+
+    <section class="space-y-6">
+      <h2 class="text-2xl font-bold text-white">Getting Started</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <DownloadCard
+          client:visible
+          title="Partner Onboarding Guide"
+          description="Step-by-step guide to setting up your Tirak partner profile and getting your first bookings"
+          fileName="tirak-partner-onboarding-guide.md"
+          fileSize="3 KB"
+          href="/downloads/tirak-partner-onboarding-guide.md"
+        />
+        <DownloadCard
+          client:visible
+          title="Partner Directory"
+          description="Complete list of 608+ verified partners across all 10 categories in Thailand"
+          fileName="tirak-partner-directory.csv"
+          fileSize="52 KB"
+          href="/downloads/tirak-partner-directory.csv"
+        />
+      </div>
+    </section>
+
+    <section class="space-y-6">
+      <h2 class="text-2xl font-bold text-white">Brand & Marketing</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <DownloadCard
+          client:visible
+          title="Brand Guidelines for Partners"
+          description="Logo usage, colors, typography, and co-branding guidelines for Tirak partners"
+          fileName="tirak-brand-guidelines-partners.md"
+          fileSize="2 KB"
+          href="/downloads/tirak-brand-guidelines-partners.md"
+        />
+      </div>
+    </section>
+
+    <section class="mt-12 p-8 rounded-xl bg-white/5 backdrop-blur-md border border-white/10 text-center">
+      <h3 class="text-xl font-bold text-white mb-2">Need Something Else?</h3>
+      <p class="text-gray-400 mb-4">
+        Looking for specific materials or have questions about partnership resources?
+      </p>
+      <a
+        href="https://tirak.app/partners"
+        class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-gradient-to-r from-[#F5A6BF] to-[#9B8FD9] text-white font-semibold hover:opacity-90 transition-opacity"
+      >
+        Contact Our Team
+      </a>
+    </section>
+  </div>
+</BaseLayout>

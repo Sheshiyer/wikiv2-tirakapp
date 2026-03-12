@@ -1,3 +1,34 @@
 ---
-return Astro.redirect('/docs/02-foundation/positioning', 301);
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { GlassCard } from '../../../components/GlassCard';
+import { getCollection } from 'astro:content';
+
+const allDocs = await getCollection('docs');
+const sectionDocs = allDocs
+  .filter(doc => doc.data.category === 'foundation')
+  .sort((a, b) => (a.data.order || 99) - (b.data.order || 99));
 ---
+
+<BaseLayout title="About Tirak">
+  <div class="space-y-8">
+    <section class="text-center space-y-4 py-8">
+      <h1 class="text-4xl md:text-5xl font-bold">
+        <span class="text-gradient">About Tirak</span>
+      </h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
+        Our platform, positioning, and what makes Tirak different for experience vendors
+      </p>
+    </section>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      {sectionDocs.map(doc => (
+        <a href={`/docs/${doc.slug}`} class="block">
+          <GlassCard client:visible>
+            <h3 class="text-lg font-bold text-white mb-2">{doc.data.title}</h3>
+            <p class="text-gray-400 text-sm">{doc.data.description || 'Learn more about this topic'}</p>
+          </GlassCard>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

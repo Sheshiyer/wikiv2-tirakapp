@@ -66,3 +66,40 @@ This document outlines the most common objections from both Companions (Supply) 
 **Objection:** "฿1,500-2,500 seems expensive."
 - **Rebuttal:** "Compare to ToursByLocals (฿10,000) or group tours (฿2,000 for scripted buses). This is private, personalized, and fair—locals keep 85%."
 - **Proof Point:** Price comparison chart.
+
+---
+
+## Partner FAQ
+
+### How much do I earn per booking?
+Partners keep **80–85% of every booking**. Tirak charges a small service fee to travelers, not vendors.
+
+### How long does approval take?
+Most applications are reviewed and approved within **24 hours**.
+
+### Do I need to be exclusive to Tirak?
+No. There's **no exclusivity requirement**. Keep all your other channels — Tirak complements your existing business.
+
+### How do I get paid?
+Payments are processed via **bank transfer within 24–48 hours** of a completed booking.
+
+### Can I set my own prices?
+Yes. You have **full pricing control** — set your own rates with no minimum or maximum restrictions.
+
+### What categories do you support?
+We support **10 experience categories**: Leisure & Experience DMCs, MICE & Event DMCs, Transport & Transfer, Adventure & Outdoor, Food & Culinary, Wellness & Spa, Boutique Hotels & Hostels, Nightlife & Entertainment, Cinema & Entertainment, and Lifestyle & Experiences.
+
+### How many partners are in the network?
+Currently **614+ verified partners** across Thailand.
+
+### Do I need professional photos?
+High-quality photos help attract bookings. For early adopters, we can assist with professional photography.
+
+### What if I need to block certain dates?
+You have **full calendar control** with blackout dates, so you can manage your availability in real time.
+
+### How do I contact Tirak for support?
+Reach us via **WhatsApp, LINE, or email** (partners@tirak.app). We respond within 24 hours.
+
+### Can I update my listings after going live?
+Yes. You can **update your listings anytime** — change descriptions, photos, pricing, and availability through the partner dashboard.

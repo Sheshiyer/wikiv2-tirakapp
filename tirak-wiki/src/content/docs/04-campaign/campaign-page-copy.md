@@ -253,3 +253,11 @@ title: Campaign Page Copy
 
 **Ps Loop**: P.S. This isn't just another travel app. Voyage AI is your passport to hyper-personalized adventures, shared memories, and authentic discoveries across every facet of travel – from Culture to Nightlife, Adventure to Wellness, and everything in between. Secure your lifetime access at an exclusive Kickstarter price. Your world awaits.
 
+---
+
+## Partner Resources
+
+Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
+
+[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+

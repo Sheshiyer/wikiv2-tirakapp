@@ -70,3 +70,11 @@ See full [Voice & Tone Documentation](/docs/03-audience/voice-and-tone) for deta
 - **Clear Space**: Always maintain padding around the logo.
 - **On Dark**: Use the white version.
 - **On Light**: Use the color version.
+
+---
+
+## For Our Partners
+
+Interested in joining the Tirak Dream Journeys partner network? Learn how you can list your experiences and keep **80–85% of every booking**.
+
+[**Explore partnership opportunities →**](/docs/06-vendor-pipeline/pipeline-overview)

@@ -9,12 +9,15 @@ const currentTitle = title || frontmatter?.title || 'Documentation';
 const allDocs = await getCollection('docs');
 
 const categories = [
-  { id: 'introduction', label: 'Introduction' },
-  { id: 'foundation', label: 'Foundation' },
-  { id: 'audience', label: 'Audiences' },
-  { id: 'campaign', label: 'Campaigns' },
+  { id: 'introduction', label: 'Welcome' },
+  { id: 'foundation', label: 'About Tirak' },
+  { id: 'audience', label: 'Your Customers' },
+  { id: 'vendor-onboarding', label: 'Partner Onboarding' },
+  { id: 'vendor-directory', label: 'Partner Network' },
+  { id: 'partner-resources', label: 'Partner Resources' },
+  { id: 'campaign', label: 'Marketing Hub' },
   { id: 'resources', label: 'Resources' },
-  { id: 'vendor-pipeline', label: 'Vendor Pipeline' },
+  { id: 'vendor-pipeline', label: 'Partner Portal' },
 ];
 
 const groupedDocs = categories.map(cat => ({

@@ -277,3 +277,11 @@ Nok does NOT want to:
   }
 }
 ```
+
+---
+
+## For Partners: Know Your Customers
+
+Understanding these customer personas helps you craft better experiences. When you list on Tirak, you're reaching travelers who match these profiles — people actively seeking authentic local experiences in Thailand.
+
+[**Start listing your experiences →**](/docs/06-vendor-pipeline/pipeline-overview)

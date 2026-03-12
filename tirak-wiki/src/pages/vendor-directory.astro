@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { VendorDirectory } from '../components/VendorDirectory';
+import { getAllVendors, VENDOR_CATEGORIES } from '../lib/vendorData';
+
+const vendors = getAllVendors();
+const categories = [...VENDOR_CATEGORIES];
+---
+
+<BaseLayout title="Partner Directory">
+  <div class="space-y-8">
+    <section class="text-center space-y-4 py-8">
+      <h1 class="text-4xl md:text-5xl font-bold">
+        <span class="text-gradient">Partner Directory</span>
+      </h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
+        Browse our network of <span class="text-white font-semibold">{vendors.length}+</span> verified experience vendors across Thailand
+      </p>
+    </section>
+
+    <VendorDirectory
+      client:load
+      vendors={vendors}
+      categories={categories}
+    />
+  </div>
+</BaseLayout>

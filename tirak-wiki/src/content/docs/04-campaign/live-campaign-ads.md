@@ -231,7 +231,13 @@ title: Live Campaign Ads
 
 ---
 
+---
 
+## Partner Resources
+
+Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
+
+[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
 ---
 
 

@@ -114,3 +114,11 @@ title: Campaign Video Script
 
 **Copy**: Ready to redefine your travel, discover authentic experiences, and forge incredible connections? Click the link below to explore our crowdfunding campaign, choose your perk, and join the TIRAK movement! Visit [Your Crowdfunding Platform Link] now and let's build the future of connected travel, together.
 
+---
+
+## Partner Resources
+
+Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
+
+[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+
