@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Home, Book, Users, Megaphone, FolderOpen } from 'lucide-react';
+import { Menu, X, Home, Book, Users, Megaphone, FolderOpen, Database } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const navItems = [
@@ -8,6 +8,7 @@ const navItems = [
   { name: 'Audiences', href: '/docs/03-audience/companion-persona', icon: Users },
   { name: 'Campaigns', href: '/docs/04-campaign/pre-launch-ads', icon: Megaphone },
   { name: 'Resources', href: '/docs/05-resources/faq', icon: FolderOpen },
+  { name: 'Vendor Pipeline', href: '/docs/06-vendor-pipeline/pipeline-overview', icon: Database },
 ];
 
 export const Navigation = () => {

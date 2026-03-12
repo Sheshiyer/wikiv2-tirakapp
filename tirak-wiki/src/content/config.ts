@@ -5,7 +5,7 @@ const docs = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
-    category: z.enum(['introduction', 'foundation', 'audience', 'campaign', 'resources']).optional(),
+    category: z.enum(['introduction', 'foundation', 'audience', 'campaign', 'resources', 'vendor-pipeline']).optional(),
     order: z.number().optional(),
     icon: z.string().optional(), // Lucide icon name
     tags: z.array(z.string()).optional(),
