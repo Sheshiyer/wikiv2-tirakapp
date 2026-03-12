@@ -1,0 +1,5400 @@
+[
+  {
+    "name": "Siam DMC",
+    "url": "https://www.siamdmc.com/",
+    "location": "Bangkok",
+    "description": "Leading DMC offering incoming travel & tour services across Thailand",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 138 9811",
+    "email": "b2b@siamdmc.com"
+  },
+  {
+    "name": "Eagle Crest DMC",
+    "url": "https://www.eaglecrestdmc.com/thailand-dmc",
+    "location": "Bangkok",
+    "description": "Specializes in luxury experiences and adventure travel",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 115 9559",
+    "email": "sales@eaglecrestdmc.com"
+  },
+  {
+    "name": "Discovery DMC",
+    "url": "https://discoverydmc.com/",
+    "location": "Bangkok",
+    "description": "Full-service DMC for high-end, tailor-made travel throughout Asia",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 001 1234",
+    "email": "sales@discoverydmc.com"
+  },
+  {
+    "name": "Ovation DMC Thailand",
+    "url": "https://ovationdmc.com/destinations/thailand/",
+    "location": "Bangkok",
+    "description": "Global DMC network, Thailand operations",
+    "category": "Leisure & Experience DMCs",
+    "email": "info@ovationdmc.com",
+    "phone": "0719883969"
+  },
+  {
+    "name": "Diethelm Travel",
+    "url": "https://www.diethelmtravel.com/",
+    "location": "Bangkok",
+    "description": "Premier travel & DMC services since 1957",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Exo Travel Thailand",
+    "url": "https://www.exotravel.com/",
+    "location": "Bangkok",
+    "description": "Leading SE Asia DMC with sustainable travel focus",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 038 4300",
+    "address": "22nd Floor, Smooth Life Tower 44 North Sathorn Road, Silom Bangrak, Bangkok 10500 THAILAND"
+  },
+  {
+    "name": "Khiri Travel",
+    "url": "https://www.khiri.com/",
+    "location": "Bangkok",
+    "description": "Responsible travel DMC across SE Asia",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 512 0405",
+    "email": "sales.cambodia@khiri.com"
+  },
+  {
+    "name": "Pacific World Thailand",
+    "url": "https://www.pacificworld.com/",
+    "location": "Bangkok",
+    "description": "MICE and leisure DMC, part of TUI Group",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Destination Asia Thailand",
+    "url": "https://www.destination-asia.com/",
+    "location": "Bangkok",
+    "description": "Luxury and experiential travel DMC",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 127 5888"
+  },
+  {
+    "name": "Buffalo Tours Thailand",
+    "url": "https://www.buffalotours.com/",
+    "location": "Bangkok",
+    "description": "Adventure and cultural tours DMC",
+    "category": "Leisure & Experience DMCs",
+    "email": "pham.hoa@discova.com",
+    "phone": "058775-2187"
+  },
+  {
+    "name": "Smiling Albino",
+    "url": "https://smilingalbino.com/",
+    "location": "Bangkok",
+    "description": "Boutique DMC for bespoke luxury travel in Thailand",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 107 2540",
+    "email": "info@smilingalbino.com",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Selective Asia",
+    "url": "https://www.selectiveasia.com/",
+    "location": "Bangkok",
+    "description": "Tailor-made holidays and private tours",
+    "category": "Leisure & Experience DMCs",
+    "phone": "01273 670"
+  },
+  {
+    "name": "Backyard Travel",
+    "url": "https://www.backyardtravel.com/",
+    "location": "Bangkok",
+    "description": "Authentic local experiences in SE Asia",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Abercrombie & Kent Thailand",
+    "url": "https://www.abercrombiekent.com/",
+    "location": "Bangkok",
+    "description": "Luxury travel operator with local expertise",
+    "category": "Leisure & Experience DMCs",
+    "email": "privacy@abercrombiekent.com",
+    "phone": "04-5879-4088"
+  },
+  {
+    "name": "Intrepid Travel Thailand",
+    "url": "https://www.intrepidtravel.com/",
+    "location": "Bangkok, Chiang Mai",
+    "description": "Small group adventure travel operator",
+    "category": "Leisure & Experience DMCs",
+    "phone": "0311720394"
+  },
+  {
+    "name": "Myths and Mountains",
+    "url": "https://www.mythsandmountains.com/",
+    "location": "Bangkok",
+    "description": "Cultural immersion and educational travel",
+    "category": "Leisure & Experience DMCs",
+    "phone": "0638344373"
+  },
+  {
+    "name": "Sawasdee Thailand",
+    "url": "https://www.sawasdee.com/",
+    "location": "Bangkok",
+    "description": "Budget to mid-range DMC services",
+    "category": "Leisure & Experience DMCs",
+    "email": "support@tahug.com",
+    "phone": "02050376"
+  },
+  {
+    "name": "Thailand Packages",
+    "url": "https://www.thailandpackages.com/",
+    "location": "Bangkok",
+    "description": "Customized tour packages and DMC services",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Mekong Tourism",
+    "url": "https://mekongtourism.org/",
+    "location": "Bangkok",
+    "description": "Sustainable tourism coordination across Mekong region",
+    "category": "Leisure & Experience DMCs",
+    "email": "info@mekongtourism-mtco.org",
+    "phone": "0906483767"
+  },
+  {
+    "name": "Raya Heritage Cruises",
+    "url": "https://www.rayaheritage.com/",
+    "location": "Chiang Mai",
+    "description": "Luxury river cruise experiences",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 301 1861",
+    "email": "reservation@rayaheritage.com"
+  },
+  {
+    "name": "Absolute Travel Thailand",
+    "url": "https://www.absolutetravel.com/",
+    "location": "Bangkok",
+    "description": "Luxury custom journeys and private travel",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Gecko Travel Thailand",
+    "url": "https://www.geckosadventures.com/",
+    "location": "Bangkok",
+    "description": "Small group adventure travel for 18-39 year olds",
+    "category": "Leisure & Experience DMCs",
+    "phone": "0324455232"
+  },
+  {
+    "name": "Thai Travel Center",
+    "url": "https://www.thaitravelcenter.com/",
+    "location": "Bangkok",
+    "description": "Comprehensive Thai travel services",
+    "category": "Leisure & Experience DMCs",
+    "phone": "02-308-8383",
+    "address": "ศูนย์บริการลูกค้า เปิดบริการ 08.30 - 18.00 น.",
+    "email": "rsvn@thaitravelcenter.com"
+  },
+  {
+    "name": "Siam Express",
+    "url": "https://www.siamexpress.com/",
+    "location": "Bangkok",
+    "description": "Express booking DMC for Thailand",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 632 9999",
+    "email": "info@siamexpress.com"
+  },
+  {
+    "name": "Bamboo Travel",
+    "url": "https://www.bambootravel.co.uk/",
+    "location": "Bangkok",
+    "description": "Specialist Thailand and SE Asia operator",
+    "category": "Leisure & Experience DMCs",
+    "phone": "020 7720 9285",
+    "email": "info@bambootravel.co.uk"
+  },
+  {
+    "name": "Local Alike",
+    "url": "https://localalike.com/",
+    "location": "Bangkok",
+    "description": "Community-based tourism and authentic local experiences",
+    "category": "Leisure & Experience DMCs",
+    "email": "booking@localalike.com",
+    "phone": "+66-64-559-8636"
+  },
+  {
+    "name": "Trafalgar Thailand",
+    "url": "https://www.trafalgar.com/",
+    "location": "Bangkok",
+    "description": "Guided holiday tours with local engagement",
+    "category": "Leisure & Experience DMCs",
+    "phone": "017 305 2605",
+    "email": "globalguestrelations@ttc.com"
+  },
+  {
+    "name": "G Adventures Thailand",
+    "url": "https://www.gadventures.com/",
+    "location": "Bangkok",
+    "description": "Small group adventure tours",
+    "category": "Leisure & Experience DMCs",
+    "phone": "0640005192"
+  },
+  {
+    "name": "Wendy Wu Tours",
+    "url": "https://www.wendywutours.com/",
+    "location": "Bangkok",
+    "description": "Award-winning Asia specialist tour operator",
+    "category": "Leisure & Experience DMCs",
+    "email": "WendyWuTours@us-sales.com",
+    "phone": "08-152157"
+  },
+  {
+    "name": "Audley Travel Thailand",
+    "url": "https://www.audleytravel.com/",
+    "location": "Bangkok",
+    "description": "Tailor-made tours with country specialists",
+    "category": "Leisure & Experience DMCs",
+    "phone": "01993 838",
+    "email": "info@audleytravel.com"
+  },
+  {
+    "name": "Rickshaw Travel Thailand",
+    "url": "https://www.rickshawtravel.co.uk/",
+    "location": "Bangkok",
+    "description": "Build-your-own travel itineraries",
+    "category": "Leisure & Experience DMCs",
+    "phone": "01273 322",
+    "email": "hello@rickshawtravel.co.uk"
+  },
+  {
+    "name": "Aman Tours Thailand",
+    "url": "https://www.amantours.com/",
+    "location": "Bangkok",
+    "description": "Luxury tours and private travel arrangements",
+    "category": "Leisure & Experience DMCs",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Travelfish Thailand",
+    "url": "https://www.travelfish.org/",
+    "location": "Bangkok",
+    "description": "Independent travel guide platform",
+    "category": "Leisure & Experience DMCs",
+    "phone": "07 758 985"
+  },
+  {
+    "name": "Chiangmai Trekking",
+    "url": "https://www.chiangmaitrekking.com/",
+    "location": "Chiang Mai",
+    "description": "Specialist trekking tours in Northern Thailand",
+    "category": "Leisure & Experience DMCs",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Thai Private Tour Guide",
+    "url": "https://www.thaiprivatetourguide.com/",
+    "location": "Bangkok",
+    "description": "Private guide and custom tour service",
+    "category": "Leisure & Experience DMCs",
+    "phone": "0790959874"
+  },
+  {
+    "name": "Let's Go Thailand",
+    "url": "https://www.letsgothailand.com/",
+    "location": "Bangkok",
+    "description": "Custom itinerary planning and travel services",
+    "category": "Leisure & Experience DMCs",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Siam Society Tours",
+    "url": "https://www.siamsociety.com/",
+    "location": "Bangkok",
+    "description": "Cultural heritage tours and lectures",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Take Me Tour",
+    "url": "https://takemetour.com/",
+    "location": "Bangkok",
+    "description": "Local experiences by verified Thai hosts",
+    "category": "Leisure & Experience DMCs",
+    "email": "support@takemetour.com",
+    "phone": "0879644544"
+  },
+  {
+    "name": "WithLocals Thailand",
+    "url": "https://www.withlocals.com/",
+    "location": "Bangkok, Chiang Mai",
+    "description": "Private tours with verified local hosts",
+    "category": "Leisure & Experience DMCs",
+    "email": "info@withlocals.com",
+    "phone": "06-8235-4606"
+  },
+  {
+    "name": "Tourscanner Thailand",
+    "url": "https://tourscanner.com/",
+    "location": "Bangkok",
+    "description": "Tour comparison and booking platform",
+    "category": "Leisure & Experience DMCs",
+    "email": "hello@tourscanner.com",
+    "phone": "0282990241"
+  },
+  {
+    "name": "GetYourGuide Thailand",
+    "url": "https://www.getyourguide.com/",
+    "location": "Bangkok",
+    "description": "Activity and tour booking marketplace",
+    "category": "Leisure & Experience DMCs",
+    "email": "do-not-reply@getyourguide.com",
+    "phone": "0983151431"
+  },
+  {
+    "name": "Viator Thailand",
+    "url": "https://www.viator.com/",
+    "location": "Bangkok",
+    "description": "Tours, activities, and attraction booking",
+    "category": "Leisure & Experience DMCs"
+  },
+  {
+    "name": "Efficient Tourism",
+    "description": "Dubai Visa From Thailand",
+    "url": "https://dmcfinder.com/listing/dubai-visa-from-thailand/",
+    "location": "Dubai",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Avenue des nations unis, Hammamet, Tunisia"
+  },
+  {
+    "name": "Atlas One Group",
+    "description": "Atlas One Group",
+    "url": "https://dmcfinder.com/listing/atlas-one-group-2/",
+    "location": "97/30 Moo 3, Kamala, Kathu, Phuket 83150, Thailand",
+    "type": "Travel Planner",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "085 221 4572",
+    "email": "thibault@atlasonegroup.com",
+    "address": "97/30 Moo 3, Kamala, Kathu, Phuket 83150, Thailand"
+  },
+  {
+    "name": "Elevate",
+    "description": "United Arab Emirates",
+    "url": "https://dmcfinder.com/listing/elevate/",
+    "location": "Elevate Tourism LLC. Office 808, Fifty One Tower, Marasi Drive, Business Bay, Dubai PO Box: Dubai 114456 United Arab Emirates",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "04 216 0600",
+    "email": "",
+    "address": "Elevate Tourism LLC. Office 808, Fifty One Tower, Marasi Drive, Business Bay, Dubai PO Box: Dubai 114456 United Arab Emirates"
+  },
+  {
+    "name": "Stella Deluxe. VIP",
+    "description": "Tailor-made travel arrangements, luxury accommodation and dining, unique destination in Thailand, private luxury retreats",
+    "url": "https://dmcfinder.com/listing/stelladeluxe-vip/",
+    "location": "Phuket, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "OXOMI",
+    "description": "Thailand, Vietnam, Cambodia, Malaysia, Bali, and Singapore",
+    "url": "https://dmcfinder.com/listing/hassle-free-dmc-in-thailand-vietnam-cambodia-malaysia-bali-and-singapore/",
+    "location": "Phuket, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "098 245 9261",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Best Deals Thailand",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/best-deals-thailand/",
+    "location": "Pattaya, Thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Pattaya, Thailand"
+  },
+  {
+    "name": "Malee Hospitality",
+    "description": "Thailand, Singapore",
+    "url": "https://dmcfinder.com/listing/malee-hospitality/",
+    "location": "Bangkok, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "063 836 0210",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Paradox Resort Phuket",
+    "description": "Phuket, Thailand",
+    "url": "https://dmcfinder.com/listing/paradox-resort-phuket/",
+    "location": "Thailand, Thailand",
+    "type": "Venues",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Thailand, Thailand"
+  },
+  {
+    "name": "TRAVELVAGO CO. LTD.",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/travelvago-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Transport Services",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "098 869 6819",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Grand Sea Discovery",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/grand-sea-discovery-co-ltd/",
+    "location": "Koh Samui, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 9419714585",
+    "email": "",
+    "address": "Koh Samui, Thailand"
+  },
+  {
+    "name": "NNS Luxury Limousine",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/nns-luxury-limousine/",
+    "location": "Bangkok, Thailand",
+    "type": "Transport Services",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "064 194 9666",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Recreational Bangkok Biking",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/recreational-bangkok-biking-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 02 107 2500",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Vacay Thailand",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/vacay-thailand/",
+    "location": "Bangkok, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "086 342 9526",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Laemsingh Villa 3",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/laemsingh-villa-3/",
+    "location": "Phuket, Thailand",
+    "type": "Venues",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Villa Baan Hen",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/villa-baan-hen/",
+    "location": "Phuket, Thailand",
+    "type": "Venues",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Villa Baan Paradise",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/villa-baan-paradise/",
+    "location": "Phuket, Thailand",
+    "type": "Venues",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Pra Nang Villa",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/pra-nang-villa/",
+    "location": "Phuket, Thailand",
+    "type": "Venues",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Yacht Phuket Trip",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/yacht-phuket-trip/",
+    "location": "Phuket, Thailand",
+    "type": "Leisure Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "081 928 8240",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "Tic Tours",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/tic-tours/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "098957 5769",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "TAG Travel Asia",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/tag-travel-asia/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 115 5456",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Royal Vacation Co. LTD",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/royal-vacation-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 282 3167",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Travools Services (Thailand) Co., Ltd",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/travools-services-thailand-co-ltd/",
+    "location": "Pattaya City, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "097 254 9695",
+    "email": "",
+    "address": "Pattaya City, Thailand"
+  },
+  {
+    "name": "M&M Excellence Asia",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/mm-excellence-asia/",
+    "location": "Phuket, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "086 940 0379",
+    "email": "",
+    "address": "Phuket, Thailand"
+  },
+  {
+    "name": "RedFox Events Co Ltd",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/redfox-events-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 108 5184",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "MUNDO NOMADA TRAVEL",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/mundo-nomada-travel/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "082 051 7366",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Asia Travel and estate Co.,Ltd.",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/asia-travel-and-estate-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "081 084 1259",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Thai Sabai Life Co. Ltd. / Boost Incentive",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/thai-sabai-life-co-ltd-boost-incentive/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 012 3456",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Phuket Event Company MICE  DMC Bangkok Thailand",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/phuket-event-company-mice-dmc-bangkok-thailand/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 65 749 5221",
+    "email": "info@phuketeventcompany.com",
+    "address": "65/176 Laguna Park, Cherngtalay, Thalang District, Phuket 83110"
+  },
+  {
+    "name": "DISCOVA",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/discova/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 318 8400",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Asia Bespoke Tours",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/asia-bespoke-tours/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 222 3333",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "TAGG Travel",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/tagg-travel/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "083 544 6644",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Asian Trails",
+    "description": "DMC in Thailand, Vietnam, Cambodia, Laos, Indonesia, Malaysia, Singapore, Myanmar, China and Hong Kong",
+    "url": "https://dmcfinder.com/listing/asian-trails/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 626 2000",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "8th Wave Events & Destinations",
+    "description": "We were incorporated in 2008 with Singapore as our base, and work with corporate clients & agencies as their preferred partner for Conferences, Incentive trips & Special Events Production across Asia Pacific.",
+    "url": "https://dmcfinder.com/listing/8th-wave-events-destinations/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 105 4641",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Asiaiza",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/asiaiza/",
+    "location": "Bangkok, Thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Meeting and Convention Planner Thailand",
+    "description": "Established in 1997, Meeting and Convention Planner (M&CP) is well-known for our innovative custom-designed programs for meetings, incentives, conferences and events (MICE) in Thailand.",
+    "url": "https://dmcfinder.com/listing/meeting-and-convention-planner-thailand/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "081 453 4316",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "CDM – Conference & Destination Management -EUROMIC Thailand",
+    "description": "euromic members are full -service DMCs who are able to handle your group travel needs completely, whether you are looking for an end-to-end incentive programme or a more a la carte approach.",
+    "url": "https://dmcfinder.com/listing/cdm-conference-destination-management-euromic-thailand/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 02 965 8909",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "CDM-Conference & Destination Management",
+    "description": "Complete destination services for travel programs and administrative (PCO) services for meeting events. 30 years in business, reliable, creative, concise communication and flawless trip delivery.",
+    "url": "https://dmcfinder.com/listing/cdm-conference-destination-management/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 02 965 8909",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Nouveau Siam Travel Co., LTD.",
+    "description": "We are a Destination Management Company in Thailand. We specialise in every attractions and destination in Thailand from Southern to Northern Thailand with 20 years experience in the business.",
+    "url": "https://dmcfinder.com/listing/nouveau-siam-travel-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 02 965 8874",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "GAT International Co.,Ltd.",
+    "description": "",
+    "url": "https://dmcfinder.com/listing/gat-international-co-ltd/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "089 897 7700",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Asia World Enterprise",
+    "description": "Thailand",
+    "url": "https://dmcfinder.com/listing/asia-world-ent/",
+    "location": "Bangkok, Thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Go Vacation",
+    "description": "Go Vacation is a total-service destination management company (DMC) with offices throughout - Thailand - Indonesia - Sri Lanka - Vietnam - Cambodia - India",
+    "url": "https://dmcfinder.com/listing/go-vacation/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 267 1202",
+    "email": "info@go-vacation.com",
+    "address": "25th Floor, Chartered Square Building, 152 N Sathon Rd, Silom, Bang Rak, Bangkok 10500"
+  },
+  {
+    "name": "Ovation – Oriental Events",
+    "description": "Ovation Global DMC is a Destination Management Company. We have been servicing associations, corporations and agencies in 100+ destinations throughout Europe, Middle East, Africa, Asia, North America and South America for more than 25",
+    "url": "https://dmcfinder.com/listing/ovation-oriental-events/",
+    "location": "Bangkok, Thailand",
+    "type": "Premium Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "081 895 5664",
+    "email": "",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "The Sukhothai Bangkok",
+    "description": "The Sukhothai is an oasis in the heart of Bangkok’s Central Business district. Surrounded by 6 acres of lush tropical gardens and lotus ponds.",
+    "url": "https://dmcfinder.com/listing/the-sukhothai-bangkok/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "The Berkeley Hotel Pratunam",
+    "description": "The Berkeley Hotel is located in the heart of Pratunam District, known for its local business area and the most famous shopping attractions in Bangkok and is easily accessible from the Airport link trains or the Expressway network.",
+    "url": "https://dmcfinder.com/listing/the-berkeley-hotel-pratunam/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 87 547 3936",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "Sawaddi Patong REsort & Spa",
+    "description": "Welcome to Sawaddi Patong Resort & Spa, an oasis of comfort and serenity in the heart of Phuket's liveliest and most happening beach location.",
+    "url": "https://dmcfinder.com/listing/sawaddi-patong-resort-spa/",
+    "location": "Phuket, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 81 824 0565",
+    "email": "",
+    "address": "Phuket, thailand"
+  },
+  {
+    "name": "Renaissance Koh Samui Resort & Spa",
+    "description": "WELCOME TO RENAISSANCE KOH SAMUI RESORT & SPA Your tropical oasis awaits at our hotel in Lamai Beach",
+    "url": "https://dmcfinder.com/listing/renaissance-koh-samui-resort-spa/",
+    "location": "Koh Samui, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 77 429 300",
+    "email": "",
+    "address": "Koh Samui, thailand"
+  },
+  {
+    "name": "Avani+ Riverside Bangkok Hotel",
+    "description": "Welcome to Avani+ Riverside Bangkok Hotel. From high above the city skyline, create your evening plans or start the day right – all in Avani+ style and comfort. Your best choice for a riverside hotel in Bangkok.",
+    "url": "https://dmcfinder.com/listing/avani-riverside-bangkok-hotel/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "The Vijitt Resort Phuket",
+    "description": "The Vijitt Resort Phuket, a romantic retreat where peace and tranquility soothe the soul with breathtaking natural scenery all around, providing a romantic stay in contemporary private villas and creatively designed activities you never experience",
+    "url": "https://dmcfinder.com/listing/the-vijitt-resort-phuket/",
+    "location": "Phuket, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 76 363 600",
+    "email": "",
+    "address": "Phuket, thailand"
+  },
+  {
+    "name": "The Nature Phuket",
+    "description": "The Nature Phuket, a contemporary 5-star resort near Patong Beach overlooking the Kalim Bay. Our stylish 300-room hotel is a tranquil sanctuary surrounded by the lush green nature, only 5 minutes drive to the vibrant beach, shopping and",
+    "url": "https://dmcfinder.com/listing/the-nature-phuket/",
+    "location": "Phuket, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 76 681 789",
+    "email": "",
+    "address": "Phuket, thailand"
+  },
+  {
+    "name": "RAMA GARDENS HOTEL BANGKOK",
+    "description": "Step into another world…into the tranquility of Bangkok’s most popular city resort. Here, amid 26 acres of manicured lawns and tropical plants, Rama Gardens offers a combination of elegant accommodation, fine dining, meeting facilities, and",
+    "url": "https://dmcfinder.com/listing/rama-gardens-hotel-bangkok/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "THE REGENT CHAAM BEACH RESORT",
+    "description": "Spend your holiday on Thailand’s beautiful gulf coast, and enjoy spacious tropical landscapes while sunning yourself along Cha Am’s longest resort beachfront. Make The Regent Cha Am Beach Resort your holiday home away from home.”",
+    "url": "https://dmcfinder.com/listing/the-regent-chaam-beach-resort/",
+    "location": "Cha-am, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 255 2818",
+    "email": "",
+    "address": "Cha-am, thailand"
+  },
+  {
+    "name": "Banyan Tree Bangkok",
+    "description": "Simply the most exhilarating way to experience Bangkok.",
+    "url": "https://dmcfinder.com/listing/banyan-tree-bangkok/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "Angsana  Laguna  Phuket",
+    "description": "Set along the shores of Phuket’s Bang Tao Bay in the island’s northwest, our Angsana Laguna Phuket beachfront resort is a part of Asia’s first integrated resort, Laguna Phuket.",
+    "url": "https://dmcfinder.com/listing/angsana-laguna-phuket/",
+    "location": "Phuket, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 82 629 1321",
+    "email": "",
+    "address": "Phuket, thailand"
+  },
+  {
+    "name": "Royal Cliff Hotels Group",
+    "description": "Royal Cliff Hotels Group is one of the top resort convention in Thailand with over 220 awards to date. The group consists of 4 luxury hotels and a state of the art convention centre, Pattaya Exhibition and Convention Hall (PEACH).",
+    "url": "https://dmcfinder.com/listing/royal-cliff-hotels-group/",
+    "location": "Pattaya City, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 38 250 421",
+    "email": "",
+    "address": "Pattaya City, thailand"
+  },
+  {
+    "name": "Anantara Hua Hin Resort",
+    "description": "Only a few hours’ drive south of Bangkok, Hua Hin is the setting of the first Anantara, a multi award-winning resort among Hua Hin hotels, that has inspired dozens more around the globe.",
+    "url": "https://dmcfinder.com/listing/anantara-hua-hin-resort/",
+    "location": "Hua Hin, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 32 520 250",
+    "email": "",
+    "address": "Hua Hin, thailand"
+  },
+  {
+    "name": "Novotel Phuket Resort",
+    "description": "Of all the 4 star hotels in Patong beach, the Novotel Phuket Resort stands out as having the best sea view. Novotel Phuket is the resort of choice for guests looking to escape everyday life for some much-needed peace of mind.",
+    "url": "https://dmcfinder.com/listing/novotel-phuket-resort/",
+    "location": "Pa Tong, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 76 342 777",
+    "email": "",
+    "address": "Pa Tong, thailand"
+  },
+  {
+    "name": "Hotel Nikko Bangkok",
+    "description": "Hotel Nikko Bangkok is managed by Okura-Nikko Hotel Management Company which operates high-grade hotels throughout Japan and major cities around the world under the brand name of Nikko Hotels International.",
+    "url": "https://dmcfinder.com/listing/hotel-nikko-bangkok/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "Royal Orchid Sheraton Hotel & Towers",
+    "description": "Experience refined luxury and travel smart at Royal Orchid Sheraton Hotel & Towers. Discover our five-star hotel haven on the enchanting Chao Phraya River in vibrant Bangkok. Delight in our location opposite ICON Siam and next to the River Cruise",
+    "url": "https://dmcfinder.com/listing/royal-orchid-sheraton-hotel-towers/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 61 415 9680",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "AMBASSADOR HOTEL BANGKOK",
+    "description": "Centrally located with easy access to the Skytrain and Subway, Ambassador Bangkok is an ideal location for staying and all kinds of meetings.",
+    "url": "https://dmcfinder.com/listing/ambassador-hotel-bangkok/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "Prince Palace Hotel",
+    "description": "A PALACE hotel with rich history",
+    "url": "https://dmcfinder.com/listing/prince-palace-hotel/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 89 447 7082",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "Kata Sea Breeze Resort",
+    "description": "A fabulous 3.5* plus resort offering great value for money accommodation and MICE market opportunities. A member of TICA and TCEB Thailand",
+    "url": "https://dmcfinder.com/listing/kata-sea-breeze-resort/",
+    "location": "Phuket, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 76 609 088",
+    "email": "",
+    "address": "Phuket, thailand"
+  },
+  {
+    "name": "Beach Republic",
+    "description": "42 luxury suites and private pool villas located on beach fronted paradise in Koh Samui, Thailand",
+    "url": "https://dmcfinder.com/listing/beach-republic/",
+    "location": "Ko Samui, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 92 264 2910",
+    "email": "",
+    "address": "Ko Samui, thailand"
+  },
+  {
+    "name": "Devasom Khao Lak Beach Resort & Villas",
+    "description": "Set in naturally beautiful surrounds, Devasom Khao Lak is the perfect place for a relaxing beachfront escape. A stay here will indulge the senses and ensure the warm hospitality that Thailand is famous for",
+    "url": "https://dmcfinder.com/listing/devasom-khao-lak-beach-resort-villas/",
+    "location": "Phang-nga, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 81 728 8948",
+    "email": "",
+    "address": "Phang-nga, thailand"
+  },
+  {
+    "name": "Anantara Bophut Koh Samui Resort",
+    "description": "",
+    "url": "https://dmcfinder.com/listing/anantara-bophut-koh-samui-resort/",
+    "location": "Koh Samui, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 62 142 6516",
+    "email": "",
+    "address": "Koh Samui, thailand"
+  },
+  {
+    "name": "Mode Sathorn Hotel",
+    "description": "Check your fashionable lifestyle into this stylish hotel. Our 201 fashionable rooms in six categories, complemented with a spa, infinity-edge pool, rooftop bar, all-day dining and stylish meetings/events venues, in the commercial heart of Bangkok, steps",
+    "url": "https://dmcfinder.com/listing/mode-sathorn-hotel/",
+    "location": "Bangkok, thailand",
+    "type": "Tour Operator Dmc",
+    "source": "dmcfinder.com",
+    "category": "Leisure & Experience DMCs",
+    "phone": "+66 2 623 4555",
+    "email": "",
+    "address": "Bangkok, thailand"
+  },
+  {
+    "name": "MICE Thailand (Net)",
+    "url": "https://micethailand.net/",
+    "location": "Bangkok, Phuket",
+    "description": "Leading MICE DMC for corporate groups and incentives",
+    "category": "MICE & Event DMCs",
+    "phone": "065-749-5221",
+    "email": "info@micethailand.net"
+  },
+  {
+    "name": "MICE Magic Thailand",
+    "url": "https://www.micemagicthailand.com/",
+    "location": "Bangkok",
+    "description": "20+ years of corporate event management and DMC",
+    "category": "MICE & Event DMCs",
+    "phone": "+66988582388",
+    "email": "sales@micemagicthailand.com"
+  },
+  {
+    "name": "MC Planner (MICE Service)",
+    "url": "http://www.miceservice.com/",
+    "location": "Bangkok",
+    "description": "Award-winning DMC since 1997 for MICE programs",
+    "category": "MICE & Event DMCs",
+    "phone": "0791005842"
+  },
+  {
+    "name": "Phuket Event Company",
+    "url": "https://www.phuketeventcompany.com/",
+    "location": "Phuket, Bangkok",
+    "description": "MICE planner & events organiser across Thailand",
+    "category": "MICE & Event DMCs",
+    "phone": "+66 65 749 5221",
+    "email": "info@phuketeventcompany.com"
+  },
+  {
+    "name": "Royal Vacation DMC",
+    "url": "https://royalvacationdmc.com/",
+    "location": "Bangkok",
+    "description": "Professional MICE and corporate travel arrangements",
+    "category": "MICE & Event DMCs",
+    "phone": "+6623470613",
+    "email": "rsvn@royalvacationtours.com"
+  },
+  {
+    "name": "ITC Travel MICE",
+    "url": "https://www.itc.travel/mice",
+    "location": "Bangkok",
+    "description": "MICE industry specialist for Thailand",
+    "category": "MICE & Event DMCs",
+    "phone": "028320777"
+  },
+  {
+    "name": "MCI Thailand",
+    "url": "https://www.wearemci.com/",
+    "location": "Bangkok",
+    "description": "Global engagement agency for events and meetings",
+    "category": "MICE & Event DMCs",
+    "email": "hellouk@wearemci.com",
+    "phone": "0 3530 0100"
+  },
+  {
+    "name": "Thailand Convention & Exhibition Bureau",
+    "url": "https://www.businesseventsthailand.com/",
+    "location": "Bangkok",
+    "description": "National bureau promoting Thailand for MICE",
+    "category": "MICE & Event DMCs",
+    "phone": "019                                \n\n                                    2020                                \n\n                                    2021",
+    "email": "info@tceb.or.th"
+  },
+  {
+    "name": "CWT Meetings & Events Thailand",
+    "url": "https://www.mycwt.com/",
+    "location": "Bangkok",
+    "description": "Corporate travel and event management",
+    "category": "MICE & Event DMCs",
+    "phone": "068514591"
+  },
+  {
+    "name": "HIS Thailand",
+    "url": "https://www.his-bkk.com/",
+    "location": "Bangkok",
+    "description": "Japanese travel company's Bangkok MICE services",
+    "category": "MICE & Event DMCs",
+    "phone": "02-022-0908",
+    "email": "tha-yoyaku@his-world.com"
+  },
+  {
+    "name": "Reed Tradex Thailand",
+    "url": "https://www.reedtradex.com/",
+    "location": "Bangkok",
+    "description": "Exhibition and trade show organizer",
+    "category": "MICE & Event DMCs",
+    "phone": "09-4403-9988"
+  },
+  {
+    "name": "Index Creative Village",
+    "url": "https://www.indexcreativevillage.com/",
+    "location": "Bangkok",
+    "description": "Creative event production and brand experiences",
+    "category": "MICE & Event DMCs",
+    "phone": "025\n2024\n2023",
+    "email": "feedback@index-creative.com"
+  },
+  {
+    "name": "IMPACT Exhibition Management",
+    "url": "https://www.impact.co.th/",
+    "location": "Bangkok",
+    "description": "Exhibition centre and event management",
+    "category": "MICE & Event DMCs",
+    "phone": "082-737-7488",
+    "email": "info@impact.co.th"
+  },
+  {
+    "name": "Bangkok Convention Centre",
+    "url": "https://www.bcc.co.th/",
+    "location": "Bangkok",
+    "description": "Premier convention centre and event services",
+    "category": "MICE & Event DMCs",
+    "phone": "0689853022"
+  },
+  {
+    "name": "BITEC Bangkok",
+    "url": "https://www.bitec.co.th/",
+    "location": "Bangkok",
+    "description": "International trade & exhibition centre",
+    "category": "MICE & Event DMCs",
+    "phone": "02-726-1999"
+  },
+  {
+    "name": "Centara Convention Centre",
+    "url": "https://www.centarahotelsresorts.com/",
+    "location": "Bangkok, Pattaya",
+    "description": "Hotel chain with convention facilities",
+    "category": "MICE & Event DMCs",
+    "email": "",
+    "phone": "0444556454"
+  },
+  {
+    "name": "Avani+ Convention Hotel",
+    "url": "https://www.avanihotels.com/",
+    "location": "Bangkok",
+    "description": "Convention and meeting hotel services",
+    "category": "MICE & Event DMCs",
+    "phone": "+66 2 365 9110"
+  },
+  {
+    "name": "Amari Events Thailand",
+    "url": "https://www.amari.com/",
+    "location": "Bangkok, Phuket",
+    "description": "Hotel group event and conference services",
+    "category": "MICE & Event DMCs",
+    "phone": "+66 7730 0306"
+  },
+  {
+    "name": "Anantara MICE",
+    "url": "https://www.anantara.com/",
+    "location": "Multiple",
+    "description": "Luxury hotel group MICE services",
+    "category": "MICE & Event DMCs",
+    "phone": "000 800 040"
+  },
+  {
+    "name": "Banyan Tree MICE Bangkok",
+    "url": "https://www.banyantree.com/",
+    "location": "Bangkok",
+    "description": "Luxury venue for corporate events",
+    "category": "MICE & Event DMCs"
+  },
+  {
+    "name": "Dusit MICE",
+    "url": "https://www.dusit.com/",
+    "location": "Bangkok",
+    "description": "Thai hospitality group with MICE capabilities",
+    "category": "MICE & Event DMCs",
+    "email": "info.aksj@dusit.com",
+    "phone": "0313095458"
+  },
+  {
+    "name": "Sheraton Grande Bangkok Events",
+    "url": "https://www.marriott.com/",
+    "location": "Bangkok",
+    "description": "5-star venue for corporate meetings and events",
+    "category": "MICE & Event DMCs"
+  },
+  {
+    "name": "SO Bangkok Events",
+    "url": "https://www.so-bangkok.com/",
+    "location": "Bangkok",
+    "description": "Boutique luxury venue for creative events",
+    "category": "MICE & Event DMCs",
+    "phone": "+66 2624 0000",
+    "email": "h6835@so-hotels.com",
+    "address": "2 North Sathorn Road, Bangrak10500 Bangkok, Thailand"
+  },
+  {
+    "name": "Event Pop Thailand",
+    "url": "https://www.eventpop.me/",
+    "location": "Bangkok",
+    "description": "Event ticketing and management platform",
+    "category": "MICE & Event DMCs",
+    "phone": "0809013446"
+  },
+  {
+    "name": "Eventbrite Thailand",
+    "url": "https://www.eventbrite.com/",
+    "location": "Bangkok",
+    "description": "Event creation and ticket management",
+    "category": "MICE & Event DMCs",
+    "phone": "023949 113"
+  },
+  {
+    "name": "Asia Exhibition & Conferences",
+    "url": "https://www.aecasia.com/",
+    "location": "Bangkok",
+    "description": "Regional exhibition organizer",
+    "category": "MICE & Event DMCs"
+  },
+  {
+    "name": "Dream Incentive Thailand",
+    "url": "https://www.dreamincentive.com/",
+    "location": "Bangkok",
+    "description": "Creative incentive program designers",
+    "category": "MICE & Event DMCs",
+    "email": "info@dreamincentive.com",
+    "phone": "0216451334"
+  },
+  {
+    "name": "Onyx Hospitality Events",
+    "url": "https://www.onyx-hospitality.com/",
+    "location": "Bangkok",
+    "description": "Hotel group with event and conference services",
+    "category": "MICE & Event DMCs",
+    "phone": "02 255 3767"
+  },
+  {
+    "name": "Minor Hotels Events",
+    "url": "https://www.minorhotels.com/",
+    "location": "Multiple",
+    "description": "Hotel group MICE and event capabilities",
+    "category": "MICE & Event DMCs",
+    "phone": "+66 0 2365 9115"
+  },
+  {
+    "name": "Cape & Kantary Events",
+    "url": "https://www.capekantaryhotels.com/",
+    "location": "Multiple",
+    "description": "Thai hotel chain with meeting facilities",
+    "category": "MICE & Event DMCs",
+    "email": "enquiries@capekantaryhotels.com",
+    "phone": "+6622533791"
+  },
+  {
+    "name": "Siam Piwat Events",
+    "url": "https://www.siampiwat.com/",
+    "location": "Bangkok",
+    "description": "Retail and event space management",
+    "category": "MICE & Event DMCs",
+    "phone": "0281232745"
+  },
+  {
+    "name": "True Arena Hua Hin",
+    "url": "https://www.truearena.com/",
+    "location": "Hua Hin",
+    "description": "Sports and event venue",
+    "category": "MICE & Event DMCs"
+  },
+  {
+    "name": "Laguna Phuket Events",
+    "url": "https://www.lagunaphuket.com/",
+    "location": "Phuket",
+    "description": "Integrated resort events and MICE",
+    "category": "MICE & Event DMCs",
+    "email": "info@lagunaphuket.com",
+    "phone": "076-304-504"
+  },
+  {
+    "name": "Kata Group Events",
+    "url": "https://www.katathani.com/",
+    "location": "Phuket",
+    "description": "Resort group event services in Phuket",
+    "category": "MICE & Event DMCs",
+    "email": "reservation@katathani.com",
+    "phone": "+66 76 330 124"
+  },
+  {
+    "name": "Live International Thailand",
+    "url": "https://www.liveinternational.com/",
+    "location": "Bangkok",
+    "description": "Live event production and technical services",
+    "category": "MICE & Event DMCs"
+  },
+  {
+    "name": "Limousine.in.th",
+    "url": "https://limousine.in.th/",
+    "location": "Bangkok",
+    "description": "Airport transfer service to Pattaya, Ayutthaya, Hua Hin & more",
+    "category": "Transport & Transfer Services",
+    "phone": "+668-007-007",
+    "email": "info@limousine.in.th"
+  },
+  {
+    "name": "Elife Limo",
+    "url": "https://elifelimo.com/",
+    "location": "Bangkok",
+    "description": "Professional car service with app, 24/7 availability",
+    "category": "Transport & Transfer Services",
+    "phone": "00 814 4204",
+    "email": "support@elifelimo.com"
+  },
+  {
+    "name": "Oriental Escape Transfer",
+    "url": "https://www.orientalescape.com/transfer/thailand",
+    "location": "Bangkok",
+    "description": "World Travel Award winner, premium transport since 2018",
+    "category": "Transport & Transfer Services",
+    "phone": "091-007-0007",
+    "email": "contact@orientalescape.com",
+    "address": "No.11, Soi Borommaratchachonnani 73, Borommaratchachonnani Road, Chim Phli, Taling Chan"
+  },
+  {
+    "name": "Blacklane Thailand",
+    "url": "https://www.blacklane.com/en/airport-transfer-bangkok/",
+    "location": "Bangkok",
+    "description": "Luxury airport transfer and chauffeur service",
+    "category": "Transport & Transfer Services",
+    "phone": "0 2019959"
+  },
+  {
+    "name": "First Class Bangkok",
+    "url": "https://www.firstclassbangkok.com/",
+    "location": "Bangkok",
+    "description": "Airport limousine and VIP ground services",
+    "category": "Transport & Transfer Services",
+    "phone": "0-1255-5301",
+    "email": "info@firstclassbangkok.com"
+  },
+  {
+    "name": "GB Limousine",
+    "url": "https://gblimousine.net/",
+    "location": "Bangkok",
+    "description": "Private driver and airport VIP ground service",
+    "category": "Transport & Transfer Services",
+    "phone": "+66 2 821 5991",
+    "email": "5991booking@ground-business.com"
+  },
+  {
+    "name": "Thai Taxis",
+    "url": "https://www.thaitaxis.com/",
+    "location": "Bangkok, Pattaya",
+    "description": "Reliable taxi and private car rental service",
+    "category": "Transport & Transfer Services",
+    "email": "info@thaitaxis.com",
+    "phone": "0592045807"
+  },
+  {
+    "name": "Thai Limo",
+    "url": "https://www.thailimo.com/",
+    "location": "Bangkok",
+    "description": "Luxury sedan and van rental with driver",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "AirportTransfer.com Thailand",
+    "url": "https://www.airporttransfer.com/",
+    "location": "Multiple",
+    "description": "Online airport transfer booking platform",
+    "category": "Transport & Transfer Services",
+    "email": "at@airporttransfer.com",
+    "phone": "0-4432-875"
+  },
+  {
+    "name": "Klook Thailand Transfers",
+    "url": "https://www.klook.com/en-US/airport-transfers/city/4-bangkok-airport/",
+    "location": "Bangkok",
+    "description": "Platform for booking private and shared transfers",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "12Go Asia",
+    "url": "https://12go.asia/",
+    "location": "Multiple",
+    "description": "SE Asia transport booking (trains, buses, ferries, flights)",
+    "category": "Transport & Transfer Services",
+    "phone": "0399999999"
+  },
+  {
+    "name": "BusOnlineTicket Thailand",
+    "url": "https://www.busonlineticket.co.th/",
+    "location": "Multiple",
+    "description": "Bus ticket booking across Thailand",
+    "category": "Transport & Transfer Services",
+    "phone": "09055580013",
+    "email": "sales@busonlineticket.co.th"
+  },
+  {
+    "name": "Thai Railway Booking",
+    "url": "https://www.thairailwayticket.com/",
+    "location": "National",
+    "description": "Train ticket booking service",
+    "category": "Transport & Transfer Services",
+    "phone": "0791076536"
+  },
+  {
+    "name": "Bolt Thailand",
+    "url": "https://bolt.eu/",
+    "location": "Bangkok, Pattaya",
+    "description": "Ride-hailing app with competitive pricing",
+    "category": "Transport & Transfer Services",
+    "email": "",
+    "phone": "0318773731"
+  },
+  {
+    "name": "Grab Thailand",
+    "url": "https://www.grab.com/th/",
+    "location": "Multiple",
+    "description": "SE Asia's leading ride-hailing platform",
+    "category": "Transport & Transfer Services",
+    "phone": "08927 103"
+  },
+  {
+    "name": "InDrive Thailand",
+    "url": "https://indrive.com/",
+    "location": "Multiple",
+    "description": "Negotiable fare ride-hailing",
+    "category": "Transport & Transfer Services",
+    "email": "",
+    "phone": "+966599660393"
+  },
+  {
+    "name": "Lomprayah",
+    "url": "https://www.lomprayah.com/",
+    "location": "Gulf Islands",
+    "description": "Ferry and catamaran service to Koh Samui, Koh Tao, Koh Phangan",
+    "category": "Transport & Transfer Services",
+    "phone": "077950700",
+    "email": "customercare@lomprayah.com"
+  },
+  {
+    "name": "Seatran Ferry",
+    "url": "https://www.seatranferry.com/",
+    "location": "Gulf Islands",
+    "description": "Ferry services connecting gulf islands",
+    "category": "Transport & Transfer Services",
+    "phone": "084-0654455"
+  },
+  {
+    "name": "Andaman Wave Master",
+    "url": "https://andamanwavemaster.com/",
+    "location": "Phuket, Krabi",
+    "description": "Speedboat and ferry Andaman coast",
+    "category": "Transport & Transfer Services",
+    "phone": "+66 76 614 135"
+  },
+  {
+    "name": "Tigerline Ferry",
+    "url": "https://www.tigerlinetravel.com/",
+    "location": "Andaman Coast",
+    "description": "Ferry and speedboat island connections",
+    "category": "Transport & Transfer Services",
+    "phone": "0-8899-4114"
+  },
+  {
+    "name": "Nok Air",
+    "url": "https://www.nokair.com/",
+    "location": "National",
+    "description": "Low-cost domestic airline",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "Thai Lion Air",
+    "url": "https://www.lionairthai.com/",
+    "location": "National",
+    "description": "Low-cost domestic and regional airline",
+    "category": "Transport & Transfer Services",
+    "phone": "02 529 9839",
+    "email": "info@lionairthai.com"
+  },
+  {
+    "name": "Bangkok Airways",
+    "url": "https://www.bangkokair.com/",
+    "location": "National",
+    "description": "Boutique airline serving unique routes (Samui, Sukhothai)",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "Thai Vietjet",
+    "url": "https://www.vietjetair.com/",
+    "location": "National",
+    "description": "Low-cost carrier for domestic routes",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "AirAsia Thailand",
+    "url": "https://www.airasia.com/",
+    "location": "National",
+    "description": "Major low-cost carrier",
+    "category": "Transport & Transfer Services",
+    "phone": "0738585072"
+  },
+  {
+    "name": "Phuket Ferry",
+    "url": "https://www.phuketferry.com/",
+    "location": "Phuket",
+    "description": "Ferry connections from Phuket",
+    "category": "Transport & Transfer Services",
+    "phone": "0961520953"
+  },
+  {
+    "name": "Railay Beach Longtail",
+    "url": "https://www.railaybeach.com/",
+    "location": "Krabi",
+    "description": "Local longtail boat services",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "Bangkok River Taxi",
+    "url": "https://www.chaophrayaexpressboat.com/",
+    "location": "Bangkok",
+    "description": "Chao Phraya river boat service",
+    "category": "Transport & Transfer Services",
+    "phone": "086-331-4215",
+    "email": "info@chaophrayaexpressboat.com"
+  },
+  {
+    "name": "BTS Skytrain",
+    "url": "https://www.bts.co.th/",
+    "location": "Bangkok",
+    "description": "Bangkok mass transit system",
+    "category": "Transport & Transfer Services",
+    "phone": "0 2617 6000"
+  },
+  {
+    "name": "MRT Bangkok",
+    "url": "https://www.mrta.co.th/",
+    "location": "Bangkok",
+    "description": "Bangkok metro system",
+    "category": "Transport & Transfer Services",
+    "phone": "0 2716 4000",
+    "email": "saraban@mrta.co.th"
+  },
+  {
+    "name": "Airport Rail Link",
+    "url": "https://www.srtet.co.th/",
+    "location": "Bangkok",
+    "description": "Suvarnabhumi airport rail connection",
+    "category": "Transport & Transfer Services",
+    "email": "cus.redline@srtet.co.th",
+    "phone": "08088416"
+  },
+  {
+    "name": "Phuket Smart Bus",
+    "url": "https://www.phuketsmartbus.com/",
+    "location": "Phuket",
+    "description": "Airport to beaches shuttle service",
+    "category": "Transport & Transfer Services",
+    "phone": "086-306-1257",
+    "email": "info@phuketsmartbus.com"
+  },
+  {
+    "name": "Songthaew Chiang Mai",
+    "url": "https://www.chiangmaitraveller.com/",
+    "location": "Chiang Mai",
+    "description": "Local red truck shared transport",
+    "category": "Transport & Transfer Services",
+    "phone": "0326312833"
+  },
+  {
+    "name": "Thai Rent A Car",
+    "url": "https://www.thairentacar.com/",
+    "location": "Multiple",
+    "description": "Car rental with self-drive option",
+    "category": "Transport & Transfer Services",
+    "phone": "02-318-8888"
+  },
+  {
+    "name": "Budget Car Thailand",
+    "url": "https://www.budget.co.th/",
+    "location": "Multiple",
+    "description": "International car rental chain",
+    "category": "Transport & Transfer Services"
+  },
+  {
+    "name": "Hertz Thailand",
+    "url": "https://www.hertz.co.th/",
+    "location": "Multiple",
+    "description": "Global car rental with Thai fleet",
+    "category": "Transport & Transfer Services",
+    "phone": "06292623"
+  },
+  {
+    "name": "Sixt Thailand",
+    "url": "https://www.sixt.co.th/",
+    "location": "Multiple",
+    "description": "Premium car rental service",
+    "category": "Transport & Transfer Services",
+    "phone": "09-1479370"
+  },
+  {
+    "name": "Active Thailand",
+    "url": "https://active-thailand.com/",
+    "location": "Chiang Mai",
+    "description": "Cultural and nature adventures since 1991",
+    "category": "Adventure & Outdoor Operators",
+    "email": "filler@godaddy.com",
+    "phone": "+66816812400"
+  },
+  {
+    "name": "Flight of the Gibbon",
+    "url": "https://www.treetopasia.com/",
+    "location": "Chiang Mai, Pattaya",
+    "description": "Asia's first zipline jungle canopy experience",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Elephant Nature Park",
+    "url": "https://www.elephantnaturepark.org/",
+    "location": "Chiang Mai",
+    "description": "Ethical elephant sanctuary and rescue",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "0489788514"
+  },
+  {
+    "name": "Sea Canoe Thailand",
+    "url": "https://www.seacanoe.net/",
+    "location": "Phuket",
+    "description": "Original sea kayaking tours in Phang Nga Bay",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "0638344373"
+  },
+  {
+    "name": "Dive The World Thailand",
+    "url": "https://www.dive-the-world.com/",
+    "location": "Phuket, Koh Tao",
+    "description": "Diving holiday specialist across Thailand",
+    "category": "Adventure & Outdoor Operators",
+    "email": "ask@dive-the-world.com",
+    "phone": "0825053134"
+  },
+  {
+    "name": "Ban's Diving Resort",
+    "url": "https://www.bansdivingresort.com/",
+    "location": "Koh Tao",
+    "description": "Largest dive school in Southeast Asia",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "SSS Phuket Diving",
+    "url": "https://www.sssphuket.com/",
+    "location": "Phuket",
+    "description": "PADI dive center in Phuket",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@sssphuket.com",
+    "phone": "+66 895 869 920"
+  },
+  {
+    "name": "Similan Diving Safaris",
+    "url": "https://www.similan-diving-safaris.com/",
+    "location": "Phuket",
+    "description": "Liveaboard diving in Similan Islands",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 76 485 470",
+    "email": "info@similan-diving-safaris.com"
+  },
+  {
+    "name": "Rock Climbing Railay",
+    "url": "https://www.railayadventure.com/",
+    "location": "Krabi",
+    "description": "World-class rock climbing in Railay Beach",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@railayadventure.com",
+    "phone": "06-4799-9493"
+  },
+  {
+    "name": "Basecamp Tonsai",
+    "url": "https://www.basecamptonsai.com/",
+    "location": "Krabi",
+    "description": "Climbing courses and multi-pitch adventures",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "0599999964"
+  },
+  {
+    "name": "Thai Adventures",
+    "url": "https://www.thaiadventures.com/",
+    "location": "Multiple",
+    "description": "Multi-sport adventure travel operator",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Jungle Flight Chiang Mai",
+    "url": "https://www.jungleflight.com/",
+    "location": "Chiang Mai",
+    "description": "Zipline adventure through old-growth rainforest",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Paddle Asia",
+    "url": "https://www.paddleasia.com/",
+    "location": "Phuket",
+    "description": "Sea kayaking and stand-up paddleboarding",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 81 8936558"
+  },
+  {
+    "name": "Sail in Asia",
+    "url": "https://www.sailinasia.com/",
+    "location": "Phuket",
+    "description": "Sailing experiences and yacht charters",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 87 281 0458",
+    "email": "ceo@sailinasia.com"
+  },
+  {
+    "name": "John Gray's Sea Canoe",
+    "url": "https://www.johngray-seacanoe.com/",
+    "location": "Phuket",
+    "description": "Original Phang Nga Bay sea canoe tours",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "0631243404",
+    "email": "reservations@johngray-seacanoe.com"
+  },
+  {
+    "name": "Phuket Surf",
+    "url": "https://www.phuketsurfing.com/",
+    "location": "Phuket",
+    "description": "Surfing lessons and board rental",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Skydive Thailand",
+    "url": "https://www.skydivethailand.com/",
+    "location": "Pattaya",
+    "description": "Tandem skydiving experiences",
+    "category": "Adventure & Outdoor Operators",
+    "email": "fly@skydivethailand.com"
+  },
+  {
+    "name": "Pooh Eco Trekking",
+    "url": "https://www.pooh-ecotrekking.com/",
+    "location": "Chiang Mai",
+    "description": "Sustainable jungle and hill tribe treks",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@pooh-eco-trekking.com",
+    "phone": "0636281480"
+  },
+  {
+    "name": "Khao Sok Discovery",
+    "url": "https://www.khaosokdiscovery.com/",
+    "location": "Surat Thani",
+    "description": "National park tours and lake adventures",
+    "category": "Adventure & Outdoor Operators",
+    "email": "khaosoktravel@gmail.com",
+    "phone": "+66-93-7252714"
+  },
+  {
+    "name": "Our Jungle Camp",
+    "url": "https://www.ourjunglecamp.com/",
+    "location": "Khao Sok",
+    "description": "Treehouse resort and jungle experiences",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Elephant Hills",
+    "url": "https://www.elephanthills.com/",
+    "location": "Khao Sok",
+    "description": "Luxury tented jungle camps and ethical elephant experiences",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 5200 1186",
+    "email": "booking@elephanthills.com"
+  },
+  {
+    "name": "Anurak Community Lodge",
+    "url": "https://www.anuraklodge.com/",
+    "location": "Khao Sok",
+    "description": "Community-based eco-lodge and tours",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+6681 898 9271"
+  },
+  {
+    "name": "Pimalai Excursions",
+    "url": "https://www.pimalai.com/",
+    "location": "Koh Lanta",
+    "description": "Resort-based island and sea excursions",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 2 320 5500"
+  },
+  {
+    "name": "Koh Tao Divers",
+    "url": "https://www.kohtaodivers.com/",
+    "location": "Koh Tao",
+    "description": "PADI diving courses and fun dives",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@kohtaodivers.com",
+    "phone": "0809737692"
+  },
+  {
+    "name": "Crystal Dive Koh Tao",
+    "url": "https://www.crystaldive.com/",
+    "location": "Koh Tao",
+    "description": "Award-winning PADI 5-star dive center",
+    "category": "Adventure & Outdoor Operators",
+    "email": "contact@crystaldive.com",
+    "phone": "0515577845"
+  },
+  {
+    "name": "Samui Kayak Adventures",
+    "url": "https://www.samuikayaks.com/",
+    "location": "Koh Samui",
+    "description": "Kayaking and snorkeling excursions",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@samuikayaks.com",
+    "phone": "0255703680"
+  },
+  {
+    "name": "Blue Stars Kayaking",
+    "url": "https://www.bluestars.info/",
+    "location": "Koh Samui",
+    "description": "Multi-day sea kayaking adventures",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@bluestars.info",
+    "phone": "+66 8 7886 6097"
+  },
+  {
+    "name": "Elephant Jungle Sanctuary",
+    "url": "https://www.elephantjunglesanctuary.com/",
+    "location": "Chiang Mai, Phuket",
+    "description": "Ethical elephant experiences",
+    "category": "Adventure & Outdoor Operators",
+    "email": "chiangmai@elephantjunglesanctuary.com",
+    "phone": "+66-83-562-4263"
+  },
+  {
+    "name": "Patara Elephant Farm",
+    "url": "https://www.pataraelephantfarm.com/",
+    "location": "Chiang Mai",
+    "description": "Premium elephant conservation experience",
+    "category": "Adventure & Outdoor Operators",
+    "email": "pataraelephantfarm@hotmail.com",
+    "phone": "0875310966"
+  },
+  {
+    "name": "Cable Ski Pattaya",
+    "url": "https://www.thaiwakepark.com/",
+    "location": "Pattaya",
+    "description": "Cable wakeboarding park",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "0968785498"
+  },
+  {
+    "name": "Thai Muay Thai",
+    "url": "https://www.thaimuaythai.com/",
+    "location": "Bangkok, Phuket",
+    "description": "Muay Thai training camps and experiences",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Tiger Muay Thai",
+    "url": "https://www.tigermuaythai.com/",
+    "location": "Phuket",
+    "description": "MMA and Muay Thai training camp",
+    "category": "Adventure & Outdoor Operators",
+    "phone": "+66 76 367 071",
+    "email": "info@tigermuaythai.com",
+    "address": "7/35 Moo 5, Soi Ta-iad, Ao Chalong, Muang, Phuket 83130"
+  },
+  {
+    "name": "Fairtex Training Center",
+    "url": "https://www.fairtex.com/",
+    "location": "Pattaya",
+    "description": "Professional Muay Thai training and fitness",
+    "category": "Adventure & Outdoor Operators",
+    "email": "contact@fairtex.com",
+    "phone": "+662 385 5148"
+  },
+  {
+    "name": "Monsoon Valley Vineyard",
+    "url": "https://www.monsoonvalley.com/",
+    "location": "Hua Hin",
+    "description": "Wine tasting tours and vineyard experiences",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@monsoonvalley.com",
+    "phone": "0767168352"
+  },
+  {
+    "name": "Chiang Dao Nest",
+    "url": "https://www.chiangdao.com/",
+    "location": "Chiang Dao",
+    "description": "Nature lodges and mountain adventures",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Koh Yao Noi Eco",
+    "url": "https://www.kohyaonoi.com/",
+    "location": "Koh Yao Noi",
+    "description": "Eco-tours and island cycling",
+    "category": "Adventure & Outdoor Operators"
+  },
+  {
+    "name": "Phuket Elephant Sanctuary",
+    "url": "https://www.phuketelephantsanctuary.org/",
+    "location": "Phuket",
+    "description": "Ethical elephant conservation",
+    "category": "Adventure & Outdoor Operators",
+    "email": "info@phuketpes.org",
+    "phone": "+66 62 767 7111"
+  },
+  {
+    "name": "Bangkok Food Tours",
+    "url": "https://www.bangkokfoodtours.com/",
+    "location": "Bangkok",
+    "description": "Authentic join-in and private food culture tours",
+    "category": "Food & Culinary Operators",
+    "email": "info@bangkokfoodtours.com",
+    "phone": "+6695-943-9222"
+  },
+  {
+    "name": "Silom Thai Cooking School",
+    "url": "https://www.bangkokthaicooking.com/",
+    "location": "Bangkok",
+    "description": "Hands-on Thai cooking classes",
+    "category": "Food & Culinary Operators",
+    "phone": "0791213510"
+  },
+  {
+    "name": "Baipai Thai Cooking School",
+    "url": "https://www.baipai.com/",
+    "location": "Bangkok",
+    "description": "Premium cooking school in garden setting",
+    "category": "Food & Culinary Operators",
+    "email": "thaicooking@baipai.com",
+    "phone": "+66 89 6606535"
+  },
+  {
+    "name": "Blue Elephant Cooking School",
+    "url": "https://www.blueelephant.com/",
+    "location": "Bangkok",
+    "description": "Royal Thai cuisine cooking classes",
+    "category": "Food & Culinary Operators",
+    "phone": "+66 2 673 9353",
+    "email": "bangkok@blueelephant.com",
+    "address": "233 South Sathorn Road, Yannawa, Sathorn, Bangkok 10120"
+  },
+  {
+    "name": "Manohra Cruises",
+    "url": "https://www.manohracruises.com/",
+    "location": "Bangkok",
+    "description": "Traditional rice barge dining cruise",
+    "category": "Food & Culinary Operators",
+    "email": "info@manohra.com",
+    "phone": "+66 2 476 0022"
+  },
+  {
+    "name": "Chiang Mai Cooking Class",
+    "url": "https://www.chiangmaicookingclass.com/",
+    "location": "Chiang Mai",
+    "description": "Thai cooking class with market tour",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Thai Farm Cooking School",
+    "url": "https://www.thaifarmcooking.com/",
+    "location": "Chiang Mai",
+    "description": "Organic farm cooking experience",
+    "category": "Food & Culinary Operators",
+    "email": "thaifarmcooking@gmail.com",
+    "phone": "+66 81 288 5989"
+  },
+  {
+    "name": "Pantawan Cooking Class",
+    "url": "https://www.pantawancooking.com/",
+    "location": "Chiang Mai",
+    "description": "Home-style cooking in traditional house",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Mama Noi Cooking Class",
+    "url": "https://www.mamanoi.com/",
+    "location": "Chiang Mai",
+    "description": "Small group hands-on cooking classes",
+    "category": "Food & Culinary Operators",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Asia Scenic Cooking Class",
+    "url": "https://www.asiascenic.com/",
+    "location": "Chiang Mai",
+    "description": "Cooking class with market tour included",
+    "category": "Food & Culinary Operators",
+    "phone": "+66 53 418 657"
+  },
+  {
+    "name": "Phuket Thai Cooking Academy",
+    "url": "https://www.phuketthaicookingacademy.com/",
+    "location": "Phuket",
+    "description": "Cooking school with garden ingredients",
+    "category": "Food & Culinary Operators",
+    "email": "info@phuketthaicookingacademy.com",
+    "phone": "+66 098 885 4462"
+  },
+  {
+    "name": "Blue Elephant Phuket",
+    "url": "https://www.blueelephant.com/phuket/",
+    "location": "Phuket",
+    "description": "Royal Thai cuisine in historic mansion",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Sompong Thai Cooking School",
+    "url": "https://www.sompongthaicookingschool.com/",
+    "location": "Bangkok",
+    "description": "Authentic Thai cooking experience",
+    "category": "Food & Culinary Operators",
+    "email": "agustinamingote@gmail.com",
+    "phone": "06-61202515"
+  },
+  {
+    "name": "Issaya Cooking Studio",
+    "url": "https://www.issaya.com/",
+    "location": "Bangkok",
+    "description": "Celebrity chef cooking classes",
+    "category": "Food & Culinary Operators",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "Baan Thai Cookery School",
+    "url": "https://www.baanthaicookery.com/",
+    "location": "Chiang Mai",
+    "description": "Traditional Thai cooking classes",
+    "category": "Food & Culinary Operators",
+    "phone": "0 2238195"
+  },
+  {
+    "name": "Samui Institute of Thai Culinary Arts",
+    "url": "https://www.sitca.net/",
+    "location": "Koh Samui",
+    "description": "Professional culinary training and classes",
+    "category": "Food & Culinary Operators",
+    "email": "",
+    "phone": "0-4614-886"
+  },
+  {
+    "name": "Time For Lime",
+    "url": "https://www.timeforlime.net/",
+    "location": "Koh Lanta",
+    "description": "Cooking class supporting local community",
+    "category": "Food & Culinary Operators",
+    "email": "time4lime.booking@gmail.com"
+  },
+  {
+    "name": "Courageous Kitchen",
+    "url": "https://www.courageouskitchen.org/",
+    "location": "Bangkok",
+    "description": "Social enterprise cooking tours",
+    "category": "Food & Culinary Operators",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Mark Wiens Thailand Tours",
+    "url": "https://migrationology.com/",
+    "location": "Bangkok",
+    "description": "Famous food vlogger's guided food tours",
+    "category": "Food & Culinary Operators",
+    "email": "",
+    "phone": "0863785818"
+  },
+  {
+    "name": "A Chef's Tour Bangkok",
+    "url": "https://www.achefstour.com/",
+    "location": "Bangkok",
+    "description": "Guided food tours by local chefs",
+    "category": "Food & Culinary Operators",
+    "email": "info@achefstour.com",
+    "phone": "0317509313"
+  },
+  {
+    "name": "Doi Chaang Coffee Tour",
+    "url": "https://www.doichaangcoffee.com/",
+    "location": "Chiang Rai",
+    "description": "Coffee plantation tour and tasting",
+    "category": "Food & Culinary Operators",
+    "phone": "09819 100"
+  },
+  {
+    "name": "Bo.Lan Restaurant",
+    "url": "https://www.bolan.co.th/",
+    "location": "Bangkok",
+    "description": "Michelin-star sustainable Thai dining",
+    "category": "Food & Culinary Operators",
+    "email": "contact@bolan.co.th",
+    "phone": "0577969448"
+  },
+  {
+    "name": "Nahm Restaurant",
+    "url": "https://www.comohotels.com/",
+    "location": "Bangkok",
+    "description": "Award-winning refined Thai cuisine",
+    "category": "Food & Culinary Operators",
+    "phone": "0274821192"
+  },
+  {
+    "name": "Le Du Restaurant",
+    "url": "https://www.ledubkk.com/",
+    "location": "Bangkok",
+    "description": "Modern Thai fine dining, Asia's Best",
+    "category": "Food & Culinary Operators",
+    "phone": "07160777"
+  },
+  {
+    "name": "Paste Bangkok",
+    "url": "https://www.pastebangkok.com/",
+    "location": "Bangkok",
+    "description": "Progressive Thai cuisine restaurant",
+    "category": "Food & Culinary Operators",
+    "email": "info@pastebangkok.com",
+    "phone": "0216403169"
+  },
+  {
+    "name": "80/20 Restaurant",
+    "url": "https://www.8020bkk.com/",
+    "location": "Bangkok",
+    "description": "Progressive Thai dining using local ingredients",
+    "category": "Food & Culinary Operators",
+    "phone": "+66 99 118 2200"
+  },
+  {
+    "name": "Err Urban Rustic Thai",
+    "url": "https://www.errbkk.com/",
+    "location": "Bangkok",
+    "description": "Rustic Thai street food dining",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Soul Food Mahanakorn",
+    "url": "https://www.soulfoodmahanakorn.com/",
+    "location": "Bangkok",
+    "description": "Elevated Thai comfort food and cocktails",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Supanniga Eating Room",
+    "url": "https://www.supannigaeatingroom.com/",
+    "location": "Bangkok",
+    "description": "Eastern Thai home-cooking restaurant",
+    "category": "Food & Culinary Operators",
+    "phone": "+66 91 774 9808",
+    "email": "reservation@supannigagroup.com",
+    "address": "160/11 Soi Sukhumvit 55 (Thonglor), Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Issaya Siamese Club",
+    "url": "https://www.issaya.com/",
+    "location": "Bangkok",
+    "description": "Chef Ian Kittichai's innovative Thai",
+    "category": "Food & Culinary Operators",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "Namsaah Bottling Trust",
+    "url": "https://www.namsaah.com/",
+    "location": "Bangkok",
+    "description": "Thai tapas and craft cocktails",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Cabbages & Condoms",
+    "url": "https://www.cabbagesandcondoms.com/",
+    "location": "Bangkok",
+    "description": "Iconic restaurant supporting social causes",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Ruen Mallika",
+    "url": "https://www.ruenmallika.com/",
+    "location": "Bangkok",
+    "description": "Traditional Thai restaurant in heritage house",
+    "category": "Food & Culinary Operators",
+    "email": "info@ruenmallika.com",
+    "phone": "+6684-088-3755"
+  },
+  {
+    "name": "Baan Khanitha",
+    "url": "https://www.baankhanitha.com/",
+    "location": "Bangkok",
+    "description": "Classic Thai fine dining since 1991",
+    "category": "Food & Culinary Operators",
+    "email": "info@baan-khanitha.com",
+    "phone": "+660634746858"
+  },
+  {
+    "name": "Khao Soi Khun Yai",
+    "url": "https://www.khaosoi.com/",
+    "location": "Chiang Mai",
+    "description": "Legendary khao soi noodle shop",
+    "category": "Food & Culinary Operators",
+    "email": "hello@eatmanaao.com",
+    "phone": "02 513342"
+  },
+  {
+    "name": "Krua Apsorn",
+    "url": "https://www.kruaapsorn.com/",
+    "location": "Bangkok",
+    "description": "Royal-recipe Thai restaurant near Grand Palace",
+    "category": "Food & Culinary Operators"
+  },
+  {
+    "name": "Kamalaya Koh Samui",
+    "url": "https://kamalaya.com/",
+    "location": "Koh Samui",
+    "description": "Holistic wellness resort with naturopaths and TCM",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 77 429 800",
+    "email": "info@kamalaya.com",
+    "address": "102/9 Moo 3, Laem Set Road, Na-Muang, Koh Samui, Surat Thani 84140"
+  },
+  {
+    "name": "Samahita Retreat",
+    "url": "https://samahitaretreat.com/",
+    "location": "Koh Samui",
+    "description": "Asia's pioneering yoga and wellbeing retreat since 2003",
+    "category": "Wellness & Spa Services",
+    "phone": "0250217045"
+  },
+  {
+    "name": "The Sanctuary Thailand",
+    "url": "https://thesanctuarythailand.com/",
+    "location": "Koh Phangan",
+    "description": "Premier wellness resort for yoga, detox and healing",
+    "category": "Wellness & Spa Services",
+    "email": "holidayasiabookings@gmail.com",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Ananda Yoga & Detox",
+    "url": "https://anandayogadetox.com/",
+    "location": "Koh Phangan",
+    "description": "16+ years premier detox retreat in Thailand",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 77 377 645",
+    "email": "info@anandayogadetox.com",
+    "address": "16/3 Moo 6, Koh Phangan, Surat Thani 84280"
+  },
+  {
+    "name": "Chiva-Som",
+    "url": "https://www.chivasom.com/",
+    "location": "Hua Hin",
+    "description": "World-renowned luxury health resort",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 32 536 536",
+    "email": "reservation@chivasom.com",
+    "address": "73/4 Petchkasem Road, Hua Hin, Prachuap Khiri Khan 77110"
+  },
+  {
+    "name": "RAKxa Wellness",
+    "url": "https://www.rakxawellness.com/",
+    "location": "Bangkok",
+    "description": "Integrative wellness and medical retreat",
+    "category": "Wellness & Spa Services",
+    "email": "customerrelations@rakxawellness.com",
+    "phone": "+66 65 950 6388"
+  },
+  {
+    "name": "Absolute Sanctuary",
+    "url": "https://www.absolutesanctuary.com/",
+    "location": "Koh Samui",
+    "description": "Detox, yoga, Pilates and spa resort",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 77 601 190",
+    "email": "bookings@absolutesanctuary.com",
+    "address": "88 Moo 5, Cheongmon, Bophut, Koh Samui, Surat Thani 84320"
+  },
+  {
+    "name": "Museflower Retreat & Spa",
+    "url": "https://www.museflower.com/",
+    "location": "Chiang Rai",
+    "description": "Holistic retreat with yoga and meditation",
+    "category": "Wellness & Spa Services",
+    "email": "retreat@museflower.com",
+    "phone": "+66931370414"
+  },
+  {
+    "name": "True Nature Chiang Mai",
+    "url": "https://www.truenaturecm.com/",
+    "location": "Chiang Mai",
+    "description": "Yoga retreat and meditation homestay",
+    "category": "Wellness & Spa Services",
+    "email": "info@truenaturecm.com",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "Wellness Retreats Thailand",
+    "url": "https://www.wellnessretreatsthailand.com/",
+    "location": "Multiple",
+    "description": "Directory of 50+ wellness retreats",
+    "category": "Wellness & Spa Services",
+    "email": "juan@wellnessretreatsthailand.com",
+    "phone": "02210714"
+  },
+  {
+    "name": "Orion Healing Center",
+    "url": "https://www.orionhealing.com/",
+    "location": "Koh Phangan",
+    "description": "Yoga, detox, and healing therapies",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Vikasa Yoga Retreat",
+    "url": "https://vikasa.com/",
+    "location": "Koh Samui",
+    "description": "Luxury yoga and transformation retreat",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Wild Rose Yoga",
+    "url": "https://www.wildroseyoga.com/",
+    "location": "Koh Phangan",
+    "description": "Yoga teacher training and retreats",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Suan Sati Yoga",
+    "url": "https://www.suansati.com/",
+    "location": "Chiang Mai",
+    "description": "Mindfulness yoga retreat in nature",
+    "category": "Wellness & Spa Services",
+    "email": "info@suansati.com",
+    "phone": "+66-091-076-4970"
+  },
+  {
+    "name": "Yoga Thailand",
+    "url": "https://www.yogathailand.com/",
+    "location": "Koh Samui",
+    "description": "Daily yoga classes and retreat programs",
+    "category": "Wellness & Spa Services",
+    "phone": "0-2276-3134"
+  },
+  {
+    "name": "Oasis Spa",
+    "url": "https://www.oasisspa.net/",
+    "location": "Bangkok, Chiang Mai, Phuket",
+    "description": "Award-winning spa chain across Thailand",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 2 262 2122",
+    "email": "res@oasisspa.net",
+    "address": "131/44 Moo 1 Chang Puak, Muang Chiang Mai, Chiang Mai 50300"
+  },
+  {
+    "name": "Let's Relax Spa",
+    "url": "https://www.letsrelaxspa.com/",
+    "location": "Multiple",
+    "description": "Premium spa chain with 20+ locations",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 2 641 6619"
+  },
+  {
+    "name": "Health Land Spa",
+    "url": "https://www.healthlandspa.com/",
+    "location": "Bangkok",
+    "description": "Quality Thai massage and spa treatments",
+    "category": "Wellness & Spa Services",
+    "phone": "02261-1110"
+  },
+  {
+    "name": "Asia Herb Association",
+    "url": "https://www.asiaherbassociation.com/",
+    "location": "Bangkok",
+    "description": "Herbal spa treatments and Thai massage",
+    "category": "Wellness & Spa Services",
+    "phone": "+66-2-254-8631"
+  },
+  {
+    "name": "Banyan Tree Spa",
+    "url": "https://www.banyantreespa.com/",
+    "location": "Bangkok, Phuket, Samui",
+    "description": "Award-winning luxury spa brand",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Six Senses Spa Thailand",
+    "url": "https://www.sixsenses.com/",
+    "location": "Koh Samui, Koh Yao Noi",
+    "description": "Ultra-luxury wellness and spa experiences",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "COMO Shambhala",
+    "url": "https://www.comohotels.com/",
+    "location": "Bangkok",
+    "description": "Holistic wellness within luxury hotels",
+    "category": "Wellness & Spa Services",
+    "phone": "0274821192"
+  },
+  {
+    "name": "So Thai Spa",
+    "url": "https://www.sothaispa.com/",
+    "location": "Bangkok",
+    "description": "Contemporary Thai spa experience",
+    "category": "Wellness & Spa Services",
+    "phone": "078865302"
+  },
+  {
+    "name": "Rarinjinda Wellness Spa",
+    "url": "https://www.rarinjinda.com/",
+    "location": "Chiang Mai",
+    "description": "Boutique wellness resort and day spa",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Fah Lanna Spa",
+    "url": "https://www.fahlanna.com/",
+    "location": "Chiang Mai",
+    "description": "Lanna-inspired spa and wellness",
+    "category": "Wellness & Spa Services",
+    "email": "email@fahlanna.com",
+    "phone": "+66888049984"
+  },
+  {
+    "name": "The Barai Spa",
+    "url": "https://www.thebarai.com/",
+    "location": "Hua Hin",
+    "description": "Hyatt resort destination spa",
+    "category": "Wellness & Spa Services",
+    "phone": "0956945309"
+  },
+  {
+    "name": "Aleenta Spa",
+    "url": "https://www.aleenta.com/",
+    "location": "Hua Hin, Phuket",
+    "description": "Boutique resort and wellness spa",
+    "category": "Wellness & Spa Services",
+    "email": "fom.ahh@aleenta.com",
+    "phone": "+66 32 618 333"
+  },
+  {
+    "name": "Devarana Spa",
+    "url": "https://www.devaranaspa.com/",
+    "location": "Bangkok",
+    "description": "Dusit luxury spa brand",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Panpuri Organic Spa",
+    "url": "https://www.panpuri.com/",
+    "location": "Bangkok",
+    "description": "Organic Thai spa and wellness products",
+    "category": "Wellness & Spa Services",
+    "phone": "0 250774541"
+  },
+  {
+    "name": "Thann Sanctuary Spa",
+    "url": "https://www.thann.co.th/",
+    "location": "Bangkok",
+    "description": "Natural Thai spa brand experience",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Spa Cenvaree",
+    "url": "https://www.spacenvaree.com/",
+    "location": "Multiple",
+    "description": "Centara Hotels signature spa",
+    "category": "Wellness & Spa Services",
+    "email": "censecwb@chr.co.th",
+    "phone": "+6626251234"
+  },
+  {
+    "name": "Divana Spa",
+    "url": "https://www.divanaspa.com/",
+    "location": "Bangkok",
+    "description": "Luxury Thai spa with herbal traditions",
+    "category": "Wellness & Spa Services",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Harnn Heritage Spa",
+    "url": "https://www.harnn.com/",
+    "location": "Bangkok",
+    "description": "Heritage-inspired Thai spa",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Bhawa Spa",
+    "url": "https://www.bhawaspa.com/",
+    "location": "Bangkok",
+    "description": "Premium wellness and spa retreat",
+    "category": "Wellness & Spa Services",
+    "email": "rsv.ontheeight@bhawaspa.com",
+    "phone": "02 254 9663"
+  },
+  {
+    "name": "San Kamphaeng Hot Springs",
+    "url": "https://www.chiangmai.com/",
+    "location": "Chiang Mai",
+    "description": "Natural mineral hot springs",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "The Dawn Rehab",
+    "url": "https://thedawnrehab.com/",
+    "location": "Chiang Mai",
+    "description": "Mental wellness and rehabilitation retreat",
+    "category": "Wellness & Spa Services",
+    "email": "contact@thedawnrehab.com",
+    "phone": "+66 52 135 123"
+  },
+  {
+    "name": "Amatara Wellness Resort",
+    "url": "https://www.amataraphuket.com/",
+    "location": "Phuket",
+    "description": "Luxury wellness resort with Turkish hammam",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Mangosteen Ayurveda",
+    "url": "https://www.mangosteen-phuket.com/",
+    "location": "Phuket",
+    "description": "Ayurvedic wellness resort",
+    "category": "Wellness & Spa Services",
+    "email": "info@brandnamic.com",
+    "phone": "+66 91 0415615"
+  },
+  {
+    "name": "Atmanjai Wellness",
+    "url": "https://www.atmanjai.com/",
+    "location": "Phuket",
+    "description": "Detox, yoga, and fitness retreat",
+    "category": "Wellness & Spa Services",
+    "email": "bookings@atmanjai.com",
+    "phone": "0938029058"
+  },
+  {
+    "name": "Wat Suan Mokkh",
+    "url": "https://www.suanmokkh.org/",
+    "location": "Surat Thani",
+    "description": "10-day silent meditation retreat",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 2-936-2800"
+  },
+  {
+    "name": "Doi Suthep Meditation",
+    "url": "https://www.doisuthep.com/",
+    "location": "Chiang Mai",
+    "description": "Temple meditation and mindfulness",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "International Dhamma Hermitage",
+    "url": "https://www.suanmokkh.org/",
+    "location": "Surat Thani",
+    "description": "Buddhist meditation retreat center",
+    "category": "Wellness & Spa Services",
+    "phone": "+66 2-936-2800"
+  },
+  {
+    "name": "Wat Mahathat Meditation",
+    "url": "https://www.watmahathat.com/",
+    "location": "Bangkok",
+    "description": "Vipassana meditation in central Bangkok",
+    "category": "Wellness & Spa Services",
+    "phone": "03-893-0552"
+  },
+  {
+    "name": "Peace Revolution",
+    "url": "https://www.peacerevolution.net/",
+    "location": "Multiple",
+    "description": "Free meditation and inner peace programs",
+    "category": "Wellness & Spa Services",
+    "phone": "0-4442-9682"
+  },
+  {
+    "name": "Dhamma Kancana Vipassana",
+    "url": "https://www.dhamma.org/",
+    "location": "Kanchanaburi",
+    "description": "10-day Vipassana meditation courses",
+    "category": "Wellness & Spa Services"
+  },
+  {
+    "name": "Wat Pa Tam Wua",
+    "url": "https://www.watpatamwua.com/",
+    "location": "Mae Hong Son",
+    "description": "Forest monastery meditation retreat",
+    "category": "Wellness & Spa Services",
+    "phone": "0-3085-443"
+  },
+  {
+    "name": "The Yard Hostel Bangkok",
+    "url": "https://www.theyardhostel.com/",
+    "location": "Bangkok",
+    "description": "Design hostel in creative district",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Lub d Bangkok",
+    "url": "https://www.lubd.com/",
+    "location": "Bangkok",
+    "description": "Award-winning hostel chain for smart travelers",
+    "category": "Boutique Hotels & Hostels",
+    "email": "rsvn@lubd.com",
+    "phone": "0562484213"
+  },
+  {
+    "name": "NapPark Hostel",
+    "url": "https://www.nappark.com/",
+    "location": "Bangkok",
+    "description": "Boutique hostel near Khao San Road",
+    "category": "Boutique Hotels & Hostels",
+    "email": "contact@nappark.com",
+    "phone": "0863423926"
+  },
+  {
+    "name": "Once Again Hostel",
+    "url": "https://www.onceagainhostel.com/",
+    "location": "Bangkok",
+    "description": "Social enterprise hostel with local community focus",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "02721263"
+  },
+  {
+    "name": "Hom Hostel & Cooking Club",
+    "url": "https://www.homhostel.com/",
+    "location": "Bangkok",
+    "description": "Hostel with Thai cooking experiences",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Ad Lib Bangkok",
+    "url": "https://www.adlibhotels.com/",
+    "location": "Bangkok",
+    "description": "Art-inspired boutique hotel",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Warehouse 30 Hostel",
+    "url": "https://www.warehouse30.com/",
+    "location": "Bangkok",
+    "description": "Creative hub hostel in Charoenkrung",
+    "category": "Boutique Hotels & Hostels",
+    "email": "hello@warehouse30.com",
+    "phone": "02 237 5087"
+  },
+  {
+    "name": "Stamps Backpackers",
+    "url": "https://www.stampsbackpackers.com/",
+    "location": "Chiang Mai",
+    "description": "Social hostel in old city",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "+66 90 318 8867"
+  },
+  {
+    "name": "Green Tiger House",
+    "url": "https://www.greentigerhouse.com/",
+    "location": "Chiang Mai",
+    "description": "Eco-conscious hostel with garden",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Hug Hostel Chiang Mai",
+    "url": "https://www.hughostel.com/",
+    "location": "Chiang Mai",
+    "description": "Community-focused hostel in old city",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Julie Guesthouse",
+    "url": "https://www.julieguesthouse.com/",
+    "location": "Chiang Mai",
+    "description": "Budget-friendly guesthouse classic",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "The Work Loft Phuket",
+    "url": "https://www.theworkloft.com/",
+    "location": "Phuket",
+    "description": "Coworking space and hostel for nomads",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@theworkloft.com",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "Slumber Party Phuket",
+    "url": "https://www.slumberparty.co/",
+    "location": "Phuket",
+    "description": "Fun social hostel near Patong",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Mad Monkey Hostel",
+    "url": "https://www.madmonkeyhostels.com/",
+    "location": "Bangkok, Koh Phangan",
+    "description": "Social hostel chain with events",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "0926772197"
+  },
+  {
+    "name": "Bodega Bangkok",
+    "url": "https://www.bodegahostels.com/",
+    "location": "Bangkok",
+    "description": "Party hostel with rooftop bar",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "The Chiang Mai White House",
+    "url": "https://www.chiangmaiwhitehouse.com/",
+    "location": "Chiang Mai",
+    "description": "Colonial-style boutique accommodation",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Dash Resort Koh Samui",
+    "url": "https://www.dashhospitality.com/",
+    "location": "Koh Samui",
+    "description": "Design-forward boutique resort",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Selina Hostel Phuket",
+    "url": "https://www.selina.com/",
+    "location": "Phuket",
+    "description": "Global nomad hostel chain with cowork",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Nomad Residence Chiang Mai",
+    "url": "https://nomadresidence.com/",
+    "location": "Chiang Mai",
+    "description": "Long-stay accommodation for digital nomads",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "0789670778"
+  },
+  {
+    "name": "Casa de Moda Chiang Mai",
+    "url": "https://www.casademoda.co/",
+    "location": "Chiang Mai",
+    "description": "Boutique hotel in Nimman area",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "0837139175"
+  },
+  {
+    "name": "X2 Vibe Hotels",
+    "url": "https://www.x2resorts.com/",
+    "location": "Multiple",
+    "description": "Boutique lifestyle hotel brand",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "U Hotels & Resorts",
+    "url": "https://www.uhotelsresorts.com/",
+    "location": "Multiple",
+    "description": "Thai boutique hotel chain",
+    "category": "Boutique Hotels & Hostels",
+    "email": "reserve@uhotelsresorts.com",
+    "phone": "+662 096 6200"
+  },
+  {
+    "name": "Sala Hospitality Group",
+    "url": "https://www.salahospitality.com/",
+    "location": "Multiple",
+    "description": "Award-winning boutique resort group",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@salahospitality.com",
+    "phone": "+66 22 312 588"
+  },
+  {
+    "name": "Siripanna Villa Resort",
+    "url": "https://www.siripanna.com/",
+    "location": "Chiang Mai",
+    "description": "Lanna-inspired boutique resort",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@siripannagroup.com",
+    "phone": "043027214"
+  },
+  {
+    "name": "137 Pillars House",
+    "url": "https://www.137pillarshotels.com/",
+    "location": "Chiang Mai, Bangkok",
+    "description": "Heritage luxury boutique hotels",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Rachamankha Hotel",
+    "url": "https://www.rachamankha.com/",
+    "location": "Chiang Mai",
+    "description": "Lanna architecture boutique hotel",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Na Nirand Romantic Boutique",
+    "url": "https://www.nanirand.com/",
+    "location": "Chiang Mai",
+    "description": "Riverside romantic boutique resort",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@ndiscovered.com",
+    "phone": "+660936299998"
+  },
+  {
+    "name": "Ping Nakara Boutique Hotel",
+    "url": "https://www.pingnakara.com/",
+    "location": "Chiang Mai",
+    "description": "Colonial Lanna boutique hotel",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "+66 5325 2999"
+  },
+  {
+    "name": "Akyra Manor Chiang Mai",
+    "url": "https://www.theakyra.com/",
+    "location": "Chiang Mai",
+    "description": "Small luxury hotel in Nimman",
+    "category": "Boutique Hotels & Hostels",
+    "email": "rsvn.aph@akaryn.com",
+    "phone": "+66 76 580 333"
+  },
+  {
+    "name": "Baan Krating Phuket",
+    "url": "https://www.baankrating.com/",
+    "location": "Phuket",
+    "description": "Jungle boutique resort",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "The Siam Hotel",
+    "url": "https://www.thesiamhotel.com/",
+    "location": "Bangkok",
+    "description": "Ultra-luxury riverside boutique hotel",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@thesiamhotel.com",
+    "phone": "+66 2206 6999"
+  },
+  {
+    "name": "Ariyasom Villa",
+    "url": "https://www.ariyasom.com/",
+    "location": "Bangkok",
+    "description": "Heritage boutique wellness hotel",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@ariyasom.com",
+    "phone": "+6622548880"
+  },
+  {
+    "name": "Cabochon Hotel",
+    "url": "https://www.cabochonhotel.com/",
+    "location": "Bangkok",
+    "description": "Art Deco boutique in heritage district",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Hotel Muse Bangkok",
+    "url": "https://www.hotelmusebangkok.com/",
+    "location": "Bangkok",
+    "description": "Luxury lifestyle boutique hotel",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Collective Hospitality",
+    "url": "https://collectivehospitality.com/",
+    "location": "Multiple",
+    "description": "Hostel group with properties across Thailand",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Koh Tao Hostel",
+    "url": "https://www.kohtaohostel.com/",
+    "location": "Koh Tao",
+    "description": "Backpacker hostel on dive island",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "0714285718"
+  },
+  {
+    "name": "Feung Nakorn Balcony",
+    "url": "https://www.feungnakorn.com/",
+    "location": "Bangkok",
+    "description": "Heritage boutique in old town",
+    "category": "Boutique Hotels & Hostels",
+    "email": "front@feungnakorn.com",
+    "phone": "+66 92 269 8087"
+  },
+  {
+    "name": "Praya Palazzo",
+    "url": "https://www.prayapalazzo.com/",
+    "location": "Bangkok",
+    "description": "Riverside heritage boutique hotel",
+    "category": "Boutique Hotels & Hostels",
+    "email": "reservation@prayapalazzo.com",
+    "phone": "+66 28 832 998"
+  },
+  {
+    "name": "Riva Surya Bangkok",
+    "url": "https://www.rivasurya.com/",
+    "location": "Bangkok",
+    "description": "Contemporary riverside boutique",
+    "category": "Boutique Hotels & Hostels"
+  },
+  {
+    "name": "Maison Dalabua",
+    "url": "https://www.maisondalabua.com/",
+    "location": "Bangkok",
+    "description": "French-Thai boutique hotel",
+    "category": "Boutique Hotels & Hostels",
+    "phone": "0 5565 5013"
+  },
+  {
+    "name": "Inn A Day Bangkok",
+    "url": "https://www.innaday.com/",
+    "location": "Bangkok",
+    "description": "Heritage riverside boutique hotel",
+    "category": "Boutique Hotels & Hostels",
+    "email": "info@innaday.com",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "Tingly Thai Cooking School",
+    "category": "Food & Culinary Operators",
+    "url": "https://tinglythaicookingschool.com",
+    "location": "17/1 Soi Prachum (Silom 22), Surawong Road, Bangrak, Bangkok 10500",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 86 903 2963",
+    "email": "tinglythaicooking@hotmail.com",
+    "address": "17/1 Soi Prachum (Silom 22), Surawong Road, Bangrak, Bangkok 10500"
+  },
+  {
+    "name": "Siam Niramit Phuket",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://siamniramitphuket.com",
+    "location": "55/81 Moo 5 Chalermprakiat Road, Rassada, Mueang Phuket 83000",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 76 335 000",
+    "email": "reservationphuket@siamniramit.com",
+    "address": "55/81 Moo 5 Chalermprakiat Road, Rassada, Mueang Phuket 83000",
+    "description": "World-class cultural show about Thai history"
+  },
+  {
+    "name": "The Tuk Tuk Club",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://thetuktukclub.com",
+    "location": "Chiang Mai, Thailand",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 53 285 556",
+    "email": "bookings@thetuktukclub.com",
+    "address": "Chiang Mai, Thailand"
+  },
+  {
+    "name": "TIC Holidays Co., Ltd",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://tictours.com",
+    "location": "393 Click Denim Bldg, 3rd Floor, Sukhumvit-63, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 82 720 0090",
+    "email": "ticholidays@tictours.com",
+    "address": "393 Click Denim Bldg, 3rd Floor, Sukhumvit-63, Bangkok 10110"
+  },
+  {
+    "name": "LJ Biz",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://lets-tour-bangkok.com",
+    "location": "40/83 Sailom Home Office, Soi Intramara 8, Suthisan Rd, Bangkok 10400",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 616 6007",
+    "email": "info@lets-tour-bangkok.com",
+    "address": "40/83 Sailom Home Office, Soi Intramara 8, Suthisan Rd, Bangkok 10400"
+  },
+  {
+    "name": "Feast Thailand",
+    "category": "Food & Culinary Operators",
+    "url": "https://feastthailand.com",
+    "location": "10 Naebkhehart Road, Hua Hin, Prachuap Khiri Khan 77110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 32 510 207",
+    "email": "info@feastthailand.com",
+    "address": "10 Naebkhehart Road, Hua Hin, Prachuap Khiri Khan 77110"
+  },
+  {
+    "name": "Dragon Flight Ziplining Canopy Tour",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://dragonflightchiangmai.com",
+    "location": "47/2 Moonmuang Road, T. Prasing A. Muang, Chiang Mai 50200",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 81 884 5887",
+    "email": "info@dragonflightchiangmai.com",
+    "address": "47/2 Moonmuang Road, T. Prasing A. Muang, Chiang Mai 50200"
+  },
+  {
+    "name": "Phoenix Adventure Park",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://phoenixadventurepark.com",
+    "location": "147 M.6 T. Mae Raem, A. Mae Rim, Chiang Mai 50180",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 94 753 5551",
+    "email": "phoenixzipline@gmail.com",
+    "address": "147 M.6 T. Mae Raem, A. Mae Rim, Chiang Mai 50180"
+  },
+  {
+    "name": "Monjam Zipline Adventure",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://chiangmaitraveller.com",
+    "location": "99/9 M. 2 Pongyang, Mae Rim, Chiang Mai 50180",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 92 973 8868",
+    "email": "pobsanookmonjam@gmail.com",
+    "address": "99/9 M. 2 Pongyang, Mae Rim, Chiang Mai 50180"
+  },
+  {
+    "name": "Roctopus Dive",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://roctopusdive.com",
+    "location": "17 Moo 1, Koh Tao, Koh Pha-ngan District, Surat Thani 84360",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 99 470 4566",
+    "email": "info@roctopusdive.com",
+    "address": "17 Moo 1, Koh Tao, Koh Pha-ngan District, Surat Thani 84360"
+  },
+  {
+    "name": "Duck'n Dive Koh Tao",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://duckndivekohtao.com",
+    "location": "Koh Tao Hillside Dive Resort, Koh Tao, Surat Thani 84360",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 83 431 8998",
+    "email": "info@duckndivekohtao.com",
+    "address": "Koh Tao Hillside Dive Resort, Koh Tao, Surat Thani 84360"
+  },
+  {
+    "name": "Phuket Paradise Trip",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://phuketparadisetrip.com",
+    "location": "54/2 Moo 7, Chalong, Mueang Phuket District, Phuket 83130",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 88 762 3627",
+    "email": "phuketatvtour@gmail.com",
+    "address": "54/2 Moo 7, Chalong, Mueang Phuket District, Phuket 83130"
+  },
+  {
+    "name": "Phuket ATV Tour",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://atvphuket.com",
+    "location": "59/26 Moo 5, Srisoonthorn, Thalang District, Phuket 83110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 89 874 0055",
+    "email": "admin@atvphuket.com",
+    "address": "59/26 Moo 5, Srisoonthorn, Thalang District, Phuket 83110"
+  },
+  {
+    "name": "Railay Rock You",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://railayrockyou.com",
+    "location": "Railay Beach, Krabi 81000",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 81 415 5464",
+    "email": "info@railayrockyou.com",
+    "address": "Railay Beach, Krabi 81000"
+  },
+  {
+    "name": "RAKxa Integrative Wellness",
+    "category": "Wellness & Spa Services",
+    "url": "https://rakxawellness.com",
+    "location": "1/1 Moo 6, Bang Nam Phueng, Phra Pradaeng, Samut Prakan 10130",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 055 3100",
+    "email": "info@rakxawellness.com",
+    "address": "1/1 Moo 6, Bang Nam Phueng, Phra Pradaeng, Samut Prakan 10130"
+  },
+  {
+    "name": "Layan Life by Anantara",
+    "category": "Wellness & Spa Services",
+    "url": "https://layanlifephuket.com",
+    "location": "168 Moo 6, Layan Beach Soi 4, Cherngtalay, Thalang District, Phuket 83110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 76 317 210",
+    "email": "layanlife@anantara.com",
+    "address": "168 Moo 6, Layan Beach Soi 4, Cherngtalay, Thalang District, Phuket 83110"
+  },
+  {
+    "name": "The Spa Resorts",
+    "category": "Wellness & Spa Services",
+    "url": "https://thesparesorts.com",
+    "location": "171/2 Moo 4, Tambon Maret, Koh Samui, Surat Thani 84310",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 62 831 8888",
+    "email": "thespa@thesparesorts.com",
+    "address": "171/2 Moo 4, Tambon Maret, Koh Samui, Surat Thani 84310"
+  },
+  {
+    "name": "Wonderland Healing Center",
+    "category": "Wellness & Spa Services",
+    "url": "https://wonderlandhc.com",
+    "location": "77/7 Moo 3, Koh Phangan, Surat Thani 84280",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 77 377 377",
+    "email": "info@wonderlandhc.com",
+    "address": "77/7 Moo 3, Koh Phangan, Surat Thani 84280"
+  },
+  {
+    "name": "Wara Cheewa Spa (Four Seasons)",
+    "category": "Wellness & Spa Services",
+    "url": "https://fourseasons.com",
+    "location": "502 Moo 1, Mae Rim-Samoeng Old Road, Mae Rim, Chiang Mai 50180",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 53 298 181",
+    "email": "spa.chiangmai@fourseasons.com",
+    "address": "502 Moo 1, Mae Rim-Samoeng Old Road, Mae Rim, Chiang Mai 50180"
+  },
+  {
+    "name": "Opium Spa at The Siam",
+    "category": "Wellness & Spa Services",
+    "url": "https://thesiamhotel.com",
+    "location": "3/2 Thanon Khao, Vachirapayabal, Dusit, Bangkok 10300",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 206 6999",
+    "email": "spa@thesiamhotel.com",
+    "address": "3/2 Thanon Khao, Vachirapayabal, Dusit, Bangkok 10300"
+  },
+  {
+    "name": "Illuzion Club Phuket",
+    "category": "Nightlife & Entertainment",
+    "url": "https://illuzionphuket.com",
+    "location": "31 Thanon Bangla, Pa Tong, Kathu District, Phuket 83150",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 64 454 4985",
+    "email": "info@illuzionphuket.com",
+    "address": "31 Thanon Bangla, Pa Tong, Kathu District, Phuket 83150"
+  },
+  {
+    "name": "Mustache Bangkok",
+    "category": "Nightlife & Entertainment",
+    "url": "https://mustachebangkok.com",
+    "location": "Decho Rd, Suriyawong, Bang Rak, Bangkok 10500",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 63 017 8555",
+    "email": "info@mustachebangkok.com",
+    "address": "Decho Rd, Suriyawong, Bang Rak, Bangkok 10500"
+  },
+  {
+    "name": "The Rock Pub Bangkok",
+    "category": "Nightlife & Entertainment",
+    "url": "https://therockpub-bangkok.com",
+    "location": "93/26-28 Hollywood Street Building, Phaya Thai Road, Ratchathewi, Bangkok 10400",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 99 191 5666",
+    "email": "info@therockpub-bangkok.com",
+    "address": "93/26-28 Hollywood Street Building, Phaya Thai Road, Ratchathewi, Bangkok 10400"
+  },
+  {
+    "name": "Fira Beach Club",
+    "category": "Nightlife & Entertainment",
+    "url": "https://firaphuket.com",
+    "location": "228/6-7 Khok Tanod Road, Karon, Phuket 83100",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 92 958 8621",
+    "email": "reservations@firaphuket.com",
+    "address": "228/6-7 Khok Tanod Road, Karon, Phuket 83100"
+  },
+  {
+    "name": "Hard Rock Cafe Bangkok",
+    "category": "Nightlife & Entertainment",
+    "url": "https://cafe.hardrock.com",
+    "location": "518 Maneeya Center Building, Pathumwan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 254 2594",
+    "email": "marketing@hardrockcafe-bangkok.com",
+    "address": "518 Maneeya Center Building, Pathumwan, Bangkok 10330"
+  },
+  {
+    "name": "BOA Club Phuket",
+    "category": "Nightlife & Entertainment",
+    "url": "https://boaclubphuket.com",
+    "location": "Soi Gonzo Bangla Road, Patong, Kathu District, Phuket 83150",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 63 109 2999",
+    "email": "info@boaclubphuket.com",
+    "address": "Soi Gonzo Bangla Road, Patong, Kathu District, Phuket 83150"
+  },
+  {
+    "name": "Black Cabin Bar",
+    "category": "Nightlife & Entertainment",
+    "url": "https://facebook.com/blackcabinbar",
+    "location": "466, 16 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 81 599 9365",
+    "email": "info@blackcabinbar.com",
+    "address": "466, 16 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Aces Nightclub",
+    "category": "Nightlife & Entertainment",
+    "url": "https://acesnightclub.com",
+    "location": "1st floor, Ambassador Hotel, 171 Soi Sukhumvit 11, Watthana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 95 981 2089",
+    "email": "info@acesnightclub.com",
+    "address": "1st floor, Ambassador Hotel, 171 Soi Sukhumvit 11, Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Elite Thonglor",
+    "category": "Nightlife & Entertainment",
+    "url": "https://elitethonglor13.com",
+    "location": "16 Thong Lo 13 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 95 487 5904",
+    "email": "info@elitebkk.com",
+    "address": "16 Thong Lo 13 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Green Room Bangkok",
+    "category": "Nightlife & Entertainment",
+    "url": "https://greenroombangkok.com",
+    "location": "Sukhumvit Soi 7/1 Nana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 80 993 2299",
+    "email": "info@greenroombangkok.com",
+    "address": "Sukhumvit Soi 7/1 Nana, Bangkok 10110"
+  },
+  {
+    "name": "Blue Voyage Thailand",
+    "category": "Lifestyle & Experiences",
+    "url": "https://bluevoyagethailand.com",
+    "location": "53 Sivatel Tower, Wireless Rd, Lumphini, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 86 826 5656",
+    "email": "reservations@bluevoyagethailand.com",
+    "address": "53 Sivatel Tower, Wireless Rd, Lumphini, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "BASE Bangkok",
+    "category": "Lifestyle & Experiences",
+    "url": "https://basebangkok.com",
+    "location": "Unit 2F-S11-01/2 Gaysorn Amarin, Phloen Chit Rd., Lumphini, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 107 2779",
+    "email": "team@basebangkok.com",
+    "address": "Unit 2F-S11-01/2 Gaysorn Amarin, Phloen Chit Rd., Lumphini, Bangkok 10330",
+    "description": "Combat sports & fitness in Bangkok"
+  },
+  {
+    "name": "Rajawongse Clothier",
+    "category": "Lifestyle & Experiences",
+    "url": "https://dress-for-success.com",
+    "location": "130 Sukhumvit Road (Next to Landmark hotel), Khlong Toei, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 81 816 1198",
+    "email": "victor@dress-for-success.com",
+    "address": "130 Sukhumvit Road (Next to Landmark hotel), Khlong Toei, Bangkok 10110"
+  },
+  {
+    "name": "Siam Seaplane",
+    "category": "Lifestyle & Experiences",
+    "url": "https://siamseaplane.com",
+    "location": "52/27 Soi Nana Nuea, Khlong Toei Nuea, Watthana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 002 6969",
+    "email": "contact@siamseaplane.com",
+    "address": "52/27 Soi Nana Nuea, Khlong Toei Nuea, Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Thailand Elite",
+    "category": "Lifestyle & Experiences",
+    "url": "https://thailandelite.com",
+    "location": "Bangkok, Thailand (Operates Nationwide)",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 352 3000",
+    "email": "info@thailandelite.com",
+    "address": "Bangkok, Thailand (Operates Nationwide)"
+  },
+  {
+    "name": "Arena Sports Club Hua Hin",
+    "category": "Lifestyle & Experiences",
+    "url": "https://arenahuahin.com",
+    "location": "52/52 Petchkasem Road, Nong Gae, Hua Hin, Prachuap Khiri Khan 77110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 32 909 633",
+    "email": "info@arenahuahin.com",
+    "address": "52/52 Petchkasem Road, Nong Gae, Hua Hin, Prachuap Khiri Khan 77110"
+  },
+  {
+    "name": "Roots Coffee Roaster",
+    "category": "Lifestyle & Experiences",
+    "url": "https://rootsbkk.com",
+    "location": "33, 31 Bhiraj Tower at Sathon, South Sathon Road, Yannawa, Sathon, Bangkok 10120",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 82 091 6175",
+    "email": "info@rootsbkk.com",
+    "address": "33, 31 Bhiraj Tower at Sathon, South Sathon Road, Yannawa, Sathon, Bangkok 10120"
+  },
+  {
+    "name": "Nature Boutique Hotel",
+    "category": "Lifestyle & Experiences",
+    "url": "https://naturehotel.info",
+    "location": "1/19 Vibhavadi Rangsit Road Soi 38 Lat Yao, Chatuchak, Bangkok 10900",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 81 104 8000",
+    "email": "bbratchavipa@gmail.com",
+    "address": "1/19 Vibhavadi Rangsit Road Soi 38 Lat Yao, Chatuchak, Bangkok 10900"
+  },
+  {
+    "name": "Embassy Diplomat Screens",
+    "category": "Cinema & Entertainment",
+    "url": "https://embassycineplex.com",
+    "location": "6th Floor, Central Embassy, 1031 Phloen Chit Rd, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 160 5999",
+    "email": "contact@embassycineplex.com",
+    "address": "6th Floor, Central Embassy, 1031 Phloen Chit Rd, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "House Samyan",
+    "category": "Cinema & Entertainment",
+    "url": "https://housesamyan.com",
+    "location": "5th Floor, Samyan Mitrtown, 944/1 Rama IV Rd, Wang Mai, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 98 869 0997",
+    "email": "house.cinema.thai@gmail.com",
+    "address": "5th Floor, Samyan Mitrtown, 944/1 Rama IV Rd, Wang Mai, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "Foundation Cinema Oasis",
+    "category": "Cinema & Entertainment",
+    "url": "https://cinemaoasis.com",
+    "location": "4 Soi Sukhumvit 43, Khlong Tan Nuea, Watthana, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 96 054 0939",
+    "email": "cinemaoasis.bk@gmail.com",
+    "address": "4 Soi Sukhumvit 43, Khlong Tan Nuea, Watthana, Bangkok 10110"
+  },
+  {
+    "name": "Lido Connect",
+    "category": "Cinema & Entertainment",
+    "url": "https://lidoconnect.com",
+    "location": "256 Rama I Rd, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 64 181 4567",
+    "email": "info@lidoconnect.com",
+    "address": "256 Rama I Rd, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "Paragon Cineplex (Major Cineplex Group)",
+    "category": "Cinema & Entertainment",
+    "url": "https://majorcineplex.com",
+    "location": "5th Floor, Siam Paragon, 991 Rama I Rd, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 129 4635",
+    "email": "info@majorcineplex.com",
+    "address": "5th Floor, Siam Paragon, 991 Rama I Rd, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "Emprivé Cineclub (SF Group)",
+    "category": "Cinema & Entertainment",
+    "url": "https://sfcinemacity.com",
+    "location": "5th Floor, The Emporium, 622 Sukhumvit Rd, Khlong Toei, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 268 8888",
+    "email": "contact@sfcinemacity.com",
+    "address": "5th Floor, The Emporium, 622 Sukhumvit Rd, Khlong Toei, Bangkok 10110"
+  },
+  {
+    "name": "Cinematique",
+    "category": "Cinema & Entertainment",
+    "url": "https://hotelcinematique.com",
+    "location": "1112/91-93 Soi Sukhumvit Plus, Phra Khanong, Khlong Toei, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 61 242 4567",
+    "email": "info@hotelcinematique.com",
+    "address": "1112/91-93 Soi Sukhumvit Plus, Phra Khanong, Khlong Toei, Bangkok 10110"
+  },
+  {
+    "name": "The Friese-Greene Club",
+    "category": "Cinema & Entertainment",
+    "url": "https://fgc.in.th",
+    "location": "259/6 Sukhumvit Soi 22, Khlong Toei, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 87 000 0795",
+    "email": "info@fgc.in.th",
+    "address": "259/6 Sukhumvit Soi 22, Khlong Toei, Bangkok 10110"
+  },
+  {
+    "name": "ICON CINECONIC (Major Cineplex)",
+    "category": "Cinema & Entertainment",
+    "url": "https://majorcineplex.com",
+    "location": "6th Floor, ICONSIAM, 299 Charoen Nakhon Rd, Khlong San, Bangkok 10600",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 288 0100",
+    "email": "ir@majorcineplex.com",
+    "address": "6th Floor, ICONSIAM, 299 Charoen Nakhon Rd, Khlong San, Bangkok 10600"
+  },
+  {
+    "name": "SF World Cinema",
+    "category": "Cinema & Entertainment",
+    "url": "https://sfcinemacity.com",
+    "location": "7th Floor, CentralWorld, 999/9 Rama I Rd, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 268 8888",
+    "email": "info@sfcinemacity.com",
+    "address": "7th Floor, CentralWorld, 999/9 Rama I Rd, Pathum Wan, Bangkok 10330"
+  },
+  {
+    "name": "Mia Restaurant",
+    "category": "Food & Culinary Operators",
+    "url": "https://miarestaurantbkk.com",
+    "location": "30 Attha Kawi 1 (Sukhumvit Soi 26), Khlong Tan, Khlong Toei, Bangkok 10110",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 98 862 9659",
+    "email": "reservation@miarestaurantbkk.com",
+    "address": "30 Attha Kawi 1 (Sukhumvit Soi 26), Khlong Tan, Khlong Toei, Bangkok 10110"
+  },
+  {
+    "name": "The Meatchop Butcher and Spirits",
+    "category": "Food & Culinary Operators",
+    "url": "https://facebook.com/meatchopbkk",
+    "location": "1/4 Sala Daeng 1 Alley, Silom, Bang Rak, Bangkok 10500",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 033 2709",
+    "address": "1/4 Sala Daeng 1 Alley, Silom, Bang Rak, Bangkok 10500"
+  },
+  {
+    "name": "Factory Coffee HQ",
+    "category": "Food & Culinary Operators",
+    "url": "https://factorybkk.com",
+    "location": "226/2 Pradit Manutham Rd, Phlabphla, Wang Thonglang, Bangkok 10310",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 94 217 4422",
+    "email": "factorycoffee.bkk@gmail.com",
+    "address": "226/2 Pradit Manutham Rd, Phlabphla, Wang Thonglang, Bangkok 10310"
+  },
+  {
+    "name": "Akha Ama Coffee",
+    "category": "Food & Culinary Operators",
+    "url": "https://akhaamacoffee.com",
+    "location": "9/1 Mata Apartment, Hassadhisawee Rd, Soi 3, Chang Phuak, Chiang Mai 50300",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 86 915 8600",
+    "email": "info@akhaama.com",
+    "address": "9/1 Mata Apartment, Hassadhisawee Rd, Soi 3, Chang Phuak, Chiang Mai 50300"
+  },
+  {
+    "name": "Piri Piri Flaming Grill (Siam Paragon Branch)",
+    "category": "Food & Culinary Operators",
+    "url": "https://piripiriasia.com",
+    "location": "Siam Paragon Food Hall, 991 Rama I Rd, Pathum Wan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 610 7554",
+    "email": "info@piripiriasia.com",
+    "address": "Siam Paragon Food Hall, 991 Rama I Rd, Pathum Wan, Bangkok 10330",
+    "description": "Luxury shopping mall with entertainment and dining"
+  },
+  {
+    "name": "Vesper Cocktail Bar",
+    "category": "Food & Culinary Operators",
+    "url": "https://vesperbar.co",
+    "location": "10/15 Convent Road, Silom, Bang Rak, Bangkok 10500",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 235 2777",
+    "email": "bar.vesperbkk@gmail.com",
+    "address": "10/15 Convent Road, Silom, Bang Rak, Bangkok 10500"
+  },
+  {
+    "name": "Embassy Room",
+    "category": "Food & Culinary Operators",
+    "url": "https://hyatt.com",
+    "location": "Central Embassy, 88 Wireless Road, Pathumwan, Bangkok 10330",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 011 7431",
+    "email": "embassyroom.bkk@hyatt.com",
+    "address": "Central Embassy, 88 Wireless Road, Pathumwan, Bangkok 10330"
+  },
+  {
+    "name": "Magma Event Bangkok",
+    "category": "MICE & Event DMCs",
+    "url": "https://magmaeventbangkok.com",
+    "location": "Bangkok (Operates Nationwide)",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 84 675 1964",
+    "email": "info@magmaeventbangkok.com",
+    "address": "Bangkok (Operates Nationwide)",
+    "description": "MICE/DMC company in Thailand"
+  },
+  {
+    "name": "Rave Times Thailand",
+    "category": "MICE & Event DMCs",
+    "url": "https://ravetimesth.com",
+    "location": "Bangkok",
+    "source": "xlsx-tirak-vendors",
+    "phone": "Contact via Telegram/LINE",
+    "email": "info@ravetimesth.com",
+    "address": "Bangkok"
+  },
+  {
+    "name": "Events Lab and Production Co., Ltd.",
+    "category": "MICE & Event DMCs",
+    "url": "https://eventslabpro.com",
+    "location": "Bangkok, Thailand",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 80 148 8484",
+    "email": "contact@eventslabpro.com",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Live Promotions Bkk",
+    "category": "MICE & Event DMCs",
+    "url": "https://facebook.com/livepromotionsbkk",
+    "location": "Bangkok, Thailand",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+33 6 84 86 53 73",
+    "email": "polo@livepromotionsbkk.com",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "JAND Events",
+    "category": "MICE & Event DMCs",
+    "url": "https://jandevents.com",
+    "location": "Phuket Yacht Haven Marina",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 76 601 566",
+    "email": "info@jandevents.com",
+    "address": "Phuket Yacht Haven Marina"
+  },
+  {
+    "name": "Halfmoon Festival",
+    "category": "MICE & Event DMCs",
+    "url": "https://halfmoonfestival.com",
+    "location": "Ban Tai, Koh Phangan, Surat Thani 84280",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 77 377 649",
+    "email": "info@halfmoonfestival.com",
+    "address": "Ban Tai, Koh Phangan, Surat Thani 84280"
+  },
+  {
+    "name": "MakingTeams",
+    "category": "MICE & Event DMCs",
+    "url": "https://makingteams.com",
+    "location": "Bangkok, Thailand",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 2 105 5724",
+    "email": "info@makingteams.com",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "Jabu Events",
+    "category": "MICE & Event DMCs",
+    "url": "https://jabuevents.com",
+    "location": "Bangkok, Thailand",
+    "source": "xlsx-tirak-vendors",
+    "phone": "+66 85 198 8303",
+    "email": "info@jabuevents.com",
+    "address": "Bangkok, Thailand"
+  },
+  {
+    "name": "DTH Travel (formerly Diethelm)",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://dth.travel",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 660 7000",
+    "email": ""
+  },
+  {
+    "name": "Phoenix Voyages",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://phoenixvoyages.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 650 9040"
+  },
+  {
+    "name": "Asia DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://asiadmc.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 254 7900",
+    "email": "info@asiadmc.com"
+  },
+  {
+    "name": "Absolute Asia Travel",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://absoluteasiatravel.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 630 6116",
+    "email": "info@absoluteasiatravel.com"
+  },
+  {
+    "name": "Visite Thai",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://visitethai.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 632 9494"
+  },
+  {
+    "name": "Meeting Point International",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://meetingpointasia.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 723 6000"
+  },
+  {
+    "name": "K1 Travels",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://k1travels.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 233 4444",
+    "email": "info@k1travels.com"
+  },
+  {
+    "name": "CDM Thailand",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://cdmthailand.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 635 0880",
+    "email": "cdm@cdmthailand.com"
+  },
+  {
+    "name": "Trails of Indochina",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://trailsofindochina.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 235 6006"
+  },
+  {
+    "name": "Tycoon Holidays",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://tycoonholidays.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 203 1455",
+    "email": "b2b@tycoonholidays.com"
+  },
+  {
+    "name": "Unique World Global",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://uniqueworldglobal.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 253 4567"
+  },
+  {
+    "name": "Dong DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://dongdmc.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 642 4111",
+    "email": "office@dongdmc.com"
+  },
+  {
+    "name": "Kingdom DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://kingdomdmc.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 123 4567"
+  },
+  {
+    "name": "Your Tour Desk",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://yourtourdesk.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 93 363 1006"
+  },
+  {
+    "name": "Explera DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://explera.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 123 4567",
+    "description": "Event management DMC in Thailand",
+    "email": "b2b@explera.co.th"
+  },
+  {
+    "name": "Sun Leisure World",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://sunleisureworld.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 001 2233",
+    "email": "rsvn@sunleisureworld.com"
+  },
+  {
+    "name": "Easia Travel",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://easia-travel.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 245 4445"
+  },
+  {
+    "name": "ICS Travel Group",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://icstravelgroup.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 233 4444",
+    "email": "sales@icstravelgroup.com"
+  },
+  {
+    "name": "Panorama Destination",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://panorama-destination.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 345 6789",
+    "email": "info@panorama-destination.com"
+  },
+  {
+    "name": "TravelBullz",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://travelbullz.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 655 5555",
+    "email": "online@travelbullz.com"
+  },
+  {
+    "name": "Go Ghummo",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://goghummo.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+91 98 992 92629",
+    "email": "info@goghummo.com"
+  },
+  {
+    "name": "DHT Holidays",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://dhtholidays.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+91 11 1234 5678",
+    "email": "info@dhtholidays.com"
+  },
+  {
+    "name": "Sri Holidays",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://sri-holidays.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 81 234 5678",
+    "email": "b2b@sri-holidays.com"
+  },
+  {
+    "name": "Travex DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://travexnet.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 111 2222"
+  },
+  {
+    "name": "Arlymear Travel",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://arlymear.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 333 4444",
+    "email": "info@arlymear.com"
+  },
+  {
+    "name": "World Travel Service (WTS)",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://worldtravelservice.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 555 6666"
+  },
+  {
+    "name": "JTB Thailand B2B",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://jtbthailand.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 777 8888"
+  },
+  {
+    "name": "Miki Travel Asia",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://miki.co.uk",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 999 0000"
+  },
+  {
+    "name": "H.I.S. Tours B2B",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://histours.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 123 0000"
+  },
+  {
+    "name": "Streamline Events & DMC",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://streamlinedmc.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 456 0000"
+  },
+  {
+    "name": "Events Travel Asia",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://eventstravelasia.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 789 0000",
+    "email": "max@weareeta.com"
+  },
+  {
+    "name": "Focus Asia",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://focus.asia",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 444 5555"
+  },
+  {
+    "name": "Sens Asia Travel",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://sensasia.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 666 7777"
+  },
+  {
+    "name": "I Asia Thailand",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://iasiathailand.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 888 9999",
+    "email": "info@iasiathailand.com"
+  },
+  {
+    "name": "Destination Services Thailand",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://destinationservices.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 111 3333"
+  },
+  {
+    "name": "Travelink Thailand",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://travelink.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 222 4444"
+  },
+  {
+    "name": "R.M.A. Travel & Tours",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://rmatravel.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 333 5555"
+  },
+  {
+    "name": "East West Siam",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://eastwestsiam.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 444 6666"
+  },
+  {
+    "name": "Siam Travel International",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://siamtravel.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 555 7777",
+    "email": "sale05siamtravel@gmail.com"
+  },
+  {
+    "name": "Majestic Travel International",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://majestictravel.co.th",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 666 8888"
+  },
+  {
+    "name": "Century Holidays Thailand",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://centuryholidays.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 777 9999"
+  },
+  {
+    "name": "GM Tour & Travel",
+    "category": "Leisure & Experience DMCs",
+    "url": "https://gmtour.com",
+    "source": "xlsx-tirak-vendors-sheet2",
+    "phone": "+66 2 888 0000",
+    "email": ""
+  },
+  {
+    "name": "Nakhonchai Air (NCA)",
+    "url": "https://www.nakhonchaiair.com/",
+    "location": "National",
+    "description": "Thailand's premier VIP long-distance bus service",
+    "category": "Transport & Transfer Services",
+    "source": "pipeline-curated",
+    "email": "customerservice@nakhonchaiair.com",
+    "phone": "+6602-939-4999"
+  },
+  {
+    "name": "Sky Bar at Lebua",
+    "url": "https://lebua.com/sky-bar/",
+    "location": "Bangkok",
+    "description": "Iconic 64th-floor rooftop bar featured in The Hangover II",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "email": "dome@lebua.com",
+    "phone": "0274006933"
+  },
+  {
+    "name": "Octave Rooftop Lounge & Bar",
+    "url": "https://www.marriott.com/hotels/hotel-information/restaurant/bkkms-bangkok-marriott-hotel-sukhumvit/",
+    "location": "Bangkok",
+    "description": "360-degree rooftop bar on 45th-49th floors of Marriott Sukhumvit",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "+66-02-7970000"
+  },
+  {
+    "name": "Vertigo and Moon Bar",
+    "url": "https://www.banyantree.com/thailand/bangkok",
+    "location": "Bangkok",
+    "description": "Open-air rooftop bar atop Banyan Tree Bangkok, 61st floor",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Maggie Choo's",
+    "url": "https://www.maggiechoos.com/",
+    "location": "Bangkok",
+    "description": "Underground speakeasy bar beneath Novotel Silom",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "02-1748863"
+  },
+  {
+    "name": "Iron Fairies",
+    "url": "https://www.theironfairies.com/",
+    "location": "Bangkok",
+    "description": "Gothic fairy-tale themed cocktail bar in Thonglor",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "+66-99-918-1600"
+  },
+  {
+    "name": "Havana Social",
+    "url": "https://www.havanasocialbkk.com/",
+    "location": "Bangkok",
+    "description": "Hidden Cuban-themed speakeasy in Sukhumvit",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Sing Sing Theater",
+    "url": "https://www.singsingtheater.com/",
+    "location": "Bangkok",
+    "description": "1930s Shanghai-inspired nightclub and performance venue",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "09683 123"
+  },
+  {
+    "name": "Sugar Club Bangkok",
+    "url": "https://www.sugarclub-bangkok.com/",
+    "location": "Bangkok",
+    "description": "Multi-level nightclub with live DJs on Sukhumvit Soi 11",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "+66 61 391 3111"
+  },
+  {
+    "name": "Onyx Bangkok",
+    "url": "https://www.onyxbangkok.com/",
+    "location": "Bangkok",
+    "description": "Premier nightclub hosting international DJs at RCA",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Route 66 Club",
+    "url": "https://www.route66club.com/",
+    "location": "Bangkok",
+    "description": "Legendary multi-zone nightclub at RCA",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "email": "info@route66club.com",
+    "phone": "085701121"
+  },
+  {
+    "name": "Levels Club & Lounge",
+    "url": "https://www.levelsclub.com/",
+    "location": "Bangkok",
+    "description": "Upscale nightclub on Sukhumvit Soi 11",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "email": "info@levelsclub.com",
+    "phone": "+66 82 308 3246"
+  },
+  {
+    "name": "Catch Beach Club Phuket",
+    "url": "https://www.catchbeachclub.com/",
+    "location": "Phuket",
+    "description": "Premier beach club on Bangtao Beach",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0427253027"
+  },
+  {
+    "name": "Cafe Del Mar Phuket",
+    "url": "https://www.cafedelmarphuket.com/",
+    "location": "Phuket",
+    "description": "Ibiza-branded beach club in Kamala",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Xana Beach Club",
+    "url": "https://www.xanabeachclub.com/",
+    "location": "Phuket",
+    "description": "Angsana resort beach club on Bangtao",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0487169825"
+  },
+  {
+    "name": "Ark Bar Beach Club",
+    "url": "https://www.ark-bar.com/",
+    "location": "Koh Samui",
+    "description": "Famous beach club on Chaweng Beach",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "+6677300397"
+  },
+  {
+    "name": "Full Moon Party Official",
+    "url": "https://www.fullmoonparty-thailand.com/",
+    "location": "Koh Phangan",
+    "description": "World-famous monthly beach rave on Haad Rin",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0708286092"
+  },
+  {
+    "name": "Calypso Cabaret",
+    "url": "https://www.calypsocabaret.com/",
+    "location": "Bangkok",
+    "description": "Famous cabaret show at Asiatique The Riverfront",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Saxophone Pub & Restaurant",
+    "url": "https://www.saxophonepub.com/",
+    "location": "Bangkok",
+    "description": "Live jazz and blues institution since 1987",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Brown Sugar Jazz Boutique",
+    "url": "https://www.brownsugarbangkok.com/",
+    "location": "Bangkok",
+    "description": "Bangkok's oldest jazz bar since 1985",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "email": "",
+    "phone": "06798668"
+  },
+  {
+    "name": "Walking Street Pattaya",
+    "url": "https://www.walkingstreetpattaya.com/",
+    "location": "Pattaya",
+    "description": "Famous nightlife strip with clubs, bars and shows",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0324061111"
+  },
+  {
+    "name": "Ku De Ta Bangkok",
+    "url": "https://www.kudeta.com/bangkok/",
+    "location": "Bangkok",
+    "description": "Rooftop restaurant bar and club at Sathorn Square",
+    "category": "Nightlife & Entertainment",
+    "source": "pipeline-curated",
+    "email": "reservations@kudeta.com",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "Zero Latency Bangkok",
+    "url": "https://www.zerolatencyvr.com/",
+    "location": "Bangkok",
+    "description": "Free-roam VR experiences for groups",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Dream World Bangkok",
+    "url": "https://www.dreamworld.co.th/",
+    "location": "Bangkok",
+    "description": "Amusement park with rides, snow town and gardens",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0-2577-8666"
+  },
+  {
+    "name": "Safari World Bangkok",
+    "url": "https://www.safariworld.com/",
+    "location": "Bangkok",
+    "description": "Open zoo and marine park with shows",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "SEA LIFE Bangkok Ocean World",
+    "url": "https://www.sealifebangkok.com/",
+    "location": "Bangkok",
+    "description": "Southeast Asia's largest aquarium at Siam Paragon",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "+662 687 2000"
+  },
+  {
+    "name": "Madame Tussauds Bangkok",
+    "url": "https://www.madametussauds.com/bangkok/",
+    "location": "Bangkok",
+    "description": "Wax museum with celebrity figures at Siam Discovery",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0-717970175"
+  },
+  {
+    "name": "Rajadamnern Boxing Stadium",
+    "url": "https://www.rajadamnern.com/",
+    "location": "Bangkok",
+    "description": "Thailand's oldest and most prestigious Muay Thai stadium",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "email": "info@rajadamnern.com",
+    "phone": "+66908993136"
+  },
+  {
+    "name": "Thailand Cultural Centre",
+    "url": "https://www.tcc.or.th/",
+    "location": "Bangkok",
+    "description": "National performing arts and exhibition center",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0-2239-1839"
+  },
+  {
+    "name": "Bangkok Art & Culture Centre",
+    "url": "https://www.bacc.or.th/",
+    "location": "Bangkok",
+    "description": "Contemporary art museum and creative event space",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Sala Chalermkrung Royal Theatre",
+    "url": "https://www.salachalermkrung.com/",
+    "location": "Bangkok",
+    "description": "Historic royal theatre for traditional Thai masked dance",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0-2225-8757"
+  },
+  {
+    "name": "The Bangkok Screening Room",
+    "url": "https://www.bkksr.com/",
+    "location": "Bangkok",
+    "description": "Boutique cinema-bar showing indie and classic films",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Doc Club & Pub",
+    "url": "https://www.docclubandpub.com/",
+    "location": "Bangkok",
+    "description": "Documentary cinema and creative community space",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "03833293"
+  },
+  {
+    "name": "EasyKart Bangkok",
+    "url": "https://www.easykart.net/",
+    "location": "Bangkok, Pattaya, Phuket",
+    "description": "Indoor go-kart racing entertainment",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0602826101"
+  },
+  {
+    "name": "Sub Zero Ice Skate Club",
+    "url": "https://www.subzeroiceskate.com/",
+    "location": "Bangkok",
+    "description": "Ice skating rink at multiple malls",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "02-105-1581"
+  },
+  {
+    "name": "Bounce Thailand",
+    "url": "https://www.bounceinc.co.th/",
+    "location": "Bangkok",
+    "description": "Trampoline park and aerial adventure",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "email": "enquiries@bounceinc.co.th",
+    "phone": "+6620791146"
+  },
+  {
+    "name": "Phuket FantaSea",
+    "url": "https://www.phuket-fantasea.com/",
+    "location": "Phuket",
+    "description": "Thai cultural theme park with spectacular night show",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Ripley's Believe It or Not Pattaya",
+    "url": "https://www.ripleysthailand.com/",
+    "location": "Pattaya",
+    "description": "Oddity museum and entertainment complex",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "phone": "0786589936"
+  },
+  {
+    "name": "Nong Nooch Tropical Garden",
+    "url": "https://www.nongnoochtropicalgarden.com/",
+    "location": "Pattaya",
+    "description": "Botanical garden with cultural shows",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Chiang Mai Night Safari",
+    "url": "https://www.chiangmainightsafari.com/",
+    "location": "Chiang Mai",
+    "description": "Nighttime zoo with tram safari tours",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "email": "ns_saraban@nightsafari.or.th",
+    "phone": "0916167241"
+  },
+  {
+    "name": "Tiger Kingdom Chiang Mai",
+    "url": "https://www.tigerkingdom.com/",
+    "location": "Chiang Mai",
+    "description": "Up-close tiger encounter experience",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Vana Nava Hua Hin",
+    "url": "https://www.vananavahuahin.com/",
+    "location": "Hua Hin",
+    "description": "Premium water jungle park and entertainment",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "email": "info@vananava.com",
+    "phone": "0925153411"
+  },
+  {
+    "name": "Cartoon Network Amazone",
+    "url": "https://www.cartoonnetworkamazone.com/",
+    "location": "Pattaya",
+    "description": "Cartoon Network themed water park",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Ramayana Water Park",
+    "url": "https://www.ramayanawaterpark.com/",
+    "location": "Pattaya",
+    "description": "Thailand's biggest water park",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated",
+    "email": "info@rwpark.com",
+    "phone": "+6633005929"
+  },
+  {
+    "name": "Sriracha Tiger Zoo",
+    "url": "https://www.tigerzoo.com/",
+    "location": "Chonburi",
+    "description": "Zoo and animal show entertainment",
+    "category": "Cinema & Entertainment",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "The Hive Bangkok",
+    "url": "https://thehive.co.th/",
+    "location": "Bangkok",
+    "description": "Premium coworking in Thonglor and Prakanong",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "+6626626062"
+  },
+  {
+    "name": "Punspace Chiang Mai",
+    "url": "https://www.punspace.com/",
+    "location": "Chiang Mai",
+    "description": "Top-rated coworking space for digital nomads",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0699999988"
+  },
+  {
+    "name": "TCDC Bangkok",
+    "url": "https://www.tcdc.or.th/",
+    "location": "Bangkok",
+    "description": "Thailand Creative & Design Center with coworking",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "KoHub Koh Lanta",
+    "url": "https://www.kohub.org/",
+    "location": "Koh Lanta",
+    "description": "Island coworking and coliving for nomads",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0210316143"
+  },
+  {
+    "name": "JustCo Thailand",
+    "url": "https://www.justcoglobal.com/",
+    "location": "Bangkok",
+    "description": "Singapore-based premium coworking chain",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@justcoglobal.com"
+  },
+  {
+    "name": "The Great Room Bangkok",
+    "url": "https://www.thegreatroomoffices.com/",
+    "location": "Bangkok",
+    "description": "Hospitality-inspired premium coworking",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Regus Thailand",
+    "url": "https://www.regus.com/en-th/",
+    "location": "Multiple",
+    "description": "Global flexible workspace chain with 20+ Thai locations",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "Launchpad Coworking",
+    "url": "https://launchpad.co.th/",
+    "location": "Bangkok",
+    "description": "Startup-focused coworking in Sathorn",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0543374325"
+  },
+  {
+    "name": "Fitness First Thailand",
+    "url": "https://www.fitnessfirst.co.th/",
+    "location": "Multiple",
+    "description": "International gym chain with 20+ Thai locations",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "04-2809-493"
+  },
+  {
+    "name": "Fight District MMA",
+    "url": "https://www.fightdistrict.com/",
+    "location": "Bangkok",
+    "description": "MMA and martial arts training center",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "IconSiam",
+    "url": "https://www.iconsiam.com/",
+    "location": "Bangkok",
+    "description": "Landmark riverside mega-mall and lifestyle destination",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "+66-2-495-7080"
+  },
+  {
+    "name": "Terminal 21",
+    "url": "https://www.terminal21.co.th/",
+    "location": "Bangkok",
+    "description": "Airport-themed shopping mall on Sukhumvit",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "dpo@lhmh.co.th",
+    "phone": "02-343-8899"
+  },
+  {
+    "name": "Chatuchak Weekend Market",
+    "url": "https://www.chatuchakmarket.org/",
+    "location": "Bangkok",
+    "description": "World's largest weekend market with 15,000+ stalls",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@chatuchakmarket.org",
+    "phone": "0315388723"
+  },
+  {
+    "name": "Asiatique The Riverfront",
+    "url": "https://www.asiatiquethailand.com/",
+    "location": "Bangkok",
+    "description": "Night bazaar and entertainment complex on Chao Phraya",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "arme@assetworldcorp-th.com",
+    "phone": "+6692-246-0812"
+  },
+  {
+    "name": "Platinum Fashion Mall",
+    "url": "https://www.platinumfashionmall.com/",
+    "location": "Bangkok",
+    "description": "Wholesale and retail fashion shopping center",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "MBK Center",
+    "url": "https://www.mbk-center.co.th/",
+    "location": "Bangkok",
+    "description": "Iconic 8-floor shopping mall for electronics and fashion",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "mbkcontactcenter@mbkgroup.co.th",
+    "phone": "+6628539000"
+  },
+  {
+    "name": "Siam Discovery",
+    "url": "https://www.siamdiscovery.co.th/",
+    "location": "Bangkok",
+    "description": "Lifestyle and concept store shopping experience",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@siamdiscovery.co.th",
+    "phone": "+66-2-658-1000"
+  },
+  {
+    "name": "Thai Visa Centre",
+    "url": "https://www.thaivisacentre.com/",
+    "location": "Bangkok",
+    "description": "Visa assistance and immigration services",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "help@tvc.co.th",
+    "phone": "+66 2-508-8428"
+  },
+  {
+    "name": "Siam Legal International",
+    "url": "https://www.siam-legal.com/",
+    "location": "Bangkok",
+    "description": "Legal and visa services for expats and travelers",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@siam-legal.com",
+    "phone": "+66 2 254 8900"
+  },
+  {
+    "name": "Key Visa Thailand",
+    "url": "https://www.keyvisa.com/",
+    "location": "Bangkok",
+    "description": "Work permit and visa consultancy",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0411627350"
+  },
+  {
+    "name": "Iglu Coworking & Visa",
+    "url": "https://iglu.net/",
+    "location": "Multiple",
+    "description": "Coworking, visa, and company services for nomads",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "085442-2048"
+  },
+  {
+    "name": "Duke Language School",
+    "url": "https://www.dukelanguage.com/",
+    "location": "Bangkok",
+    "description": "Thai and English language courses for all levels",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@dukelanguage.com",
+    "phone": "+66 8-2444-1595"
+  },
+  {
+    "name": "Pro Language School",
+    "url": "https://www.prolanguage.co.th/",
+    "location": "Bangkok",
+    "description": "Thai language school with ED visa support",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "info@prolanguage.co.th",
+    "phone": "+66885850756"
+  },
+  {
+    "name": "Raja's Fashions",
+    "url": "https://www.rajasfashions.com/",
+    "location": "Bangkok",
+    "description": "Renowned bespoke tailor since 1979",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "+662-253-8379"
+  },
+  {
+    "name": "Narry Tailor",
+    "url": "https://www.narrytailor.com/",
+    "location": "Bangkok",
+    "description": "Custom-made suits and formal wear",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "chandans20@gmail.com",
+    "phone": "+6681-987-2008"
+  },
+  {
+    "name": "Pinky Tailor",
+    "url": "https://www.pinkytailor.com/",
+    "location": "Bangkok",
+    "description": "Long-established bespoke tailor in Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "email": "pinkytailor@hotmail.com",
+    "phone": "0546757114"
+  },
+  {
+    "name": "Outpost Coworking",
+    "url": "https://www.outpost-asia.com/",
+    "location": "Koh Samui",
+    "description": "Coliving and coworking on Koh Samui",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "CentralWorld",
+    "url": "https://www.centralworld.co.th/",
+    "location": "Bangkok",
+    "description": "One of the world's largest lifestyle shopping complexes",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated"
+  },
+  {
+    "name": "One Nimman Chiang Mai",
+    "url": "https://www.onenimman.com/",
+    "location": "Chiang Mai",
+    "description": "Lifestyle mall and community space in Nimman",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0504122521"
+  },
+  {
+    "name": "The Commons Saladaeng",
+    "url": "https://www.thecommonsbkk.com/",
+    "location": "Bangkok",
+    "description": "Community mall with curated food, retail and coworking",
+    "category": "Lifestyle & Experiences",
+    "source": "pipeline-curated",
+    "phone": "0323969472"
+  },
+  {
+    "name": "Simba Sea Trips",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://simbaseatrips.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "",
+    "phone": "+66629799974"
+  },
+  {
+    "name": "Santana Biking Chiang Mai",
+    "category": "Adventure & Outdoor Operators",
+    "url": "https://santanaadventures.com/cruises/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "phone": "09-128-128"
+  },
+  {
+    "name": "Chillax Heritage Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "url": "https://www.hotelsbkk.com/chillax-heritage-hotel-khaosan/",
+    "location": "Thailand",
+    "source": "google-verified"
+  },
+  {
+    "name": "Tara Mantra Cha-Am",
+    "category": "Boutique Hotels & Hostels",
+    "url": "https://taramantra-chaam.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "rsvn.taramantra@gmail.com",
+    "phone": "+66875296333"
+  },
+  {
+    "name": "Makkasan Hostel Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "url": "https://www.mercurebangkokmakkasan.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "h8422@accor.com",
+    "phone": "+66 2 094 8800"
+  },
+  {
+    "name": "Phranakorn Nornlen Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "url": "https://www.phranakorn-nornlen.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "rooms@phranakorn-nornlen.com",
+    "phone": "+662 628 8188"
+  },
+  {
+    "name": "Old Capital Bike Inn",
+    "category": "Boutique Hotels & Hostels",
+    "url": "http://www.oldcapitalbkk.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "info@oldcapitalbkk.com",
+    "phone": "+662 629-1787"
+  },
+  {
+    "name": "Chern Hostel Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "url": "http://chernbangkok.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "info@chernbangkok.com",
+    "phone": "02 621 1133"
+  },
+  {
+    "name": "SF Cinema City",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.sfcinema.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "phone": "0270146341"
+  },
+  {
+    "name": "House RCA",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.housesamyan.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "phone": "0260227104"
+  },
+  {
+    "name": "Escape Room by Komnata",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.escaperoomthailand.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "escaperoompattaya.thailand@gmail.com",
+    "phone": "+66632108724"
+  },
+  {
+    "name": "Brain Out Escape Room",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.tripadvisor.in/Attraction_Review-g293916-d13084472-Reviews-Puzzle_Room_Bangkok-Bangkok.html",
+    "location": "Thailand",
+    "source": "google-verified"
+  },
+  {
+    "name": "The Great Hornbills Zipline",
+    "category": "Cinema & Entertainment",
+    "url": "http://hornbill.or.th/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "phone": "0782273630"
+  },
+  {
+    "name": "Mekhala River Cruise",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.asianoasis.com/mekkala",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "info@asianoasis.com",
+    "phone": "0-3498-4942"
+  },
+  {
+    "name": "Chao Phraya Princess Cruise",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.chaophrayacruises.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "support@headout.com",
+    "phone": "07-17500575"
+  },
+  {
+    "name": "White Orchid Dinner Cruise",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.bangkokchaophrayacruise.com/viewCruise.jsp?clubId=38367&shopCategoryId=182282&productId=868389",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "info@theicity.com",
+    "phone": "+66846434996"
+  },
+  {
+    "name": "Muay Thai Live Show",
+    "category": "Cinema & Entertainment",
+    "url": "https://rajadamnern.com/",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "info@rajadamnern.com",
+    "phone": "+66908993136"
+  },
+  {
+    "name": "Siam Amazing Park",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.siamamazingpark.com/en/index.php",
+    "location": "Thailand",
+    "source": "google-verified",
+    "email": "customerservice@siamamazingpark.com",
+    "phone": "02-105-4294"
+  },
+  {
+    "name": "Flight Experience Bangkok",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.tripadvisor.in/Attraction_Review-g293916-d3240006-Reviews-Flight_Experience_Bangkok-Bangkok.html",
+    "location": "Thailand",
+    "source": "google-verified"
+  },
+  {
+    "name": "Harborland Thailand",
+    "category": "Cinema & Entertainment",
+    "url": "https://harborlandgroup.com/",
+    "location": "Thailand",
+    "source": "google-verified"
+  },
+  {
+    "name": "SuperPark Thailand",
+    "category": "Cinema & Entertainment",
+    "url": "https://www.tripadvisor.in/Attraction_Review-g293916-d20007429-Reviews-Superpark_Thailand-Bangkok.html",
+    "location": "Thailand",
+    "source": "google-verified"
+  },
+  {
+    "name": "Bar Us",
+    "url": "https://www.us-bar.com/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "phone": "+6691-721-8209"
+  },
+  {
+    "name": "Mahaniyom",
+    "url": "https://nightlifethailand.com/venues/mahaniyom-cocktail-bar/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "phone": "+66 61 664-6588"
+  },
+  {
+    "name": "Opium",
+    "url": "https://www.bkmagazine.com/nightlife/bangkoks-top-10-cocktail-bars-your-next-big-night-out/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "description": "Bangkok bar/nightlife venue featured in BK Magazine"
+  },
+  {
+    "name": "Phuripat Transport 88",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/-phuripat-transport-88",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "35 Group Pattaya",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/35-group-pattaya-",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Adang Sea Tour",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/adang-sea-tour",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Andaman Sea Tour & Transport",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/andaman-sea-tour-&-transport",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Andaman Wave Express",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/andaman-wave-express",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Ao Nang Travel And Tour",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/ao-nang-travel-and-tour",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Arisa Speed Boat Group",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/arisa-speed-boat-group",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Arunsiri Travel & Tour",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/arunsiri-travel-&-tour",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Bell Travel Services",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/bell-travel-services",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Boonsiri",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/boonsiri-",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Bundhaya Speed Boat",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/bundhaya-speed-boat",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "Chao Koh Group",
+    "url": "https://www.thailandferrybooking.com/ferry/operator/chao-koh-group",
+    "location": "Thailand",
+    "category": "Transport & Transfer Services",
+    "source": "thailandferrybooking-scraped",
+    "description": "Transport operator listed on thailandferrybooking.com"
+  },
+  {
+    "name": "From Fresh Market to Wok: Thai Cooking wit...",
+    "url": "https://www.cookly.me/cooking-class/bangkok/",
+    "location": "Bangkok",
+    "category": "Food & Culinary Operators",
+    "source": "cookly-scraped",
+    "description": "Thai cooking school listed on cookly.me"
+  },
+  {
+    "name": "Vegetarian & Vegan",
+    "url": "https://www.cookly.me/cooking-class/bangkok/veganvegetarian-option/",
+    "location": "Bangkok",
+    "category": "Food & Culinary Operators",
+    "source": "cookly-scraped",
+    "description": "Thai cooking school listed on cookly.me"
+  },
+  {
+    "name": "Family-Friendly",
+    "url": "https://www.cookly.me/cooking-class/bangkok/family-friendly/",
+    "location": "Bangkok",
+    "category": "Food & Culinary Operators",
+    "source": "cookly-scraped",
+    "description": "Thai cooking school listed on cookly.me"
+  },
+  {
+    "name": "Choose your own menu",
+    "url": "https://www.cookly.me/cooking-class/bangkok/choose-your-own-menu/",
+    "location": "Bangkok",
+    "category": "Food & Culinary Operators",
+    "source": "cookly-scraped",
+    "description": "Thai cooking school listed on cookly.me"
+  },
+  {
+    "name": "Farm & Garden Tours",
+    "url": "https://www.cookly.me/cooking-class/bangkok/organic-gardenfarm-tour/",
+    "location": "Bangkok",
+    "category": "Food & Culinary Operators",
+    "source": "cookly-scraped",
+    "description": "Thai cooking school listed on cookly.me"
+  },
+  {
+    "name": "Top Kart Bangkok",
+    "url": "https://www.topkartbangkok.com/",
+    "location": "Bangkok",
+    "category": "Cinema & Entertainment",
+    "source": "ddg-verified",
+    "description": "Go-kart racing venue in Bangkok"
+  },
+  {
+    "name": "Puzzle Room Bangkok",
+    "url": "https://www.puzzleroombangkok.com/BKK/",
+    "location": "Bangkok",
+    "category": "Cinema & Entertainment",
+    "source": "ddg-verified",
+    "description": "Escape room in Bangkok",
+    "email": "puzzleroombkk@gmail.com",
+    "phone": "+666 3827 9666"
+  },
+  {
+    "name": "Xscape Escape Rooms Bangkok",
+    "url": "https://xscapeescaperooms.com/",
+    "location": "Bangkok",
+    "category": "Cinema & Entertainment",
+    "source": "ddg-verified",
+    "description": "Escape room in Bangkok",
+    "email": "info@xscapeescaperooms.com",
+    "phone": "+66625219610"
+  },
+  {
+    "name": "Blu-O Rhythm & Bowl",
+    "url": "https://www.bluofriends.com/en/",
+    "location": "Bangkok",
+    "category": "Cinema & Entertainment",
+    "source": "ddg-verified",
+    "description": "Bowling entertainment center",
+    "phone": "0-2511-5544"
+  },
+  {
+    "name": "Siri Poshtel Bangkok",
+    "url": "https://www.hostelworld.com/hostels/p/273359/siri-poshtel-bangkok/",
+    "location": "Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "source": "hostelworld-scraped",
+    "description": "Hostel listed on Hostelworld (Bangkok)"
+  },
+  {
+    "name": "Tamni",
+    "url": "https://www.hostelworld.com/hostels/p/313640/tamni/",
+    "location": "Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "source": "hostelworld-scraped",
+    "description": "Hostel listed on Hostelworld (Bangkok)"
+  },
+  {
+    "name": "Nomad Yard Hostel",
+    "url": "https://www.hostelworld.com/hostels/p/333841/nomad-yard-hostel/",
+    "location": "Bangkok",
+    "category": "Boutique Hotels & Hostels",
+    "source": "hostelworld-scraped",
+    "description": "Hostel listed on Hostelworld (Bangkok)"
+  },
+  {
+    "name": "BKK Social Club",
+    "url": "https://www.bkmagazine.com/nightlife/15-best-live-music-bars-bangkok-to-check-out-2025/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "description": "Bangkok bar/nightlife venue featured in BK Magazine"
+  },
+  {
+    "name": "Noise House Lat Phrao",
+    "url": "https://www.bkmagazine.com/nightlife/bangkoks-best-bars-clubs/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "description": "Bangkok bar/nightlife venue featured in BK Magazine"
+  },
+  {
+    "name": "Fatty’s Bar and Diner",
+    "url": "https://www.bkmagazine.com/nightlife/cocktails/bangkoks-best-gin-bars/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "bkmagazine-scraped",
+    "description": "Bangkok bar/nightlife venue featured in BK Magazine"
+  },
+  {
+    "name": "Dope & Dirty",
+    "url": "https://www.siam2nite.com/en/locations/clubs/dope-dirty",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "Max Club Bangkok",
+    "url": "https://www.siam2nite.com/en/locations/clubs/max-club-bangkok",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "Baccarat",
+    "url": "https://www.siam2nite.com/en/locations/clubs/baccarat",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "Bar Rouge Bangkok",
+    "url": "https://www.siam2nite.com/en/locations/clubs/bar-rouge-bangkok",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "MIXX Bangkok",
+    "url": "https://www.siam2nite.com/en/locations/clubs/mixx-bangkok",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "Space Plus Bangkok",
+    "url": "https://www.siam2nite.com/en/locations/clubs/space-plus-bangkok",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "The Capital Bangkok",
+    "url": "https://www.siam2nite.com/en/locations/clubs/the-capital-bangkok",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "The Club Khaosan",
+    "url": "https://www.siam2nite.com/en/locations/clubs/the-club-khaosan",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "siam2nite-scraped"
+  },
+  {
+    "name": "Best Coworking Spaces in Bangkok",
+    "url": "https://bangkokbusinessclub.com/blog/best-coworking-spaces-in-bangkok/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Coworking space in Bangkok",
+    "email": "contact@bangkokbusinessclub.com",
+    "phone": "+66 2 340 7645"
+  },
+  {
+    "name": "DMC Bangkok",
+    "url": "https://www.phuketeventcompany.com/dmc-bangkok/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Event management DMC in Thailand",
+    "email": "info@phuketeventcompany.com",
+    "phone": "+66-65-749-5221"
+  },
+  {
+    "name": "Paula &amp; Co. DMC Thailand",
+    "url": "https://www.paulaandcothailand.com/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Event management DMC in Thailand",
+    "email": "paula.wong@paula-dmc.com",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "QSNCC",
+    "url": "https://www.qsncc.com/en/media/news-and-update/asias-best-convention-centre-award-qsncc/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Convention/MICE venue in Thailand",
+    "phone": "0-4352-8146"
+  },
+  {
+    "name": "Home of the Best Tours Agency Bangkok",
+    "url": "https://www.thaiwander.com/",
+    "location": "Thailand",
+    "category": "Adventure & Outdoor Operators",
+    "source": "ddg-verified",
+    "description": "Adventure tour operator in Thailand"
+  },
+  {
+    "name": "Thailand Tour",
+    "url": "https://www.nstravel.com/",
+    "location": "Thailand",
+    "category": "Adventure & Outdoor Operators",
+    "source": "ddg-verified",
+    "description": "Adventure tour operator in Thailand",
+    "email": "info@nstravel.com",
+    "phone": "+662-640-1440"
+  },
+  {
+    "name": "Queen Sirikit National Convention Center (QSNCC)",
+    "url": "https://www.qsncc.com/en/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Convention venue in Thailand",
+    "phone": "05-4622-9902"
+  },
+  {
+    "name": "lebua Hotels & Resorts",
+    "url": "https://lebua.com/restaurants/sky/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Nightlife venue in Thailand",
+    "email": "dome@lebua.com",
+    "phone": "0274006933"
+  },
+  {
+    "name": "Sky Bar by lebua",
+    "url": "https://www.therooftopguide.com/rooftop-bars-in-bangkok/sky-bar-lebua-at-state-tower.html",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Nightlife venue in Thailand"
+  },
+  {
+    "name": "Common Ground",
+    "url": "https://www.commonground.work/th-en/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Lifestyle/experience venue in Thailand",
+    "email": "",
+    "phone": "04 958 271"
+  },
+  {
+    "name": "WeWork",
+    "url": "https://www.wework.com/l/office-space/bangkok",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Lifestyle/experience venue in Thailand",
+    "phone": "05 20250822"
+  },
+  {
+    "name": "Absolute Boutique Fitness",
+    "url": "https://www.absoluteboutiquefitness.co/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Lifestyle/experience venue in Thailand",
+    "email": "",
+    "phone": "0-3498-4942"
+  },
+  {
+    "name": "Wild Thailand",
+    "url": "http://www.wildthailand.com/",
+    "location": "Thailand",
+    "category": "Adventure & Outdoor Operators",
+    "source": "ddg-verified"
+  },
+  {
+    "name": "Thai Adventure Club",
+    "url": "https://thaiadventureclub.com/",
+    "location": "Thailand",
+    "category": "Adventure & Outdoor Operators",
+    "source": "ddg-verified",
+    "email": "rsvn@thaiadventureclub.com",
+    "phone": "+66-80-800-2500"
+  },
+  {
+    "name": "Octave Rooftop Bar",
+    "url": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/dining/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Rooftop bar at Bangkok Marriott Sukhumvit",
+    "phone": "+66-02-7970000"
+  },
+  {
+    "name": "Vertigo & Moon Bar",
+    "url": "https://www.bfrfrr.com/vertigo-and-moon-bar/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Rooftop bar at Banyan Tree Bangkok"
+  },
+  {
+    "name": "Ce La Vi Bangkok",
+    "url": "https://www.celavi.com/en/bangkok/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Rooftop bar and club at MahaNakhon"
+  },
+  {
+    "name": "DEMO Bangkok",
+    "url": "https://www.demobangkok.com/",
+    "location": "Bangkok",
+    "category": "Nightlife & Entertainment",
+    "source": "ddg-verified",
+    "description": "Nightclub in Thonglor, Bangkok"
+  },
+  {
+    "name": "Eaglecrest DMC",
+    "url": "https://eaglecrestdmc.com/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Destination management company",
+    "phone": "041120527"
+  },
+  {
+    "name": "DMC Quote Thailand",
+    "url": "https://dmcquote.com/",
+    "location": "Thailand",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Destination management company",
+    "email": "sales@travel-dmc.com",
+    "phone": "+91-7838007208"
+  },
+  {
+    "name": "ClubCo Coworking",
+    "url": "https://www.clubco-th.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Full-service coworking in Bangkok",
+    "email": "sales@clubco-th.com",
+    "phone": "05-3391-9791"
+  },
+  {
+    "name": "The Urban Office",
+    "url": "https://www.theurbanoffice.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Coworking space in Bangkok",
+    "email": "info@theurbanoffice.com",
+    "phone": "+662 153 3555"
+  },
+  {
+    "name": "Servcorp Bangkok",
+    "url": "https://www.servcorp.co.th/en/coworking/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Serviced offices and coworking",
+    "email": "",
+    "phone": "+662 207 5444"
+  },
+  {
+    "name": "Absolute Yoga Bangkok",
+    "url": "https://www.absoluteyogabangkok.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Yoga studio in Bangkok"
+  },
+  {
+    "name": "F45 Training Bangkok",
+    "url": "https://f45training.com/find-a-studio/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Fitness training studio",
+    "phone": "05 2055 152"
+  },
+  {
+    "name": "Cvent Thailand Venues",
+    "url": "https://www.cvent.com/venues/results/Bangkok--Thailand",
+    "location": "Bangkok",
+    "category": "MICE & Event DMCs",
+    "source": "ddg-verified",
+    "description": "Convention venue marketplace",
+    "email": "cventhotelreq@ntmllc.com",
+    "phone": "0-625135059"
+  },
+  {
+    "name": "CAMP by Maya",
+    "url": "https://www.campmaya.com/",
+    "location": "Chiang Mai",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Coworking cafe at MAYA Mall Chiang Mai"
+  },
+  {
+    "name": "True Digital Park",
+    "url": "https://www.truedigitalpark.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Technology & startup coworking campus",
+    "email": "hello@truedigitalpark.com",
+    "phone": "02-009-1101"
+  },
+  {
+    "name": "AIS Design Centre",
+    "url": "https://aisdesigncentre.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Design-focused coworking and event space"
+  },
+  {
+    "name": "Glowfish Coworking",
+    "url": "https://www.glowfishcoworking.com/",
+    "location": "Bangkok",
+    "category": "Lifestyle & Experiences",
+    "source": "ddg-verified",
+    "description": "Premium coworking space in Bangkok"
+  }
+]

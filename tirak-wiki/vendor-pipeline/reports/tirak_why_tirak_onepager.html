@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Why Tirak — Vendor Partner One-Pager</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #1a1a2e;
+    background: #ffffff;
+    line-height: 1.5;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 48px;
+  }
+
+  @media print {
+    body { padding: 20px 32px; max-width: 100%; }
+    .no-print { display: none; }
+    @page { margin: 0.5in; size: A4; }
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+    padding-bottom: 16px;
+    border-bottom: 3px solid #e8a838;
+  }
+  .header h1 {
+    font-size: 28px;
+    font-weight: 800;
+    color: #1a1a2e;
+    letter-spacing: -0.5px;
+  }
+  .header h1 span { color: #e8a838; }
+  .header .tagline {
+    font-size: 13px;
+    color: #666;
+    font-weight: 500;
+  }
+
+  /* Hero */
+  .hero {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 12px;
+    padding: 24px 28px;
+    color: white;
+    margin-bottom: 24px;
+  }
+  .hero h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .hero h2 em {
+    color: #e8a838;
+    font-style: normal;
+  }
+  .hero p {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.6;
+  }
+  .hero .stat-row {
+    display: flex;
+    gap: 24px;
+    margin-top: 16px;
+  }
+  .hero .stat {
+    text-align: center;
+    flex: 1;
+  }
+  .hero .stat .num {
+    font-size: 28px;
+    font-weight: 800;
+    color: #e8a838;
+  }
+  .hero .stat .label {
+    font-size: 11px;
+    color: #aaa;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  /* Comparison Table */
+  .section-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #1a1a2e;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title .icon {
+    width: 20px;
+    height: 20px;
+    background: #e8a838;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    font-weight: 800;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 24px;
+    font-size: 13px;
+  }
+  thead th {
+    background: #f5f5f7;
+    padding: 8px 12px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #666;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  thead th:first-child { border-radius: 8px 0 0 0; }
+  thead th:last-child { border-radius: 0 8px 0 0; }
+
+  tbody td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #f0f0f0;
+    vertical-align: middle;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+
+  .winner {
+    background: #f0faf0;
+    font-weight: 600;
+    color: #2d8a4e;
+  }
+  .loser { color: #999; }
+  .highlight { color: #e8a838; font-weight: 700; }
+
+  /* Benefits Grid */
+  .benefits-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .benefit-card {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 14px 16px;
+    border-left: 3px solid #e8a838;
+  }
+  .benefit-card h4 {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #1a1a2e;
+  }
+  .benefit-card p {
+    font-size: 12px;
+    color: #666;
+    line-height: 1.4;
+  }
+
+  /* Categories */
+  .categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 24px;
+  }
+  .cat-tag {
+    background: #1a1a2e;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 500;
+  }
+
+  /* CTA */
+  .cta-section {
+    background: linear-gradient(135deg, #e8a838 0%, #d4922e 100%);
+    border-radius: 12px;
+    padding: 24px 28px;
+    text-align: center;
+    color: white;
+  }
+  .cta-section h3 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 8px;
+  }
+  .cta-section p {
+    font-size: 13px;
+    opacity: 0.9;
+    margin-bottom: 16px;
+  }
+  .cta-section .cta-steps {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    margin-bottom: 16px;
+  }
+  .cta-section .step {
+    text-align: center;
+  }
+  .cta-section .step .step-num {
+    width: 28px;
+    height: 28px;
+    background: rgba(255,255,255,0.25);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  .cta-section .step .step-text {
+    font-size: 11px;
+    font-weight: 500;
+  }
+  .cta-email {
+    font-size: 16px;
+    font-weight: 700;
+    background: rgba(255,255,255,0.2);
+    padding: 8px 20px;
+    border-radius: 8px;
+    display: inline-block;
+  }
+
+  /* Footer */
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 11px;
+    color: #999;
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div>
+    <h1><span>TIRAK</span> Dream Journeys</h1>
+    <div class="tagline">Travel Companion Marketplace &middot; Thailand</div>
+  </div>
+  <div style="text-align: right;">
+    <div style="font-size: 12px; color: #666;">tirak.app</div>
+    <div style="font-size: 11px; color: #999;">Vendor Partner Program</div>
+  </div>
+</div>
+
+<!-- HERO SECTION -->
+<div class="hero">
+  <h2>Your business. Your rates. <em>Your earnings.</em></h2>
+  <p>
+    Tirak connects travelers with verified Thai businesses for authentic experiences.
+    We're companion-first: we invest in bringing travelers to YOU. Keep more of what you earn,
+    get listed same-day, and join 600+ Thai vendors already in our network.
+  </p>
+  <div class="stat-row">
+    <div class="stat">
+      <div class="num">80-85%</div>
+      <div class="label">You Keep</div>
+    </div>
+    <div class="stat">
+      <div class="num">Same Day</div>
+      <div class="label">Approval</div>
+    </div>
+    <div class="stat">
+      <div class="num">600+</div>
+      <div class="label">Thai Vendors</div>
+    </div>
+    <div class="stat">
+      <div class="num">10</div>
+      <div class="label">Categories</div>
+    </div>
+  </div>
+</div>
+
+<!-- COMPARISON TABLE -->
+<div class="section-title">
+  <span class="icon">VS</span>
+  How Tirak Compares
+</div>
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Withlocals</th>
+      <th>ToursByLocals</th>
+      <th>Airbnb Exp.</th>
+      <th style="color: #e8a838;">Tirak</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Commission</strong></td>
+      <td class="loser">30%</td>
+      <td class="loser">40%</td>
+      <td class="loser">20%</td>
+      <td class="winner">15-20% &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>You Keep</strong></td>
+      <td class="loser">&#3647;70/&#3647;100</td>
+      <td class="loser">&#3647;60/&#3647;100</td>
+      <td class="loser">&#3647;80/&#3647;100</td>
+      <td class="winner">&#3647;80-85/&#3647;100 &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>Approval Time</strong></td>
+      <td class="loser">2-4 weeks</td>
+      <td class="loser">4-8 weeks</td>
+      <td class="loser">3-6 months</td>
+      <td class="winner">Same day &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>Photo Requirements</strong></td>
+      <td class="loser">Pro recommended</td>
+      <td class="loser">Pro required</td>
+      <td class="loser">Pro required</td>
+      <td class="winner">iPhone OK &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>Set Your Own Prices</strong></td>
+      <td class="loser">Limited</td>
+      <td class="loser">Fixed tiers</td>
+      <td class="loser">Fixed</td>
+      <td class="winner">Full control &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>Payout Speed</strong></td>
+      <td class="loser">Weekly</td>
+      <td class="loser">Monthly</td>
+      <td class="loser">Weekly</td>
+      <td class="winner">24-48 hours &#10003;</td>
+    </tr>
+    <tr>
+      <td><strong>SE Asia Focus</strong></td>
+      <td class="loser">Europe-first</td>
+      <td class="loser">Global luxury</td>
+      <td class="loser">Global</td>
+      <td class="winner">Thailand-first &#10003;</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- BENEFITS GRID -->
+<div class="section-title">
+  <span class="icon">+</span>
+  Why Vendors Choose Tirak
+</div>
+<div class="benefits-grid">
+  <div class="benefit-card">
+    <h4>Fair Earnings</h4>
+    <p>Keep &#3647;80-85 of every &#3647;100 earned. On a &#3647;2,000 booking, that's &#3647;400-500 more than competitors.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Instant Onboarding</h4>
+    <p>Apply in the morning, go live by afternoon. No 3-month waiting periods, no reference letters, no auditions.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>We Bring Travelers to You</h4>
+    <p>80% of our marketing budget goes to finding travelers for YOU. We're companion-first: supply creates demand.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Full Control</h4>
+    <p>Set your own rates. Toggle availability on/off. Weekend-only or full-time. Your business, your rules.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Verified Travelers</h4>
+    <p>Every traveler is ID-verified with reviews. In-app messaging protects your privacy. Report system + emergency contacts.</p>
+  </div>
+  <div class="benefit-card">
+    <h4>Community & Support</h4>
+    <p>Join 600+ Thai vendors. WhatsApp support group. Monthly meetups. Referral bonuses for inviting peers.</p>
+  </div>
+</div>
+
+<!-- CATEGORIES -->
+<div class="section-title">
+  <span class="icon">&#9733;</span>
+  Active Vendor Categories
+</div>
+<div class="categories">
+  <span class="cat-tag">Leisure & DMCs</span>
+  <span class="cat-tag">MICE & Events</span>
+  <span class="cat-tag">Transport</span>
+  <span class="cat-tag">Adventure & Outdoor</span>
+  <span class="cat-tag">Food & Culinary</span>
+  <span class="cat-tag">Wellness & Spa</span>
+  <span class="cat-tag">Hotels & Hostels</span>
+  <span class="cat-tag">Nightlife</span>
+  <span class="cat-tag">Cinema & Entertainment</span>
+  <span class="cat-tag">Lifestyle & Experiences</span>
+</div>
+
+<!-- CTA -->
+<div class="cta-section">
+  <h3>Get Listed on Tirak Today</h3>
+  <p>Join 600+ Thai vendors earning fair income. Three simple steps.</p>
+  <div class="cta-steps">
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-text">Reply to this email</div>
+    </div>
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-text">Quick 10-min setup</div>
+    </div>
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-text">Go live same day</div>
+    </div>
+  </div>
+  <div class="cta-email">partners@tirak.app</div>
+</div>
+
+<div class="footer">
+  Tirak Dream Journeys &middot; Bangkok, Thailand &middot; tirak.app<br>
+  "Not a tour. A vibe."
+</div>
+
+</body>
+</html>

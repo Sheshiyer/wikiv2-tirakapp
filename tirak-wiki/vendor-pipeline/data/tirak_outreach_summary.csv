@@ -1,0 +1,615 @@
+name,category,email,url,location,phone,status,email_file
+Siam DMC,Leisure & Experience DMCs,b2b@siamdmc.com,https://www.siamdmc.com/,Bangkok,+66 2 138 9811,READY,Siam_DMC.txt
+Eagle Crest DMC,Leisure & Experience DMCs,sales@eaglecrestdmc.com,https://www.eaglecrestdmc.com/thailand-dmc,Bangkok,+66 2 115 9559,READY,Eagle_Crest_DMC.txt
+Discovery DMC,Leisure & Experience DMCs,sales@discoverydmc.com,https://discoverydmc.com/,Bangkok,+66 2 001 1234,READY,Discovery_DMC.txt
+Ovation DMC Thailand,Leisure & Experience DMCs,info@ovationdmc.com,https://ovationdmc.com/destinations/thailand/,Bangkok,0719883969,READY,Ovation_DMC_Thailand.txt
+Diethelm Travel,Leisure & Experience DMCs,,https://www.diethelmtravel.com/,Bangkok,,NEEDS_EMAIL,Diethelm_Travel.txt
+Exo Travel Thailand,Leisure & Experience DMCs,,https://www.exotravel.com/,Bangkok,+66 2 038 4300,NEEDS_EMAIL,Exo_Travel_Thailand.txt
+Khiri Travel,Leisure & Experience DMCs,sales.cambodia@khiri.com,https://www.khiri.com/,Bangkok,+66 2 512 0405,READY,Khiri_Travel.txt
+Pacific World Thailand,Leisure & Experience DMCs,,https://www.pacificworld.com/,Bangkok,,NEEDS_EMAIL,Pacific_World_Thailand.txt
+Destination Asia Thailand,Leisure & Experience DMCs,,https://www.destination-asia.com/,Bangkok,+66 2 127 5888,NEEDS_EMAIL,Destination_Asia_Thailand.txt
+Buffalo Tours Thailand,Leisure & Experience DMCs,pham.hoa@discova.com,https://www.buffalotours.com/,Bangkok,058775-2187,READY,Buffalo_Tours_Thailand.txt
+Smiling Albino,Leisure & Experience DMCs,info@smilingalbino.com,https://smilingalbino.com/,Bangkok,+66 2 107 2540,READY,Smiling_Albino.txt
+Selective Asia,Leisure & Experience DMCs,,https://www.selectiveasia.com/,Bangkok,01273 670,NEEDS_EMAIL,Selective_Asia.txt
+Backyard Travel,Leisure & Experience DMCs,,https://www.backyardtravel.com/,Bangkok,,NEEDS_EMAIL,Backyard_Travel.txt
+Abercrombie & Kent Thailand,Leisure & Experience DMCs,privacy@abercrombiekent.com,https://www.abercrombiekent.com/,Bangkok,04-5879-4088,READY,Abercrombie_Kent_Thailand.txt
+Intrepid Travel Thailand,Leisure & Experience DMCs,,https://www.intrepidtravel.com/,"Bangkok, Chiang Mai",0311720394,NEEDS_EMAIL,Intrepid_Travel_Thailand.txt
+Myths and Mountains,Leisure & Experience DMCs,,https://www.mythsandmountains.com/,Bangkok,0638344373,NEEDS_EMAIL,Myths_and_Mountains.txt
+Sawasdee Thailand,Leisure & Experience DMCs,support@tahug.com,https://www.sawasdee.com/,Bangkok,02050376,READY,Sawasdee_Thailand.txt
+Thailand Packages,Leisure & Experience DMCs,,https://www.thailandpackages.com/,Bangkok,,NEEDS_EMAIL,Thailand_Packages.txt
+Mekong Tourism,Leisure & Experience DMCs,info@mekongtourism-mtco.org,https://mekongtourism.org/,Bangkok,0906483767,READY,Mekong_Tourism.txt
+Raya Heritage Cruises,Leisure & Experience DMCs,reservation@rayaheritage.com,https://www.rayaheritage.com/,Chiang Mai,+66 2 301 1861,READY,Raya_Heritage_Cruises.txt
+Absolute Travel Thailand,Leisure & Experience DMCs,,https://www.absolutetravel.com/,Bangkok,,NEEDS_EMAIL,Absolute_Travel_Thailand.txt
+Gecko Travel Thailand,Leisure & Experience DMCs,,https://www.geckosadventures.com/,Bangkok,0324455232,NEEDS_EMAIL,Gecko_Travel_Thailand.txt
+Thai Travel Center,Leisure & Experience DMCs,rsvn@thaitravelcenter.com,https://www.thaitravelcenter.com/,Bangkok,02-308-8383,READY,Thai_Travel_Center.txt
+Siam Express,Leisure & Experience DMCs,info@siamexpress.com,https://www.siamexpress.com/,Bangkok,+66 2 632 9999,READY,Siam_Express.txt
+Bamboo Travel,Leisure & Experience DMCs,info@bambootravel.co.uk,https://www.bambootravel.co.uk/,Bangkok,020 7720 9285,READY,Bamboo_Travel.txt
+Local Alike,Leisure & Experience DMCs,booking@localalike.com,https://localalike.com/,Bangkok,+66-64-559-8636,READY,Local_Alike.txt
+Trafalgar Thailand,Leisure & Experience DMCs,globalguestrelations@ttc.com,https://www.trafalgar.com/,Bangkok,017 305 2605,READY,Trafalgar_Thailand.txt
+G Adventures Thailand,Leisure & Experience DMCs,,https://www.gadventures.com/,Bangkok,0640005192,NEEDS_EMAIL,G_Adventures_Thailand.txt
+Wendy Wu Tours,Leisure & Experience DMCs,WendyWuTours@us-sales.com,https://www.wendywutours.com/,Bangkok,08-152157,READY,Wendy_Wu_Tours.txt
+Audley Travel Thailand,Leisure & Experience DMCs,info@audleytravel.com,https://www.audleytravel.com/,Bangkok,01993 838,READY,Audley_Travel_Thailand.txt
+Rickshaw Travel Thailand,Leisure & Experience DMCs,hello@rickshawtravel.co.uk,https://www.rickshawtravel.co.uk/,Bangkok,01273 322,READY,Rickshaw_Travel_Thailand.txt
+Aman Tours Thailand,Leisure & Experience DMCs,,https://www.amantours.com/,Bangkok,04 958 271,NEEDS_EMAIL,Aman_Tours_Thailand.txt
+Travelfish Thailand,Leisure & Experience DMCs,,https://www.travelfish.org/,Bangkok,07 758 985,NEEDS_EMAIL,Travelfish_Thailand.txt
+Chiangmai Trekking,Leisure & Experience DMCs,,https://www.chiangmaitrekking.com/,Chiang Mai,03-893-0552,NEEDS_EMAIL,Chiangmai_Trekking.txt
+Thai Private Tour Guide,Leisure & Experience DMCs,,https://www.thaiprivatetourguide.com/,Bangkok,0790959874,NEEDS_EMAIL,Thai_Private_Tour_Guide.txt
+Let's Go Thailand,Leisure & Experience DMCs,,https://www.letsgothailand.com/,Bangkok,03-893-0552,NEEDS_EMAIL,Lets_Go_Thailand.txt
+Siam Society Tours,Leisure & Experience DMCs,,https://www.siamsociety.com/,Bangkok,,NEEDS_EMAIL,Siam_Society_Tours.txt
+Take Me Tour,Leisure & Experience DMCs,support@takemetour.com,https://takemetour.com/,Bangkok,0879644544,READY,Take_Me_Tour.txt
+WithLocals Thailand,Leisure & Experience DMCs,info@withlocals.com,https://www.withlocals.com/,"Bangkok, Chiang Mai",06-8235-4606,READY,WithLocals_Thailand.txt
+Tourscanner Thailand,Leisure & Experience DMCs,hello@tourscanner.com,https://tourscanner.com/,Bangkok,0282990241,READY,Tourscanner_Thailand.txt
+GetYourGuide Thailand,Leisure & Experience DMCs,do-not-reply@getyourguide.com,https://www.getyourguide.com/,Bangkok,0983151431,READY,GetYourGuide_Thailand.txt
+Viator Thailand,Leisure & Experience DMCs,,https://www.viator.com/,Bangkok,,NEEDS_EMAIL,Viator_Thailand.txt
+Efficient Tourism,Leisure & Experience DMCs,,https://dmcfinder.com/listing/dubai-visa-from-thailand/,Dubai,,NEEDS_EMAIL,Efficient_Tourism.txt
+Atlas One Group,Leisure & Experience DMCs,thibault@atlasonegroup.com,https://dmcfinder.com/listing/atlas-one-group-2/,"97/30 Moo 3, Kamala, Kathu, Phuket 83150, Thailand",085 221 4572,READY,Atlas_One_Group.txt
+Elevate,Leisure & Experience DMCs,,https://dmcfinder.com/listing/elevate/,"Elevate Tourism LLC. Office 808, Fifty One Tower, Marasi Drive, Business Bay, Dubai PO Box: Dubai 114456 United Arab Emirates",04 216 0600,NEEDS_EMAIL,Elevate.txt
+Stella Deluxe. VIP,Leisure & Experience DMCs,,https://dmcfinder.com/listing/stelladeluxe-vip/,"Phuket, Thailand",,NEEDS_EMAIL,Stella_Deluxe_VIP.txt
+OXOMI,Leisure & Experience DMCs,,https://dmcfinder.com/listing/hassle-free-dmc-in-thailand-vietnam-cambodia-malaysia-bali-and-singapore/,"Phuket, Thailand",098 245 9261,NEEDS_EMAIL,OXOMI.txt
+Best Deals Thailand,Leisure & Experience DMCs,,https://dmcfinder.com/listing/best-deals-thailand/,"Pattaya, Thailand",,NEEDS_EMAIL,Best_Deals_Thailand.txt
+Malee Hospitality,Leisure & Experience DMCs,,https://dmcfinder.com/listing/malee-hospitality/,"Bangkok, Thailand",063 836 0210,NEEDS_EMAIL,Malee_Hospitality.txt
+Paradox Resort Phuket,Leisure & Experience DMCs,,https://dmcfinder.com/listing/paradox-resort-phuket/,"Thailand, Thailand",,NEEDS_EMAIL,Paradox_Resort_Phuket.txt
+TRAVELVAGO CO. LTD.,Leisure & Experience DMCs,,https://dmcfinder.com/listing/travelvago-co-ltd/,"Bangkok, Thailand",098 869 6819,NEEDS_EMAIL,TRAVELVAGO_CO_LTD.txt
+Grand Sea Discovery,Leisure & Experience DMCs,,https://dmcfinder.com/listing/grand-sea-discovery-co-ltd/,"Koh Samui, Thailand",+66 9419714585,NEEDS_EMAIL,Grand_Sea_Discovery.txt
+NNS Luxury Limousine,Leisure & Experience DMCs,,https://dmcfinder.com/listing/nns-luxury-limousine/,"Bangkok, Thailand",064 194 9666,NEEDS_EMAIL,NNS_Luxury_Limousine.txt
+Recreational Bangkok Biking,Leisure & Experience DMCs,,https://dmcfinder.com/listing/recreational-bangkok-biking-co-ltd/,"Bangkok, Thailand",+66 02 107 2500,NEEDS_EMAIL,Recreational_Bangkok_Biking.txt
+Vacay Thailand,Leisure & Experience DMCs,,https://dmcfinder.com/listing/vacay-thailand/,"Bangkok, Thailand",086 342 9526,NEEDS_EMAIL,Vacay_Thailand.txt
+Laemsingh Villa 3,Leisure & Experience DMCs,,https://dmcfinder.com/listing/laemsingh-villa-3/,"Phuket, Thailand",,NEEDS_EMAIL,Laemsingh_Villa_3.txt
+Villa Baan Hen,Leisure & Experience DMCs,,https://dmcfinder.com/listing/villa-baan-hen/,"Phuket, Thailand",,NEEDS_EMAIL,Villa_Baan_Hen.txt
+Villa Baan Paradise,Leisure & Experience DMCs,,https://dmcfinder.com/listing/villa-baan-paradise/,"Phuket, Thailand",,NEEDS_EMAIL,Villa_Baan_Paradise.txt
+Pra Nang Villa,Leisure & Experience DMCs,,https://dmcfinder.com/listing/pra-nang-villa/,"Phuket, Thailand",,NEEDS_EMAIL,Pra_Nang_Villa.txt
+Yacht Phuket Trip,Leisure & Experience DMCs,,https://dmcfinder.com/listing/yacht-phuket-trip/,"Phuket, Thailand",081 928 8240,NEEDS_EMAIL,Yacht_Phuket_Trip.txt
+Tic Tours,Leisure & Experience DMCs,,https://dmcfinder.com/listing/tic-tours/,"Bangkok, Thailand",098957 5769,NEEDS_EMAIL,Tic_Tours.txt
+TAG Travel Asia,Leisure & Experience DMCs,,https://dmcfinder.com/listing/tag-travel-asia/,"Bangkok, Thailand",+66 2 115 5456,NEEDS_EMAIL,TAG_Travel_Asia.txt
+Royal Vacation Co. LTD,Leisure & Experience DMCs,,https://dmcfinder.com/listing/royal-vacation-co-ltd/,"Bangkok, Thailand",+66 2 282 3167,NEEDS_EMAIL,Royal_Vacation_Co_LTD.txt
+"Travools Services (Thailand) Co., Ltd",Leisure & Experience DMCs,,https://dmcfinder.com/listing/travools-services-thailand-co-ltd/,"Pattaya City, Thailand",097 254 9695,NEEDS_EMAIL,Travools_Services_Thailand_Co_Ltd.txt
+M&M Excellence Asia,Leisure & Experience DMCs,,https://dmcfinder.com/listing/mm-excellence-asia/,"Phuket, Thailand",086 940 0379,NEEDS_EMAIL,MM_Excellence_Asia.txt
+RedFox Events Co Ltd,Leisure & Experience DMCs,,https://dmcfinder.com/listing/redfox-events-co-ltd/,"Bangkok, Thailand",+66 2 108 5184,NEEDS_EMAIL,RedFox_Events_Co_Ltd.txt
+MUNDO NOMADA TRAVEL,Leisure & Experience DMCs,,https://dmcfinder.com/listing/mundo-nomada-travel/,"Bangkok, Thailand",082 051 7366,NEEDS_EMAIL,MUNDO_NOMADA_TRAVEL.txt
+"Asia Travel and estate Co.,Ltd.",Leisure & Experience DMCs,,https://dmcfinder.com/listing/asia-travel-and-estate-co-ltd/,"Bangkok, Thailand",081 084 1259,NEEDS_EMAIL,Asia_Travel_and_estate_CoLtd.txt
+Thai Sabai Life Co. Ltd. / Boost Incentive,Leisure & Experience DMCs,,https://dmcfinder.com/listing/thai-sabai-life-co-ltd-boost-incentive/,"Bangkok, Thailand",+66 2 012 3456,NEEDS_EMAIL,Thai_Sabai_Life_Co_Ltd_Boost_Incentive.txt
+Phuket Event Company MICE  DMC Bangkok Thailand,Leisure & Experience DMCs,info@phuketeventcompany.com,https://dmcfinder.com/listing/phuket-event-company-mice-dmc-bangkok-thailand/,"Bangkok, Thailand",+66 65 749 5221,READY,Phuket_Event_Company_MICE_DMC_Bangkok_Thailand.txt
+DISCOVA,Leisure & Experience DMCs,,https://dmcfinder.com/listing/discova/,"Bangkok, Thailand",+66 2 318 8400,NEEDS_EMAIL,DISCOVA.txt
+Asia Bespoke Tours,Leisure & Experience DMCs,,https://dmcfinder.com/listing/asia-bespoke-tours/,"Bangkok, Thailand",+66 2 222 3333,NEEDS_EMAIL,Asia_Bespoke_Tours.txt
+TAGG Travel,Leisure & Experience DMCs,,https://dmcfinder.com/listing/tagg-travel/,"Bangkok, Thailand",083 544 6644,NEEDS_EMAIL,TAGG_Travel.txt
+Asian Trails,Leisure & Experience DMCs,,https://dmcfinder.com/listing/asian-trails/,"Bangkok, Thailand",+66 2 626 2000,NEEDS_EMAIL,Asian_Trails.txt
+8th Wave Events & Destinations,Leisure & Experience DMCs,,https://dmcfinder.com/listing/8th-wave-events-destinations/,"Bangkok, Thailand",+66 2 105 4641,NEEDS_EMAIL,8th_Wave_Events_Destinations.txt
+Asiaiza,Leisure & Experience DMCs,,https://dmcfinder.com/listing/asiaiza/,"Bangkok, Thailand",,NEEDS_EMAIL,Asiaiza.txt
+Meeting and Convention Planner Thailand,Leisure & Experience DMCs,,https://dmcfinder.com/listing/meeting-and-convention-planner-thailand/,"Bangkok, Thailand",081 453 4316,NEEDS_EMAIL,Meeting_and_Convention_Planner_Thailand.txt
+CDM – Conference & Destination Management -EUROMIC Thailand,Leisure & Experience DMCs,,https://dmcfinder.com/listing/cdm-conference-destination-management-euromic-thailand/,"Bangkok, Thailand",+66 02 965 8909,NEEDS_EMAIL,CDM_Conference_Destination_Management_-EUROMIC_Thailand.txt
+CDM-Conference & Destination Management,Leisure & Experience DMCs,,https://dmcfinder.com/listing/cdm-conference-destination-management/,"Bangkok, Thailand",+66 02 965 8909,NEEDS_EMAIL,CDM-Conference_Destination_Management.txt
+"Nouveau Siam Travel Co., LTD.",Leisure & Experience DMCs,,https://dmcfinder.com/listing/nouveau-siam-travel-co-ltd/,"Bangkok, Thailand",+66 02 965 8874,NEEDS_EMAIL,Nouveau_Siam_Travel_Co_LTD.txt
+"GAT International Co.,Ltd.",Leisure & Experience DMCs,,https://dmcfinder.com/listing/gat-international-co-ltd/,"Bangkok, Thailand",089 897 7700,NEEDS_EMAIL,GAT_International_CoLtd.txt
+Asia World Enterprise,Leisure & Experience DMCs,,https://dmcfinder.com/listing/asia-world-ent/,"Bangkok, Thailand",,NEEDS_EMAIL,Asia_World_Enterprise.txt
+Go Vacation,Leisure & Experience DMCs,info@go-vacation.com,https://dmcfinder.com/listing/go-vacation/,"Bangkok, Thailand",+66 2 267 1202,READY,Go_Vacation.txt
+Ovation – Oriental Events,Leisure & Experience DMCs,,https://dmcfinder.com/listing/ovation-oriental-events/,"Bangkok, Thailand",081 895 5664,NEEDS_EMAIL,Ovation_Oriental_Events.txt
+The Sukhothai Bangkok,Leisure & Experience DMCs,,https://dmcfinder.com/listing/the-sukhothai-bangkok/,"Bangkok, thailand",,NEEDS_EMAIL,The_Sukhothai_Bangkok.txt
+The Berkeley Hotel Pratunam,Leisure & Experience DMCs,,https://dmcfinder.com/listing/the-berkeley-hotel-pratunam/,"Bangkok, thailand",+66 87 547 3936,NEEDS_EMAIL,The_Berkeley_Hotel_Pratunam.txt
+Sawaddi Patong REsort & Spa,Leisure & Experience DMCs,,https://dmcfinder.com/listing/sawaddi-patong-resort-spa/,"Phuket, thailand",+66 81 824 0565,NEEDS_EMAIL,Sawaddi_Patong_REsort_Spa.txt
+Renaissance Koh Samui Resort & Spa,Leisure & Experience DMCs,,https://dmcfinder.com/listing/renaissance-koh-samui-resort-spa/,"Koh Samui, thailand",+66 77 429 300,NEEDS_EMAIL,Renaissance_Koh_Samui_Resort_Spa.txt
+Avani+ Riverside Bangkok Hotel,Leisure & Experience DMCs,,https://dmcfinder.com/listing/avani-riverside-bangkok-hotel/,"Bangkok, thailand",,NEEDS_EMAIL,Avani_Riverside_Bangkok_Hotel.txt
+The Vijitt Resort Phuket,Leisure & Experience DMCs,,https://dmcfinder.com/listing/the-vijitt-resort-phuket/,"Phuket, thailand",+66 76 363 600,NEEDS_EMAIL,The_Vijitt_Resort_Phuket.txt
+The Nature Phuket,Leisure & Experience DMCs,,https://dmcfinder.com/listing/the-nature-phuket/,"Phuket, thailand",+66 76 681 789,NEEDS_EMAIL,The_Nature_Phuket.txt
+RAMA GARDENS HOTEL BANGKOK,Leisure & Experience DMCs,,https://dmcfinder.com/listing/rama-gardens-hotel-bangkok/,"Bangkok, thailand",,NEEDS_EMAIL,RAMA_GARDENS_HOTEL_BANGKOK.txt
+THE REGENT CHAAM BEACH RESORT,Leisure & Experience DMCs,,https://dmcfinder.com/listing/the-regent-chaam-beach-resort/,"Cha-am, thailand",+66 2 255 2818,NEEDS_EMAIL,THE_REGENT_CHAAM_BEACH_RESORT.txt
+Banyan Tree Bangkok,Leisure & Experience DMCs,,https://dmcfinder.com/listing/banyan-tree-bangkok/,"Bangkok, thailand",,NEEDS_EMAIL,Banyan_Tree_Bangkok.txt
+Angsana  Laguna  Phuket,Leisure & Experience DMCs,,https://dmcfinder.com/listing/angsana-laguna-phuket/,"Phuket, thailand",+66 82 629 1321,NEEDS_EMAIL,Angsana_Laguna_Phuket.txt
+Royal Cliff Hotels Group,Leisure & Experience DMCs,,https://dmcfinder.com/listing/royal-cliff-hotels-group/,"Pattaya City, thailand",+66 38 250 421,NEEDS_EMAIL,Royal_Cliff_Hotels_Group.txt
+Anantara Hua Hin Resort,Leisure & Experience DMCs,,https://dmcfinder.com/listing/anantara-hua-hin-resort/,"Hua Hin, thailand",+66 32 520 250,NEEDS_EMAIL,Anantara_Hua_Hin_Resort.txt
+Novotel Phuket Resort,Leisure & Experience DMCs,,https://dmcfinder.com/listing/novotel-phuket-resort/,"Pa Tong, thailand",+66 76 342 777,NEEDS_EMAIL,Novotel_Phuket_Resort.txt
+Hotel Nikko Bangkok,Leisure & Experience DMCs,,https://dmcfinder.com/listing/hotel-nikko-bangkok/,"Bangkok, thailand",,NEEDS_EMAIL,Hotel_Nikko_Bangkok.txt
+Royal Orchid Sheraton Hotel & Towers,Leisure & Experience DMCs,,https://dmcfinder.com/listing/royal-orchid-sheraton-hotel-towers/,"Bangkok, thailand",+66 61 415 9680,NEEDS_EMAIL,Royal_Orchid_Sheraton_Hotel_Towers.txt
+AMBASSADOR HOTEL BANGKOK,Leisure & Experience DMCs,,https://dmcfinder.com/listing/ambassador-hotel-bangkok/,"Bangkok, thailand",,NEEDS_EMAIL,AMBASSADOR_HOTEL_BANGKOK.txt
+Prince Palace Hotel,Leisure & Experience DMCs,,https://dmcfinder.com/listing/prince-palace-hotel/,"Bangkok, thailand",+66 89 447 7082,NEEDS_EMAIL,Prince_Palace_Hotel.txt
+Kata Sea Breeze Resort,Leisure & Experience DMCs,,https://dmcfinder.com/listing/kata-sea-breeze-resort/,"Phuket, thailand",+66 76 609 088,NEEDS_EMAIL,Kata_Sea_Breeze_Resort.txt
+Beach Republic,Leisure & Experience DMCs,,https://dmcfinder.com/listing/beach-republic/,"Ko Samui, thailand",+66 92 264 2910,NEEDS_EMAIL,Beach_Republic.txt
+Devasom Khao Lak Beach Resort & Villas,Leisure & Experience DMCs,,https://dmcfinder.com/listing/devasom-khao-lak-beach-resort-villas/,"Phang-nga, thailand",+66 81 728 8948,NEEDS_EMAIL,Devasom_Khao_Lak_Beach_Resort_Villas.txt
+Anantara Bophut Koh Samui Resort,Leisure & Experience DMCs,,https://dmcfinder.com/listing/anantara-bophut-koh-samui-resort/,"Koh Samui, thailand",+66 62 142 6516,NEEDS_EMAIL,Anantara_Bophut_Koh_Samui_Resort.txt
+Mode Sathorn Hotel,Leisure & Experience DMCs,,https://dmcfinder.com/listing/mode-sathorn-hotel/,"Bangkok, thailand",+66 2 623 4555,NEEDS_EMAIL,Mode_Sathorn_Hotel.txt
+MICE Thailand (Net),MICE & Event DMCs,info@micethailand.net,https://micethailand.net/,"Bangkok, Phuket",065-749-5221,READY,MICE_Thailand_Net.txt
+MICE Magic Thailand,MICE & Event DMCs,sales@micemagicthailand.com,https://www.micemagicthailand.com/,Bangkok,+66988582388,READY,MICE_Magic_Thailand.txt
+MC Planner (MICE Service),MICE & Event DMCs,,http://www.miceservice.com/,Bangkok,0791005842,NEEDS_EMAIL,MC_Planner_MICE_Service.txt
+Phuket Event Company,MICE & Event DMCs,info@phuketeventcompany.com,https://www.phuketeventcompany.com/,"Phuket, Bangkok",+66 65 749 5221,READY,Phuket_Event_Company.txt
+Royal Vacation DMC,MICE & Event DMCs,rsvn@royalvacationtours.com,https://royalvacationdmc.com/,Bangkok,+6623470613,READY,Royal_Vacation_DMC.txt
+ITC Travel MICE,MICE & Event DMCs,,https://www.itc.travel/mice,Bangkok,028320777,NEEDS_EMAIL,ITC_Travel_MICE.txt
+MCI Thailand,MICE & Event DMCs,hellouk@wearemci.com,https://www.wearemci.com/,Bangkok,0 3530 0100,READY,MCI_Thailand.txt
+Thailand Convention & Exhibition Bureau,MICE & Event DMCs,info@tceb.or.th,https://www.businesseventsthailand.com/,Bangkok,"019                                
+
+                                    2020                                
+
+                                    2021",READY,Thailand_Convention_Exhibition_Bureau.txt
+CWT Meetings & Events Thailand,MICE & Event DMCs,,https://www.mycwt.com/,Bangkok,068514591,NEEDS_EMAIL,CWT_Meetings_Events_Thailand.txt
+HIS Thailand,MICE & Event DMCs,tha-yoyaku@his-world.com,https://www.his-bkk.com/,Bangkok,02-022-0908,READY,HIS_Thailand.txt
+Reed Tradex Thailand,MICE & Event DMCs,,https://www.reedtradex.com/,Bangkok,09-4403-9988,NEEDS_EMAIL,Reed_Tradex_Thailand.txt
+Index Creative Village,MICE & Event DMCs,feedback@index-creative.com,https://www.indexcreativevillage.com/,Bangkok,"025
+2024
+2023",READY,Index_Creative_Village.txt
+IMPACT Exhibition Management,MICE & Event DMCs,info@impact.co.th,https://www.impact.co.th/,Bangkok,082-737-7488,READY,IMPACT_Exhibition_Management.txt
+Bangkok Convention Centre,MICE & Event DMCs,,https://www.bcc.co.th/,Bangkok,0689853022,NEEDS_EMAIL,Bangkok_Convention_Centre.txt
+BITEC Bangkok,MICE & Event DMCs,,https://www.bitec.co.th/,Bangkok,02-726-1999,NEEDS_EMAIL,BITEC_Bangkok.txt
+Centara Convention Centre,MICE & Event DMCs,,https://www.centarahotelsresorts.com/,"Bangkok, Pattaya",0444556454,NEEDS_EMAIL,Centara_Convention_Centre.txt
+Avani+ Convention Hotel,MICE & Event DMCs,,https://www.avanihotels.com/,Bangkok,+66 2 365 9110,NEEDS_EMAIL,Avani_Convention_Hotel.txt
+Amari Events Thailand,MICE & Event DMCs,,https://www.amari.com/,"Bangkok, Phuket",+66 7730 0306,NEEDS_EMAIL,Amari_Events_Thailand.txt
+Anantara MICE,MICE & Event DMCs,,https://www.anantara.com/,Multiple,000 800 040,NEEDS_EMAIL,Anantara_MICE.txt
+Banyan Tree MICE Bangkok,MICE & Event DMCs,,https://www.banyantree.com/,Bangkok,,NEEDS_EMAIL,Banyan_Tree_MICE_Bangkok.txt
+Dusit MICE,MICE & Event DMCs,info.aksj@dusit.com,https://www.dusit.com/,Bangkok,0313095458,READY,Dusit_MICE.txt
+Sheraton Grande Bangkok Events,MICE & Event DMCs,,https://www.marriott.com/,Bangkok,,NEEDS_EMAIL,Sheraton_Grande_Bangkok_Events.txt
+SO Bangkok Events,MICE & Event DMCs,h6835@so-hotels.com,https://www.so-bangkok.com/,Bangkok,+66 2624 0000,READY,SO_Bangkok_Events.txt
+Event Pop Thailand,MICE & Event DMCs,,https://www.eventpop.me/,Bangkok,0809013446,NEEDS_EMAIL,Event_Pop_Thailand.txt
+Eventbrite Thailand,MICE & Event DMCs,,https://www.eventbrite.com/,Bangkok,023949 113,NEEDS_EMAIL,Eventbrite_Thailand.txt
+Asia Exhibition & Conferences,MICE & Event DMCs,,https://www.aecasia.com/,Bangkok,,NEEDS_EMAIL,Asia_Exhibition_Conferences.txt
+Dream Incentive Thailand,MICE & Event DMCs,info@dreamincentive.com,https://www.dreamincentive.com/,Bangkok,0216451334,READY,Dream_Incentive_Thailand.txt
+Onyx Hospitality Events,MICE & Event DMCs,,https://www.onyx-hospitality.com/,Bangkok,02 255 3767,NEEDS_EMAIL,Onyx_Hospitality_Events.txt
+Minor Hotels Events,MICE & Event DMCs,,https://www.minorhotels.com/,Multiple,+66 0 2365 9115,NEEDS_EMAIL,Minor_Hotels_Events.txt
+Cape & Kantary Events,MICE & Event DMCs,enquiries@capekantaryhotels.com,https://www.capekantaryhotels.com/,Multiple,+6622533791,READY,Cape_Kantary_Events.txt
+Siam Piwat Events,MICE & Event DMCs,,https://www.siampiwat.com/,Bangkok,0281232745,NEEDS_EMAIL,Siam_Piwat_Events.txt
+True Arena Hua Hin,MICE & Event DMCs,,https://www.truearena.com/,Hua Hin,,NEEDS_EMAIL,True_Arena_Hua_Hin.txt
+Laguna Phuket Events,MICE & Event DMCs,info@lagunaphuket.com,https://www.lagunaphuket.com/,Phuket,076-304-504,READY,Laguna_Phuket_Events.txt
+Kata Group Events,MICE & Event DMCs,reservation@katathani.com,https://www.katathani.com/,Phuket,+66 76 330 124,READY,Kata_Group_Events.txt
+Live International Thailand,MICE & Event DMCs,,https://www.liveinternational.com/,Bangkok,,NEEDS_EMAIL,Live_International_Thailand.txt
+Limousine.in.th,Transport & Transfer Services,info@limousine.in.th,https://limousine.in.th/,Bangkok,+668-007-007,READY,Limousineinth.txt
+Elife Limo,Transport & Transfer Services,support@elifelimo.com,https://elifelimo.com/,Bangkok,00 814 4204,READY,Elife_Limo.txt
+Oriental Escape Transfer,Transport & Transfer Services,contact@orientalescape.com,https://www.orientalescape.com/transfer/thailand,Bangkok,091-007-0007,READY,Oriental_Escape_Transfer.txt
+Blacklane Thailand,Transport & Transfer Services,,https://www.blacklane.com/en/airport-transfer-bangkok/,Bangkok,0 2019959,NEEDS_EMAIL,Blacklane_Thailand.txt
+First Class Bangkok,Transport & Transfer Services,info@firstclassbangkok.com,https://www.firstclassbangkok.com/,Bangkok,0-1255-5301,READY,First_Class_Bangkok.txt
+GB Limousine,Transport & Transfer Services,5991booking@ground-business.com,https://gblimousine.net/,Bangkok,+66 2 821 5991,READY,GB_Limousine.txt
+Thai Taxis,Transport & Transfer Services,info@thaitaxis.com,https://www.thaitaxis.com/,"Bangkok, Pattaya",0592045807,READY,Thai_Taxis.txt
+Thai Limo,Transport & Transfer Services,,https://www.thailimo.com/,Bangkok,,NEEDS_EMAIL,Thai_Limo.txt
+AirportTransfer.com Thailand,Transport & Transfer Services,at@airporttransfer.com,https://www.airporttransfer.com/,Multiple,0-4432-875,READY,AirportTransfercom_Thailand.txt
+Klook Thailand Transfers,Transport & Transfer Services,,https://www.klook.com/en-US/airport-transfers/city/4-bangkok-airport/,Bangkok,,NEEDS_EMAIL,Klook_Thailand_Transfers.txt
+12Go Asia,Transport & Transfer Services,,https://12go.asia/,Multiple,0399999999,NEEDS_EMAIL,12Go_Asia.txt
+BusOnlineTicket Thailand,Transport & Transfer Services,sales@busonlineticket.co.th,https://www.busonlineticket.co.th/,Multiple,09055580013,READY,BusOnlineTicket_Thailand.txt
+Thai Railway Booking,Transport & Transfer Services,,https://www.thairailwayticket.com/,National,0791076536,NEEDS_EMAIL,Thai_Railway_Booking.txt
+Bolt Thailand,Transport & Transfer Services,,https://bolt.eu/,"Bangkok, Pattaya",0318773731,NEEDS_EMAIL,Bolt_Thailand.txt
+Grab Thailand,Transport & Transfer Services,,https://www.grab.com/th/,Multiple,08927 103,NEEDS_EMAIL,Grab_Thailand.txt
+InDrive Thailand,Transport & Transfer Services,,https://indrive.com/,Multiple,+966599660393,NEEDS_EMAIL,InDrive_Thailand.txt
+Lomprayah,Transport & Transfer Services,customercare@lomprayah.com,https://www.lomprayah.com/,Gulf Islands,077950700,READY,Lomprayah.txt
+Seatran Ferry,Transport & Transfer Services,,https://www.seatranferry.com/,Gulf Islands,084-0654455,NEEDS_EMAIL,Seatran_Ferry.txt
+Andaman Wave Master,Transport & Transfer Services,,https://andamanwavemaster.com/,"Phuket, Krabi",+66 76 614 135,NEEDS_EMAIL,Andaman_Wave_Master.txt
+Tigerline Ferry,Transport & Transfer Services,,https://www.tigerlinetravel.com/,Andaman Coast,0-8899-4114,NEEDS_EMAIL,Tigerline_Ferry.txt
+Nok Air,Transport & Transfer Services,,https://www.nokair.com/,National,,NEEDS_EMAIL,Nok_Air.txt
+Thai Lion Air,Transport & Transfer Services,info@lionairthai.com,https://www.lionairthai.com/,National,02 529 9839,READY,Thai_Lion_Air.txt
+Bangkok Airways,Transport & Transfer Services,,https://www.bangkokair.com/,National,,NEEDS_EMAIL,Bangkok_Airways.txt
+Thai Vietjet,Transport & Transfer Services,,https://www.vietjetair.com/,National,,NEEDS_EMAIL,Thai_Vietjet.txt
+AirAsia Thailand,Transport & Transfer Services,,https://www.airasia.com/,National,0738585072,NEEDS_EMAIL,AirAsia_Thailand.txt
+Phuket Ferry,Transport & Transfer Services,,https://www.phuketferry.com/,Phuket,0961520953,NEEDS_EMAIL,Phuket_Ferry.txt
+Railay Beach Longtail,Transport & Transfer Services,,https://www.railaybeach.com/,Krabi,,NEEDS_EMAIL,Railay_Beach_Longtail.txt
+Bangkok River Taxi,Transport & Transfer Services,info@chaophrayaexpressboat.com,https://www.chaophrayaexpressboat.com/,Bangkok,086-331-4215,READY,Bangkok_River_Taxi.txt
+BTS Skytrain,Transport & Transfer Services,,https://www.bts.co.th/,Bangkok,0 2617 6000,NEEDS_EMAIL,BTS_Skytrain.txt
+MRT Bangkok,Transport & Transfer Services,saraban@mrta.co.th,https://www.mrta.co.th/,Bangkok,0 2716 4000,READY,MRT_Bangkok.txt
+Airport Rail Link,Transport & Transfer Services,cus.redline@srtet.co.th,https://www.srtet.co.th/,Bangkok,08088416,READY,Airport_Rail_Link.txt
+Phuket Smart Bus,Transport & Transfer Services,info@phuketsmartbus.com,https://www.phuketsmartbus.com/,Phuket,086-306-1257,READY,Phuket_Smart_Bus.txt
+Songthaew Chiang Mai,Transport & Transfer Services,,https://www.chiangmaitraveller.com/,Chiang Mai,0326312833,NEEDS_EMAIL,Songthaew_Chiang_Mai.txt
+Thai Rent A Car,Transport & Transfer Services,,https://www.thairentacar.com/,Multiple,02-318-8888,NEEDS_EMAIL,Thai_Rent_A_Car.txt
+Budget Car Thailand,Transport & Transfer Services,,https://www.budget.co.th/,Multiple,,NEEDS_EMAIL,Budget_Car_Thailand.txt
+Hertz Thailand,Transport & Transfer Services,,https://www.hertz.co.th/,Multiple,06292623,NEEDS_EMAIL,Hertz_Thailand.txt
+Sixt Thailand,Transport & Transfer Services,,https://www.sixt.co.th/,Multiple,09-1479370,NEEDS_EMAIL,Sixt_Thailand.txt
+Active Thailand,Adventure & Outdoor Operators,filler@godaddy.com,https://active-thailand.com/,Chiang Mai,+66816812400,READY,Active_Thailand.txt
+Flight of the Gibbon,Adventure & Outdoor Operators,,https://www.treetopasia.com/,"Chiang Mai, Pattaya",,NEEDS_EMAIL,Flight_of_the_Gibbon.txt
+Elephant Nature Park,Adventure & Outdoor Operators,,https://www.elephantnaturepark.org/,Chiang Mai,0489788514,NEEDS_EMAIL,Elephant_Nature_Park.txt
+Sea Canoe Thailand,Adventure & Outdoor Operators,,https://www.seacanoe.net/,Phuket,0638344373,NEEDS_EMAIL,Sea_Canoe_Thailand.txt
+Dive The World Thailand,Adventure & Outdoor Operators,ask@dive-the-world.com,https://www.dive-the-world.com/,"Phuket, Koh Tao",0825053134,READY,Dive_The_World_Thailand.txt
+Ban's Diving Resort,Adventure & Outdoor Operators,,https://www.bansdivingresort.com/,Koh Tao,,NEEDS_EMAIL,Bans_Diving_Resort.txt
+SSS Phuket Diving,Adventure & Outdoor Operators,info@sssphuket.com,https://www.sssphuket.com/,Phuket,+66 895 869 920,READY,SSS_Phuket_Diving.txt
+Similan Diving Safaris,Adventure & Outdoor Operators,info@similan-diving-safaris.com,https://www.similan-diving-safaris.com/,Phuket,+66 76 485 470,READY,Similan_Diving_Safaris.txt
+Rock Climbing Railay,Adventure & Outdoor Operators,info@railayadventure.com,https://www.railayadventure.com/,Krabi,06-4799-9493,READY,Rock_Climbing_Railay.txt
+Basecamp Tonsai,Adventure & Outdoor Operators,,https://www.basecamptonsai.com/,Krabi,0599999964,NEEDS_EMAIL,Basecamp_Tonsai.txt
+Thai Adventures,Adventure & Outdoor Operators,,https://www.thaiadventures.com/,Multiple,03-893-0552,NEEDS_EMAIL,Thai_Adventures.txt
+Jungle Flight Chiang Mai,Adventure & Outdoor Operators,,https://www.jungleflight.com/,Chiang Mai,03-893-0552,NEEDS_EMAIL,Jungle_Flight_Chiang_Mai.txt
+Paddle Asia,Adventure & Outdoor Operators,,https://www.paddleasia.com/,Phuket,+66 81 8936558,NEEDS_EMAIL,Paddle_Asia.txt
+Sail in Asia,Adventure & Outdoor Operators,ceo@sailinasia.com,https://www.sailinasia.com/,Phuket,+66 87 281 0458,READY,Sail_in_Asia.txt
+John Gray's Sea Canoe,Adventure & Outdoor Operators,reservations@johngray-seacanoe.com,https://www.johngray-seacanoe.com/,Phuket,0631243404,READY,John_Grays_Sea_Canoe.txt
+Phuket Surf,Adventure & Outdoor Operators,,https://www.phuketsurfing.com/,Phuket,,NEEDS_EMAIL,Phuket_Surf.txt
+Skydive Thailand,Adventure & Outdoor Operators,fly@skydivethailand.com,https://www.skydivethailand.com/,Pattaya,,READY,Skydive_Thailand.txt
+Pooh Eco Trekking,Adventure & Outdoor Operators,info@pooh-eco-trekking.com,https://www.pooh-ecotrekking.com/,Chiang Mai,0636281480,READY,Pooh_Eco_Trekking.txt
+Khao Sok Discovery,Adventure & Outdoor Operators,khaosoktravel@gmail.com,https://www.khaosokdiscovery.com/,Surat Thani,+66-93-7252714,READY,Khao_Sok_Discovery.txt
+Our Jungle Camp,Adventure & Outdoor Operators,,https://www.ourjunglecamp.com/,Khao Sok,,NEEDS_EMAIL,Our_Jungle_Camp.txt
+Elephant Hills,Adventure & Outdoor Operators,booking@elephanthills.com,https://www.elephanthills.com/,Khao Sok,+66 5200 1186,READY,Elephant_Hills.txt
+Anurak Community Lodge,Adventure & Outdoor Operators,,https://www.anuraklodge.com/,Khao Sok,+6681 898 9271,NEEDS_EMAIL,Anurak_Community_Lodge.txt
+Pimalai Excursions,Adventure & Outdoor Operators,,https://www.pimalai.com/,Koh Lanta,+66 2 320 5500,NEEDS_EMAIL,Pimalai_Excursions.txt
+Koh Tao Divers,Adventure & Outdoor Operators,info@kohtaodivers.com,https://www.kohtaodivers.com/,Koh Tao,0809737692,READY,Koh_Tao_Divers.txt
+Crystal Dive Koh Tao,Adventure & Outdoor Operators,contact@crystaldive.com,https://www.crystaldive.com/,Koh Tao,0515577845,READY,Crystal_Dive_Koh_Tao.txt
+Samui Kayak Adventures,Adventure & Outdoor Operators,info@samuikayaks.com,https://www.samuikayaks.com/,Koh Samui,0255703680,READY,Samui_Kayak_Adventures.txt
+Blue Stars Kayaking,Adventure & Outdoor Operators,info@bluestars.info,https://www.bluestars.info/,Koh Samui,+66 8 7886 6097,READY,Blue_Stars_Kayaking.txt
+Elephant Jungle Sanctuary,Adventure & Outdoor Operators,chiangmai@elephantjunglesanctuary.com,https://www.elephantjunglesanctuary.com/,"Chiang Mai, Phuket",+66-83-562-4263,READY,Elephant_Jungle_Sanctuary.txt
+Patara Elephant Farm,Adventure & Outdoor Operators,pataraelephantfarm@hotmail.com,https://www.pataraelephantfarm.com/,Chiang Mai,0875310966,READY,Patara_Elephant_Farm.txt
+Cable Ski Pattaya,Adventure & Outdoor Operators,,https://www.thaiwakepark.com/,Pattaya,0968785498,NEEDS_EMAIL,Cable_Ski_Pattaya.txt
+Thai Muay Thai,Adventure & Outdoor Operators,,https://www.thaimuaythai.com/,"Bangkok, Phuket",,NEEDS_EMAIL,Thai_Muay_Thai.txt
+Tiger Muay Thai,Adventure & Outdoor Operators,info@tigermuaythai.com,https://www.tigermuaythai.com/,Phuket,+66 76 367 071,READY,Tiger_Muay_Thai.txt
+Fairtex Training Center,Adventure & Outdoor Operators,contact@fairtex.com,https://www.fairtex.com/,Pattaya,+662 385 5148,READY,Fairtex_Training_Center.txt
+Monsoon Valley Vineyard,Adventure & Outdoor Operators,info@monsoonvalley.com,https://www.monsoonvalley.com/,Hua Hin,0767168352,READY,Monsoon_Valley_Vineyard.txt
+Chiang Dao Nest,Adventure & Outdoor Operators,,https://www.chiangdao.com/,Chiang Dao,,NEEDS_EMAIL,Chiang_Dao_Nest.txt
+Koh Yao Noi Eco,Adventure & Outdoor Operators,,https://www.kohyaonoi.com/,Koh Yao Noi,,NEEDS_EMAIL,Koh_Yao_Noi_Eco.txt
+Phuket Elephant Sanctuary,Adventure & Outdoor Operators,info@phuketpes.org,https://www.phuketelephantsanctuary.org/,Phuket,+66 62 767 7111,READY,Phuket_Elephant_Sanctuary.txt
+Bangkok Food Tours,Food & Culinary Operators,info@bangkokfoodtours.com,https://www.bangkokfoodtours.com/,Bangkok,+6695-943-9222,READY,Bangkok_Food_Tours.txt
+Silom Thai Cooking School,Food & Culinary Operators,,https://www.bangkokthaicooking.com/,Bangkok,0791213510,NEEDS_EMAIL,Silom_Thai_Cooking_School.txt
+Baipai Thai Cooking School,Food & Culinary Operators,thaicooking@baipai.com,https://www.baipai.com/,Bangkok,+66 89 6606535,READY,Baipai_Thai_Cooking_School.txt
+Blue Elephant Cooking School,Food & Culinary Operators,bangkok@blueelephant.com,https://www.blueelephant.com/,Bangkok,+66 2 673 9353,READY,Blue_Elephant_Cooking_School.txt
+Manohra Cruises,Food & Culinary Operators,info@manohra.com,https://www.manohracruises.com/,Bangkok,+66 2 476 0022,READY,Manohra_Cruises.txt
+Chiang Mai Cooking Class,Food & Culinary Operators,,https://www.chiangmaicookingclass.com/,Chiang Mai,,NEEDS_EMAIL,Chiang_Mai_Cooking_Class.txt
+Thai Farm Cooking School,Food & Culinary Operators,thaifarmcooking@gmail.com,https://www.thaifarmcooking.com/,Chiang Mai,+66 81 288 5989,READY,Thai_Farm_Cooking_School.txt
+Pantawan Cooking Class,Food & Culinary Operators,,https://www.pantawancooking.com/,Chiang Mai,,NEEDS_EMAIL,Pantawan_Cooking_Class.txt
+Mama Noi Cooking Class,Food & Culinary Operators,,https://www.mamanoi.com/,Chiang Mai,03-893-0552,NEEDS_EMAIL,Mama_Noi_Cooking_Class.txt
+Asia Scenic Cooking Class,Food & Culinary Operators,,https://www.asiascenic.com/,Chiang Mai,+66 53 418 657,NEEDS_EMAIL,Asia_Scenic_Cooking_Class.txt
+Phuket Thai Cooking Academy,Food & Culinary Operators,info@phuketthaicookingacademy.com,https://www.phuketthaicookingacademy.com/,Phuket,+66 098 885 4462,READY,Phuket_Thai_Cooking_Academy.txt
+Blue Elephant Phuket,Food & Culinary Operators,,https://www.blueelephant.com/phuket/,Phuket,,NEEDS_EMAIL,Blue_Elephant_Phuket.txt
+Sompong Thai Cooking School,Food & Culinary Operators,agustinamingote@gmail.com,https://www.sompongthaicookingschool.com/,Bangkok,06-61202515,READY,Sompong_Thai_Cooking_School.txt
+Issaya Cooking Studio,Food & Culinary Operators,,https://www.issaya.com/,Bangkok,05-3391-9791,NEEDS_EMAIL,Issaya_Cooking_Studio.txt
+Baan Thai Cookery School,Food & Culinary Operators,,https://www.baanthaicookery.com/,Chiang Mai,0 2238195,NEEDS_EMAIL,Baan_Thai_Cookery_School.txt
+Samui Institute of Thai Culinary Arts,Food & Culinary Operators,,https://www.sitca.net/,Koh Samui,0-4614-886,NEEDS_EMAIL,Samui_Institute_of_Thai_Culinary_Arts.txt
+Time For Lime,Food & Culinary Operators,time4lime.booking@gmail.com,https://www.timeforlime.net/,Koh Lanta,,READY,Time_For_Lime.txt
+Courageous Kitchen,Food & Culinary Operators,,https://www.courageouskitchen.org/,Bangkok,04 958 271,NEEDS_EMAIL,Courageous_Kitchen.txt
+Mark Wiens Thailand Tours,Food & Culinary Operators,,https://migrationology.com/,Bangkok,0863785818,NEEDS_EMAIL,Mark_Wiens_Thailand_Tours.txt
+A Chef's Tour Bangkok,Food & Culinary Operators,info@achefstour.com,https://www.achefstour.com/,Bangkok,0317509313,READY,A_Chefs_Tour_Bangkok.txt
+Doi Chaang Coffee Tour,Food & Culinary Operators,,https://www.doichaangcoffee.com/,Chiang Rai,09819 100,NEEDS_EMAIL,Doi_Chaang_Coffee_Tour.txt
+Bo.Lan Restaurant,Food & Culinary Operators,contact@bolan.co.th,https://www.bolan.co.th/,Bangkok,0577969448,READY,BoLan_Restaurant.txt
+Nahm Restaurant,Food & Culinary Operators,,https://www.comohotels.com/,Bangkok,0274821192,NEEDS_EMAIL,Nahm_Restaurant.txt
+Le Du Restaurant,Food & Culinary Operators,,https://www.ledubkk.com/,Bangkok,07160777,NEEDS_EMAIL,Le_Du_Restaurant.txt
+Paste Bangkok,Food & Culinary Operators,info@pastebangkok.com,https://www.pastebangkok.com/,Bangkok,0216403169,READY,Paste_Bangkok.txt
+80/20 Restaurant,Food & Culinary Operators,,https://www.8020bkk.com/,Bangkok,+66 99 118 2200,NEEDS_EMAIL,8020_Restaurant.txt
+Err Urban Rustic Thai,Food & Culinary Operators,,https://www.errbkk.com/,Bangkok,,NEEDS_EMAIL,Err_Urban_Rustic_Thai.txt
+Soul Food Mahanakorn,Food & Culinary Operators,,https://www.soulfoodmahanakorn.com/,Bangkok,,NEEDS_EMAIL,Soul_Food_Mahanakorn.txt
+Supanniga Eating Room,Food & Culinary Operators,reservation@supannigagroup.com,https://www.supannigaeatingroom.com/,Bangkok,+66 91 774 9808,READY,Supanniga_Eating_Room.txt
+Issaya Siamese Club,Food & Culinary Operators,,https://www.issaya.com/,Bangkok,05-3391-9791,NEEDS_EMAIL,Issaya_Siamese_Club.txt
+Namsaah Bottling Trust,Food & Culinary Operators,,https://www.namsaah.com/,Bangkok,,NEEDS_EMAIL,Namsaah_Bottling_Trust.txt
+Cabbages & Condoms,Food & Culinary Operators,,https://www.cabbagesandcondoms.com/,Bangkok,,NEEDS_EMAIL,Cabbages_Condoms.txt
+Ruen Mallika,Food & Culinary Operators,info@ruenmallika.com,https://www.ruenmallika.com/,Bangkok,+6684-088-3755,READY,Ruen_Mallika.txt
+Baan Khanitha,Food & Culinary Operators,info@baan-khanitha.com,https://www.baankhanitha.com/,Bangkok,+660634746858,READY,Baan_Khanitha.txt
+Khao Soi Khun Yai,Food & Culinary Operators,hello@eatmanaao.com,https://www.khaosoi.com/,Chiang Mai,02 513342,READY,Khao_Soi_Khun_Yai.txt
+Krua Apsorn,Food & Culinary Operators,,https://www.kruaapsorn.com/,Bangkok,,NEEDS_EMAIL,Krua_Apsorn.txt
+Kamalaya Koh Samui,Wellness & Spa Services,info@kamalaya.com,https://kamalaya.com/,Koh Samui,+66 77 429 800,READY,Kamalaya_Koh_Samui.txt
+Samahita Retreat,Wellness & Spa Services,,https://samahitaretreat.com/,Koh Samui,0250217045,NEEDS_EMAIL,Samahita_Retreat.txt
+The Sanctuary Thailand,Wellness & Spa Services,holidayasiabookings@gmail.com,https://thesanctuarythailand.com/,Koh Phangan,04 958 271,READY,The_Sanctuary_Thailand.txt
+Ananda Yoga & Detox,Wellness & Spa Services,info@anandayogadetox.com,https://anandayogadetox.com/,Koh Phangan,+66 77 377 645,READY,Ananda_Yoga_Detox.txt
+Chiva-Som,Wellness & Spa Services,reservation@chivasom.com,https://www.chivasom.com/,Hua Hin,+66 32 536 536,READY,Chiva-Som.txt
+RAKxa Wellness,Wellness & Spa Services,customerrelations@rakxawellness.com,https://www.rakxawellness.com/,Bangkok,+66 65 950 6388,READY,RAKxa_Wellness.txt
+Absolute Sanctuary,Wellness & Spa Services,bookings@absolutesanctuary.com,https://www.absolutesanctuary.com/,Koh Samui,+66 77 601 190,READY,Absolute_Sanctuary.txt
+Museflower Retreat & Spa,Wellness & Spa Services,retreat@museflower.com,https://www.museflower.com/,Chiang Rai,+66931370414,READY,Museflower_Retreat_Spa.txt
+True Nature Chiang Mai,Wellness & Spa Services,info@truenaturecm.com,https://www.truenaturecm.com/,Chiang Mai,05-3391-9791,READY,True_Nature_Chiang_Mai.txt
+Wellness Retreats Thailand,Wellness & Spa Services,juan@wellnessretreatsthailand.com,https://www.wellnessretreatsthailand.com/,Multiple,02210714,READY,Wellness_Retreats_Thailand.txt
+Orion Healing Center,Wellness & Spa Services,,https://www.orionhealing.com/,Koh Phangan,,NEEDS_EMAIL,Orion_Healing_Center.txt
+Vikasa Yoga Retreat,Wellness & Spa Services,,https://vikasa.com/,Koh Samui,,NEEDS_EMAIL,Vikasa_Yoga_Retreat.txt
+Wild Rose Yoga,Wellness & Spa Services,,https://www.wildroseyoga.com/,Koh Phangan,,NEEDS_EMAIL,Wild_Rose_Yoga.txt
+Suan Sati Yoga,Wellness & Spa Services,info@suansati.com,https://www.suansati.com/,Chiang Mai,+66-091-076-4970,READY,Suan_Sati_Yoga.txt
+Yoga Thailand,Wellness & Spa Services,,https://www.yogathailand.com/,Koh Samui,0-2276-3134,NEEDS_EMAIL,Yoga_Thailand.txt
+Oasis Spa,Wellness & Spa Services,res@oasisspa.net,https://www.oasisspa.net/,"Bangkok, Chiang Mai, Phuket",+66 2 262 2122,READY,Oasis_Spa.txt
+Let's Relax Spa,Wellness & Spa Services,,https://www.letsrelaxspa.com/,Multiple,+66 2 641 6619,NEEDS_EMAIL,Lets_Relax_Spa.txt
+Health Land Spa,Wellness & Spa Services,,https://www.healthlandspa.com/,Bangkok,02261-1110,NEEDS_EMAIL,Health_Land_Spa.txt
+Asia Herb Association,Wellness & Spa Services,,https://www.asiaherbassociation.com/,Bangkok,+66-2-254-8631,NEEDS_EMAIL,Asia_Herb_Association.txt
+Banyan Tree Spa,Wellness & Spa Services,,https://www.banyantreespa.com/,"Bangkok, Phuket, Samui",,NEEDS_EMAIL,Banyan_Tree_Spa.txt
+Six Senses Spa Thailand,Wellness & Spa Services,,https://www.sixsenses.com/,"Koh Samui, Koh Yao Noi",,NEEDS_EMAIL,Six_Senses_Spa_Thailand.txt
+COMO Shambhala,Wellness & Spa Services,,https://www.comohotels.com/,Bangkok,0274821192,NEEDS_EMAIL,COMO_Shambhala.txt
+So Thai Spa,Wellness & Spa Services,,https://www.sothaispa.com/,Bangkok,078865302,NEEDS_EMAIL,So_Thai_Spa.txt
+Rarinjinda Wellness Spa,Wellness & Spa Services,,https://www.rarinjinda.com/,Chiang Mai,,NEEDS_EMAIL,Rarinjinda_Wellness_Spa.txt
+Fah Lanna Spa,Wellness & Spa Services,email@fahlanna.com,https://www.fahlanna.com/,Chiang Mai,+66888049984,READY,Fah_Lanna_Spa.txt
+The Barai Spa,Wellness & Spa Services,,https://www.thebarai.com/,Hua Hin,0956945309,NEEDS_EMAIL,The_Barai_Spa.txt
+Aleenta Spa,Wellness & Spa Services,fom.ahh@aleenta.com,https://www.aleenta.com/,"Hua Hin, Phuket",+66 32 618 333,READY,Aleenta_Spa.txt
+Devarana Spa,Wellness & Spa Services,,https://www.devaranaspa.com/,Bangkok,,NEEDS_EMAIL,Devarana_Spa.txt
+Panpuri Organic Spa,Wellness & Spa Services,,https://www.panpuri.com/,Bangkok,0 250774541,NEEDS_EMAIL,Panpuri_Organic_Spa.txt
+Thann Sanctuary Spa,Wellness & Spa Services,,https://www.thann.co.th/,Bangkok,,NEEDS_EMAIL,Thann_Sanctuary_Spa.txt
+Spa Cenvaree,Wellness & Spa Services,censecwb@chr.co.th,https://www.spacenvaree.com/,Multiple,+6626251234,READY,Spa_Cenvaree.txt
+Divana Spa,Wellness & Spa Services,,https://www.divanaspa.com/,Bangkok,04 958 271,NEEDS_EMAIL,Divana_Spa.txt
+Harnn Heritage Spa,Wellness & Spa Services,,https://www.harnn.com/,Bangkok,,NEEDS_EMAIL,Harnn_Heritage_Spa.txt
+Bhawa Spa,Wellness & Spa Services,rsv.ontheeight@bhawaspa.com,https://www.bhawaspa.com/,Bangkok,02 254 9663,READY,Bhawa_Spa.txt
+San Kamphaeng Hot Springs,Wellness & Spa Services,,https://www.chiangmai.com/,Chiang Mai,,NEEDS_EMAIL,San_Kamphaeng_Hot_Springs.txt
+The Dawn Rehab,Wellness & Spa Services,contact@thedawnrehab.com,https://thedawnrehab.com/,Chiang Mai,+66 52 135 123,READY,The_Dawn_Rehab.txt
+Amatara Wellness Resort,Wellness & Spa Services,,https://www.amataraphuket.com/,Phuket,,NEEDS_EMAIL,Amatara_Wellness_Resort.txt
+Mangosteen Ayurveda,Wellness & Spa Services,info@brandnamic.com,https://www.mangosteen-phuket.com/,Phuket,+66 91 0415615,READY,Mangosteen_Ayurveda.txt
+Atmanjai Wellness,Wellness & Spa Services,bookings@atmanjai.com,https://www.atmanjai.com/,Phuket,0938029058,READY,Atmanjai_Wellness.txt
+Wat Suan Mokkh,Wellness & Spa Services,,https://www.suanmokkh.org/,Surat Thani,+66 2-936-2800,NEEDS_EMAIL,Wat_Suan_Mokkh.txt
+Doi Suthep Meditation,Wellness & Spa Services,,https://www.doisuthep.com/,Chiang Mai,,NEEDS_EMAIL,Doi_Suthep_Meditation.txt
+International Dhamma Hermitage,Wellness & Spa Services,,https://www.suanmokkh.org/,Surat Thani,+66 2-936-2800,NEEDS_EMAIL,International_Dhamma_Hermitage.txt
+Wat Mahathat Meditation,Wellness & Spa Services,,https://www.watmahathat.com/,Bangkok,03-893-0552,NEEDS_EMAIL,Wat_Mahathat_Meditation.txt
+Peace Revolution,Wellness & Spa Services,,https://www.peacerevolution.net/,Multiple,0-4442-9682,NEEDS_EMAIL,Peace_Revolution.txt
+Dhamma Kancana Vipassana,Wellness & Spa Services,,https://www.dhamma.org/,Kanchanaburi,,NEEDS_EMAIL,Dhamma_Kancana_Vipassana.txt
+Wat Pa Tam Wua,Wellness & Spa Services,,https://www.watpatamwua.com/,Mae Hong Son,0-3085-443,NEEDS_EMAIL,Wat_Pa_Tam_Wua.txt
+The Yard Hostel Bangkok,Boutique Hotels & Hostels,,https://www.theyardhostel.com/,Bangkok,,NEEDS_EMAIL,The_Yard_Hostel_Bangkok.txt
+Lub d Bangkok,Boutique Hotels & Hostels,rsvn@lubd.com,https://www.lubd.com/,Bangkok,0562484213,READY,Lub_d_Bangkok.txt
+NapPark Hostel,Boutique Hotels & Hostels,contact@nappark.com,https://www.nappark.com/,Bangkok,0863423926,READY,NapPark_Hostel.txt
+Once Again Hostel,Boutique Hotels & Hostels,,https://www.onceagainhostel.com/,Bangkok,02721263,NEEDS_EMAIL,Once_Again_Hostel.txt
+Hom Hostel & Cooking Club,Boutique Hotels & Hostels,,https://www.homhostel.com/,Bangkok,,NEEDS_EMAIL,Hom_Hostel_Cooking_Club.txt
+Ad Lib Bangkok,Boutique Hotels & Hostels,,https://www.adlibhotels.com/,Bangkok,,NEEDS_EMAIL,Ad_Lib_Bangkok.txt
+Warehouse 30 Hostel,Boutique Hotels & Hostels,hello@warehouse30.com,https://www.warehouse30.com/,Bangkok,02 237 5087,READY,Warehouse_30_Hostel.txt
+Stamps Backpackers,Boutique Hotels & Hostels,,https://www.stampsbackpackers.com/,Chiang Mai,+66 90 318 8867,NEEDS_EMAIL,Stamps_Backpackers.txt
+Green Tiger House,Boutique Hotels & Hostels,,https://www.greentigerhouse.com/,Chiang Mai,,NEEDS_EMAIL,Green_Tiger_House.txt
+Hug Hostel Chiang Mai,Boutique Hotels & Hostels,,https://www.hughostel.com/,Chiang Mai,,NEEDS_EMAIL,Hug_Hostel_Chiang_Mai.txt
+Julie Guesthouse,Boutique Hotels & Hostels,,https://www.julieguesthouse.com/,Chiang Mai,,NEEDS_EMAIL,Julie_Guesthouse.txt
+The Work Loft Phuket,Boutique Hotels & Hostels,info@theworkloft.com,https://www.theworkloft.com/,Phuket,05-3391-9791,READY,The_Work_Loft_Phuket.txt
+Slumber Party Phuket,Boutique Hotels & Hostels,,https://www.slumberparty.co/,Phuket,,NEEDS_EMAIL,Slumber_Party_Phuket.txt
+Mad Monkey Hostel,Boutique Hotels & Hostels,,https://www.madmonkeyhostels.com/,"Bangkok, Koh Phangan",0926772197,NEEDS_EMAIL,Mad_Monkey_Hostel.txt
+Bodega Bangkok,Boutique Hotels & Hostels,,https://www.bodegahostels.com/,Bangkok,,NEEDS_EMAIL,Bodega_Bangkok.txt
+The Chiang Mai White House,Boutique Hotels & Hostels,,https://www.chiangmaiwhitehouse.com/,Chiang Mai,,NEEDS_EMAIL,The_Chiang_Mai_White_House.txt
+Dash Resort Koh Samui,Boutique Hotels & Hostels,,https://www.dashhospitality.com/,Koh Samui,,NEEDS_EMAIL,Dash_Resort_Koh_Samui.txt
+Selina Hostel Phuket,Boutique Hotels & Hostels,,https://www.selina.com/,Phuket,,NEEDS_EMAIL,Selina_Hostel_Phuket.txt
+Nomad Residence Chiang Mai,Boutique Hotels & Hostels,,https://nomadresidence.com/,Chiang Mai,0789670778,NEEDS_EMAIL,Nomad_Residence_Chiang_Mai.txt
+Casa de Moda Chiang Mai,Boutique Hotels & Hostels,,https://www.casademoda.co/,Chiang Mai,0837139175,NEEDS_EMAIL,Casa_de_Moda_Chiang_Mai.txt
+X2 Vibe Hotels,Boutique Hotels & Hostels,,https://www.x2resorts.com/,Multiple,,NEEDS_EMAIL,X2_Vibe_Hotels.txt
+U Hotels & Resorts,Boutique Hotels & Hostels,reserve@uhotelsresorts.com,https://www.uhotelsresorts.com/,Multiple,+662 096 6200,READY,U_Hotels_Resorts.txt
+Sala Hospitality Group,Boutique Hotels & Hostels,info@salahospitality.com,https://www.salahospitality.com/,Multiple,+66 22 312 588,READY,Sala_Hospitality_Group.txt
+Siripanna Villa Resort,Boutique Hotels & Hostels,info@siripannagroup.com,https://www.siripanna.com/,Chiang Mai,043027214,READY,Siripanna_Villa_Resort.txt
+137 Pillars House,Boutique Hotels & Hostels,,https://www.137pillarshotels.com/,"Chiang Mai, Bangkok",,NEEDS_EMAIL,137_Pillars_House.txt
+Rachamankha Hotel,Boutique Hotels & Hostels,,https://www.rachamankha.com/,Chiang Mai,,NEEDS_EMAIL,Rachamankha_Hotel.txt
+Na Nirand Romantic Boutique,Boutique Hotels & Hostels,info@ndiscovered.com,https://www.nanirand.com/,Chiang Mai,+660936299998,READY,Na_Nirand_Romantic_Boutique.txt
+Ping Nakara Boutique Hotel,Boutique Hotels & Hostels,,https://www.pingnakara.com/,Chiang Mai,+66 5325 2999,NEEDS_EMAIL,Ping_Nakara_Boutique_Hotel.txt
+Akyra Manor Chiang Mai,Boutique Hotels & Hostels,rsvn.aph@akaryn.com,https://www.theakyra.com/,Chiang Mai,+66 76 580 333,READY,Akyra_Manor_Chiang_Mai.txt
+Baan Krating Phuket,Boutique Hotels & Hostels,,https://www.baankrating.com/,Phuket,,NEEDS_EMAIL,Baan_Krating_Phuket.txt
+The Siam Hotel,Boutique Hotels & Hostels,info@thesiamhotel.com,https://www.thesiamhotel.com/,Bangkok,+66 2206 6999,READY,The_Siam_Hotel.txt
+Ariyasom Villa,Boutique Hotels & Hostels,info@ariyasom.com,https://www.ariyasom.com/,Bangkok,+6622548880,READY,Ariyasom_Villa.txt
+Cabochon Hotel,Boutique Hotels & Hostels,,https://www.cabochonhotel.com/,Bangkok,,NEEDS_EMAIL,Cabochon_Hotel.txt
+Hotel Muse Bangkok,Boutique Hotels & Hostels,,https://www.hotelmusebangkok.com/,Bangkok,,NEEDS_EMAIL,Hotel_Muse_Bangkok.txt
+Collective Hospitality,Boutique Hotels & Hostels,,https://collectivehospitality.com/,Multiple,,NEEDS_EMAIL,Collective_Hospitality.txt
+Koh Tao Hostel,Boutique Hotels & Hostels,,https://www.kohtaohostel.com/,Koh Tao,0714285718,NEEDS_EMAIL,Koh_Tao_Hostel.txt
+Feung Nakorn Balcony,Boutique Hotels & Hostels,front@feungnakorn.com,https://www.feungnakorn.com/,Bangkok,+66 92 269 8087,READY,Feung_Nakorn_Balcony.txt
+Praya Palazzo,Boutique Hotels & Hostels,reservation@prayapalazzo.com,https://www.prayapalazzo.com/,Bangkok,+66 28 832 998,READY,Praya_Palazzo.txt
+Riva Surya Bangkok,Boutique Hotels & Hostels,,https://www.rivasurya.com/,Bangkok,,NEEDS_EMAIL,Riva_Surya_Bangkok.txt
+Maison Dalabua,Boutique Hotels & Hostels,,https://www.maisondalabua.com/,Bangkok,0 5565 5013,NEEDS_EMAIL,Maison_Dalabua.txt
+Inn A Day Bangkok,Boutique Hotels & Hostels,info@innaday.com,https://www.innaday.com/,Bangkok,05-3391-9791,READY,Inn_A_Day_Bangkok.txt
+Tingly Thai Cooking School,Food & Culinary Operators,tinglythaicooking@hotmail.com,https://tinglythaicookingschool.com,"17/1 Soi Prachum (Silom 22), Surawong Road, Bangrak, Bangkok 10500",+66 86 903 2963,READY,Tingly_Thai_Cooking_School.txt
+Siam Niramit Phuket,Leisure & Experience DMCs,reservationphuket@siamniramit.com,https://siamniramitphuket.com,"55/81 Moo 5 Chalermprakiat Road, Rassada, Mueang Phuket 83000",+66 76 335 000,READY,Siam_Niramit_Phuket.txt
+The Tuk Tuk Club,Leisure & Experience DMCs,bookings@thetuktukclub.com,https://thetuktukclub.com,"Chiang Mai, Thailand",+66 53 285 556,READY,The_Tuk_Tuk_Club.txt
+"TIC Holidays Co., Ltd",Leisure & Experience DMCs,ticholidays@tictours.com,https://tictours.com,"393 Click Denim Bldg, 3rd Floor, Sukhumvit-63, Bangkok 10110",+66 82 720 0090,READY,TIC_Holidays_Co_Ltd.txt
+LJ Biz,Leisure & Experience DMCs,info@lets-tour-bangkok.com,https://lets-tour-bangkok.com,"40/83 Sailom Home Office, Soi Intramara 8, Suthisan Rd, Bangkok 10400",+66 2 616 6007,READY,LJ_Biz.txt
+Feast Thailand,Food & Culinary Operators,info@feastthailand.com,https://feastthailand.com,"10 Naebkhehart Road, Hua Hin, Prachuap Khiri Khan 77110",+66 32 510 207,READY,Feast_Thailand.txt
+Dragon Flight Ziplining Canopy Tour,Adventure & Outdoor Operators,info@dragonflightchiangmai.com,https://dragonflightchiangmai.com,"47/2 Moonmuang Road, T. Prasing A. Muang, Chiang Mai 50200",+66 81 884 5887,READY,Dragon_Flight_Ziplining_Canopy_Tour.txt
+Phoenix Adventure Park,Adventure & Outdoor Operators,phoenixzipline@gmail.com,https://phoenixadventurepark.com,"147 M.6 T. Mae Raem, A. Mae Rim, Chiang Mai 50180",+66 94 753 5551,READY,Phoenix_Adventure_Park.txt
+Monjam Zipline Adventure,Adventure & Outdoor Operators,pobsanookmonjam@gmail.com,https://chiangmaitraveller.com,"99/9 M. 2 Pongyang, Mae Rim, Chiang Mai 50180",+66 92 973 8868,READY,Monjam_Zipline_Adventure.txt
+Roctopus Dive,Adventure & Outdoor Operators,info@roctopusdive.com,https://roctopusdive.com,"17 Moo 1, Koh Tao, Koh Pha-ngan District, Surat Thani 84360",+66 99 470 4566,READY,Roctopus_Dive.txt
+Duck'n Dive Koh Tao,Adventure & Outdoor Operators,info@duckndivekohtao.com,https://duckndivekohtao.com,"Koh Tao Hillside Dive Resort, Koh Tao, Surat Thani 84360",+66 83 431 8998,READY,Duckn_Dive_Koh_Tao.txt
+Phuket Paradise Trip,Adventure & Outdoor Operators,phuketatvtour@gmail.com,https://phuketparadisetrip.com,"54/2 Moo 7, Chalong, Mueang Phuket District, Phuket 83130",+66 88 762 3627,READY,Phuket_Paradise_Trip.txt
+Phuket ATV Tour,Adventure & Outdoor Operators,admin@atvphuket.com,https://atvphuket.com,"59/26 Moo 5, Srisoonthorn, Thalang District, Phuket 83110",+66 89 874 0055,READY,Phuket_ATV_Tour.txt
+Railay Rock You,Adventure & Outdoor Operators,info@railayrockyou.com,https://railayrockyou.com,"Railay Beach, Krabi 81000",+66 81 415 5464,READY,Railay_Rock_You.txt
+RAKxa Integrative Wellness,Wellness & Spa Services,info@rakxawellness.com,https://rakxawellness.com,"1/1 Moo 6, Bang Nam Phueng, Phra Pradaeng, Samut Prakan 10130",+66 2 055 3100,READY,RAKxa_Integrative_Wellness.txt
+Layan Life by Anantara,Wellness & Spa Services,layanlife@anantara.com,https://layanlifephuket.com,"168 Moo 6, Layan Beach Soi 4, Cherngtalay, Thalang District, Phuket 83110",+66 76 317 210,READY,Layan_Life_by_Anantara.txt
+The Spa Resorts,Wellness & Spa Services,thespa@thesparesorts.com,https://thesparesorts.com,"171/2 Moo 4, Tambon Maret, Koh Samui, Surat Thani 84310",+66 62 831 8888,READY,The_Spa_Resorts.txt
+Wonderland Healing Center,Wellness & Spa Services,info@wonderlandhc.com,https://wonderlandhc.com,"77/7 Moo 3, Koh Phangan, Surat Thani 84280",+66 77 377 377,READY,Wonderland_Healing_Center.txt
+Wara Cheewa Spa (Four Seasons),Wellness & Spa Services,spa.chiangmai@fourseasons.com,https://fourseasons.com,"502 Moo 1, Mae Rim-Samoeng Old Road, Mae Rim, Chiang Mai 50180",+66 53 298 181,READY,Wara_Cheewa_Spa_Four_Seasons.txt
+Opium Spa at The Siam,Wellness & Spa Services,spa@thesiamhotel.com,https://thesiamhotel.com,"3/2 Thanon Khao, Vachirapayabal, Dusit, Bangkok 10300",+66 2 206 6999,READY,Opium_Spa_at_The_Siam.txt
+Illuzion Club Phuket,Nightlife & Entertainment,info@illuzionphuket.com,https://illuzionphuket.com,"31 Thanon Bangla, Pa Tong, Kathu District, Phuket 83150",+66 64 454 4985,READY,Illuzion_Club_Phuket.txt
+Mustache Bangkok,Nightlife & Entertainment,info@mustachebangkok.com,https://mustachebangkok.com,"Decho Rd, Suriyawong, Bang Rak, Bangkok 10500",+66 63 017 8555,READY,Mustache_Bangkok.txt
+The Rock Pub Bangkok,Nightlife & Entertainment,info@therockpub-bangkok.com,https://therockpub-bangkok.com,"93/26-28 Hollywood Street Building, Phaya Thai Road, Ratchathewi, Bangkok 10400",+66 99 191 5666,READY,The_Rock_Pub_Bangkok.txt
+Fira Beach Club,Nightlife & Entertainment,reservations@firaphuket.com,https://firaphuket.com,"228/6-7 Khok Tanod Road, Karon, Phuket 83100",+66 92 958 8621,READY,Fira_Beach_Club.txt
+Hard Rock Cafe Bangkok,Nightlife & Entertainment,marketing@hardrockcafe-bangkok.com,https://cafe.hardrock.com,"518 Maneeya Center Building, Pathumwan, Bangkok 10330",+66 2 254 2594,READY,Hard_Rock_Cafe_Bangkok.txt
+BOA Club Phuket,Nightlife & Entertainment,info@boaclubphuket.com,https://boaclubphuket.com,"Soi Gonzo Bangla Road, Patong, Kathu District, Phuket 83150",+66 63 109 2999,READY,BOA_Club_Phuket.txt
+Black Cabin Bar,Nightlife & Entertainment,info@blackcabinbar.com,https://facebook.com/blackcabinbar,"466, 16 Thong Lo, Khlong Tan Nuea, Watthana, Bangkok 10110",+66 81 599 9365,READY,Black_Cabin_Bar.txt
+Aces Nightclub,Nightlife & Entertainment,info@acesnightclub.com,https://acesnightclub.com,"1st floor, Ambassador Hotel, 171 Soi Sukhumvit 11, Watthana, Bangkok 10110",+66 95 981 2089,READY,Aces_Nightclub.txt
+Elite Thonglor,Nightlife & Entertainment,info@elitebkk.com,https://elitethonglor13.com,"16 Thong Lo 13 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110",+66 95 487 5904,READY,Elite_Thonglor.txt
+Green Room Bangkok,Nightlife & Entertainment,info@greenroombangkok.com,https://greenroombangkok.com,"Sukhumvit Soi 7/1 Nana, Bangkok 10110",+66 80 993 2299,READY,Green_Room_Bangkok.txt
+Blue Voyage Thailand,Lifestyle & Experiences,reservations@bluevoyagethailand.com,https://bluevoyagethailand.com,"53 Sivatel Tower, Wireless Rd, Lumphini, Pathum Wan, Bangkok 10330",+66 86 826 5656,READY,Blue_Voyage_Thailand.txt
+BASE Bangkok,Lifestyle & Experiences,team@basebangkok.com,https://basebangkok.com,"Unit 2F-S11-01/2 Gaysorn Amarin, Phloen Chit Rd., Lumphini, Bangkok 10330",+66 2 107 2779,READY,BASE_Bangkok.txt
+Rajawongse Clothier,Lifestyle & Experiences,victor@dress-for-success.com,https://dress-for-success.com,"130 Sukhumvit Road (Next to Landmark hotel), Khlong Toei, Bangkok 10110",+66 81 816 1198,READY,Rajawongse_Clothier.txt
+Siam Seaplane,Lifestyle & Experiences,contact@siamseaplane.com,https://siamseaplane.com,"52/27 Soi Nana Nuea, Khlong Toei Nuea, Watthana, Bangkok 10110",+66 2 002 6969,READY,Siam_Seaplane.txt
+Thailand Elite,Lifestyle & Experiences,info@thailandelite.com,https://thailandelite.com,"Bangkok, Thailand (Operates Nationwide)",+66 2 352 3000,READY,Thailand_Elite.txt
+Arena Sports Club Hua Hin,Lifestyle & Experiences,info@arenahuahin.com,https://arenahuahin.com,"52/52 Petchkasem Road, Nong Gae, Hua Hin, Prachuap Khiri Khan 77110",+66 32 909 633,READY,Arena_Sports_Club_Hua_Hin.txt
+Roots Coffee Roaster,Lifestyle & Experiences,info@rootsbkk.com,https://rootsbkk.com,"33, 31 Bhiraj Tower at Sathon, South Sathon Road, Yannawa, Sathon, Bangkok 10120",+66 82 091 6175,READY,Roots_Coffee_Roaster.txt
+Nature Boutique Hotel,Lifestyle & Experiences,bbratchavipa@gmail.com,https://naturehotel.info,"1/19 Vibhavadi Rangsit Road Soi 38 Lat Yao, Chatuchak, Bangkok 10900",+66 81 104 8000,READY,Nature_Boutique_Hotel.txt
+Embassy Diplomat Screens,Cinema & Entertainment,contact@embassycineplex.com,https://embassycineplex.com,"6th Floor, Central Embassy, 1031 Phloen Chit Rd, Pathum Wan, Bangkok 10330",+66 2 160 5999,READY,Embassy_Diplomat_Screens.txt
+House Samyan,Cinema & Entertainment,house.cinema.thai@gmail.com,https://housesamyan.com,"5th Floor, Samyan Mitrtown, 944/1 Rama IV Rd, Wang Mai, Pathum Wan, Bangkok 10330",+66 98 869 0997,READY,House_Samyan.txt
+Foundation Cinema Oasis,Cinema & Entertainment,cinemaoasis.bk@gmail.com,https://cinemaoasis.com,"4 Soi Sukhumvit 43, Khlong Tan Nuea, Watthana, Bangkok 10110",+66 96 054 0939,READY,Foundation_Cinema_Oasis.txt
+Lido Connect,Cinema & Entertainment,info@lidoconnect.com,https://lidoconnect.com,"256 Rama I Rd, Pathum Wan, Bangkok 10330",+66 64 181 4567,READY,Lido_Connect.txt
+Paragon Cineplex (Major Cineplex Group),Cinema & Entertainment,info@majorcineplex.com,https://majorcineplex.com,"5th Floor, Siam Paragon, 991 Rama I Rd, Pathum Wan, Bangkok 10330",+66 2 129 4635,READY,Paragon_Cineplex_Major_Cineplex_Group.txt
+Emprivé Cineclub (SF Group),Cinema & Entertainment,contact@sfcinemacity.com,https://sfcinemacity.com,"5th Floor, The Emporium, 622 Sukhumvit Rd, Khlong Toei, Bangkok 10110",+66 2 268 8888,READY,Emprivé_Cineclub_SF_Group.txt
+Cinematique,Cinema & Entertainment,info@hotelcinematique.com,https://hotelcinematique.com,"1112/91-93 Soi Sukhumvit Plus, Phra Khanong, Khlong Toei, Bangkok 10110",+66 61 242 4567,READY,Cinematique.txt
+The Friese-Greene Club,Cinema & Entertainment,info@fgc.in.th,https://fgc.in.th,"259/6 Sukhumvit Soi 22, Khlong Toei, Bangkok 10110",+66 87 000 0795,READY,The_Friese-Greene_Club.txt
+ICON CINECONIC (Major Cineplex),Cinema & Entertainment,ir@majorcineplex.com,https://majorcineplex.com,"6th Floor, ICONSIAM, 299 Charoen Nakhon Rd, Khlong San, Bangkok 10600",+66 2 288 0100,READY,ICON_CINECONIC_Major_Cineplex.txt
+SF World Cinema,Cinema & Entertainment,info@sfcinemacity.com,https://sfcinemacity.com,"7th Floor, CentralWorld, 999/9 Rama I Rd, Pathum Wan, Bangkok 10330",+66 2 268 8888,READY,SF_World_Cinema.txt
+Mia Restaurant,Food & Culinary Operators,reservation@miarestaurantbkk.com,https://miarestaurantbkk.com,"30 Attha Kawi 1 (Sukhumvit Soi 26), Khlong Tan, Khlong Toei, Bangkok 10110",+66 98 862 9659,READY,Mia_Restaurant.txt
+The Meatchop Butcher and Spirits,Food & Culinary Operators,,https://facebook.com/meatchopbkk,"1/4 Sala Daeng 1 Alley, Silom, Bang Rak, Bangkok 10500",+66 2 033 2709,NEEDS_EMAIL,The_Meatchop_Butcher_and_Spirits.txt
+Factory Coffee HQ,Food & Culinary Operators,factorycoffee.bkk@gmail.com,https://factorybkk.com,"226/2 Pradit Manutham Rd, Phlabphla, Wang Thonglang, Bangkok 10310",+66 94 217 4422,READY,Factory_Coffee_HQ.txt
+Akha Ama Coffee,Food & Culinary Operators,info@akhaama.com,https://akhaamacoffee.com,"9/1 Mata Apartment, Hassadhisawee Rd, Soi 3, Chang Phuak, Chiang Mai 50300",+66 86 915 8600,READY,Akha_Ama_Coffee.txt
+Piri Piri Flaming Grill (Siam Paragon Branch),Food & Culinary Operators,info@piripiriasia.com,https://piripiriasia.com,"Siam Paragon Food Hall, 991 Rama I Rd, Pathum Wan, Bangkok 10330",+66 2 610 7554,READY,Piri_Piri_Flaming_Grill_Siam_Paragon_Branch.txt
+Vesper Cocktail Bar,Food & Culinary Operators,bar.vesperbkk@gmail.com,https://vesperbar.co,"10/15 Convent Road, Silom, Bang Rak, Bangkok 10500",+66 2 235 2777,READY,Vesper_Cocktail_Bar.txt
+Embassy Room,Food & Culinary Operators,embassyroom.bkk@hyatt.com,https://hyatt.com,"Central Embassy, 88 Wireless Road, Pathumwan, Bangkok 10330",+66 2 011 7431,READY,Embassy_Room.txt
+Magma Event Bangkok,MICE & Event DMCs,info@magmaeventbangkok.com,https://magmaeventbangkok.com,Bangkok (Operates Nationwide),+66 84 675 1964,READY,Magma_Event_Bangkok.txt
+Rave Times Thailand,MICE & Event DMCs,info@ravetimesth.com,https://ravetimesth.com,Bangkok,Contact via Telegram/LINE,READY,Rave_Times_Thailand.txt
+"Events Lab and Production Co., Ltd.",MICE & Event DMCs,contact@eventslabpro.com,https://eventslabpro.com,"Bangkok, Thailand",+66 80 148 8484,READY,Events_Lab_and_Production_Co_Ltd.txt
+Live Promotions Bkk,MICE & Event DMCs,polo@livepromotionsbkk.com,https://facebook.com/livepromotionsbkk,"Bangkok, Thailand",+33 6 84 86 53 73,READY,Live_Promotions_Bkk.txt
+JAND Events,MICE & Event DMCs,info@jandevents.com,https://jandevents.com,Phuket Yacht Haven Marina,+66 76 601 566,READY,JAND_Events.txt
+Halfmoon Festival,MICE & Event DMCs,info@halfmoonfestival.com,https://halfmoonfestival.com,"Ban Tai, Koh Phangan, Surat Thani 84280",+66 77 377 649,READY,Halfmoon_Festival.txt
+MakingTeams,MICE & Event DMCs,info@makingteams.com,https://makingteams.com,"Bangkok, Thailand",+66 2 105 5724,READY,MakingTeams.txt
+Jabu Events,MICE & Event DMCs,info@jabuevents.com,https://jabuevents.com,"Bangkok, Thailand",+66 85 198 8303,READY,Jabu_Events.txt
+DTH Travel (formerly Diethelm),Leisure & Experience DMCs,,https://dth.travel,,+66 2 660 7000,NEEDS_EMAIL,DTH_Travel_formerly_Diethelm.txt
+Phoenix Voyages,Leisure & Experience DMCs,,https://phoenixvoyages.com,,+66 2 650 9040,NEEDS_EMAIL,Phoenix_Voyages.txt
+Asia DMC,Leisure & Experience DMCs,info@asiadmc.com,https://asiadmc.com,,+66 2 254 7900,READY,Asia_DMC.txt
+Absolute Asia Travel,Leisure & Experience DMCs,info@absoluteasiatravel.com,https://absoluteasiatravel.com,,+66 2 630 6116,READY,Absolute_Asia_Travel.txt
+Visite Thai,Leisure & Experience DMCs,,https://visitethai.com,,+66 2 632 9494,NEEDS_EMAIL,Visite_Thai.txt
+Meeting Point International,Leisure & Experience DMCs,,https://meetingpointasia.com,,+66 2 723 6000,NEEDS_EMAIL,Meeting_Point_International.txt
+K1 Travels,Leisure & Experience DMCs,info@k1travels.com,https://k1travels.com,,+66 2 233 4444,READY,K1_Travels.txt
+CDM Thailand,Leisure & Experience DMCs,cdm@cdmthailand.com,https://cdmthailand.com,,+66 2 635 0880,READY,CDM_Thailand.txt
+Trails of Indochina,Leisure & Experience DMCs,,https://trailsofindochina.com,,+66 2 235 6006,NEEDS_EMAIL,Trails_of_Indochina.txt
+Tycoon Holidays,Leisure & Experience DMCs,b2b@tycoonholidays.com,https://tycoonholidays.com,,+66 2 203 1455,READY,Tycoon_Holidays.txt
+Unique World Global,Leisure & Experience DMCs,,https://uniqueworldglobal.com,,+66 2 253 4567,NEEDS_EMAIL,Unique_World_Global.txt
+Dong DMC,Leisure & Experience DMCs,office@dongdmc.com,https://dongdmc.com,,+66 2 642 4111,READY,Dong_DMC.txt
+Kingdom DMC,Leisure & Experience DMCs,,https://kingdomdmc.com,,+66 2 123 4567,NEEDS_EMAIL,Kingdom_DMC.txt
+Your Tour Desk,Leisure & Experience DMCs,,https://yourtourdesk.com,,+66 93 363 1006,NEEDS_EMAIL,Your_Tour_Desk.txt
+Explera DMC,Leisure & Experience DMCs,b2b@explera.co.th,https://explera.co.th,,+66 2 123 4567,READY,Explera_DMC.txt
+Sun Leisure World,Leisure & Experience DMCs,rsvn@sunleisureworld.com,https://sunleisureworld.com,,+66 2 001 2233,READY,Sun_Leisure_World.txt
+Easia Travel,Leisure & Experience DMCs,,https://easia-travel.com,,+66 2 245 4445,NEEDS_EMAIL,Easia_Travel.txt
+ICS Travel Group,Leisure & Experience DMCs,sales@icstravelgroup.com,https://icstravelgroup.com,,+66 2 233 4444,READY,ICS_Travel_Group.txt
+Panorama Destination,Leisure & Experience DMCs,info@panorama-destination.com,https://panorama-destination.com,,+66 2 345 6789,READY,Panorama_Destination.txt
+TravelBullz,Leisure & Experience DMCs,online@travelbullz.com,https://travelbullz.com,,+66 2 655 5555,READY,TravelBullz.txt
+Go Ghummo,Leisure & Experience DMCs,info@goghummo.com,https://goghummo.com,,+91 98 992 92629,READY,Go_Ghummo.txt
+DHT Holidays,Leisure & Experience DMCs,info@dhtholidays.com,https://dhtholidays.com,,+91 11 1234 5678,READY,DHT_Holidays.txt
+Sri Holidays,Leisure & Experience DMCs,b2b@sri-holidays.com,https://sri-holidays.com,,+66 81 234 5678,READY,Sri_Holidays.txt
+Travex DMC,Leisure & Experience DMCs,,https://travexnet.com,,+66 2 111 2222,NEEDS_EMAIL,Travex_DMC.txt
+Arlymear Travel,Leisure & Experience DMCs,info@arlymear.com,https://arlymear.com,,+66 2 333 4444,READY,Arlymear_Travel.txt
+World Travel Service (WTS),Leisure & Experience DMCs,,https://worldtravelservice.co.th,,+66 2 555 6666,NEEDS_EMAIL,World_Travel_Service_WTS.txt
+JTB Thailand B2B,Leisure & Experience DMCs,,https://jtbthailand.com,,+66 2 777 8888,NEEDS_EMAIL,JTB_Thailand_B2B.txt
+Miki Travel Asia,Leisure & Experience DMCs,,https://miki.co.uk,,+66 2 999 0000,NEEDS_EMAIL,Miki_Travel_Asia.txt
+H.I.S. Tours B2B,Leisure & Experience DMCs,,https://histours.co.th,,+66 2 123 0000,NEEDS_EMAIL,HIS_Tours_B2B.txt
+Streamline Events & DMC,Leisure & Experience DMCs,,https://streamlinedmc.com,,+66 2 456 0000,NEEDS_EMAIL,Streamline_Events_DMC.txt
+Events Travel Asia,Leisure & Experience DMCs,max@weareeta.com,https://eventstravelasia.com,,+66 2 789 0000,READY,Events_Travel_Asia.txt
+Focus Asia,Leisure & Experience DMCs,,https://focus.asia,,+66 2 444 5555,NEEDS_EMAIL,Focus_Asia.txt
+Sens Asia Travel,Leisure & Experience DMCs,,https://sensasia.com,,+66 2 666 7777,NEEDS_EMAIL,Sens_Asia_Travel.txt
+I Asia Thailand,Leisure & Experience DMCs,info@iasiathailand.com,https://iasiathailand.com,,+66 2 888 9999,READY,I_Asia_Thailand.txt
+Destination Services Thailand,Leisure & Experience DMCs,,https://destinationservices.com,,+66 2 111 3333,NEEDS_EMAIL,Destination_Services_Thailand.txt
+Travelink Thailand,Leisure & Experience DMCs,,https://travelink.co.th,,+66 2 222 4444,NEEDS_EMAIL,Travelink_Thailand.txt
+R.M.A. Travel & Tours,Leisure & Experience DMCs,,https://rmatravel.com,,+66 2 333 5555,NEEDS_EMAIL,RMA_Travel_Tours.txt
+East West Siam,Leisure & Experience DMCs,,https://eastwestsiam.com,,+66 2 444 6666,NEEDS_EMAIL,East_West_Siam.txt
+Siam Travel International,Leisure & Experience DMCs,sale05siamtravel@gmail.com,https://siamtravel.co.th,,+66 2 555 7777,READY,Siam_Travel_International.txt
+Majestic Travel International,Leisure & Experience DMCs,,https://majestictravel.co.th,,+66 2 666 8888,NEEDS_EMAIL,Majestic_Travel_International.txt
+Century Holidays Thailand,Leisure & Experience DMCs,,https://centuryholidays.com,,+66 2 777 9999,NEEDS_EMAIL,Century_Holidays_Thailand.txt
+GM Tour & Travel,Leisure & Experience DMCs,,https://gmtour.com,,+66 2 888 0000,NEEDS_EMAIL,GM_Tour_Travel.txt
+Nakhonchai Air (NCA),Transport & Transfer Services,customerservice@nakhonchaiair.com,https://www.nakhonchaiair.com/,National,+6602-939-4999,READY,Nakhonchai_Air_NCA.txt
+Sky Bar at Lebua,Nightlife & Entertainment,dome@lebua.com,https://lebua.com/sky-bar/,Bangkok,0274006933,READY,Sky_Bar_at_Lebua.txt
+Octave Rooftop Lounge & Bar,Nightlife & Entertainment,,https://www.marriott.com/hotels/hotel-information/restaurant/bkkms-bangkok-marriott-hotel-sukhumvit/,Bangkok,+66-02-7970000,NEEDS_EMAIL,Octave_Rooftop_Lounge_Bar.txt
+Vertigo and Moon Bar,Nightlife & Entertainment,,https://www.banyantree.com/thailand/bangkok,Bangkok,,NEEDS_EMAIL,Vertigo_and_Moon_Bar.txt
+Maggie Choo's,Nightlife & Entertainment,,https://www.maggiechoos.com/,Bangkok,02-1748863,NEEDS_EMAIL,Maggie_Choos.txt
+Iron Fairies,Nightlife & Entertainment,,https://www.theironfairies.com/,Bangkok,+66-99-918-1600,NEEDS_EMAIL,Iron_Fairies.txt
+Havana Social,Nightlife & Entertainment,,https://www.havanasocialbkk.com/,Bangkok,,NEEDS_EMAIL,Havana_Social.txt
+Sing Sing Theater,Nightlife & Entertainment,,https://www.singsingtheater.com/,Bangkok,09683 123,NEEDS_EMAIL,Sing_Sing_Theater.txt
+Sugar Club Bangkok,Nightlife & Entertainment,,https://www.sugarclub-bangkok.com/,Bangkok,+66 61 391 3111,NEEDS_EMAIL,Sugar_Club_Bangkok.txt
+Onyx Bangkok,Nightlife & Entertainment,,https://www.onyxbangkok.com/,Bangkok,,NEEDS_EMAIL,Onyx_Bangkok.txt
+Route 66 Club,Nightlife & Entertainment,info@route66club.com,https://www.route66club.com/,Bangkok,085701121,READY,Route_66_Club.txt
+Levels Club & Lounge,Nightlife & Entertainment,info@levelsclub.com,https://www.levelsclub.com/,Bangkok,+66 82 308 3246,READY,Levels_Club_Lounge.txt
+Catch Beach Club Phuket,Nightlife & Entertainment,,https://www.catchbeachclub.com/,Phuket,0427253027,NEEDS_EMAIL,Catch_Beach_Club_Phuket.txt
+Cafe Del Mar Phuket,Nightlife & Entertainment,,https://www.cafedelmarphuket.com/,Phuket,,NEEDS_EMAIL,Cafe_Del_Mar_Phuket.txt
+Xana Beach Club,Nightlife & Entertainment,,https://www.xanabeachclub.com/,Phuket,0487169825,NEEDS_EMAIL,Xana_Beach_Club.txt
+Ark Bar Beach Club,Nightlife & Entertainment,,https://www.ark-bar.com/,Koh Samui,+6677300397,NEEDS_EMAIL,Ark_Bar_Beach_Club.txt
+Full Moon Party Official,Nightlife & Entertainment,,https://www.fullmoonparty-thailand.com/,Koh Phangan,0708286092,NEEDS_EMAIL,Full_Moon_Party_Official.txt
+Calypso Cabaret,Nightlife & Entertainment,,https://www.calypsocabaret.com/,Bangkok,04 958 271,NEEDS_EMAIL,Calypso_Cabaret.txt
+Saxophone Pub & Restaurant,Nightlife & Entertainment,,https://www.saxophonepub.com/,Bangkok,,NEEDS_EMAIL,Saxophone_Pub_Restaurant.txt
+Brown Sugar Jazz Boutique,Nightlife & Entertainment,,https://www.brownsugarbangkok.com/,Bangkok,06798668,NEEDS_EMAIL,Brown_Sugar_Jazz_Boutique.txt
+Walking Street Pattaya,Nightlife & Entertainment,,https://www.walkingstreetpattaya.com/,Pattaya,0324061111,NEEDS_EMAIL,Walking_Street_Pattaya.txt
+Ku De Ta Bangkok,Nightlife & Entertainment,reservations@kudeta.com,https://www.kudeta.com/bangkok/,Bangkok,04 958 271,READY,Ku_De_Ta_Bangkok.txt
+Zero Latency Bangkok,Cinema & Entertainment,,https://www.zerolatencyvr.com/,Bangkok,,NEEDS_EMAIL,Zero_Latency_Bangkok.txt
+Dream World Bangkok,Cinema & Entertainment,,https://www.dreamworld.co.th/,Bangkok,0-2577-8666,NEEDS_EMAIL,Dream_World_Bangkok.txt
+Safari World Bangkok,Cinema & Entertainment,,https://www.safariworld.com/,Bangkok,,NEEDS_EMAIL,Safari_World_Bangkok.txt
+SEA LIFE Bangkok Ocean World,Cinema & Entertainment,,https://www.sealifebangkok.com/,Bangkok,+662 687 2000,NEEDS_EMAIL,SEA_LIFE_Bangkok_Ocean_World.txt
+Madame Tussauds Bangkok,Cinema & Entertainment,,https://www.madametussauds.com/bangkok/,Bangkok,0-717970175,NEEDS_EMAIL,Madame_Tussauds_Bangkok.txt
+Rajadamnern Boxing Stadium,Cinema & Entertainment,info@rajadamnern.com,https://www.rajadamnern.com/,Bangkok,+66908993136,READY,Rajadamnern_Boxing_Stadium.txt
+Thailand Cultural Centre,Cinema & Entertainment,,https://www.tcc.or.th/,Bangkok,0-2239-1839,NEEDS_EMAIL,Thailand_Cultural_Centre.txt
+Bangkok Art & Culture Centre,Cinema & Entertainment,,https://www.bacc.or.th/,Bangkok,,NEEDS_EMAIL,Bangkok_Art_Culture_Centre.txt
+Sala Chalermkrung Royal Theatre,Cinema & Entertainment,,https://www.salachalermkrung.com/,Bangkok,0-2225-8757,NEEDS_EMAIL,Sala_Chalermkrung_Royal_Theatre.txt
+The Bangkok Screening Room,Cinema & Entertainment,,https://www.bkksr.com/,Bangkok,,NEEDS_EMAIL,The_Bangkok_Screening_Room.txt
+Doc Club & Pub,Cinema & Entertainment,,https://www.docclubandpub.com/,Bangkok,03833293,NEEDS_EMAIL,Doc_Club_Pub.txt
+EasyKart Bangkok,Cinema & Entertainment,,https://www.easykart.net/,"Bangkok, Pattaya, Phuket",0602826101,NEEDS_EMAIL,EasyKart_Bangkok.txt
+Sub Zero Ice Skate Club,Cinema & Entertainment,,https://www.subzeroiceskate.com/,Bangkok,02-105-1581,NEEDS_EMAIL,Sub_Zero_Ice_Skate_Club.txt
+Bounce Thailand,Cinema & Entertainment,enquiries@bounceinc.co.th,https://www.bounceinc.co.th/,Bangkok,+6620791146,READY,Bounce_Thailand.txt
+Phuket FantaSea,Cinema & Entertainment,,https://www.phuket-fantasea.com/,Phuket,,NEEDS_EMAIL,Phuket_FantaSea.txt
+Ripley's Believe It or Not Pattaya,Cinema & Entertainment,,https://www.ripleysthailand.com/,Pattaya,0786589936,NEEDS_EMAIL,Ripleys_Believe_It_or_Not_Pattaya.txt
+Nong Nooch Tropical Garden,Cinema & Entertainment,,https://www.nongnoochtropicalgarden.com/,Pattaya,,NEEDS_EMAIL,Nong_Nooch_Tropical_Garden.txt
+Chiang Mai Night Safari,Cinema & Entertainment,ns_saraban@nightsafari.or.th,https://www.chiangmainightsafari.com/,Chiang Mai,0916167241,READY,Chiang_Mai_Night_Safari.txt
+Tiger Kingdom Chiang Mai,Cinema & Entertainment,,https://www.tigerkingdom.com/,Chiang Mai,,NEEDS_EMAIL,Tiger_Kingdom_Chiang_Mai.txt
+Vana Nava Hua Hin,Cinema & Entertainment,info@vananava.com,https://www.vananavahuahin.com/,Hua Hin,0925153411,READY,Vana_Nava_Hua_Hin.txt
+Cartoon Network Amazone,Cinema & Entertainment,,https://www.cartoonnetworkamazone.com/,Pattaya,,NEEDS_EMAIL,Cartoon_Network_Amazone.txt
+Ramayana Water Park,Cinema & Entertainment,info@rwpark.com,https://www.ramayanawaterpark.com/,Pattaya,+6633005929,READY,Ramayana_Water_Park.txt
+Sriracha Tiger Zoo,Cinema & Entertainment,,https://www.tigerzoo.com/,Chonburi,,NEEDS_EMAIL,Sriracha_Tiger_Zoo.txt
+The Hive Bangkok,Lifestyle & Experiences,,https://thehive.co.th/,Bangkok,+6626626062,NEEDS_EMAIL,The_Hive_Bangkok.txt
+Punspace Chiang Mai,Lifestyle & Experiences,,https://www.punspace.com/,Chiang Mai,0699999988,NEEDS_EMAIL,Punspace_Chiang_Mai.txt
+TCDC Bangkok,Lifestyle & Experiences,,https://www.tcdc.or.th/,Bangkok,,NEEDS_EMAIL,TCDC_Bangkok.txt
+KoHub Koh Lanta,Lifestyle & Experiences,,https://www.kohub.org/,Koh Lanta,0210316143,NEEDS_EMAIL,KoHub_Koh_Lanta.txt
+JustCo Thailand,Lifestyle & Experiences,info@justcoglobal.com,https://www.justcoglobal.com/,Bangkok,,READY,JustCo_Thailand.txt
+The Great Room Bangkok,Lifestyle & Experiences,,https://www.thegreatroomoffices.com/,Bangkok,,NEEDS_EMAIL,The_Great_Room_Bangkok.txt
+Regus Thailand,Lifestyle & Experiences,,https://www.regus.com/en-th/,Multiple,,NEEDS_EMAIL,Regus_Thailand.txt
+Launchpad Coworking,Lifestyle & Experiences,,https://launchpad.co.th/,Bangkok,0543374325,NEEDS_EMAIL,Launchpad_Coworking.txt
+Fitness First Thailand,Lifestyle & Experiences,,https://www.fitnessfirst.co.th/,Multiple,04-2809-493,NEEDS_EMAIL,Fitness_First_Thailand.txt
+Fight District MMA,Lifestyle & Experiences,,https://www.fightdistrict.com/,Bangkok,,NEEDS_EMAIL,Fight_District_MMA.txt
+IconSiam,Lifestyle & Experiences,,https://www.iconsiam.com/,Bangkok,+66-2-495-7080,NEEDS_EMAIL,IconSiam.txt
+Terminal 21,Lifestyle & Experiences,dpo@lhmh.co.th,https://www.terminal21.co.th/,Bangkok,02-343-8899,READY,Terminal_21.txt
+Chatuchak Weekend Market,Lifestyle & Experiences,info@chatuchakmarket.org,https://www.chatuchakmarket.org/,Bangkok,0315388723,READY,Chatuchak_Weekend_Market.txt
+Asiatique The Riverfront,Lifestyle & Experiences,arme@assetworldcorp-th.com,https://www.asiatiquethailand.com/,Bangkok,+6692-246-0812,READY,Asiatique_The_Riverfront.txt
+Platinum Fashion Mall,Lifestyle & Experiences,,https://www.platinumfashionmall.com/,Bangkok,,NEEDS_EMAIL,Platinum_Fashion_Mall.txt
+MBK Center,Lifestyle & Experiences,mbkcontactcenter@mbkgroup.co.th,https://www.mbk-center.co.th/,Bangkok,+6628539000,READY,MBK_Center.txt
+Siam Discovery,Lifestyle & Experiences,info@siamdiscovery.co.th,https://www.siamdiscovery.co.th/,Bangkok,+66-2-658-1000,READY,Siam_Discovery.txt
+Thai Visa Centre,Lifestyle & Experiences,help@tvc.co.th,https://www.thaivisacentre.com/,Bangkok,+66 2-508-8428,READY,Thai_Visa_Centre.txt
+Siam Legal International,Lifestyle & Experiences,info@siam-legal.com,https://www.siam-legal.com/,Bangkok,+66 2 254 8900,READY,Siam_Legal_International.txt
+Key Visa Thailand,Lifestyle & Experiences,,https://www.keyvisa.com/,Bangkok,0411627350,NEEDS_EMAIL,Key_Visa_Thailand.txt
+Iglu Coworking & Visa,Lifestyle & Experiences,,https://iglu.net/,Multiple,085442-2048,NEEDS_EMAIL,Iglu_Coworking_Visa.txt
+Duke Language School,Lifestyle & Experiences,info@dukelanguage.com,https://www.dukelanguage.com/,Bangkok,+66 8-2444-1595,READY,Duke_Language_School.txt
+Pro Language School,Lifestyle & Experiences,info@prolanguage.co.th,https://www.prolanguage.co.th/,Bangkok,+66885850756,READY,Pro_Language_School.txt
+Raja's Fashions,Lifestyle & Experiences,,https://www.rajasfashions.com/,Bangkok,+662-253-8379,NEEDS_EMAIL,Rajas_Fashions.txt
+Narry Tailor,Lifestyle & Experiences,chandans20@gmail.com,https://www.narrytailor.com/,Bangkok,+6681-987-2008,READY,Narry_Tailor.txt
+Pinky Tailor,Lifestyle & Experiences,pinkytailor@hotmail.com,https://www.pinkytailor.com/,Bangkok,0546757114,READY,Pinky_Tailor.txt
+Outpost Coworking,Lifestyle & Experiences,,https://www.outpost-asia.com/,Koh Samui,,NEEDS_EMAIL,Outpost_Coworking.txt
+CentralWorld,Lifestyle & Experiences,,https://www.centralworld.co.th/,Bangkok,,NEEDS_EMAIL,CentralWorld.txt
+One Nimman Chiang Mai,Lifestyle & Experiences,,https://www.onenimman.com/,Chiang Mai,0504122521,NEEDS_EMAIL,One_Nimman_Chiang_Mai.txt
+The Commons Saladaeng,Lifestyle & Experiences,,https://www.thecommonsbkk.com/,Bangkok,0323969472,NEEDS_EMAIL,The_Commons_Saladaeng.txt
+Simba Sea Trips,Adventure & Outdoor Operators,,https://simbaseatrips.com/,Thailand,+66629799974,NEEDS_EMAIL,Simba_Sea_Trips.txt
+Santana Biking Chiang Mai,Adventure & Outdoor Operators,,https://santanaadventures.com/cruises/,Thailand,09-128-128,NEEDS_EMAIL,Santana_Biking_Chiang_Mai.txt
+Chillax Heritage Bangkok,Boutique Hotels & Hostels,,https://www.hotelsbkk.com/chillax-heritage-hotel-khaosan/,Thailand,,NEEDS_EMAIL,Chillax_Heritage_Bangkok.txt
+Tara Mantra Cha-Am,Boutique Hotels & Hostels,rsvn.taramantra@gmail.com,https://taramantra-chaam.com/,Thailand,+66875296333,READY,Tara_Mantra_Cha-Am.txt
+Makkasan Hostel Bangkok,Boutique Hotels & Hostels,h8422@accor.com,https://www.mercurebangkokmakkasan.com/,Thailand,+66 2 094 8800,READY,Makkasan_Hostel_Bangkok.txt
+Phranakorn Nornlen Bangkok,Boutique Hotels & Hostels,rooms@phranakorn-nornlen.com,https://www.phranakorn-nornlen.com/,Thailand,+662 628 8188,READY,Phranakorn_Nornlen_Bangkok.txt
+Old Capital Bike Inn,Boutique Hotels & Hostels,info@oldcapitalbkk.com,http://www.oldcapitalbkk.com/,Thailand,+662 629-1787,READY,Old_Capital_Bike_Inn.txt
+Chern Hostel Bangkok,Boutique Hotels & Hostels,info@chernbangkok.com,http://chernbangkok.com/,Thailand,02 621 1133,READY,Chern_Hostel_Bangkok.txt
+SF Cinema City,Cinema & Entertainment,,https://www.sfcinema.com/,Thailand,0270146341,NEEDS_EMAIL,SF_Cinema_City.txt
+House RCA,Cinema & Entertainment,,https://www.housesamyan.com/,Thailand,0260227104,NEEDS_EMAIL,House_RCA.txt
+Escape Room by Komnata,Cinema & Entertainment,escaperoompattaya.thailand@gmail.com,https://www.escaperoomthailand.com/,Thailand,+66632108724,READY,Escape_Room_by_Komnata.txt
+Brain Out Escape Room,Cinema & Entertainment,,https://www.tripadvisor.in/Attraction_Review-g293916-d13084472-Reviews-Puzzle_Room_Bangkok-Bangkok.html,Thailand,,NEEDS_EMAIL,Brain_Out_Escape_Room.txt
+The Great Hornbills Zipline,Cinema & Entertainment,,http://hornbill.or.th/,Thailand,0782273630,NEEDS_EMAIL,The_Great_Hornbills_Zipline.txt
+Mekhala River Cruise,Cinema & Entertainment,info@asianoasis.com,https://www.asianoasis.com/mekkala,Thailand,0-3498-4942,READY,Mekhala_River_Cruise.txt
+Chao Phraya Princess Cruise,Cinema & Entertainment,support@headout.com,https://www.chaophrayacruises.com/,Thailand,07-17500575,READY,Chao_Phraya_Princess_Cruise.txt
+White Orchid Dinner Cruise,Cinema & Entertainment,info@theicity.com,https://www.bangkokchaophrayacruise.com/viewCruise.jsp?clubId=38367&shopCategoryId=182282&productId=868389,Thailand,+66846434996,READY,White_Orchid_Dinner_Cruise.txt
+Muay Thai Live Show,Cinema & Entertainment,info@rajadamnern.com,https://rajadamnern.com/,Thailand,+66908993136,READY,Muay_Thai_Live_Show.txt
+Siam Amazing Park,Cinema & Entertainment,customerservice@siamamazingpark.com,https://www.siamamazingpark.com/en/index.php,Thailand,02-105-4294,READY,Siam_Amazing_Park.txt
+Flight Experience Bangkok,Cinema & Entertainment,,https://www.tripadvisor.in/Attraction_Review-g293916-d3240006-Reviews-Flight_Experience_Bangkok-Bangkok.html,Thailand,,NEEDS_EMAIL,Flight_Experience_Bangkok.txt
+Harborland Thailand,Cinema & Entertainment,,https://harborlandgroup.com/,Thailand,,NEEDS_EMAIL,Harborland_Thailand.txt
+SuperPark Thailand,Cinema & Entertainment,,https://www.tripadvisor.in/Attraction_Review-g293916-d20007429-Reviews-Superpark_Thailand-Bangkok.html,Thailand,,NEEDS_EMAIL,SuperPark_Thailand.txt
+Bar Us,Nightlife & Entertainment,,https://www.us-bar.com/,Bangkok,+6691-721-8209,NEEDS_EMAIL,Bar_Us.txt
+Mahaniyom,Nightlife & Entertainment,,https://nightlifethailand.com/venues/mahaniyom-cocktail-bar/,Bangkok,+66 61 664-6588,NEEDS_EMAIL,Mahaniyom.txt
+Opium,Nightlife & Entertainment,,https://www.bkmagazine.com/nightlife/bangkoks-top-10-cocktail-bars-your-next-big-night-out/,Bangkok,,NEEDS_EMAIL,Opium.txt
+Phuripat Transport 88,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/-phuripat-transport-88,Thailand,,NEEDS_EMAIL,Phuripat_Transport_88.txt
+35 Group Pattaya,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/35-group-pattaya-,Thailand,,NEEDS_EMAIL,35_Group_Pattaya.txt
+Adang Sea Tour,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/adang-sea-tour,Thailand,,NEEDS_EMAIL,Adang_Sea_Tour.txt
+Andaman Sea Tour & Transport,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/andaman-sea-tour-&-transport,Thailand,,NEEDS_EMAIL,Andaman_Sea_Tour_Transport.txt
+Andaman Wave Express,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/andaman-wave-express,Thailand,,NEEDS_EMAIL,Andaman_Wave_Express.txt
+Ao Nang Travel And Tour,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/ao-nang-travel-and-tour,Thailand,,NEEDS_EMAIL,Ao_Nang_Travel_And_Tour.txt
+Arisa Speed Boat Group,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/arisa-speed-boat-group,Thailand,,NEEDS_EMAIL,Arisa_Speed_Boat_Group.txt
+Arunsiri Travel & Tour,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/arunsiri-travel-&-tour,Thailand,,NEEDS_EMAIL,Arunsiri_Travel_Tour.txt
+Bell Travel Services,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/bell-travel-services,Thailand,,NEEDS_EMAIL,Bell_Travel_Services.txt
+Boonsiri,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/boonsiri-,Thailand,,NEEDS_EMAIL,Boonsiri.txt
+Bundhaya Speed Boat,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/bundhaya-speed-boat,Thailand,,NEEDS_EMAIL,Bundhaya_Speed_Boat.txt
+Chao Koh Group,Transport & Transfer Services,,https://www.thailandferrybooking.com/ferry/operator/chao-koh-group,Thailand,,NEEDS_EMAIL,Chao_Koh_Group.txt
+From Fresh Market to Wok: Thai Cooking wit...,Food & Culinary Operators,,https://www.cookly.me/cooking-class/bangkok/,Bangkok,,NEEDS_EMAIL,From_Fresh_Market_to_Wok_Thai_Cooking_wit.txt
+Vegetarian & Vegan,Food & Culinary Operators,,https://www.cookly.me/cooking-class/bangkok/veganvegetarian-option/,Bangkok,,NEEDS_EMAIL,Vegetarian_Vegan.txt
+Family-Friendly,Food & Culinary Operators,,https://www.cookly.me/cooking-class/bangkok/family-friendly/,Bangkok,,NEEDS_EMAIL,Family-Friendly.txt
+Choose your own menu,Food & Culinary Operators,,https://www.cookly.me/cooking-class/bangkok/choose-your-own-menu/,Bangkok,,NEEDS_EMAIL,Choose_your_own_menu.txt
+Farm & Garden Tours,Food & Culinary Operators,,https://www.cookly.me/cooking-class/bangkok/organic-gardenfarm-tour/,Bangkok,,NEEDS_EMAIL,Farm_Garden_Tours.txt
+Top Kart Bangkok,Cinema & Entertainment,,https://www.topkartbangkok.com/,Bangkok,,NEEDS_EMAIL,Top_Kart_Bangkok.txt
+Puzzle Room Bangkok,Cinema & Entertainment,puzzleroombkk@gmail.com,https://www.puzzleroombangkok.com/BKK/,Bangkok,+666 3827 9666,READY,Puzzle_Room_Bangkok.txt
+Xscape Escape Rooms Bangkok,Cinema & Entertainment,info@xscapeescaperooms.com,https://xscapeescaperooms.com/,Bangkok,+66625219610,READY,Xscape_Escape_Rooms_Bangkok.txt
+Blu-O Rhythm & Bowl,Cinema & Entertainment,,https://www.bluofriends.com/en/,Bangkok,0-2511-5544,NEEDS_EMAIL,Blu-O_Rhythm_Bowl.txt
+Siri Poshtel Bangkok,Boutique Hotels & Hostels,,https://www.hostelworld.com/hostels/p/273359/siri-poshtel-bangkok/,Bangkok,,NEEDS_EMAIL,Siri_Poshtel_Bangkok.txt
+Tamni,Boutique Hotels & Hostels,,https://www.hostelworld.com/hostels/p/313640/tamni/,Bangkok,,NEEDS_EMAIL,Tamni.txt
+Nomad Yard Hostel,Boutique Hotels & Hostels,,https://www.hostelworld.com/hostels/p/333841/nomad-yard-hostel/,Bangkok,,NEEDS_EMAIL,Nomad_Yard_Hostel.txt
+BKK Social Club,Nightlife & Entertainment,,https://www.bkmagazine.com/nightlife/15-best-live-music-bars-bangkok-to-check-out-2025/,Bangkok,,NEEDS_EMAIL,BKK_Social_Club.txt
+Noise House Lat Phrao,Nightlife & Entertainment,,https://www.bkmagazine.com/nightlife/bangkoks-best-bars-clubs/,Bangkok,,NEEDS_EMAIL,Noise_House_Lat_Phrao.txt
+Fatty’s Bar and Diner,Nightlife & Entertainment,,https://www.bkmagazine.com/nightlife/cocktails/bangkoks-best-gin-bars/,Bangkok,,NEEDS_EMAIL,Fattys_Bar_and_Diner.txt
+Dope & Dirty,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/dope-dirty,Bangkok,,NEEDS_EMAIL,Dope_Dirty.txt
+Max Club Bangkok,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/max-club-bangkok,Bangkok,,NEEDS_EMAIL,Max_Club_Bangkok.txt
+Baccarat,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/baccarat,Bangkok,,NEEDS_EMAIL,Baccarat.txt
+Bar Rouge Bangkok,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/bar-rouge-bangkok,Bangkok,,NEEDS_EMAIL,Bar_Rouge_Bangkok.txt
+MIXX Bangkok,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/mixx-bangkok,Bangkok,,NEEDS_EMAIL,MIXX_Bangkok.txt
+Space Plus Bangkok,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/space-plus-bangkok,Bangkok,,NEEDS_EMAIL,Space_Plus_Bangkok.txt
+The Capital Bangkok,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/the-capital-bangkok,Bangkok,,NEEDS_EMAIL,The_Capital_Bangkok.txt
+The Club Khaosan,Nightlife & Entertainment,,https://www.siam2nite.com/en/locations/clubs/the-club-khaosan,Bangkok,,NEEDS_EMAIL,The_Club_Khaosan.txt
+Best Coworking Spaces in Bangkok,Lifestyle & Experiences,contact@bangkokbusinessclub.com,https://bangkokbusinessclub.com/blog/best-coworking-spaces-in-bangkok/,Bangkok,+66 2 340 7645,READY,Best_Coworking_Spaces_in_Bangkok.txt
+DMC Bangkok,MICE & Event DMCs,info@phuketeventcompany.com,https://www.phuketeventcompany.com/dmc-bangkok/,Thailand,+66-65-749-5221,READY,DMC_Bangkok.txt
+Paula &amp; Co. DMC Thailand,MICE & Event DMCs,paula.wong@paula-dmc.com,https://www.paulaandcothailand.com/,Thailand,05-3391-9791,READY,Paula_amp_Co_DMC_Thailand.txt
+QSNCC,MICE & Event DMCs,,https://www.qsncc.com/en/media/news-and-update/asias-best-convention-centre-award-qsncc/,Thailand,0-4352-8146,NEEDS_EMAIL,QSNCC.txt
+Home of the Best Tours Agency Bangkok,Adventure & Outdoor Operators,,https://www.thaiwander.com/,Thailand,,NEEDS_EMAIL,Home_of_the_Best_Tours_Agency_Bangkok.txt
+Thailand Tour,Adventure & Outdoor Operators,info@nstravel.com,https://www.nstravel.com/,Thailand,+662-640-1440,READY,Thailand_Tour.txt
+Queen Sirikit National Convention Center (QSNCC),MICE & Event DMCs,,https://www.qsncc.com/en/,Thailand,05-4622-9902,NEEDS_EMAIL,Queen_Sirikit_National_Convention_Center_QSNCC.txt
+lebua Hotels & Resorts,Nightlife & Entertainment,dome@lebua.com,https://lebua.com/restaurants/sky/,Bangkok,0274006933,READY,lebua_Hotels_Resorts.txt
+Sky Bar by lebua,Nightlife & Entertainment,,https://www.therooftopguide.com/rooftop-bars-in-bangkok/sky-bar-lebua-at-state-tower.html,Bangkok,,NEEDS_EMAIL,Sky_Bar_by_lebua.txt
+Common Ground,Lifestyle & Experiences,,https://www.commonground.work/th-en/,Bangkok,04 958 271,NEEDS_EMAIL,Common_Ground.txt
+WeWork,Lifestyle & Experiences,,https://www.wework.com/l/office-space/bangkok,Bangkok,05 20250822,NEEDS_EMAIL,WeWork.txt
+Absolute Boutique Fitness,Lifestyle & Experiences,,https://www.absoluteboutiquefitness.co/,Bangkok,0-3498-4942,NEEDS_EMAIL,Absolute_Boutique_Fitness.txt
+Wild Thailand,Adventure & Outdoor Operators,,http://www.wildthailand.com/,Thailand,,NEEDS_EMAIL,Wild_Thailand.txt
+Thai Adventure Club,Adventure & Outdoor Operators,rsvn@thaiadventureclub.com,https://thaiadventureclub.com/,Thailand,+66-80-800-2500,READY,Thai_Adventure_Club.txt
+Octave Rooftop Bar,Nightlife & Entertainment,,https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/dining/,Bangkok,+66-02-7970000,NEEDS_EMAIL,Octave_Rooftop_Bar.txt
+Vertigo & Moon Bar,Nightlife & Entertainment,,https://www.bfrfrr.com/vertigo-and-moon-bar/,Bangkok,,NEEDS_EMAIL,Vertigo_Moon_Bar.txt
+Ce La Vi Bangkok,Nightlife & Entertainment,,https://www.celavi.com/en/bangkok/,Bangkok,,NEEDS_EMAIL,Ce_La_Vi_Bangkok.txt
+DEMO Bangkok,Nightlife & Entertainment,,https://www.demobangkok.com/,Bangkok,,NEEDS_EMAIL,DEMO_Bangkok.txt
+Eaglecrest DMC,MICE & Event DMCs,,https://eaglecrestdmc.com/,Thailand,041120527,NEEDS_EMAIL,Eaglecrest_DMC.txt
+DMC Quote Thailand,MICE & Event DMCs,sales@travel-dmc.com,https://dmcquote.com/,Thailand,+91-7838007208,READY,DMC_Quote_Thailand.txt
+ClubCo Coworking,Lifestyle & Experiences,sales@clubco-th.com,https://www.clubco-th.com/,Bangkok,05-3391-9791,READY,ClubCo_Coworking.txt
+The Urban Office,Lifestyle & Experiences,info@theurbanoffice.com,https://www.theurbanoffice.com/,Bangkok,+662 153 3555,READY,The_Urban_Office.txt
+Servcorp Bangkok,Lifestyle & Experiences,,https://www.servcorp.co.th/en/coworking/,Bangkok,+662 207 5444,NEEDS_EMAIL,Servcorp_Bangkok.txt
+Absolute Yoga Bangkok,Lifestyle & Experiences,,https://www.absoluteyogabangkok.com/,Bangkok,,NEEDS_EMAIL,Absolute_Yoga_Bangkok.txt
+F45 Training Bangkok,Lifestyle & Experiences,,https://f45training.com/find-a-studio/,Bangkok,05 2055 152,NEEDS_EMAIL,F45_Training_Bangkok.txt
+Cvent Thailand Venues,MICE & Event DMCs,cventhotelreq@ntmllc.com,https://www.cvent.com/venues/results/Bangkok--Thailand,Bangkok,0-625135059,READY,Cvent_Thailand_Venues.txt
+CAMP by Maya,Lifestyle & Experiences,,https://www.campmaya.com/,Chiang Mai,,NEEDS_EMAIL,CAMP_by_Maya.txt
+True Digital Park,Lifestyle & Experiences,hello@truedigitalpark.com,https://www.truedigitalpark.com/,Bangkok,02-009-1101,READY,True_Digital_Park.txt
+AIS Design Centre,Lifestyle & Experiences,,https://aisdesigncentre.com/,Bangkok,,NEEDS_EMAIL,AIS_Design_Centre.txt
+Glowfish Coworking,Lifestyle & Experiences,,https://www.glowfishcoworking.com/,Bangkok,,NEEDS_EMAIL,Glowfish_Coworking.txt

@@ -17,7 +17,8 @@
             "foundation",
             "audience",
             "campaign",
-            "resources"
+            "resources",
+            "vendor-pipeline"
           ]
         },
         "order": {
