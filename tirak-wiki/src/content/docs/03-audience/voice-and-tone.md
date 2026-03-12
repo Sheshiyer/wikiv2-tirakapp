@@ -365,7 +365,15 @@ Remember to make it sound like a Reddit comment or Instagram caption from a fell
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** 2026-01-21  
-**Usage:** All copywriters must reference this guide before writing any Tirak marketing content  
+**Document Version:** 1.0
+**Last Updated:** 2026-01-21
+**Usage:** All copywriters must reference this guide before writing any Tirak marketing content
 **Next Review:** After first 100 bookings (refine based on companion/traveler feedback)
+
+---
+
+## For Partners: Know Your Customers
+
+Understanding these customer personas helps you craft better experiences. When you list on Tirak, you're reaching travelers who match these profiles — people actively seeking authentic local experiences in Thailand.
+
+[**Start listing your experiences →**](/docs/06-vendor-pipeline/pipeline-overview)

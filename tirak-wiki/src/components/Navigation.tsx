@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
-import { Menu, X, Home, Book, Users, Megaphone, FolderOpen, Database } from 'lucide-react';
+import { Menu, X, Home, Book, Users, Megaphone, FolderOpen, HeartHandshake } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const navItems = [
-  { name: 'Introduction', href: '/docs/01-introduction/welcome', icon: Home },
-  { name: 'Foundation', href: '/docs/02-foundation/positioning', icon: Book },
-  { name: 'Audiences', href: '/docs/03-audience/companion-persona', icon: Users },
-  { name: 'Campaigns', href: '/docs/04-campaign/pre-launch-ads', icon: Megaphone },
+  { name: 'Welcome', href: '/docs/01-introduction/welcome', icon: Home },
+  { name: 'About Tirak', href: '/docs/02-foundation/positioning', icon: Book },
+  { name: 'Your Customers', href: '/docs/03-audience/companion-persona', icon: Users },
+  { name: 'Marketing Hub', href: '/docs/04-campaign/pre-launch-ads', icon: Megaphone },
   { name: 'Resources', href: '/docs/05-resources/faq', icon: FolderOpen },
-  { name: 'Vendor Pipeline', href: '/docs/06-vendor-pipeline/pipeline-overview', icon: Database },
+  { name: 'Partner Portal', href: '/docs/06-vendor-pipeline', icon: HeartHandshake },
 ];
 
 export const Navigation = () => {
@@ -43,7 +43,9 @@ export const Navigation = () => {
         <button
           onClick={() => setIsOpen(!isOpen)}
           className="md:hidden p-2 text-gray-300 hover:text-white"
-          aria-label="Toggle menu"
+          aria-label={isOpen ? 'Close navigation menu' : 'Open navigation menu'}
+          aria-expanded={isOpen}
+          aria-controls="mobile-nav-menu"
         >
           {isOpen ? <X size={24} /> : <Menu size={24} />}
         </button>
@@ -53,6 +55,7 @@ export const Navigation = () => {
       <AnimatePresence>
         {isOpen && (
           <motion.div
+            id="mobile-nav-menu"
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}

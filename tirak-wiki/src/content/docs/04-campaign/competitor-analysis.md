@@ -172,3 +172,11 @@ title: Competitor Analysis
 
 **Targetcustomerneedsaddressed**: Effectively addresses the modern traveler's need for ease of discovery, assurance of quality (through operator vetting and transparent reviews), flexibility in travel planning, access to unique local insights, and a seamless end-to-end journey from booking to experience completion. It caters to both spontaneous adventurers and meticulously organized planners, offering solutions for a diverse range of travel styles and preferences.
 
+---
+
+## Partner Resources
+
+Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
+
+[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+

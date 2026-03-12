@@ -18,7 +18,10 @@
             "audience",
             "campaign",
             "resources",
-            "vendor-pipeline"
+            "vendor-pipeline",
+            "vendor-onboarding",
+            "vendor-directory",
+            "partner-resources"
           ]
         },
         "order": {
@@ -48,6 +51,15 @@
               "format": "unix-time"
             }
           ]
+        },
+        "cta_text": {
+          "type": "string"
+        },
+        "cta_url": {
+          "type": "string"
+        },
+        "downloadable": {
+          "type": "boolean"
         },
         "$schema": {
           "type": "string"

@@ -1,93 +1,85 @@
 ---
-title: "Scraping Scripts"
-description: "Documentation for the 10 Python scripts powering the vendor data pipeline"
+title: "Partner Benefits"
+description: "Why Thailand's top experience vendors choose Tirak Dream Journeys"
 category: "vendor-pipeline"
 order: 2
-icon: "code"
-tags: ["scripts", "scraping", "python", "automation"]
+icon: "star"
+tags: ["benefits", "partners", "earnings", "commission"]
+cta_text: "Become a Partner"
+cta_url: "https://tirak.app/partners"
 ---
 
-# Scraping Scripts
+# Partner Benefits
 
-Ten Python scripts power the Tirak vendor pipeline. Each has a specific role in the data acquisition, enrichment, and outreach workflow.
+Tirak Dream Journeys is built for vendors first. Here's why **614+ Thailand experience providers** have joined our partner network.
 
-## Core Orchestrator
+## Fair Earnings
 
-### `tirak_pipeline.py` (603 lines)
-The main orchestrator that runs a **circular audit-fill-enrich-validate-export loop**. Loops until all 10 categories reach ≥50 vendors (max 5 iterations).
+**Keep 80–85% of every booking.** While other platforms take 25–40% in commission, Tirak charges a small service fee to travelers — not vendors. Your pricing, your earnings.
 
-- Contains `VendorStore` class — the canonical in-memory vendor database with name/URL deduplication
-- Reads/writes `tirak_thailand_vendors.json` as the master data store
-- Calls gap-filling, enrichment, and validation logic internally
+### How It Works
+- You set your experience price
+- Travelers pay a small service fee on top
+- You receive 80–85% of the booking value
+- Payouts arrive within 24–48 hours via bank transfer
 
-## Data Acquisition Scripts
+### Commission Comparison
 
-### `scrape_tirak_vendors.py` (728 lines)
-The **primary multi-directory scraper**. Targets 7+ categories across multiple sources:
-- dmcfinder.com, Hostelworld, TripAdvisor listings
-- Uses both `StealthyFetcher` (headless browser for JS pages) and `Fetcher` (fast static)
-- First scraper to run in the pipeline
+| Platform | Vendor Earnings | Tirak Advantage |
+|----------|----------------|-----------------|
+| Withlocals | ~70% | +10–15% more with Tirak |
+| ToursByLocals | ~60% | +20–25% more with Tirak |
+| Cookly | ~70–75% | +5–15% more with Tirak |
+| GetYourGuide | ~70–75% | +5–15% more with Tirak |
+| Booking.com | ~75–85% | Comparable + no exclusivity |
 
-### `scrape_dmcs.py` (148 lines)
-Focused scraper for **DMC listings** from dmcfinder.com/listing_region/thailand/. Extracts:
-- Name, tagline, profile URL, logo, location, regions, rating, listing type
+## Instant Visibility
 
-### `scrape_directories.py` (478 lines)
-Real Thailand **business directory scraper**. Targets Hostelworld and other specific directory pages. Each function targets a single scrapable directory with URL validation.
+Get discovered by travelers actively searching for authentic Thailand experiences.
 
-### `scrape_real_vendors.py` (454 lines)
-**Backfill scraper** for categories below 50 vendors. Sources:
-- TripAdvisor category pages, Google search results, directory sites
-- Every vendor must have a **live-verified URL** (HEAD request check)
+- **Same-day listing approval** — no weeks-long review process
+- **SEO-optimized profiles** — your experiences rank in search results
+- **Featured placement** — top-performing partners get highlighted
+- **10 experience categories** — travelers browse by interest, not geography
 
-### `scrape_vendor_gaps.py` (808 lines)
-**Gap filler** — fills 65+ vendor gaps across 8 categories via web scraping. Imports `VendorStore` from the pipeline. Targets BK Magazine and other Thailand-specific sources. Skips aggregator domains.
+## Full Control
 
-### `merge_xlsx_vendors.py` (280 lines)
-Merges **XLSX spreadsheet data** into the master JSON. Features:
-- Substring matching for partial name dedup
-- Enriches existing entries with phone/email/address from the spreadsheet
-- Maps XLSX categories to the canonical 10 categories
+You run your business. We just help you reach more customers.
 
-## Enrichment & Validation Scripts
+- **Set your own prices** — no minimum or maximum restrictions
+- **Manage availability** — real-time calendar with blackout dates
+- **No exclusivity** — keep all your other channels active
+- **Data transparency** — see exactly where bookings come from
 
-### `enrich_vendor_contacts.py` (362 lines)
-**Contact enrichment** — visits each vendor URL and scrapes:
-- Email addresses (regex-based extraction)
-- Phone numbers (Thai formats: +66, 0-2-xxx, international)
-- Filters junk domains (example.com, wixpress.com, googleapis.com)
-- 0.5s polite delay between requests
+## Marketing Support
 
-### `validate_vendors.py` (168 lines)
-**URL validator** — fetches every vendor URL and classifies status:
+We invest in bringing travelers to your doorstep.
 
-| Status | Meaning |
-|--------|---------|
-| `LIVE` | URL responds successfully |
-| `DEAD_404` | Returns 404 |
-| `REDIRECT` | Redirects to different domain |
-| `BLOCKED` | Access denied (403/Cloudflare) |
-| `SERVER_ERROR` | 5xx response |
-| `TIMEOUT` | No response within timeout |
-| `DNS_FAIL` | Domain doesn't resolve |
-| `NO_URL` | No URL on record |
+- **Platform promotion** — your experiences featured across Tirak channels
+- **Content marketing** — we create travel guides featuring partner experiences
+- **Social media** — partner spotlights and experience highlights
+- **Targeted ads** — we run campaigns that drive bookings to partners
 
-Distinguishes AI-generated (`pipeline-curated`) vs. verified vendors.
+## Growing Network Effect
 
-## Outreach Script
+The more partners join, the more travelers discover Tirak — and the more bookings flow to everyone.
 
-### `tirak_outreach_emails.py` (358 lines)
-**Personalized email generator** for all 608 vendors:
-- Category-specific subject lines, hooks, value propositions
-- Brand voice: direct, confident, not corporate
-- Outputs: one `.txt` per vendor, `tirak_email_templates.json`, `tirak_outreach_summary.csv`
+- **614+ active partners** across Thailand
+- **10 experience categories** from adventure to wellness
+- **Network effects** — more variety attracts more travelers
+- **Cross-promotion** — travelers booking one experience discover others
 
-## Dependencies
+## Partner Support
 
-```python
-# Core scraping
-scrapling          # StealthyFetcher (headless) + Fetcher (static)
+We're here when you need us.
 
-# Standard library
-csv, json, re, pathlib, urllib, concurrent.futures
-```
+- **Dedicated partnerships team** available via WhatsApp and LINE
+- **24-hour response time** for support requests
+- **Partner dashboard** for managing listings, bookings, and payments
+- **Onboarding assistance** — we help you create compelling listings
+
+## Ready to Join?
+
+[**Apply to become a partner →**](https://tirak.app/partners)
+
+Join 614+ vendors who trust Tirak with their business.

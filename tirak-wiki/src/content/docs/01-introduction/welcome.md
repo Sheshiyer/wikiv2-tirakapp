@@ -63,3 +63,11 @@ This wiki is built with:
 - [Messaging Framework](/docs/02-foundation/messaging-framework)
 - [Companion Persona](/docs/03-audience/companion-persona)
 - [Pre-Launch Ads](/docs/04-campaign/pre-launch-ads)
+
+---
+
+## For Our Partners
+
+Interested in joining the Tirak Dream Journeys partner network? Learn how you can list your experiences and keep **80–85% of every booking**.
+
+[**Explore partnership opportunities →**](/docs/06-vendor-pipeline/pipeline-overview)

@@ -1,83 +1,70 @@
 ---
-title: "Vendor Data & Categories"
-description: "Vendor data model, 10 category breakdown, and validation report"
+title: "Our Partner Network"
+description: "Explore 614+ verified experience vendors across 10 categories in Thailand"
 category: "vendor-pipeline"
 order: 4
-icon: "bar-chart"
-tags: ["data", "vendors", "categories", "validation"]
+icon: "globe"
+tags: ["directory", "partners", "network", "categories"]
+cta_text: "Browse Partners"
+cta_url: "/docs/06-vendor-pipeline/vendor-directory"
 ---
 
-# Vendor Data & Categories
+# Our Partner Network
 
-## Category Breakdown
+Tirak Dream Journeys connects travelers with **614+ verified experience vendors** across Thailand. Our growing network spans 10 diverse categories, from adventure operators to wellness retreats.
 
-The pipeline targets **10 vendor categories** spanning Thailand's experience economy:
+## Network at a Glance
 
-| # | Category | Vendors | Key Sources |
-|---|----------|---------|-------------|
-| 1 | **Leisure & Experience DMCs** | 153 | dmcfinder.com, TripAdvisor, Google |
-| 2 | **MICE & Event DMCs** | 56 | dmcfinder.com, event directories |
-| 3 | **Transport & Transfer** | 50 | Airport links, ferry/bus operators |
-| 4 | **Adventure & Outdoor** | 51 | TripAdvisor, activity directories |
-| 5 | **Food & Culinary** | 50 | BK Magazine, Cookly, food blogs |
-| 6 | **Wellness & Spa** | 52 | Hostelworld, spa directories |
-| 7 | **Boutique Hotels & Hostels** | 50 | Hostelworld, booking sites |
-| 8 | **Nightlife & Entertainment** | 51 | BK Magazine, venue listings |
-| 9 | **Cinema & Entertainment** | 50 | Entertainment directories |
-| 10 | **Lifestyle Experiences** | 51 | Various directories, Google |
+| Metric | Value |
+|--------|-------|
+| **Total Partners** | 614+ |
+| **Categories** | 10 |
+| **Locations** | Across Thailand |
+| **Verification** | Every partner verified |
 
-**Total: 614 vendors** with verified web presence.
+## Browse by Category
 
-## Data Files
+### 🏛️ Leisure & Experience DMCs
+**153 partners** — Full-service destination management companies offering curated travel experiences, group tours, and luxury itineraries across Thailand.
 
-### Master Data
-| File | Format | Records | Description |
-|------|--------|---------|-------------|
-| `tirak_thailand_vendors.json` | JSON | 614 | Canonical vendor store |
-| `tirak_thailand_vendors.csv` | CSV | 614 | Master export (10 fields) |
-| `thailand_dmcs.json` | JSON | 66 | DMC-specific records |
-| `thailand_dmcs.csv` | CSV | 66 | DMC export (8 fields) |
+### 🎪 MICE & Event DMCs
+**50 partners** — Specialists in meetings, incentives, conferences, and exhibitions. From intimate corporate retreats to large-scale international events.
 
-### Per-Category CSVs
-One CSV per category with identical schema: `category, name, url, location, description, type, source, phone, email, address`
+### 🚐 Transport & Transfer Services
+**50 partners** — Airport transfers, intercity transport, ferry services, and private car hire. Getting travelers where they need to be, comfortably.
 
-### Reports
-| File | Description |
-|------|-------------|
-| `tirak_validation_report.json` | URL status for every vendor |
-| `tirak_enrichment_log.json` | URLs visited during contact enrichment |
-| `tirak_outreach_summary.csv` | Outreach status per vendor |
-| `tirak_vendor_signup_dashboard.html` | Visual dashboard for signup tracking |
-| `tirak_why_tirak_onepager.html` | Partner-facing sales one-pager |
+### 🏔️ Adventure & Outdoor Operators
+**51 partners** — Trekking, diving, rock climbing, kayaking, and zip-lining. Thailand's outdoor adventure scene, led by experienced local guides.
 
-## Validation Results
+### 🍜 Food & Culinary Operators
+**50 partners** — Cooking classes, food tours, market visits, and fine dining experiences. Explore Thailand through its incredible cuisine.
 
-Every vendor URL is classified:
+### 💆 Wellness & Spa Services
+**52 partners** — Traditional Thai massage, yoga retreats, meditation centers, and luxury spa experiences. Rest, recover, and rejuvenate.
 
-| Classification | Meaning | Action |
-|---------------|---------|--------|
-| ✅ **LIVE** | URL responds 200 | Ready for outreach |
-| ↪️ **REDIRECT** | Redirects to new URL | Update URL, then outreach |
-| 🚫 **BLOCKED** | 403 / Cloudflare | Manual verification needed |
-| ❌ **DEAD_404** | Returns 404 | Remove or find new URL |
-| 💥 **SERVER_ERROR** | 5xx response | Retry later |
-| ⏱️ **TIMEOUT** | No response | Retry with longer timeout |
-| 🔌 **DNS_FAIL** | Domain unresolvable | Remove vendor |
-| ❓ **NO_URL** | No URL on record | Needs manual research |
+### 🏨 Boutique Hotels & Hostels
+**50 partners** — Unique accommodation with character. From riverside boutique hotels to social hostels in Bangkok's vibrant neighborhoods.
 
-## Deduplication Logic
+### 🎵 Nightlife & Entertainment
+**51 partners** — Rooftop bars, live music venues, cultural shows, and night markets. Experience Thailand after dark.
 
-The pipeline prevents duplicates through:
+### 🎬 Cinema & Entertainment
+**50 partners** — Movie theaters, entertainment complexes, cultural performances, and immersive experiences.
 
-1. **Name normalization** — Strips suffixes (Co., Ltd., Inc., Thailand, Bangkok), lowercases, removes punctuation
-2. **Substring matching** — Catches partial name variants
-3. **URL normalization** — Strips protocol, `www.` prefix, trailing slash
-4. **Domain exclusion** — Rejects aggregator domains: TripAdvisor, Yelp, Booking.com, Facebook, Instagram
+### ✨ Lifestyle & Experiences
+**51 partners** — Shopping experiences, cultural workshops, photography tours, and unique local encounters that don't fit neatly into one category.
 
-## Data Quality Rules
+## Why Our Partners Stand Out
 
-- Every vendor must have a **verifiable URL** (HEAD request validated)
-- Minimum **50 vendors per category** (pipeline loops until met)
-- Contact enrichment uses **polite 0.5s delays** between requests
-- Email regex filters out junk domains (example.com, wixpress.com, googleapis.com)
-- Phone extraction supports Thai formats (+66, 0-2-xxx, international)
+Every vendor in the Tirak network is:
+
+- **Verified** — We confirm every partner's business presence and web identity
+- **Local** — Thailand-based businesses with deep local knowledge
+- **Quality-focused** — Committed to delivering exceptional experiences
+- **Fair-priced** — Partners set their own prices with full transparency
+
+## Join the Network
+
+We're always looking for exceptional Thailand experience providers to join our growing partner network.
+
+[**Apply to become a partner →**](https://tirak.app/partners)
