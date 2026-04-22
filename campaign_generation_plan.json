@@ -1,0 +1,76 @@
+{
+    "schema_version": "1.0",
+    "project": {
+        "name": "Tirak Campaign Workstream",
+        "repo_root": "/Volumes/madara/2026/Tirak/wikiv2",
+        "generated_on": "2026-02-26",
+        "generated_by": "task-master-planner",
+        "assumptions": [
+            "Brandmint system is fully functional.",
+            "Tirak brand-config.yaml contains sufficient foundational context."
+        ],
+        "risks": []
+    },
+    "phases": [
+        {
+            "phase_id": "P1",
+            "name": "Campaign Text Generation",
+            "objective": "Generate missing text-based campaign assets using Brandmint.",
+            "sprints": [
+                {
+                    "sprint_id": "S1",
+                    "duration_weeks": 1,
+                    "focus": "Wave 4-6 Skills Execution",
+                    "tasks": [
+                        {
+                            "id": "P1-S1-01",
+                            "title": "Execute Wave 4: Products & Content",
+                            "area": "product",
+                            "owner_role": "AI Marketer",
+                            "est_hours": 2,
+                            "dependencies": [],
+                            "deliverable": "Outputs for campaign-page-copy, campaign-video-script, detailed-product-description.",
+                            "acceptance": "JSON files exist in .brandmint/outputs/."
+                        },
+                        {
+                            "id": "P1-S1-02",
+                            "title": "Execute Wave 5: Campaign Assets",
+                            "area": "product",
+                            "owner_role": "AI Marketer",
+                            "est_hours": 2,
+                            "dependencies": [
+                                "P1-S1-01"
+                            ],
+                            "deliverable": "Outputs for launch-email-sequence.",
+                            "acceptance": "JSON files exist in .brandmint/outputs/."
+                        },
+                        {
+                            "id": "P1-S1-03",
+                            "title": "Execute Wave 6: Distribution",
+                            "area": "product",
+                            "owner_role": "AI Marketer",
+                            "est_hours": 2,
+                            "dependencies": [
+                                "P1-S1-02"
+                            ],
+                            "deliverable": "Outputs for live-campaign-ads, affiliate-program, community-manager, etc.",
+                            "acceptance": "JSON files exist in .brandmint/outputs/."
+                        },
+                        {
+                            "id": "P1-S1-04",
+                            "title": "Migrate JSON Outputs to Wiki",
+                            "area": "frontend",
+                            "owner_role": "Technical Writer",
+                            "est_hours": 4,
+                            "dependencies": [
+                                "P1-S1-03"
+                            ],
+                            "deliverable": "Markdown pages in tirak-wiki/src/content/docs/04-campaign/.",
+                            "acceptance": "Markdown files exist and build successfully."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

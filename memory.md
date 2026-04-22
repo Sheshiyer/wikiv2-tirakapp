@@ -96,3 +96,10 @@ Transforming Tirak campaign documentation into an Astro-powered glassmorphism wi
 - **Errors Fixed**: N/A.
 - **Code Changes**: Updated `README.md` and `tirak-wiki/src/layouts/BaseLayout.astro`.
 - **Next Dependencies**: None.
+
+## [2026-02-27] Task Completed: Brandmint Campaign Generation
+- **Outcome**: Executed Brandmint pipeline to fill gaps in the Tirak context for campaign scripting and asset generation.
+- **Breakthrough**: Overrode Brandmint config to force EXHAUSTIVE generation for exactly the text-based outputs, integrating the output JSONs via a custom Python watcher agent using the Gemini API.
+- **Errors Fixed**: Resolving issues with duplicate route endpoints and array vs dict output schemas for JSON.
+- **Code Changes**: Generated 20 `.json` output artifacts, created `json_to_md.py` converter, and migrated 20 Markdown files to `tirak-wiki/src/content/docs/04-campaign/`. All NotebookLM outputs (slide decks, PDFs, diagram SVGs, and 3 Remotion videos) are compiled in deliverables.
+- **Next Dependencies**: UI styling and review.
