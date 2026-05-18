@@ -17,7 +17,7 @@ export default {
     const url = new URL(request.url);
 
     if (request.method === 'OPTIONS') {
-      return new Response(null, { headers: corsHeaders() });
+      return new Response(null, { headers: corsHeaders(request) });
     }
 
     try {
@@ -34,21 +34,21 @@ export default {
       }
 
       if (url.pathname === '/v1/search' && request.method === 'POST') {
-        return withCors(await handleSearch(request, env));
+        return withCors(await handleSearch(request, env), request);
       }
 
       if (url.pathname === '/v1/ingest' && request.method === 'POST') {
-        return withCors(await handleIngest(request, env));
+        return withCors(await handleIngest(request, env), request);
       }
 
       if (url.pathname === '/v1/chat' && request.method === 'POST') {
-        return withCors(await handleChat(request, env));
+        return withCors(await handleChat(request, env), request);
       }
 
-      return withCors(json({ error: 'Not found' }, 404));
+      return withCors(json({ error: 'Not found' }, 404), request);
     } catch (error) {
       const message = error instanceof Error ? error.message : 'Unknown error';
-      return withCors(json({ error: message }, 500));
+      return withCors(json({ error: message }, 500), request);
     }
   },
 };
@@ -279,9 +279,9 @@ function json(body: Json, status = 200): Response {
   });
 }
 
-function withCors(response: Response): Response {
+function withCors(response: Response, request: Request): Response {
   const headers = new Headers(response.headers);
-  for (const [key, value] of Object.entries(corsHeaders())) {
+  for (const [key, value] of Object.entries(corsHeaders(request))) {
     headers.set(key, value);
   }
 
@@ -292,12 +292,40 @@ function withCors(response: Response): Response {
   });
 }
 
-function corsHeaders(): Record<string, string> {
-  return {
-    'access-control-allow-origin': '*',
+function corsHeaders(request: Request): Record<string, string> {
+  const origin = request.headers.get('origin');
+  const headers: Record<string, string> = {
     'access-control-allow-methods': 'GET,POST,OPTIONS',
     'access-control-allow-headers': 'authorization,content-type,x-client-key',
+    'vary': 'Origin',
   };
+
+  const allowedOrigin = getAllowedCorsOrigin(origin);
+  if (allowedOrigin) {
+    headers['access-control-allow-origin'] = allowedOrigin;
+  }
+
+  return headers;
+}
+
+function getAllowedCorsOrigin(origin: string | null): string | null {
+  if (!origin) {
+    return null;
+  }
+
+  try {
+    const url = new URL(origin);
+    const hostname = url.hostname.toLowerCase();
+    const isTirakDomain = hostname === 'tirak.app' || hostname.endsWith('.tirak.app');
+
+    if (url.protocol === 'https:' && isTirakDomain) {
+      return origin;
+    }
+  } catch {
+    return null;
+  }
+
+  return null;
 }
 
 async function withTimeout<T>(promise: Promise<T>, timeoutMs: number, message: string): Promise<T> {
