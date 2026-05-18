@@ -3,3 +3,6 @@ node_modules/
 vendor-pipeline/logs/
 *.log
 .env
+.wrangler/
+workers/rag/.dev.vars
+workers/rag/.wrangler/
