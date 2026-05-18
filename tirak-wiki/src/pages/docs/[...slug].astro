@@ -14,6 +14,6 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<DocLayout title={entry.data.title} frontmatter={entry.data}>
+<DocLayout title={entry.data.title} frontmatter={{ ...entry.data, slug: entry.slug }}>
   <Content />
 </DocLayout>

@@ -5,9 +5,15 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
+    "wiki:corpus": "node scripts/build-wiki-corpus.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "worker:dev": "wrangler dev --config workers/rag/wrangler.jsonc",
+    "worker:deploy": "wrangler deploy --config workers/rag/wrangler.jsonc",
+    "worker:typegen": "wrangler types --config workers/rag/wrangler.jsonc workers/rag/worker-configuration.d.ts",
+    "worker:check": "tsc -p workers/rag/tsconfig.json --noEmit",
+    "check": "astro check && npm run worker:check"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.13",
@@ -22,5 +28,10 @@
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.0",
     "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250510.0",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.15.2"
   }
 }

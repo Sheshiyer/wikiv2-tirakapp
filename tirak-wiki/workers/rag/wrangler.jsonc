@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rag-worker-template",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-05-18",
+  "vars": {
+    "ENVIRONMENT": "development"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "APP_CONFIG",
+      "id": "2fb92bec506a42698701479c1d87649c"
+    },
+    {
+      "binding": "APP_INDEX",
+      "id": "39add47357bb4afdb426e88d0a8580d6"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
