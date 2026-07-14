@@ -100,11 +100,16 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
       setSources(data.retrievedContext ?? []);
       setError(null);
     } catch (requestError) {
-      const message = requestError instanceof DOMException && requestError.name === 'AbortError'
-        ? 'I could not get a useful answer in time. Try Faster answer or ask a more focused question.'
-        : requestError instanceof Error
-          ? requestError.message
-          : 'Unknown request error';
+      let message: string;
+      if (requestError instanceof DOMException && requestError.name === 'AbortError') {
+        message = 'I could not get a useful answer in time. Try Faster answer or ask a more focused question.';
+      } else if (requestError instanceof TypeError || (requestError instanceof Error && /fetch|network|failed/i.test(requestError.message))) {
+        message = `The assistant backend is not reachable at ${config.endpoint}. Run \`npm run worker:dev\` in a second terminal, then refresh the page.`;
+      } else if (requestError instanceof Error) {
+        message = requestError.message;
+      } else {
+        message = 'Unknown request error';
+      }
       setError(message);
       setAnswer(null);
       setSources([]);

@@ -3,6 +3,15 @@
 ## Overview
 Transforming Tirak campaign documentation into an Astro-powered glassmorphism wiki.
 
+## [2026-07-14] Task Completed: Wiki Review, CodeGraph Reindex, LLM Chat Fix, Brand Alignment
+
+- **Outcome**: Refreshed the CodeGraph index, diagnosed and repaired the RAG chat assistant, and rewrote the homepage/README for companion-first brand alignment.
+- **CodeGraph**: Ran `codegraph index`; index now reflects current workspace with 31,213 files and WikiAssistant symbol resolution working.
+- **Chat fix**: Corrected `worker:dev` port to 8790, added local-dev bypass and CORS in `workers/rag/src/index.ts`, improved `WikiAssistant.tsx` error messaging. Verified `/v1/chat` returns 200 locally.
+- **Brand alignment**: Rewrote `src/pages/index.astro` to companion-first voice, added missing icons to `PartnerBenefitCard.tsx`, cleaned `README.md`, created `BRAND_ALIGNMENT_SUMMARY.md`.
+- **Verification**: `npm run build` and `npm run worker:check` pass; `curl -I http://localhost:4321` returns 200.
+- **Next Dependencies**: To enable real LLM answers, set `NVIDIA_API_KEY` in `.dev.vars`, run `npm run wiki:corpus`, and POST to `/v1/ingest`.
+
 ## Completed Tasks
 
 ### [2026-01-22] Task Completed: Project Initialization & Scaffolding

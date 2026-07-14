@@ -9,7 +9,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "worker:dev": "wrangler dev --config workers/rag/wrangler.jsonc",
+    "worker:dev": "wrangler dev --config workers/rag/wrangler.jsonc --port 8790",
     "worker:deploy": "wrangler deploy --config workers/rag/wrangler.jsonc",
     "worker:typegen": "wrangler types --config workers/rag/wrangler.jsonc workers/rag/worker-configuration.d.ts",
     "worker:check": "tsc -p workers/rag/tsconfig.json --noEmit",

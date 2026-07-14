@@ -17,7 +17,7 @@ export default {
     const url = new URL(request.url);
 
     if (request.method === 'OPTIONS') {
-      return new Response(null, { headers: corsHeaders(request) });
+      return new Response(null, { headers: corsHeaders(request, env) });
     }
 
     try {
@@ -34,21 +34,21 @@ export default {
       }
 
       if (url.pathname === '/v1/search' && request.method === 'POST') {
-        return withCors(await handleSearch(request, env), request);
+        return withCors(await handleSearch(request, env), request, env);
       }
 
       if (url.pathname === '/v1/ingest' && request.method === 'POST') {
-        return withCors(await handleIngest(request, env), request);
+        return withCors(await handleIngest(request, env), request, env);
       }
 
-      if (url.pathname === '/v1/chat' && request.method === 'POST') {
-        return withCors(await handleChat(request, env), request);
-      }
+  if (url.pathname === '/v1/chat' && request.method === 'POST') {
+    return withCors(await handleChat(request, env), request, env);
+  }
 
-      return withCors(json({ error: 'Not found' }, 404), request);
+  return withCors(json({ error: 'Not found' }, 404), request, env);
     } catch (error) {
       const message = error instanceof Error ? error.message : 'Unknown error';
-      return withCors(json({ error: message }, 500), request);
+      return withCors(json({ error: message }, 500), request, env);
     }
   },
 };
@@ -121,6 +121,10 @@ async function handleChat(request: Request, env: Env): Promise<Response> {
 
   if (!appId || !body.query) {
     return json({ error: 'appId and query are required' }, 400);
+  }
+
+  if (env.ENVIRONMENT === 'development' && !env.NVIDIA_API_KEY) {
+    return json(createLocalDevChatResponse(appId, body));
   }
 
   if (!(await isAuthorizedRequest(env, request, appId))) {
@@ -270,6 +274,52 @@ function buildFallbackAnswer(
   ].join('\n\n');
 }
 
+function createLocalDevChatResponse(
+  appId: string,
+  body: {
+    query?: string;
+    responseMode?: ChatMode;
+    currentPage?: { slug?: string; title?: string };
+  },
+): Record<string, unknown> {
+  const query = body.query ?? '';
+  const pageTitle = body.currentPage?.title ?? 'the current page';
+  const slug = body.currentPage?.slug ?? 'unknown';
+  const sourceId = slug === 'unknown' ? 'local-dev' : `${slug}#local-dev`;
+
+  return {
+    appId,
+    model: 'local-dev-mock',
+    embeddingModel: 'local-dev-mock',
+    promptId: 'local-dev',
+    mode: body.responseMode ?? 'fast',
+    gated: false,
+    retrievedContext: [
+      {
+        id: sourceId,
+        score: 1,
+        text: `Local dev mock context for ${pageTitle}. The full corpus is not loaded in this mode.`,
+        metadata: {
+          slug,
+          title: pageTitle,
+          source: 'local-dev-mock',
+        },
+      },
+    ],
+    answer: [
+      `You asked about "${query}" on **${pageTitle}**.`,
+      '',
+      'This is a local development response. The RAG worker is running without NVIDIA_API_KEY, so answers are deterministic mocks rather than LLM-generated responses.',
+      '',
+      'To enable full retrieval + generation:',
+      '1. Set NVIDIA_API_KEY in workers/rag/.dev.vars',
+      '2. Run npm run wiki:corpus to generate the corpus',
+      '3. POST the corpus to /v1/ingest',
+      '4. Restart npm run worker:dev',
+    ].join('\n'),
+  };
+}
+
 function json(body: Json, status = 200): Response {
   return new Response(JSON.stringify(body, null, 2), {
     status,
@@ -279,9 +329,9 @@ function json(body: Json, status = 200): Response {
   });
 }
 
-function withCors(response: Response, request: Request): Response {
+function withCors(response: Response, request: Request, env: Env): Response {
   const headers = new Headers(response.headers);
-  for (const [key, value] of Object.entries(corsHeaders(request))) {
+  for (const [key, value] of Object.entries(corsHeaders(request, env))) {
     headers.set(key, value);
   }
 
@@ -292,7 +342,7 @@ function withCors(response: Response, request: Request): Response {
   });
 }
 
-function corsHeaders(request: Request): Record<string, string> {
+function corsHeaders(request: Request, env: Env): Record<string, string> {
   const origin = request.headers.get('origin');
   const headers: Record<string, string> = {
     'access-control-allow-methods': 'GET,POST,OPTIONS',
@@ -300,7 +350,7 @@ function corsHeaders(request: Request): Record<string, string> {
     'vary': 'Origin',
   };
 
-  const allowedOrigin = getAllowedCorsOrigin(origin);
+  const allowedOrigin = getAllowedCorsOrigin(origin, env);
   if (allowedOrigin) {
     headers['access-control-allow-origin'] = allowedOrigin;
   }
@@ -308,7 +358,7 @@ function corsHeaders(request: Request): Record<string, string> {
   return headers;
 }
 
-function getAllowedCorsOrigin(origin: string | null): string | null {
+function getAllowedCorsOrigin(origin: string | null, env: Env): string | null {
   if (!origin) {
     return null;
   }
@@ -317,8 +367,9 @@ function getAllowedCorsOrigin(origin: string | null): string | null {
     const url = new URL(origin);
     const hostname = url.hostname.toLowerCase();
     const isTirakDomain = hostname === 'tirak.app' || hostname.endsWith('.tirak.app');
+    const isLocalDev = env.ENVIRONMENT === 'development' && (hostname === 'localhost' || hostname === '127.0.0.1');
 
-    if (url.protocol === 'https:' && isTirakDomain) {
+    if ((url.protocol === 'https:' && isTirakDomain) || (url.protocol === 'http:' && isLocalDev)) {
       return origin;
     }
   } catch {
