@@ -367,9 +367,10 @@ function getAllowedCorsOrigin(origin: string | null, env: Env): string | null {
     const url = new URL(origin);
     const hostname = url.hostname.toLowerCase();
     const isTirakDomain = hostname === 'tirak.app' || hostname.endsWith('.tirak.app');
+    const isVercelPreview = hostname === 'vercel.app' || hostname.endsWith('.vercel.app');
     const isLocalDev = env.ENVIRONMENT === 'development' && (hostname === 'localhost' || hostname === '127.0.0.1');
 
-    if ((url.protocol === 'https:' && isTirakDomain) || (url.protocol === 'http:' && isLocalDev)) {
+    if ((url.protocol === 'https:' && (isTirakDomain || isVercelPreview)) || (url.protocol === 'http:' && isLocalDev)) {
       return origin;
     }
   } catch {

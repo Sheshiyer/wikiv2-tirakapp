@@ -6,3 +6,4 @@ vendor-pipeline/logs/
 .wrangler/
 workers/rag/.dev.vars
 workers/rag/.wrangler/
+.vercel

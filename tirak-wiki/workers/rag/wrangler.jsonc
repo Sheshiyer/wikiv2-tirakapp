@@ -1,19 +1,19 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "rag-worker-template",
+  "name": "tirak-wiki-rag",
   "main": "src/index.ts",
   "compatibility_date": "2025-05-18",
   "vars": {
-    "ENVIRONMENT": "development"
+    "ENVIRONMENT": "production"
   },
   "kv_namespaces": [
     {
       "binding": "APP_CONFIG",
-      "id": "2fb92bec506a42698701479c1d87649c"
+      "id": "44466b5466554e39acd6ff6249f9d43a"
     },
     {
       "binding": "APP_INDEX",
-      "id": "39add47357bb4afdb426e88d0a8580d6"
+      "id": "d35d97749b384ccca61c92e331adc7c4"
     }
   ],
   "observability": {
