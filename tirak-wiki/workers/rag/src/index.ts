@@ -247,7 +247,7 @@ function evaluateChatGate(input: {
     return { shouldBypassGeneration: true, reason: 'fast_mode_budget_exceeded' };
   }
 
-  if (input.responseMode === 'best' && totalBudget > 7000) {
+  if (input.responseMode === 'best' && totalBudget > 15000) {
     return { shouldBypassGeneration: true, reason: 'best_mode_budget_exceeded' };
   }
 
