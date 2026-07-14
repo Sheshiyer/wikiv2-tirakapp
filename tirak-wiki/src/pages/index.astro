@@ -6,97 +6,102 @@ import { OnboardingStep } from '../components/OnboardingStep';
 import { ArrowRight } from 'lucide-react';
 ---
 
-<BaseLayout title="Partner Portal — Tirak Dream Journeys">
+<BaseLayout title="Tirak Dream Journeys — Not a tour. A vibe.">
   <div class="space-y-16">
     <!-- Hero Section -->
     <section class="text-center space-y-8 py-16 relative overflow-hidden">
       <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-tirak-purple/20 rounded-full blur-[120px] -z-10"></div>
 
+      <p class="text-lg md:text-xl font-medium text-tirak-pink tracking-wide uppercase">
+        The companion-first travel wiki
+      </p>
       <h1 class="text-5xl md:text-7xl font-bold tracking-tight">
-        <span class="text-gradient">Grow Your Business</span>
+        <span class="text-gradient">Not a tour.</span>
         <br />
-        <span class="text-white">with Tirak Dream Journeys</span>
+        <span class="text-white">A vibe.</span>
       </h1>
       <p class="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-        Join <span class="text-white font-semibold">614+ Thailand experience vendors</span> who keep
-        <span class="text-[#F5A6BF] font-semibold"> 80–85% of every booking</span>.
-        Same-day approval. No exclusivity. Full pricing control.
+        Tirak is a marketplace built for Thai companions first. You keep
+        <span class="text-white font-semibold">80–85% of every booking</span>,
+        get approved <span class="text-tirak-pink font-semibold">same-day</span>,
+        and set your own schedule. No DSLR photoshoot. No platform exploitation.
+        Just real locals sharing real Bangkok.
       </p>
       <div class="flex flex-col sm:flex-row justify-center gap-4">
-        <a href="/docs/06-vendor-pipeline/pipeline-overview" class="bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2 shadow-lg shadow-tirak-purple/20 hover:shadow-tirak-purple/40 text-lg">
-          Become a Partner <ArrowRight size={20} client:load />
+        <a href="/docs/03-audience/companion-persona" class="bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2 shadow-lg shadow-tirak-purple/20 hover:shadow-tirak-purple/40 text-lg">
+          Start as a companion <ArrowRight size={20} client:load />
         </a>
-        <a href="/vendor-directory" class="border border-white/20 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/10 transition-colors flex items-center justify-center gap-2 text-lg">
-          Browse Partners
+        <a href="/docs/03-audience/voice-and-tone" class="border border-white/20 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/10 transition-colors flex items-center justify-center gap-2 text-lg">
+          Read the voice guide
         </a>
       </div>
     </section>
 
     <!-- Benefits Grid -->
     <section class="space-y-8">
-      <h2 class="text-3xl font-bold text-center text-white">Why Partners Choose Tirak</h2>
+      <h2 class="text-3xl font-bold text-center text-white">Why companions choose Tirak</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <PartnerBenefitCard
           client:visible
-          iconName="dollar-sign"
+          iconName="banknote"
           iconColor="text-[#F5A6BF]"
-          headline="Fair Earnings"
-          description="Keep the lion's share of every booking. We charge travelers, not you."
+          headline="Fair earnings"
+          description="Keep 80–85% of what you earn. You do the work—you keep the money."
           stat="80–85%"
-          statLabel="vendor earnings"
+          statLabel="companion earnings"
         />
         <PartnerBenefitCard
           client:visible
           iconName="clock"
           iconColor="text-[#9B8FD9]"
-          headline="Same-Day Approval"
-          description="No weeks-long review process. Apply today, go live today."
-          stat="24hr"
-          statLabel="listing approval"
+          headline="Same-day approval"
+          description="Apply in the morning, go live by the evening. No months-long waits."
+          stat="&lt; 24hr"
+          statLabel="approval time"
         />
         <PartnerBenefitCard
           client:visible
-          iconName="users"
+          iconName="camera-off"
           iconColor="text-[#F5A6BF]"
-          headline="Growing Network"
-          description="Join a thriving community of experience providers across Thailand."
-          stat="614+"
-          statLabel="active partners"
+          headline="Show up as you are"
+          description="No professional photoshoot required. iPhone selfies and real moments win."
+          stat="0"
+          statLabel="DSLR required"
         />
         <PartnerBenefitCard
           client:visible
-          iconName="shield"
+          iconName="calendar-clock"
           iconColor="text-[#9B8FD9]"
-          headline="No Exclusivity"
-          description="Keep all your other channels. Tirak complements your existing business."
+          headline="Your schedule, your rates"
+          description="Host weekends, random Tuesdays, or full-time. You control when and how much."
         />
         <PartnerBenefitCard
           client:visible
-          iconName="trending-up"
+          iconName="shield-check"
           iconColor="text-[#F5A6BF]"
-          headline="Marketing Support"
-          description="We promote your experiences to qualified travelers actively searching."
+          headline="Verified travelers only"
+          description="ID checks, reviews, and in-app chat before you share contact details. Safety first."
         />
         <PartnerBenefitCard
           client:visible
-          iconName="globe"
+          iconName="message-circle-heart"
           iconColor="text-[#9B8FD9]"
-          headline="10 Categories"
-          description="From adventure to wellness, food to nightlife — every experience type welcome."
+          headline="Community support"
+          description="Join Bangkok companions sharing tips, safety wins, and real earnings stories."
         />
       </div>
     </section>
 
     <!-- How It Works -->
     <section class="space-y-8">
-      <h2 class="text-3xl font-bold text-center text-white">How It Works</h2>
+      <h2 class="text-3xl font-bold text-center text-white">How it works</h2>
       <div class="max-w-2xl mx-auto">
         <GlassCard className="p-8 !bg-white/5" client:visible>
-          <OnboardingStep client:visible stepNumber={1} title="Apply" description="Complete the partner application in about 5 minutes. Tell us about your business and experiences." />
-          <OnboardingStep client:visible stepNumber={2} title="Get Approved" description="Our team reviews your application within 24 hours and verifies your business details." />
-          <OnboardingStep client:visible stepNumber={3} title="Set Up" description="Create your profile, upload photos, set your pricing, and configure availability." />
-          <OnboardingStep client:visible stepNumber={4} title="Go Live" description="Your experiences are immediately visible to travelers searching for authentic Thailand experiences." />
-          <OnboardingStep client:visible stepNumber={5} title="Earn" description="Receive bookings and get paid within 24–48 hours. Keep 80–85% of every booking." isLast={true} />
+          <OnboardingStep client:visible stepNumber={1} title="Apply" description="Fill out your companion application in about 5 minutes. Tell us about you and the Bangkok you love." />
+          <OnboardingStep client:visible stepNumber={2} title="Get approved" description="We review and approve you same-day. No months-long black boxes." />
+          <OnboardingStep client:visible stepNumber={3} title="Set your profile" description="Set your rates, availability, and the vibe you want to share. Use real photos, not stock shots." />
+          <OnboardingStep client:visible stepNumber={4} title="Go live" description="Travelers can find you instantly. You choose which bookings to accept." />
+          <OnboardingStep client:visible stepNumber={5} title="Earn and build community" description="Host experiences, get paid fast, and join a network of companions doing the same." isLast={true} />
         </GlassCard>
       </div>
     </section>
@@ -104,12 +109,12 @@ import { ArrowRight } from 'lucide-react';
     <!-- CTA -->
     <section class="text-center py-12">
       <GlassCard className="p-12 !bg-gradient-to-br !from-[#F5A6BF]/10 !to-[#9B8FD9]/10" client:visible>
-        <h2 class="text-3xl font-bold text-white mb-4">Ready to Grow Your Business?</h2>
+        <h2 class="text-3xl font-bold text-white mb-4">Ready to earn on your own terms?</h2>
         <p class="text-gray-300 text-lg mb-6 max-w-xl mx-auto">
-          Join 614+ partners across Thailand. Apply in 5 minutes and start earning more from every booking.
+          Browse the wiki to learn how Tirak treats companions fairly, keeps travelers safe, and builds a community around authentic Thai culture.
         </p>
-        <a href="/docs/06-vendor-pipeline/pipeline-overview" class="inline-flex items-center gap-2 bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-tirak-purple/20 text-lg">
-          Start Your Application
+        <a href="/docs/01-introduction/welcome" class="inline-flex items-center gap-2 bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-tirak-purple/20 text-lg">
+          Explore the wiki
         </a>
       </GlassCard>
     </section>

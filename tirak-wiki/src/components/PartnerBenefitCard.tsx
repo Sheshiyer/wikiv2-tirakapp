@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { DollarSign, Clock, Users, Shield, TrendingUp, Globe, Star, Zap, Heart } from 'lucide-react';
+import { DollarSign, Clock, Users, Shield, TrendingUp, Globe, Star, Zap, Heart, Banknote, CameraOff, CalendarClock, ShieldCheck, MessageCircleHeart } from 'lucide-react';
 import { cn } from '../lib/utils';
 
 const iconMap: Record<string, React.ComponentType<{ className?: string; size?: number }>> = {
@@ -13,6 +13,11 @@ const iconMap: Record<string, React.ComponentType<{ className?: string; size?: n
   'star': Star,
   'zap': Zap,
   'heart': Heart,
+  'banknote': Banknote,
+  'camera-off': CameraOff,
+  'calendar-clock': CalendarClock,
+  'shield-check': ShieldCheck,
+  'message-circle-heart': MessageCircleHeart,
 };
 
 interface PartnerBenefitCardProps {
