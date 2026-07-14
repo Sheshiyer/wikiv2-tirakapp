@@ -32,8 +32,8 @@ const responseModes = [
 
 const promptSuggestions = [
   'Tell me about Tirak.',
-  'Summarize this page for a new partner.',
-  'What should a vendor care about most here?',
+  'How do I start as a companion?',
+  'What makes Tirak different from other platforms?',
 ];
 
 export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
@@ -51,13 +51,21 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
     token: import.meta.env.PUBLIC_RAG_TOKEN ?? '',
   }), []);
 
-  const disabled = !config.endpoint || !config.token || isLoading;
+  const configMissing = !config.endpoint || !config.token;
+  const submitDisabled = isLoading || !query.trim();
+  const inputDisabled = isLoading;
 
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
     const trimmed = query.trim();
-    if (!trimmed || disabled) {
+    if (!trimmed || submitDisabled) {
+      return;
+    }
+
+    if (configMissing) {
+      setError('The assistant backend is not configured. Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN, then refresh.');
+      setIsLoading(false);
       return;
     }
 
@@ -182,12 +190,12 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
             <div className="rounded-2xl border border-white/10 bg-[#14141a]/90 p-4 text-xs leading-6 text-gray-400">
               <div className="flex items-center gap-2 text-[#9B8FD9]">
                 <Stars size={14} />
-                <span className="font-semibold uppercase tracking-[0.18em]">Live context</span>
+                <span className="font-semibold uppercase tracking-[0.18em]">{configMissing ? 'Configuration needed' : 'Live context'}</span>
               </div>
               <p className="mt-2">
-                {config.endpoint && config.token
-                  ? 'Connected to the configured RAG worker and scoped to the current page context.'
-                  : 'Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN to enable answers.'}
+                {configMissing
+                  ? 'Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN to enable answers. You can still type a question below; the assistant will explain how to connect the backend.'
+                  : 'Connected to the configured RAG worker and scoped to the current page context.'}
               </p>
             </div>
           </div>
@@ -198,11 +206,11 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
             <div className="flex items-center justify-between gap-3">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-400">Conversation</p>
-                <p className="mt-1 text-sm text-gray-500">Ask anything about the current doc, product context, or partner guidance.</p>
+                <p className="mt-1 text-sm text-gray-500">Ask anything about the current doc, product context, or companion guidance.</p>
               </div>
               <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-xs text-gray-300">
-                <span className="h-2 w-2 rounded-full bg-emerald-400" />
-                Ready
+                <span className={cn('h-2 w-2 rounded-full', configMissing ? 'bg-amber-400' : 'bg-emerald-400')} />
+                {configMissing ? 'Not configured' : 'Ready'}
               </div>
             </div>
           </div>
@@ -284,8 +292,10 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
                 rows={3}
-                placeholder="Ask about partner onboarding, messaging, positioning, or any page-specific detail."
-                className="w-full rounded-2xl border border-white/10 bg-[#17171d] px-4 py-4 text-sm text-white outline-none transition focus:border-[#9B8FD9]"
+                autoFocus
+                placeholder="Ask about companion onboarding, messaging, positioning, or any page-specific detail."
+                disabled={inputDisabled}
+                className="pointer-events-auto w-full rounded-2xl border border-white/10 bg-[#17171d] px-4 py-4 text-sm text-white outline-none transition focus:border-[#9B8FD9] disabled:cursor-not-allowed disabled:opacity-50"
               />
             </label>
 
@@ -295,7 +305,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
               </p>
               <button
                 type="submit"
-                disabled={disabled || !query.trim()}
+                disabled={submitDisabled}
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-[#F5A6BF] to-[#9B8FD9] px-5 py-3 text-sm font-semibold text-[#0f0f13] transition disabled:cursor-not-allowed disabled:opacity-50"
               >
                 {isLoading ? <Loader2 size={16} className="animate-spin" /> : <Sparkles size={16} />}
