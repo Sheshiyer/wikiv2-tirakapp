@@ -1,120 +1,62 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { GlassCard } from '../components/GlassCard';
-import { PartnerBenefitCard } from '../components/PartnerBenefitCard';
-import { OnboardingStep } from '../components/OnboardingStep';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, CalendarCheck, Map, ShieldCheck } from 'lucide-react';
 ---
 
-<BaseLayout title="Tirak Dream Journeys — Not a tour. A vibe.">
+<BaseLayout title="Tirak — Guided Experiences in Thailand">
   <div class="space-y-16">
-    <!-- Hero Section -->
     <section class="text-center space-y-8 py-16 relative overflow-hidden">
       <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-tirak-purple/20 rounded-full blur-[120px] -z-10"></div>
 
       <p class="text-lg md:text-xl font-medium text-tirak-pink tracking-wide uppercase">
-        The companion-first travel wiki
+        Tirak product source of truth
       </p>
       <h1 class="text-5xl md:text-7xl font-bold tracking-tight">
-        <span class="text-gradient">Not a tour.</span>
+        <span class="text-gradient">Guided experiences</span>
         <br />
-        <span class="text-white">A vibe.</span>
+        <span class="text-white">in Thailand.</span>
       </h1>
       <p class="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-        Tirak is a marketplace built for Thai companions first. You keep
-        <span class="text-white font-semibold">80–85% of every booking</span>,
-        get approved <span class="text-tirak-pink font-semibold">same-day</span>,
-        and set your own schedule. No DSLR photoshoot. No platform exploitation.
-        Just real locals sharing real Bangkok.
+        Discover named food, culture, market, craft, and city activities with a clear itinerary,
+        responsible local guide, confirmed booking, and total experience price.
       </p>
       <div class="flex flex-col sm:flex-row justify-center gap-4">
-        <a href="/docs/03-audience/companion-persona" class="bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2 shadow-lg shadow-tirak-purple/20 hover:shadow-tirak-purple/40 text-lg">
-          Start as a companion <ArrowRight size={20} client:load />
+        <a href="/docs/01-introduction/welcome" class="bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2 shadow-lg shadow-tirak-purple/20 hover:shadow-tirak-purple/40 text-lg">
+          Read the product contract <ArrowRight size={20} client:load />
         </a>
-        <a href="/docs/03-audience/voice-and-tone" class="border border-white/20 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/10 transition-colors flex items-center justify-center gap-2 text-lg">
-          Read the voice guide
+        <a href="/docs/02-foundation/messaging-framework" class="border border-white/20 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/10 transition-colors flex items-center justify-center gap-2 text-lg">
+          Use approved language
         </a>
       </div>
     </section>
 
-    <!-- Benefits Grid -->
-    <section class="space-y-8">
-      <h2 class="text-3xl font-bold text-center text-white">Why companions choose Tirak</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <PartnerBenefitCard
-          client:visible
-          iconName="banknote"
-          iconColor="text-[#F5A6BF]"
-          headline="Fair earnings"
-          description="Keep 80–85% of what you earn. You do the work—you keep the money."
-          stat="80–85%"
-          statLabel="companion earnings"
-        />
-        <PartnerBenefitCard
-          client:visible
-          iconName="clock"
-          iconColor="text-[#9B8FD9]"
-          headline="Same-day approval"
-          description="Apply in the morning, go live by the evening. No months-long waits."
-          stat="&lt; 24hr"
-          statLabel="approval time"
-        />
-        <PartnerBenefitCard
-          client:visible
-          iconName="camera-off"
-          iconColor="text-[#F5A6BF]"
-          headline="Show up as you are"
-          description="No professional photoshoot required. iPhone selfies and real moments win."
-          stat="0"
-          statLabel="DSLR required"
-        />
-        <PartnerBenefitCard
-          client:visible
-          iconName="calendar-clock"
-          iconColor="text-[#9B8FD9]"
-          headline="Your schedule, your rates"
-          description="Host weekends, random Tuesdays, or full-time. You control when and how much."
-        />
-        <PartnerBenefitCard
-          client:visible
-          iconName="shield-check"
-          iconColor="text-[#F5A6BF]"
-          headline="Verified travelers only"
-          description="ID checks, reviews, and in-app chat before you share contact details. Safety first."
-        />
-        <PartnerBenefitCard
-          client:visible
-          iconName="message-circle-heart"
-          iconColor="text-[#9B8FD9]"
-          headline="Community support"
-          description="Join Bangkok companions sharing tips, safety wins, and real earnings stories."
-        />
-      </div>
+    <section class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <GlassCard className="p-8 !bg-white/5" client:visible>
+        <Map className="text-tirak-pink mb-5" size={32} client:load />
+        <h2 class="text-xl font-bold text-white mb-3">Experience first</h2>
+        <p class="text-gray-300">Every booking begins with an activity, route, duration, meeting point, and inclusions.</p>
+      </GlassCard>
+      <GlassCard className="p-8 !bg-white/5" client:visible>
+        <CalendarCheck className="text-tirak-pink mb-5" size={32} client:load />
+        <h2 class="text-xl font-bold text-white mb-3">Confirm before payment</h2>
+        <p class="text-gray-300">A local guide confirms the requested itinerary and date before checkout becomes available.</p>
+      </GlassCard>
+      <GlassCard className="p-8 !bg-white/5" client:visible>
+        <ShieldCheck className="text-tirak-pink mb-5" size={32} client:load />
+        <h2 class="text-xl font-bold text-white mb-3">Accountable travel</h2>
+        <p class="text-gray-300">Credentials, booking records, logistics chat, reporting, support, and service reviews stay tied to the activity.</p>
+      </GlassCard>
     </section>
 
-    <!-- How It Works -->
-    <section class="space-y-8">
-      <h2 class="text-3xl font-bold text-center text-white">How it works</h2>
-      <div class="max-w-2xl mx-auto">
-        <GlassCard className="p-8 !bg-white/5" client:visible>
-          <OnboardingStep client:visible stepNumber={1} title="Apply" description="Fill out your companion application in about 5 minutes. Tell us about you and the Bangkok you love." />
-          <OnboardingStep client:visible stepNumber={2} title="Get approved" description="We review and approve you same-day. No months-long black boxes." />
-          <OnboardingStep client:visible stepNumber={3} title="Set your profile" description="Set your rates, availability, and the vibe you want to share. Use real photos, not stock shots." />
-          <OnboardingStep client:visible stepNumber={4} title="Go live" description="Travelers can find you instantly. You choose which bookings to accept." />
-          <OnboardingStep client:visible stepNumber={5} title="Earn and build community" description="Host experiences, get paid fast, and join a network of companions doing the same." isLast={true} />
-        </GlassCard>
-      </div>
-    </section>
-
-    <!-- CTA -->
     <section class="text-center py-12">
       <GlassCard className="p-12 !bg-gradient-to-br !from-[#F5A6BF]/10 !to-[#9B8FD9]/10" client:visible>
-        <h2 class="text-3xl font-bold text-white mb-4">Ready to earn on your own terms?</h2>
-        <p class="text-gray-300 text-lg mb-6 max-w-xl mx-auto">
-          Browse the wiki to learn how Tirak treats companions fairly, keeps travelers safe, and builds a community around authentic Thai culture.
+        <h2 class="text-3xl font-bold text-white mb-4">One release question</h2>
+        <p class="text-gray-300 text-lg mb-6 max-w-2xl mx-auto">
+          Which named guided experience is the traveler buying? Every screen and sentence must answer that clearly.
         </p>
-        <a href="/docs/01-introduction/welcome" class="inline-flex items-center gap-2 bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-tirak-purple/20 text-lg">
-          Explore the wiki
+        <a href="/docs/02-foundation/product-overview" class="inline-flex items-center gap-2 bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-tirak-purple/20 text-lg">
+          Open the current product overview
         </a>
       </GlassCard>
     </section>

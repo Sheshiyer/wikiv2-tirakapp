@@ -2,10 +2,11 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { GlassCard } from '../../../components/GlassCard';
 import { getCollection } from 'astro:content';
+import { isApprovedDocId } from '../../../lib/approved-docs.mjs';
 
 const allDocs = await getCollection('docs');
 const sectionDocs = allDocs
-  .filter(doc => doc.data.category === 'resources')
+  .filter(doc => doc.data.category === 'resources' && isApprovedDocId(doc.slug))
   .sort((a, b) => (a.data.order || 99) - (b.data.order || 99));
 ---
 

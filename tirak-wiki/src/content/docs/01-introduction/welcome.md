@@ -1,73 +1,48 @@
 ---
 title: Welcome to Tirak Wiki
-description: Project Overview & Campaign Orchestration
+description: Current product contract and documentation map for Tirak.
 category: introduction
 order: 1
 icon: home
-lastUpdated: 2026-01-22
+lastUpdated: 2026-07-18
 ---
 
 # Welcome to Tirak Wiki
 
-This wiki serves as the central source of truth for the **Tirak Dream Journeys** campaign. It documents the product foundation, audience personas, and campaign execution strategy for a companion-first travel marketplace in Thailand.
+This wiki is the product source of truth for **Tirak**, a marketplace for discovering and booking named, itinerary-based guided travel experiences in Thailand.
 
-## Project Overview
+## Current Product Contract
 
-**Tirak** is a travel companion platform that connects travelers with verified Thai locals who share authentic cultural experiences. Unlike traditional tour platforms, Tirak focuses on **human connection**, **fair earnings for locals** (80-85% take-home), and **vibe-based matching**.
+Tirak sells a defined travel service: an experience with a title, category, itinerary, meeting point, date, duration, inclusions, exclusions, total price, cancellation terms, and an accountable local guide.
 
-### Core Philosophy
-> **"Supply Creates Demand"**
-> We build the companion community first. 80% of our focus is on acquiring and empowering Thai companions. Travelers follow where the authentic locals are.
+The main Tirak app does **not** offer dating, companionship, escort, adult, romantic matching, social discovery, or payment for a person's time or company. The retired `Private` category is not part of the product taxonomy and must not appear in app navigation, listings, campaigns, screenshots, metadata, notifications, or review notes.
 
-## Wiki Structure
+The product flow is:
 
-This wiki is organized into 5 layers:
+1. Browse named guided experiences.
+2. Review the itinerary, inclusions, location, duration, price, and guide credentials.
+3. Request a specific date and start time.
+4. Wait for the guide to confirm availability for that itinerary.
+5. Pay Tirak for the confirmed real-world travel experience.
+6. Use booking-scoped chat only for meeting-point and itinerary logistics.
+7. Complete the experience, then review the delivered travel service.
 
-### 1. Introduction (You are here)
-- **Welcome**: Overview and structure.
-- **Brand Guidelines**: Design system, colors, and voice.
+## Language Rule
 
-### 2. Foundation
-- **Product Overview**: What Tirak is and how it works.
-- **Positioning**: Unique value proposition and market fit.
-- **Competitive Landscape**: Analysis of Withlocals, ToursByLocals, etc.
-- **Messaging Framework**: Key messages for supply and demand sides.
+Use **traveler**, **local guide**, **guided experience**, **itinerary**, **experience price**, and **booking**. The purchasable unit is always the experience. A profile provides trust and credentials; it is never the product itself.
 
-### 3. Audience
-- **Companion Persona**: Detailed profile of our primary supply-side audience.
-- **Traveler Persona**: Profile of our secondary demand-side audience.
-- **Voice & Tone**: How we speak to each audience.
+Do not describe Tirak as selling connection, friendship, company, chemistry, a vibe, a hangout, a date, or access to a person. Do not use “available now” person discovery, hourly-person rates, pre-booking chat, or direct-cash instructions.
 
-### 4. Campaign
-- **Pre-Launch Ads**: Facebook/Instagram ad copy and creative direction.
-- **Email Sequences**: Nurture flows for companions.
-- **Social Calendar**: 30-day organic content strategy.
-- **Welcome Series**: Onboarding emails for new signups.
+## Documentation Status
 
-### 5. Resources
-- **FAQ**: Handling objections from companions and travelers.
-- **Glossary**: Key terms and definitions.
+The documents under **Introduction** and **Foundation** dated 2026-07-18 define the current product. Older audience and generated campaign documents were created for a retired product direction. They are historical inputs only and are not approved for publication, app copy, advertising, screenshots, notifications, email, or App Store review material until regenerated against the current contract.
 
-## Tech Stack
+## Current Foundation
 
-This wiki is built with:
-- **Astro**: For static site generation and performance.
-- **React**: For interactive components.
-- **Tailwind CSS**: For utility-first styling.
-- **Framer Motion**: For glassmorphism animations.
-- **Zod**: For content validation.
-
-## Quick Links
-
-- [Brand Guidelines](/docs/01-introduction/brand-guidelines)
+- [Product Overview](/docs/02-foundation/product-overview)
+- [Product Positioning](/docs/02-foundation/positioning)
 - [Messaging Framework](/docs/02-foundation/messaging-framework)
-- [Companion Persona](/docs/03-audience/companion-persona)
-- [Pre-Launch Ads](/docs/04-campaign/pre-launch-ads)
 
----
+## Release Principle
 
-## For Our Partners
-
-Interested in joining the Tirak Dream Journeys partner network? Learn how you can list your experiences and keep **80–85% of every booking**.
-
-[**Explore partnership opportunities →**](/docs/06-vendor-pipeline/pipeline-overview)
+Every release artifact must answer one question consistently: **Which named guided experience is the traveler buying?** If a screen or sentence instead makes the answer “time with this person,” it is outside the Tirak product contract.

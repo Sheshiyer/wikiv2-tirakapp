@@ -1,14 +1,12 @@
 import React, { useState } from 'react';
-import { Menu, X, Home, Book, Users, Megaphone, FolderOpen, HeartHandshake } from 'lucide-react';
+import { Menu, X, Home, Book, Map, MessageSquareText } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const navItems = [
   { name: 'Welcome', href: '/docs/01-introduction/welcome', icon: Home },
-  { name: 'About Tirak', href: '/docs/02-foundation/positioning', icon: Book },
-  { name: 'Your Customers', href: '/docs/03-audience/companion-persona', icon: Users },
-  { name: 'Marketing Hub', href: '/docs/04-campaign/pre-launch-ads', icon: Megaphone },
-  { name: 'Resources', href: '/docs/05-resources/faq', icon: FolderOpen },
-  { name: 'Partner Portal', href: '/docs/06-vendor-pipeline', icon: HeartHandshake },
+  { name: 'Product', href: '/docs/02-foundation/product-overview', icon: Map },
+  { name: 'Positioning', href: '/docs/02-foundation/positioning', icon: Book },
+  { name: 'Language', href: '/docs/02-foundation/messaging-framework', icon: MessageSquareText },
 ];
 
 export const Navigation = () => {

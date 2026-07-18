@@ -2,23 +2,17 @@
 import BaseLayout from './BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { GlassCard } from '../components/GlassCard';
+import { isApprovedDocId } from '../lib/approved-docs.mjs';
 
 const { title, frontmatter } = Astro.props;
 const currentTitle = title || frontmatter?.title || 'Documentation';
 const currentSlug = frontmatter?.slug || '';
 
-const allDocs = await getCollection('docs');
+const allDocs = (await getCollection('docs')).filter(doc => isApprovedDocId(doc.slug));
 
 const categories = [
   { id: 'introduction', label: 'Welcome' },
   { id: 'foundation', label: 'About Tirak' },
-  { id: 'audience', label: 'Your Customers' },
-  { id: 'vendor-onboarding', label: 'Partner Onboarding' },
-  { id: 'vendor-directory', label: 'Partner Network' },
-  { id: 'partner-resources', label: 'Partner Resources' },
-  { id: 'campaign', label: 'Marketing Hub' },
-  { id: 'resources', label: 'Resources' },
-  { id: 'vendor-pipeline', label: 'Partner Portal' },
 ];
 
 const groupedDocs = categories.map(cat => ({

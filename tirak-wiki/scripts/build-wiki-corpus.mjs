@@ -1,6 +1,8 @@
 import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
+import { isApprovedDocId } from '../src/lib/approved-docs.mjs';
+
 const docsRoot = path.resolve('src/content/docs');
 const outDir = path.resolve('workers/rag/data');
 const outFile = path.join(outDir, 'wiki-corpus.json');
@@ -10,10 +12,15 @@ async function main() {
   const docs = [];
 
   for (const file of files) {
-    const raw = await readFile(file, 'utf8');
-    const parsed = parseFrontmatter(raw);
     const relativePath = path.relative(docsRoot, file).replaceAll(path.sep, '/');
     const slug = relativePath.replace(/\.(md|mdx)$/i, '');
+
+    if (!isApprovedDocId(slug)) {
+      continue;
+    }
+
+    const raw = await readFile(file, 'utf8');
+    const parsed = parseFrontmatter(raw);
 
     docs.push({
       slug,

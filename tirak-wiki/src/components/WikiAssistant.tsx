@@ -32,7 +32,7 @@ const responseModes = [
 
 const promptSuggestions = [
   'Tell me about Tirak.',
-  'How do I start as a companion?',
+  'How does an experience become bookable?',
   'What makes Tirak different from other platforms?',
 ];
 
@@ -206,7 +206,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
             <div className="flex items-center justify-between gap-3">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-400">Conversation</p>
-                <p className="mt-1 text-sm text-gray-500">Ask anything about the current doc, product context, or companion guidance.</p>
+                <p className="mt-1 text-sm text-gray-500">Ask about the current product contract, booking flow, or approved language.</p>
               </div>
               <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-xs text-gray-300">
                 <span className={cn('h-2 w-2 rounded-full', configMissing ? 'bg-amber-400' : 'bg-emerald-400')} />
@@ -293,7 +293,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
                 onChange={(event) => setQuery(event.target.value)}
                 rows={3}
                 autoFocus
-                placeholder="Ask about companion onboarding, messaging, positioning, or any page-specific detail."
+                placeholder="Ask about experience listings, booking flow, positioning, or approved language."
                 disabled={inputDisabled}
                 className="pointer-events-auto w-full rounded-2xl border border-white/10 bg-[#17171d] px-4 py-4 text-sm text-white outline-none transition focus:border-[#9B8FD9] disabled:cursor-not-allowed disabled:opacity-50"
               />
