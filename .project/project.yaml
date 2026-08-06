@@ -1,6 +1,6 @@
 schema_version: 1
 packet_status: draft-held
-project_id: wikiv2-tirakapp
+project_id: tirak.tirakwiki.wikiv2-tirakapp
 identity_status: pending-teamforge-verification
 portfolio: thoughtseed
 repository: wikiv2-tirakapp
