@@ -191,7 +191,7 @@ Refresh the Tirak Astro wiki's CodeGraph index, diagnose and repair the LLM chat
 
 ## Verification
 
-- ISC-1: `codegraph index /Volumes/madara/2026/twc-vault/01-Projects/thoughtseed/Tirak/tirakwiki/wikiv2-tirakapp` completed; status reports 31,213 files indexed.
+- ISC-1: `codegraph index /Volumes/madara/2026/Projects/thoughtseed/tirak/tirakwiki/wikiv2-tirakapp` completed; status reports 31,213 files indexed.
 - ISC-2: `codegraph_search WikiAssistant` returned `tirak-wiki/src/components/WikiAssistant.tsx` and related symbols.
 - ISC-3: Component definition located at `tirak-wiki/src/components/WikiAssistant.tsx:39`.
 - ISC-4: Search returned 5 legitimate symbols (component, props, file, handler, import); no duplicates.
