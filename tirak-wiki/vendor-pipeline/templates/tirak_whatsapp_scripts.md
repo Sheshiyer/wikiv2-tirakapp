@@ -16,9 +16,9 @@ Hi [Vendor Name] team! 👋
 
 Quick message — I'm from Tirak Dream Journeys (tirak.app). We're building Thailand's largest travel marketplace and we spotted your business.
 
-We connect travelers directly with Thai businesses like yours. The difference? You keep 80-85% of every booking (not 60-70% like other platforms), and there's same-day approval — no weeks of paperwork.
+We connect travelers directly with Thai businesses like yours. The difference? Founding partners pay 0% commission until 7 March 2027, and during our soft launch travelers pay you in cash at the meeting point.
 
-We already have 600+ Thai vendors across all tourism categories. Would love to chat about getting [Vendor Name] listed.
+We're launching small and invite-led in Bangkok. Would love to chat about getting [Vendor Name] on board.
 
 Worth a 5-minute conversation?
 ```
@@ -38,8 +38,8 @@ Thought I'd share: food is the #1 reason travelers visit Thailand, and we have t
 Tirak vs. other platforms:
 ✅ 15-20% commission (vs 25-30% on Cookly)
 ✅ You set your own prices & schedule
-✅ Same-day approval (no 3-month wait)
-✅ 24-48 hour payouts
+✅ 0% commission for founding partners until 7 March 2027
+✅ Paid in cash at the meeting point
 
 Just reply "interested" and I'll send you the quick setup link. Takes 10 minutes.
 ```
@@ -52,7 +52,7 @@ Bangkok's nightlife is world-famous but travelers are overwhelmed by choices. Th
 
 Tirak puts YOUR venue in front of travelers who specifically want hidden gems, rooftop cocktails, and live music.
 ✅ 80-85% of booking goes to you
-✅ Same-day listing, no approval wait
+✅ 0% commission for founding partners until 7 March 2027
 ✅ Promote special events directly to travelers
 
 Just reply "interested" — setup takes 10 minutes.
@@ -66,7 +66,7 @@ Every empty seat on a van, bus, or ferry is lost revenue. We have travelers land
 
 Tirak puts your service in front of them at the exact moment they need it.
 ✅ 80-85% of each booking is yours
-✅ Instant listing — go live today
+✅ Simple application + ID check
 ✅ Travelers can bundle transport with experiences
 
 Reply "interested" and I'll send the quick setup link.
@@ -83,7 +83,7 @@ Tirak positions you as the authentic local operator:
 ✅ Set your own pricing (charge premium for weekends)
 ✅ Featured to adventure-seeking digital nomads
 
-Reply "interested" — 10-minute setup, live same day.
+Reply "interested" — 10-minute application, 0% commission for founding partners.
 ```
 
 ### For Wellness & Spa:
@@ -95,7 +95,7 @@ Thailand is the world's wellness capital. Yoga retreats, Thai massage, detox pro
 Tirak connects you with high-intent wellness travelers who are ready to book:
 ✅ 80-85% of booking goes to you
 ✅ List sessions, packages, and retreats
-✅ Same-day approval, no photo audits
+✅ 0% commission for founding partners until 7 March 2027
 
 Reply "interested" for the quick setup link.
 ```
@@ -111,7 +111,7 @@ Tirak features YOUR unique property to travelers who specifically want boutique/
 ✅ Bundle accommodation with local experiences
 ✅ Reach travelers who choose personality over chain
 
-Reply "interested" — 10 minutes to go live.
+Reply "interested" — the application takes 10 minutes.
 ```
 
 ### For MICE & Events:
@@ -137,7 +137,7 @@ Hey! Following up 😊
 Tirak is where they search for lifestyle services:
 ✅ Keep 80-85% of each booking
 ✅ Reach travelers staying 1-6 months
-✅ Same-day listing, fast payouts
+✅ 0% commission for founding partners until 7 March 2027
 
 Reply "interested" for the setup link.
 ```
@@ -151,7 +151,7 @@ Not every traveler wants temples. Many are looking for entertainment — escape 
 Tirak surfaces your venue to travelers actively searching for fun:
 ✅ 80-85% of bookings
 ✅ List multiple activities under one profile
-✅ Same-day approval, no bureaucratic hoops
+✅ 0% commission for founding partners until 7 March 2027
 
 Reply "interested" — live in 10 minutes.
 ```
@@ -165,9 +165,9 @@ As a DMC, you're already running the operations. Tirak simply opens a new channe
 No group tour aggregation, no race-to-the-bottom pricing:
 ✅ Keep 80-85% of every booking
 ✅ Your rates, your availability
-✅ 153 DMCs already in our network
+✅ Launching small and invite-led in Bangkok
 
-Reply "interested" — same-day listing, 10-minute setup.
+Reply "interested" — 10-minute application, 0% commission for founding partners.
 ```
 
 ---
@@ -181,7 +181,7 @@ Hi [Vendor Name]! Last message from me — promise 😊
 
 Just wanted to share: [X] other [category] businesses in Thailand are already listed on Tirak and receiving bookings from international travelers.
 
-The signup takes literally 10 minutes and you can go live same day. No commitment, no exclusivity — you can list on multiple platforms.
+The signup takes about 10 minutes, then the Tirak team checks your ID. No commitment, no exclusivity — you can list on multiple platforms.
 
 If it's not the right time, totally understand. But if you ever want to check it out: tirak.app/partners
 

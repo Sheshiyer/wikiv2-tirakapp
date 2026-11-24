@@ -12,15 +12,15 @@ lastUpdated: 2026-01-22
 
 **Purpose:** This document serves as the master reference for all copywriting, advertising, email campaigns, social content, and PR materials. Every piece of marketing must align with the messaging framework defined here.
 
-**Priority:** 80% Companion (Supply-Side) / 20% Traveler (Demand-Side)  
-**Philosophy:** Supply Creates Demand - Build companion community first, travelers follow
+**Priority:** 80% Local Guide (Supply-Side) / 20% Traveler (Demand-Side)  
+**Philosophy:** Supply Creates Demand - Build local guide community first, travelers follow
 
 ---
 
 ## 1. Product Pitch (Hero Description)
 
 ### 30-Second Elevator Pitch
-Tirak is a travel companion platform that connects travelers with verified Thai locals who share authentic cultural experiences—not scripted tours, but genuine hangouts. Companions set their own rates, keep 80-85% of earnings (vs. 30-40% industry standard), and showcase their unique personalities. Travelers discover hidden gems through locals who actually vibe with their interests. It's like Airbnb for human connection, not just accommodations.
+Tirak is a local guide platform that connects travelers with verified Thai locals who share authentic cultural experiences—not scripted tours, but genuine experiences. Local Guides set their own rates, keep 80-85% of earnings (vs. 30-40% industry standard), and showcase their unique personalities. Travelers discover hidden gems through locals who actually vibe with their interests. It's like Airbnb for human connection, not just accommodations.
 
 ### One-Liner
 "Not a tour. A vibe."
@@ -29,38 +29,38 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - **Primary:** "Bangkok through the eyes of someone who actually lives here."
 - **Supply-Side:** "Your city, your way, your earnings."
 - **Demand-Side:** "Real people. Real Bangkok. Real connections."
-- **Brand Mantra:** "Travel companions, not tour guides."
+- **Brand Mantra:** "Local Guides, not tour guides."
 
 ### 10-Second Hook (Social Media)
-"Tired of 30% commissions? Tirak lets you keep 80-85% of your earnings showing travelers the real Bangkok. Same-day approval. No DSLR photoshoot required. Start today."
+"Tired of 30% commissions? Founding guides on Tirak pay 0% commission until 7 March 2027 for showing travelers the real Bangkok. ID check by our team. No DSLR photoshoot required."
 
 ### 60-Second Deep Pitch (Investor/Press)
-"Tirak is a two-sided marketplace solving a $12B problem: authentic local connection. On one side, Thai locals want to monetize their cultural knowledge but existing platforms (Withlocals, ToursByLocals) take exploitative 30-40% commissions and require months-long approval processes. On the other side, travelers—especially digital nomads—crave authentic experiences but face choice overload on Reddit or safety risks with unverified meetups. Tirak's solution: 15-20% commission (vs. 30-40%), same-day onboarding (vs. 2-6 months), and vibe-based matching. We're companion-first: 80% of marketing spend goes to supply acquisition because supply creates demand. Bangkok launch, Southeast Asia expansion, targeting 1,000 companions and 10,000 bookings in year one."
+"Tirak is a two-sided marketplace solving a $12B problem: authentic local connection. On one side, Thai locals want to monetize their cultural knowledge but existing platforms (Withlocals, ToursByLocals) take exploitative 30-40% commissions and require months-long approval processes. On the other side, travelers—especially digital nomads—crave authentic experiences but face choice overload on Reddit or safety risks with unverified meetups. Tirak's solution: 15-20% commission (vs. 30-40%), simple onboarding with an ID check (vs. 2-6 month approvals), and vibe-based matching. We're guide-first: 80% of marketing spend goes to supply acquisition because supply creates demand. Bangkok launch, Southeast Asia expansion, targeting 1,000 local guides and 10,000 bookings in year one."
 
 ---
 
 ## 2. Features & Benefits (Detailed List)
 
-### For Companions (Supply-Side Focus - 80%)
+### For Local Guides (Supply-Side Focus - 80%)
 
 | Feature | Benefit | Why It Matters (Messaging Hook) |
 |---------|---------|----------------------------------|
 | **15-20% Commission (vs. 30-40%)** | Keep ฿80-85 of every ฿100 you earn | "Withlocals takes ฿30. ToursByLocals takes ฿40. Tirak takes ฿15-20. You do the math. More money in your pocket, not theirs." |
 | **Instant Availability Toggle** | Turn bookings on/off with one tap | "Got a full-time job? Work weekends only. On vacation? Toggle off. Free Tuesday? Toggle on. Your schedule, your choice." |
 | **No Professional Photo Requirements** | Start with selfies and authentic pics | "Airbnb rejects hosts for 'non-professional' photos. We celebrate authenticity. Your iPhone selfies at street food stalls? Perfect." |
-| **Fast Onboarding (10 minutes, same-day approval)** | Go live same day, start earning immediately | "Apply at 9am, go live by 5pm. No 3-month wait. No reference letters. No video auditions. Just you, your city, and your personality." |
-| **Dynamic Rate Setting** | Adjust prices anytime (weekday/weekend, short/long, repeat clients) | "Charge ฿2,000 for Saturday night bar crawl, ฿1,200 for Tuesday coffee hangout. Offer ฿200 discount for repeat clients. You control pricing." |
+| **Simple Onboarding (10-minute application + ID check)** | Apply fast; the Tirak team checks your ID before approval | "No reference letters. No video auditions. Just you, your city, and your personality." |
+| **Dynamic Rate Setting** | Adjust prices anytime (weekday/weekend, short/long, repeat clients) | "Charge ฿2,000 for Saturday night bar crawl, ฿1,200 for Tuesday coffee meetup. Offer ฿200 discount for repeat clients. You control pricing." |
 | **Verified Traveler System** | Platform filters out sketchy travelers before they can book | "No more creepy 2am DMs. No sketchy Reddit randos. Every traveler is ID-verified, reviewed, and accountable. Your safety is non-negotiable." |
 | **In-App Messaging** | Communicate safely without giving out personal phone number | "Chat with travelers before booking to confirm vibe. No WhatsApp sharing until you're comfortable. Keep boundaries intact." |
 | **Reputation Building (Reviews & Ratings)** | Every booking builds your credibility and social proof | "Start at zero, build to 4.9 stars with 100+ reviews. Premium travelers seek YOU out. Your reputation = your business asset." |
 | **Earnings Dashboard** | Track income, see booking patterns, forecast monthly earnings | "Know exactly how much you're making. See best-performing experiences. Plan finances with confidence. No guesswork." |
-| **Companion Community (WhatsApp Group)** | Connect with 100+ Bangkok companions, share tips, get support | "You're not alone. Learn from experienced hosts. Share advice. Build friendships. Monthly meetups at co-working spaces." |
-| **Flexible Experience Types** | Coffee hangouts, full-day adventures, nightlife tours, wellness retreats—you choose | "Not locked into 'Temple Tour Template A.' Design experiences that reflect YOUR personality and interests. Be yourself." |
+| **Local Guide Community (WhatsApp Group)** | Connect with 100+ Bangkok guides, share tips, get support | "You're not alone. Learn from experienced hosts. Share advice. Build friendships. Monthly meetups at co-working spaces." |
+| **Flexible Experience Types** | Coffee Meetups, full-day adventures, nightlife tours, wellness retreats—you choose | "Not locked into 'Temple Tour Template A.' Design experiences that reflect YOUR personality and interests. Be yourself." |
 | **No Rigid Scripts** | Spontaneous, authentic interactions (not teleprompter history lectures) | "Other platforms force tour guide scripts. Tirak trusts you to be yourself. Every traveler is different. Adapt, don't recite." |
-| **24-48 Hour Payouts** | Money hits your bank account fast, not weeks later | "Accept booking Monday, get paid Wednesday. No waiting 30 days for payment processing. Cash flow matters." |
+| **Paid in Cash at the Meeting Point** | During the soft launch the traveler pays the guide directly | "No waiting 30 days for payment processing. The traveler pays you in cash when you meet." |
 | **Platform Insurance** | Liability coverage included (no additional cost to you) | "Covered for accidents, injuries, or disputes. You're protected, we handle claims. Focus on hosting, not legal paperwork." |
 | **Multi-City Hosting** | Host in Bangkok, Chiang Mai, Phuket—wherever you travel or move | "Relocating to Chiang Mai? Transfer your reviews and reputation. Start hosting immediately in new city. Geographic flexibility." |
-| **Referral Bonuses** | Earn ฿500 for every new companion you invite who completes 3 bookings | "Know other cool locals? Refer them. Earn passive income when they succeed. Build your network, grow your earnings." |
+| **Referral Bonuses** | Earn ฿500 for every new guide you invite who completes 3 bookings | "Know other cool locals? Refer them. Earn passive income when they succeed. Build your network, grow your earnings." |
 
 ---
 
@@ -68,24 +68,24 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 | Feature | Benefit | Why It Matters (Messaging Hook) |
 |---------|---------|----------------------------------|
-| **Vibe-Based Matching** | Filter companions by interests (food, nightlife, wellness, adventure, culture) and personality | "Skip generic 'food tour' or 'temple tour' labels. Find someone whose vibe matches yours—foodie night owl? Wellness enthusiast? Culture nerd?" |
-| **Verified Companion Profiles** | See real photos, read reviews, check languages spoken, verify ID before booking | "No random Reddit DMs. No sketchy bar encounters. Every companion is ID-verified with reviews from real travelers. Know who you're meeting." |
+| **Vibe-Based Matching** | Filter local guides by interests (food, nightlife, wellness, adventure, culture) and personality | "Skip generic 'food tour' or 'temple tour' labels. Find someone whose vibe matches yours—foodie night owl? Wellness enthusiast? Culture nerd?" |
+| **Verified Guide Profiles** | See real photos, read reviews, check languages spoken, verify ID before booking | "No random Reddit DMs. No sketchy bar encounters. Every local guide is ID-verified with reviews from real travelers. Know who you're meeting." |
 | **Instant Booking** | Confirm experiences in seconds with one click, no DM negotiations | "See profile. Click book. Confirm. Done. No back-and-forth haggling. No 'let me check my schedule' delays. Instant confirmation." |
-| **Secure In-App Payments** | Pay through platform with credit card, no awkward cash exchanges | "No haggling. No Venmo confusion. No 'I'll pay you later' promises. One-click payment, instant receipt, fully secure." |
-| **Last-Minute Availability** | Book same-day or next-day experiences for spontaneous plans | "Free tonight and want to explore Chinatown? Search companions available NOW. See who's free, book in 30 seconds, meet in an hour." |
+| **Clear Pricing, Cash on Meeting** | The guide's price is shown up front; travelers pay the guide in cash at the meeting point during the soft launch | "No haggling. The price is agreed before you meet." |
+| **Last-Minute Availability** | Book same-day or next-day experiences for spontaneous plans | "Free tonight and want to explore Chinatown? Search local guides available NOW. See who's free, book in 30 seconds, meet in an hour." |
 | **Transparent Pricing** | See exact cost upfront, no hidden fees, no surprise markups | "฿1,800 for 4-hour food tour. That's it. No service fees, no processing charges, no tipping pressure (optional). What you see = what you pay." |
-| **Custom Experience Requests** | Message companions to customize itinerary before booking | "Want to skip temples and focus on street food + nightlife? Message before booking. Companions adapt to YOUR interests, not force rigid itinerary." |
+| **Custom Experience Requests** | Message local guides to customize itinerary before booking | "Want to skip temples and focus on street food + nightlife? Message before booking. Local Guides adapt to YOUR interests, not force rigid itinerary." |
 | **Emergency Support** | 24/7 in-app support, emergency contact system, GPS tracking (optional) | "Something goes wrong? Hit emergency button. Support responds in minutes. Share GPS with friend for safety. We've got your back." |
-| **Review Accountability** | Both sides leave reviews, no one-sided power dynamic | "Companions review travelers too. Flaky or rude travelers get flagged. Ensures mutual respect and accountability on both sides." |
-| **Repeat Booking Discount** | Book same companion again, get 10% off second experience | "Found a companion you love? Re-book for less. Build ongoing friendship. Loyalty rewards on both sides." |
+| **Review Accountability** | Both sides leave reviews, no one-sided power dynamic | "Local Guides review travelers too. Flaky or rude travelers get flagged. Ensures mutual respect and accountability on both sides." |
+| **Repeat Booking Discount** | Book same local guide again, get 10% off second experience | "Found a local guide you love? Re-book for less. Build ongoing friendship. Loyalty rewards on both sides." |
 | **Multi-City Pass** | Book 3+ experiences across Bangkok/Chiang Mai/Phuket, save 15% | "Planning 2-week Thailand trip? Book experiences in 3 cities, get bulk discount. One platform, multiple cities, seamless travel." |
-| **Instagram-Worthy Guarantee** | Companions know the best photo spots and will help capture moments | "Companions are locals—they know where the light hits perfectly at sunset, the hidden rooftop with skyline views. Get the shot." |
+| **Instagram-Worthy Guarantee** | Local Guides know the best photo spots and will help capture moments | "Local Guides are locals—they know where the light hits perfectly at sunset, the hidden rooftop with skyline views. Get the shot." |
 
 ---
 
 ## 3. Use Cases (Specific Scenes and Contexts)
 
-### Companion Use Cases (Supply-Side)
+### Local Guide Use Cases (Supply-Side)
 
 **Use Case #1: The Weekend Warrior**
 - **Who:** Nok, 27, hotel front desk manager Mon-Fri, wants side income on weekends
@@ -99,7 +99,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 **Use Case #3: The Spontaneous Earner**
 - **Who:** Som, 24, university student with unpredictable schedule
-- **Scenario:** Tuesday afternoon, classes canceled. Som toggles "available today" at 2pm. Gets booking request at 2:30pm for 4pm coffee hangout. Meets traveler at Cafe Ari, earns ฿800 for 2 hours.
+- **Scenario:** Tuesday afternoon, classes canceled. Som toggles "available today" at 2pm. Gets booking request at 2:30pm for 4pm coffee meetup. Meets traveler at Cafe Ari, earns ฿800 for 2 hours.
 - **Messaging Hook:** "Got free time today? Toggle 'available now' and earn money in 2 hours. Perfect for students, freelancers, anyone with flexible schedules."
 
 **Use Case #4: The Niche Expert**
@@ -121,7 +121,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 **Use Case #2: The First-Time Visitor (Orientation Mode)**
 - **Who:** Sarah, 28, first time in Bangkok, overwhelmed by size and chaos
-- **Scenario:** Lands Friday, books Sunday morning "Bangkok 101" with companion Pim. Learns BTS system, where to eat, safety tips, neighborhood recommendations. Feels confident rest of trip.
+- **Scenario:** Lands Friday, books Sunday morning "Bangkok 101" with local guide Pim. Learns BTS system, where to eat, safety tips, neighborhood recommendations. Feels confident rest of trip.
 - **Messaging Hook:** "First time in Bangkok? Get oriented with a local. Learn the city in 3 hours. Avoid rookie mistakes. Start your trip right."
 
 **Use Case #3: The Repeat Visitor (Hidden Gems Mode)**
@@ -136,14 +136,14 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 **Use Case #5: The Corporate Team Retreat**
 - **Who:** Tech startup, 8 employees, team retreat in Bangkok
-- **Scenario:** Book group experience "Bangkok food adventure" with 2 companions. Team bonding through authentic local food exploration (not generic catering).
+- **Scenario:** Book group experience "Bangkok food adventure" with 2 local guides. Team bonding through authentic local food exploration (not generic catering).
 - **Messaging Hook:** "Corporate teams: ditch the boring hotel conference room. Bond over authentic local experiences. We handle group bookings (up to 10 people)."
 
 ---
 
 ## 4. Target Audiences (Demographics & Psychographics)
 
-### Primary Audience: Thai Companions (80% Marketing Focus)
+### Primary Audience: Thai Guides (80% Marketing Focus)
 
 **Core Demographics:**
 - **Age:** 22-35 years old (sweet spot: 25-30)
@@ -163,7 +163,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - **Influencers/Media:** BK Magazine, Bangkok Post Lifestyle, TimeOut Bangkok, Thai lifestyle influencers
 
 **Segmentation (Sub-Personas):**
-1. **The Weekend Warrior** (40% of companions) - Has full-time job, hosts weekends only
+1. **The Weekend Warrior** (40% of local guides) - Has full-time job, hosts weekends only
 2. **The Full-Time Hustler** (15%) - Quit day job, hosts 15-20 experiences/month, earning ฿40K+
 3. **The Student Side-Gig** (25%) - University student, flexible schedule, earns ฿5K-10K/month
 4. **The Niche Expert** (10%) - Specializes in specific interests (art, music, wellness, LGBTQ scene)
@@ -198,15 +198,15 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 ## 5. Value Propositions (Functional, Emotional, Self-Expressive)
 
-### For Companions (Supply-Side)
+### For Local Guides (Supply-Side)
 
 **Functional Value (Practical Benefits):**
 - Earn ฿8,000-15,000/month side income (or ฿40K+ full-time)
 - Keep 80-85% of earnings vs. 60-70% on competitors
-- Start earning same day (not 2-6 months later)
+- Founding guides pay 0% commission until 7 March 2027
 - Control your schedule (instant on/off toggle)
 - Set your own prices (no platform-imposed tiers)
-- Payments in 24-48 hours (not 30 days)
+- Paid in cash at the meeting point (not 30 days later)
 - Build reputation asset that compounds
 - Access to verified, safe travelers only
 
@@ -258,5 +258,5 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 ## 6. Potential Objections (Concerns & Rebuttals)
 
-### Companion Objections
+### Local Guide Objections
 *(See detailed FAQs in section 4 of Positioning document)*

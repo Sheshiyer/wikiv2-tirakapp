@@ -10,15 +10,15 @@ const sectionDocs = allDocs
   .sort((a, b) => (a.data.order || 99) - (b.data.order || 99));
 ---
 
-<BaseLayout title="Partner Portal">
+<BaseLayout title="Guide Portal">
   <div class="space-y-8">
     <section class="text-center space-y-4 py-8 relative overflow-hidden">
       <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-tirak-purple/15 rounded-full blur-[100px] -z-10"></div>
       <h1 class="text-4xl md:text-5xl font-bold">
-        <span class="text-gradient">Partner Portal</span>
+        <span class="text-gradient">Guide Portal</span>
       </h1>
       <p class="text-xl text-gray-300 max-w-2xl mx-auto">
-        Everything you need to join and thrive in the Tirak Dream Journeys partner network
+        Everything you need to join Tirak as a founding local guide in Bangkok
       </p>
     </section>
 
@@ -39,16 +39,10 @@ const sectionDocs = allDocs
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-      <a href="/vendor-directory" class="block group">
-        <GlassCard className="!bg-gradient-to-br !from-[#F5A6BF]/10 !to-transparent" client:visible>
-          <h3 class="text-lg font-bold text-white mb-2 group-hover:text-[#F5A6BF] transition-colors">Browse Partner Directory</h3>
-          <p class="text-gray-400 text-sm">Explore 608+ verified partners across 10 categories</p>
-        </GlassCard>
-      </a>
       <a href="/partner-resources" class="block group">
         <GlassCard className="!bg-gradient-to-br !from-[#9B8FD9]/10 !to-transparent" client:visible>
           <h3 class="text-lg font-bold text-white mb-2 group-hover:text-[#9B8FD9] transition-colors">Download Resources</h3>
-          <p class="text-gray-400 text-sm">Onboarding guide, brand assets, and partner directory</p>
+          <p class="text-gray-400 text-sm">Onboarding guide and brand assets for local guides</p>
         </GlassCard>
       </a>
     </div>

@@ -2,13 +2,13 @@
 title: Detailed Product Description
 ---
 
-**Product Summary**: TIRAK is your ultimate AI-powered lifestyle and travel companion, meticulously crafting hyper-personalized recommendations across nine diverse categories for both individual explorers and those seeking shared experiences. It transforms complex planning into effortless discovery, ensuring every moment is perfectly tailored to your unique desires and context.
+**Product Summary**: TIRAK is your ultimate AI-powered guide to lifestyle and local experiences, meticulously crafting hyper-personalized recommendations across nine diverse categories for both individual explorers and those seeking shared experiences. It transforms complex planning into effortless discovery, ensuring every moment is perfectly tailored to your unique desires and context.
 
 ## Product Specs
 
 **Coverage**: Comprehensive across 9 categories: Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink.
 
-**Persona Adaptability**: Optimized for two distinct personas: 'Companion' (shared experiences, group activities) and 'Traveler' (solo exploration, personal immersion).
+**Persona Adaptability**: Optimized for two distinct personas: 'Local Guide' (shared experiences, group activities) and 'Traveler' (solo exploration, personal immersion).
 
 **Recommendation Engine**: Advanced AI-driven personalization engine, leveraging user preferences, historical interactions, and real-time contextual data.
 
@@ -32,7 +32,7 @@ title: Detailed Product Description
 
 **Function**: Utilizes AI to create unique, multi-day or single-event plans based on user profiles, past activities, and stated preferences.
 
-**Value**: Eliminates planning stress, saves countless hours of research, and ensures every recommendation resonates deeply with the user's specific tastes. For the 'Companion', it crafts perfect dates or group outings; for the 'Traveler', it designs authentic, self-guided explorations.
+**Value**: Eliminates planning stress, saves countless hours of research, and ensures every recommendation resonates deeply with the user's specific tastes. For the 'Local Guide', it crafts perfect dates or group outings; for the 'Traveler', it designs authentic, self-guided explorations.
 
 ---
 
@@ -40,13 +40,13 @@ title: Detailed Product Description
 
 **Function**: Seamlessly weaves together experiences from Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, and Food & Drink into cohesive suggestions.
 
-**Value**: Provides a holistic and enriching experience, catering to diverse interests and moods within a single plan. Whether a 'Companion' wants a cultural day followed by a lively night, or a 'Traveler' seeks adventure balanced with wellness, TIRAK delivers comprehensive solutions.
+**Value**: Provides a holistic and enriching experience, catering to diverse interests and moods within a single plan. Whether a 'Local Guide' wants a cultural day followed by a lively night, or a 'Traveler' seeks adventure balanced with wellness, TIRAK delivers comprehensive solutions.
 
 ---
 
-**Feature Name**: Dual-Persona Optimization (Companion & Traveler)
+**Feature Name**: Dual-Persona Optimization (Local Guide & Traveler)
 
-**Function**: Intelligently adapts recommendations to suit either shared experiences (Companion) or individual exploration (Traveler) contexts.
+**Function**: Intelligently adapts recommendations to suit either shared experiences (Local Guide) or individual exploration (Traveler) contexts.
 
 **Value**: Ensures highly relevant and fulfilling suggestions, whether you're planning a romantic getaway, a family adventure, or a solo journey of self-discovery. It understands the subtle differences in needs, from intimate dining for two to bustling local markets for one.
 
@@ -64,7 +64,7 @@ title: Detailed Product Description
 
 **Function**: Accesses a rich database of insider tips, lesser-known spots, and authentic local experiences often missed by standard guides.
 
-**Value**: Transforms ordinary trips into extraordinary adventures, connecting users with the true essence of a destination. 'Travelers' discover authentic culture, while 'Companions' find unique, memorable spots away from tourist traps.
+**Value**: Transforms ordinary trips into extraordinary adventures, connecting users with the true essence of a destination. 'Travelers' discover authentic culture, while 'Local Guides' find unique, memorable spots away from tourist traps.
 
 ---
 
@@ -95,14 +95,14 @@ title: Detailed Product Description
 
 ## Step By Step Usage
 
-- **Step 1: Define Your Adventure & Persona:** Begin by selecting your desired destination (or 'local exploration'), the categories you're interested in (or 'all nine'), and crucially, your persona: 'Companion' for shared experiences, or 'Traveler' for solo discovery.
+- **Step 1: Define Your Adventure & Persona:** Begin by selecting your desired destination (or 'local exploration'), the categories you're interested in (or 'all nine'), and crucially, your persona: 'Local Guide' for shared experiences, or 'Traveler' for solo discovery.
 - **Step 2: Refine Your Preferences:** Input additional details like your budget tier (e.g., 'lean'), preferred dates/times, specific interests (e.g., 'vegan food,' 'historic art,' 'extreme sports'), and any accessibility requirements.
 - **Step 3: Receive Your Tailored Recommendations:** TIRAK's AI engine instantly generates a comprehensive list of suggestions or a full itinerary, thoughtfully integrating all nine categories and optimizing for your chosen persona and preferences.
-- **Step 4: Explore & Customize:** Browse through the recommendations, which might include anything from a 'Companion's romantic evening combining a cultural show and fine dining, to a 'Traveler's solo adventure featuring a morning hike, an authentic local lunch, and an independent cinema visit. Use filters to adjust, swap activities, or request alternatives.
+- **Step 4: Explore & Customize:** Browse through the recommendations, which might include anything from a 'Local Guide's romantic evening combining a cultural show and fine dining, to a 'Traveler's solo adventure featuring a morning hike, an authentic local lunch, and an independent cinema visit. Use filters to adjust, swap activities, or request alternatives.
 - **Step 5: Act & Enjoy:** Utilize the detailed information provided, including direct links for bookings, navigation, and practical tips, to seamlessly execute your plan. Embark on your adventure with confidence, knowing every detail has been considered.
 - **Step 6: Provide Feedback & Evolve:** After your experience, offer feedback on the recommendations. This allows TIRAK to learn and become even more precise, ensuring future suggestions are perfectly aligned with your evolving tastes and needs.
 
-**Emotional Practical Summary**: TIRAK isn't just a recommendation engine; it's your personal curator of unforgettable moments. Emotionally, it liberates you from decision fatigue, ignites a sense of discovery, and fosters deeper connections, whether with a loved one as a 'Companion' or with yourself and the world as a 'Traveler'. Imagine the joy of spontaneously finding the perfect hidden gem, the thrill of an unexpected adventure, or the serene peace of a perfectly planned wellness retreat – all effortlessly delivered. Practically, TIRAK saves you invaluable time and money, especially with its 'lean' budget optimization, by providing hyper-personalized, real-time, and comprehensive itineraries across all nine categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink). It's the assurance that every outing, every trip, will be not just good, but truly exceptional, perfectly aligned with your desires and designed for maximum impact and enjoyment.
+**Emotional Practical Summary**: TIRAK isn't just a recommendation engine; it's your personal curator of unforgettable moments. Emotionally, it liberates you from decision fatigue, ignites a sense of discovery, and fosters deeper connections, whether with a loved one as a 'Local Guide' or with yourself and the world as a 'Traveler'. Imagine the joy of spontaneously finding the perfect hidden gem, the thrill of an unexpected adventure, or the serene peace of a perfectly planned wellness retreat – all effortlessly delivered. Practically, TIRAK saves you invaluable time and money, especially with its 'lean' budget optimization, by providing hyper-personalized, real-time, and comprehensive itineraries across all nine categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink). It's the assurance that every outing, every trip, will be not just good, but truly exceptional, perfectly aligned with your desires and designed for maximum impact and enjoyment.
 
 ---
 
@@ -110,5 +110,5 @@ title: Detailed Product Description
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 

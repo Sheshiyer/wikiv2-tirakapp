@@ -1,15 +1,15 @@
 ---
-title: "Partner Communications"
-description: "How Tirak communicates with partners throughout the onboarding journey"
+title: "Guide Communications"
+description: "How Tirak communicates with local guides throughout onboarding"
 category: "vendor-pipeline"
 order: 3
 icon: "message-circle"
-tags: ["communications", "support", "onboarding", "partners"]
+tags: ["communications", "support", "onboarding", "local guides"]
 ---
 
-# Partner Communications
+# Guide Communications
 
-At Tirak Dream Journeys, we believe in clear, respectful communication. Here's how we stay connected with our partners throughout your journey with us.
+At Tirak Dream Journeys, we believe in clear, respectful communication. Here's how we stay connected with our local guides throughout your journey with us.
 
 ## Communication Channels
 
@@ -17,65 +17,64 @@ At Tirak Dream Journeys, we believe in clear, respectful communication. Here's h
 Our primary channels for quick, personal communication. Message us anytime for:
 - Onboarding questions
 - Listing support
-- Booking inquiries
+- Booking requests
 - Technical help
 
 ### Email
 For formal communications, documentation, and partnership updates:
-- **partners@tirak.app** — general partner inquiries
+- **partners@tirak.app** — general guide inquiries
 - **support@tirak.app** — technical support
 
-### Partner Dashboard
+### The Tirak App
 Your self-service hub for:
-- Viewing and managing bookings
-- Updating listings and availability
-- Tracking earnings and payouts
-- Accessing reports and analytics
+- Viewing and responding to booking requests
+- Updating your profile, price, and availability
+- Chatting with travelers before you meet
 
 ## What to Expect During Onboarding
 
 ### Day 1: Welcome
-After approval, you'll receive:
-- Welcome message with your partner dashboard access
-- Getting-started guide with profile setup tips
-- Introduction to your partnerships contact
+After your ID check and approval, you'll receive:
+- A welcome message from the Tirak team
+- A getting-started guide with profile tips
+- An invite to the founding guide group
 
 ### Days 2–3: Profile Setup
 We'll help you with:
-- Optimizing your experience descriptions
-- Photo recommendations for maximum impact
-- Pricing strategy guidance based on your category
+- Writing experience descriptions travelers love
+- Choosing real photos that show your vibe
+- Pricing guidance for your experiences
 
-### Day 4–7: Go Live
+### Going Live
 Once your profile is complete:
 - Final review by our team
-- Listing goes live on the platform
-- You'll receive confirmation with your public profile link
+- Your profile becomes visible to invited travelers
+- You'll receive a confirmation message
 
 ### Ongoing Support
 After launch, we stay in touch with:
-- Monthly performance summaries
-- Seasonal promotion opportunities
+- Check-ins from the founding team
+- Updates on new traveler invite waves
 - Platform updates and new features
-- Category-specific tips and insights
+- Tips from other founding guides
 
 ## Our Communication Promise
 
-- **Respond within 24 hours** to all partner inquiries
+- **Reply as fast as we can** — we're a small, founder-led team
 - **No spam** — we only reach out when it matters
 - **Your language** — support in Thai and English
-- **Transparent** — no hidden fees, no surprise policy changes
+- **Transparent** — founding guides pay 0% commission until 7 March 2027, and we'll announce any change well in advance
 
 ## Frequently Asked Questions
 
 **How quickly will I hear back?**
-We aim to respond to all messages within 24 hours, though most WhatsApp/LINE messages are answered within a few hours.
+We check messages several times a day, and most WhatsApp/LINE messages are answered within a few hours.
 
 **Can I opt out of marketing communications?**
-Absolutely. Essential communications (booking confirmations, payout notifications) are always sent, but marketing updates are optional.
+Absolutely. Essential communications (booking requests and safety messages) are always sent, but marketing updates are optional.
 
 **Who is my main contact?**
-Every partner is assigned a partnerships contact who understands your business and category.
+During the soft launch, the founding team supports every guide directly.
 
 **What if I have an urgent issue?**
 Flag urgent messages on WhatsApp/LINE and we'll prioritize your request.

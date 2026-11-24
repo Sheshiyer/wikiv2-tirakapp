@@ -8,7 +8,7 @@ const navItems = [
   { name: 'Your Customers', href: '/docs/03-audience/companion-persona', icon: Users },
   { name: 'Marketing Hub', href: '/docs/04-campaign/pre-launch-ads', icon: Megaphone },
   { name: 'Resources', href: '/docs/05-resources/faq', icon: FolderOpen },
-  { name: 'Partner Portal', href: '/docs/06-vendor-pipeline', icon: HeartHandshake },
+  { name: 'Guide Portal', href: '/docs/06-vendor-pipeline', icon: HeartHandshake },
 ];
 
 export const Navigation = () => {

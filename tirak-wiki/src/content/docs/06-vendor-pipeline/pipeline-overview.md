@@ -1,80 +1,69 @@
 ---
-title: "How to Become a Tirak Partner"
-description: "Step-by-step guide to joining the Tirak Dream Journeys partner network"
+title: "How to Become a Tirak Local Guide"
+description: "Step-by-step guide to joining Tirak as a local guide for cultural experiences in Thailand"
 category: "vendor-pipeline"
 order: 1
 icon: "heart-handshake"
-tags: ["onboarding", "partners", "guide"]
+tags: ["onboarding", "local guides", "founding guides"]
 cta_text: "Apply Now"
 cta_url: "https://tirak.app/partners"
 ---
 
-# How to Become a Tirak Partner
+# How to Become a Tirak Local Guide
 
-Join **614+ experience vendors** across Thailand who have already partnered with Tirak Dream Journeys. Our platform connects your business with travelers seeking authentic local experiences — and you keep **80–85% of every booking**.
+Tirak connects travelers with **local guides for cultural experiences in Thailand** — real people who show the Bangkok they actually love. We're starting small and invite-led in Bangkok, and we're looking for our first **founding guides**.
+
+## Founding Guide Program
+
+Founding guides pay **0% commission until 7 March 2027**. You set your price, and during the soft launch the traveler pays you **in cash at the meeting point**. Every baht is yours.
 
 ## Your Onboarding Journey
 
 ### Step 1: Apply
-Visit [tirak.app/partners](https://tirak.app/partners) and complete the partner application. It takes about 5 minutes.
+Visit [tirak.app/partners](https://tirak.app/partners) and complete the guide application. It takes about 5 minutes.
 
-### Step 2: Review
-Our partnerships team reviews your application within 24 hours. We verify your business details, experience offerings, and web presence.
+### Step 2: ID check
+The Tirak team reviews your application and checks your ID before your profile is approved. We'll keep you posted on where you are in the queue.
 
-### Step 3: Set Up Your Profile
-Once approved, you'll create your partner profile:
-- Upload high-quality photos of your experiences
-- Write compelling descriptions that attract travelers
-- Set your own pricing — you have full control
-- Configure your availability and blackout dates
+### Step 3: Set up your profile
+Once approved, you'll build your guide profile:
+- Add real photos (iPhone is fine — no photoshoot needed)
+- Describe the experiences you want to share
+- Set your own price — you have full control
+- Choose when you're available
 
-### Step 4: Go Live
-Your listings go live on the Tirak platform immediately after setup. Travelers across Thailand can now discover and book your experiences.
+### Step 4: Accept requests
+Travelers send booking requests. You choose which ones to accept and agree on a public meeting point.
 
-### Step 5: Earn
-Start receiving bookings and get paid:
-- **80–85% earnings** on every booking (vs. 60–70% on competing platforms)
-- **24–48 hour payouts** via bank transfer
-- Full transparency in your partner dashboard
+### Step 5: Meet and get paid
+- Meet the traveler at a public meeting point
+- The traveler pays you **in cash** at the meeting point (no in-app payments during the soft launch)
+- After the experience, both of you leave a review
 
-## Why Partners Choose Tirak
+## Why Guides Choose Tirak
 
 | What You Get | Details |
 |-------------|---------|
-| **Fair Earnings** | Keep 80–85% of every booking |
-| **Same-Day Approval** | Go live within 24 hours |
-| **No Exclusivity** | Keep your other channels — we complement, not replace |
-| **Full Pricing Control** | You set your own rates |
-| **Marketing Support** | We promote your experiences to qualified travelers |
-| **Growing Network** | 614+ partners across 10 categories |
+| **0% commission** | Founding guides pay no commission until 7 March 2027 |
+| **Paid in cash** | Travelers pay you directly at the meeting point |
+| **ID-checked community** | The Tirak team checks every guide's ID |
+| **No exclusivity** | Keep your other channels — we complement, not replace |
+| **Full pricing control** | You set your own rates |
+| **Your schedule** | Accept only the requests that work for you |
 
-## Partner Categories
+## Experience Categories
 
-We work with vendors across **10 experience categories** spanning Thailand's vibrant tourism economy:
+Guides share experiences across Thailand's culture, including:
 
-1. 🏛️ Leisure & Experience DMCs (153 partners)
-2. 🎪 MICE & Event DMCs (50 partners)
-3. 🚐 Transport & Transfer Services (50 partners)
-4. 🏔️ Adventure & Outdoor Operators (51 partners)
-5. 🍜 Food & Culinary Operators (50 partners)
-6. 💆 Wellness & Spa Services (52 partners)
-7. 🏨 Boutique Hotels & Hostels (50 partners)
-8. 🎵 Nightlife & Entertainment (51 partners)
-9. 🎬 Cinema & Entertainment (50 partners)
-10. ✨ Lifestyle & Experiences (51 partners)
-
-## How Tirak Compares
-
-| Platform | Your Earnings | Tirak Advantage |
-|----------|--------------|-----------------|
-| Withlocals | 70% | **80–85% with Tirak** |
-| ToursByLocals | 60% | **80–85% with Tirak** |
-| Cookly | 70–75% | **80–85% + no exclusivity** |
-| Booking.com | 75–85% | **80–85% + same-day approval** |
-| GetYourGuide | 70–75% | **80–85% + full pricing control** |
+1. 🏛️ Culture & heritage walks
+2. 🍜 Food, markets & street eats
+3. 🌙 Nightlife & live music
+4. 💆 Wellness & slow days
+5. 🏔️ Day trips & outdoor adventures
+6. ✨ Lifestyle, art & local workshops
 
 ## Ready to Get Started?
 
-[**Apply to become a partner →**](https://tirak.app/partners)
+[**Apply to become a founding guide →**](https://tirak.app/partners)
 
-Questions? Reach out via WhatsApp or LINE — our partnerships team is here to help.
+Questions? Reach out via WhatsApp, LINE, or partners@tirak.app — we're here to help.

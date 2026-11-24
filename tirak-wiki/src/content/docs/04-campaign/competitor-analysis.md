@@ -10,7 +10,7 @@ title: Competitor Analysis
 
 **Travelerpersona**: Independent explorers, families, couples seeking curated local experiences, budget-conscious adventurers, luxury seekers. Typically plans ahead but also open to spontaneous bookings. Values convenience, authenticity, and clear information.
 
-**Companionpersona**: Groups organizing activities (friends, corporate teams), individuals looking for social experiences, those seeking shared memories. Prioritizes ease of group booking, varied options to suit different tastes, and reliable execution.
+**Local Guidepersona**: Groups organizing activities (friends, corporate teams), individuals looking for social experiences, those seeking shared memories. Prioritizes ease of group booking, varied options to suit different tastes, and reliable execution.
 
 ## Keyfeaturesandspecs
 
@@ -178,5 +178,5 @@ title: Competitor Analysis
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 
