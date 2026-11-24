@@ -48,10 +48,11 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
   const config = useMemo(() => ({
     endpoint: import.meta.env.PUBLIC_RAG_API_URL ?? '',
     appId: import.meta.env.PUBLIC_RAG_APP_ID ?? 'tirak-wiki',
-    token: import.meta.env.PUBLIC_RAG_TOKEN ?? '',
   }), []);
 
-  const configMissing = !config.endpoint || !config.token;
+  // The browser never holds a RAG secret. The worker authorises public chat by
+  // strict Origin allowlist plus per-IP rate limiting (see workers/rag/README.md).
+  const configMissing = !config.endpoint;
   const submitDisabled = isLoading || !query.trim();
   const inputDisabled = isLoading;
 
@@ -64,7 +65,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
     }
 
     if (configMissing) {
-      setError('The assistant backend is not configured. Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN, then refresh.');
+      setError('The assistant backend is not configured. Set PUBLIC_RAG_API_URL, then refresh.');
       setIsLoading(false);
       return;
     }
@@ -84,7 +85,6 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
         signal: controller.signal,
         headers: {
           'content-type': 'application/json',
-          authorization: `Bearer ${config.token}`,
         },
         body: JSON.stringify({
           appId: config.appId,
@@ -194,7 +194,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
               </div>
               <p className="mt-2">
                 {configMissing
-                  ? 'Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN to enable answers. You can still type a question below; the assistant will explain how to connect the backend.'
+                  ? 'Set PUBLIC_RAG_API_URL to enable answers. You can still type a question below; the assistant will explain how to connect the backend.'
                   : 'Connected to the configured RAG worker and scoped to the current page context.'}
               </p>
             </div>

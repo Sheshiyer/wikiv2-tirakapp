@@ -29,7 +29,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 **Primary Markets:** Bangkok, Chiang Mai, Phuket, Pattaya  
 **Target Launch Geography:** Thailand (Southeast Asia expansion planned)  
 **Revenue Model:** 15-20% commission per booking  
-**Technology:** Mobile-responsive web + native apps (iOS TestFlight, Android APK)
+**Technology:** Native mobile app (Expo SDK 53 / React Native 0.79, app v1.5.5; iOS TestFlight, Android APK) on a Cloudflare Workers API (Hono 4, D1)
 
 ### Key Features
 
@@ -49,7 +49,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Vibe-based matching (filter by interests: food, nightlife, wellness, adventure)
 - Verified companion profiles with real photos and reviews
 - Instant booking (no DM negotiations)
-- Secure in-app payments
+- Secure in-app payments *(status Nov 2026: PromptPay via Omise is built in the backend but switched off by provider policy; no card payments)*
 - Spontaneous discovery (last-minute availability)
 - Transparent pricing (no hidden fees)
 - Safety features (report system, background checks)
@@ -149,13 +149,13 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 **For Companions:**
 - Set your own rates (suggested range: ฿500-2,500/experience)
 - Keep 80-85% of earnings
-- Instant payouts (24-48 hours)
+- Instant payouts (24-48 hours) *(target; payouts are not implemented in the backend yet)*
 - No upfront costs, no monthly fees
 
 **For Travelers:**
 - Pay per experience (range: ฿600-3,000 typical)
 - Transparent pricing (no hidden fees)
-- Secure in-app payments
+- Secure in-app payments *(status Nov 2026: PromptPay via Omise is built in the backend but switched off by provider policy; no card payments)*
 - Instant booking confirmation
 
 **Platform Revenue:**

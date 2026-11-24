@@ -62,9 +62,9 @@ Tirak operates in the **"Authentic Local Connection"** category, positioned betw
 | Attribute | Standard | Tirak Approach |
 |-----------|----------|----------------|
 | **Verified Users** | All platforms verify identities | ✅ ID verification for companions + travelers |
-| **Secure Payments** | In-app payment processing | ✅ Secure in-app payments with instant confirmation |
+| **Secure Payments** | In-app payment processing | ⏳ In-app PromptPay payments via Omise (built, not yet switched on) |
 | **Review System** | 5-star ratings + written feedback | ✅ Review system for both companions and travelers |
-| **Mobile Accessibility** | iOS + Android apps | ✅ Mobile-responsive web + native apps (iOS TestFlight, Android APK) |
+| **Mobile Accessibility** | iOS + Android apps | ✅ Native mobile app (Expo / React Native; iOS TestFlight, Android APK) |
 | **Customer Support** | Chat or email support channels | ✅ In-app support + WhatsApp community management |
 | **Insurance/Safety** | Basic liability coverage | ✅ ID verification, report system, emergency contacts |
 

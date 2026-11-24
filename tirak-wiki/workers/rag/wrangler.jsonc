@@ -4,8 +4,20 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-05-18",
   "vars": {
-    "ENVIRONMENT": "production"
+    "ENVIRONMENT": "production",
+    // Exact extra origins (comma-separated) allowed to call public chat, e.g. one
+    // Vercel preview URL. https://wiki.tirak.app is always allowed (src/access.ts).
+    // Wildcards are ignored on purpose.
+    "ALLOWED_ORIGINS": ""
   },
+  // Per-IP limit for public (no bearer) /v1/chat requests.
+  "ratelimits": [
+    {
+      "name": "CHAT_RATE_LIMITER",
+      "namespace_id": "1001",
+      "simple": { "limit": 10, "period": 60 }
+    }
+  ],
   "kv_namespaces": [
     {
       "binding": "APP_CONFIG",

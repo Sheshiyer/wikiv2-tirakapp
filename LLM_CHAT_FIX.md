@@ -1,5 +1,7 @@
 # Tirak Wiki Chat Assistant Fix
 
+> Note (2026-11): the browser no longer sends a bearer token. Public chat is authorised by an exact Origin allowlist plus rate limiting; see `tirak-wiki/workers/rag/README.md` ("Access Model"). The token formerly shown below was removed and must be rotated.
+
 ## Root Cause
 
 The `WikiAssistant` component was failing in local dev because the RAG worker it calls (`http://127.0.0.1:8790/v1/chat`) was unreachable on the expected port and path:
@@ -71,7 +73,7 @@ curl -s http://127.0.0.1:8790/health
 ```bash
 curl -s -X POST http://127.0.0.1:8790/v1/chat \
   -H "Content-Type: application/json" \
-  -H "authorization: Bearer 26ee2c8beaf69be7185cf074b9aff3567b309d981231772f" \
+  -H "authorization: Bearer <RAG_ADMIN_TOKEN>" \
   -H "Origin: http://localhost:4321" \
   -d '{"appId":"tirak-wiki","query":"Tell me about Tirak","responseMode":"fast","currentPage":{"slug":"01-introduction/welcome","title":"Welcome to Tirak Wiki"}}'
 ```
