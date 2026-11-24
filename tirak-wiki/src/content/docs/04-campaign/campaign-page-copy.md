@@ -6,7 +6,7 @@ title: Campaign Page Copy
 
 ### Above The Fold
 
-**Qualifier**: For every Traveler seeking authentic discovery and every Companion crafting unforgettable shared moments.
+**Qualifier**: For every Traveler seeking authentic discovery and every Local Guide crafting unforgettable shared moments.
 
 **Headline**: Unlock Your Perfect Journey: Personalized Experiences Across All 9 Categories, Powered by AI.
 
@@ -23,27 +23,27 @@ title: Campaign Page Copy
 
 **Title**: The Old Way: Generic Trips, Missed Moments, Endless Planning.
 
-**Problem Agitation**: Remember the last time you spent hours sifting through countless blogs, review sites, and generic guidebooks, only to end up with a 'good enough' trip? Or perhaps you've struggled to coordinate a group trip, balancing diverse interests from serene Wellness retreats to vibrant Nightlife, leaving someone feeling left out. Travelers often lament missing out on authentic local Culture or that hidden Food & Drink gem. Companions face the daunting task of planning a romantic Private escape or a family-friendly Adventure that truly caters to everyone. The 'old world' of travel planning is fraught with information overload, unreliable recommendations, and the sheer frustration of a one-size-fits-all approach that fails to deliver truly memorable experiences across all the rich categories travel offers.
+**Problem Agitation**: Remember the last time you spent hours sifting through countless blogs, review sites, and generic guidebooks, only to end up with a 'good enough' trip? Or perhaps you've struggled to coordinate a group trip, balancing diverse interests from serene Wellness retreats to vibrant Nightlife, leaving someone feeling left out. Travelers often lament missing out on authentic local Culture or that hidden Food & Drink gem. Local Guides face the daunting task of planning a romantic Private escape or a family-friendly Adventure that truly caters to everyone. The 'old world' of travel planning is fraught with information overload, unreliable recommendations, and the sheer frustration of a one-size-fits-all approach that fails to deliver truly memorable experiences across all the rich categories travel offers.
 
-**Failed Alternatives**: Existing solutions fall short. Static itineraries lack flexibility, generic booking platforms offer little personalization, and even 'curated' lists often cater to the masses, not your specific taste in Cinema, your preferred pace for Adventure, or your desire for truly unique Events. For the solo Traveler, these often feel impersonal and inefficient. For Companions, they create more friction than fun, making it nearly impossible to weave together disparate interests like a quiet Wellness day, a thrilling Adventure excursion, and a lively Nightlife experience into a cohesive, enjoyable plan. You're left with either settling for mediocrity or investing endless hours – hours that should be spent enjoying your journey, not planning it.
+**Failed Alternatives**: Existing solutions fall short. Static itineraries lack flexibility, generic booking platforms offer little personalization, and even 'curated' lists often cater to the masses, not your specific taste in Cinema, your preferred pace for Adventure, or your desire for truly unique Events. For the solo Traveler, these often feel impersonal and inefficient. For Local Guides, they create more friction than fun, making it nearly impossible to weave together disparate interests like a quiet Wellness day, a thrilling Adventure excursion, and a lively Nightlife experience into a cohesive, enjoyable plan. You're left with either settling for mediocrity or investing endless hours – hours that should be spent enjoying your journey, not planning it.
 
 ### New World
 
 **Title**: The New World: Voyage AI – Your Personal Travel Intelligence.
 
-**Mechanism Reveal**: Enter Voyage AI: the revolutionary platform that transforms how you discover and experience the world. We've built an intelligent travel companion that understands your unique preferences across ALL 9 essential categories – Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, and Food & Drink. Our proprietary AI engine, powered by advanced machine learning, analyzes millions of data points, real-time trends, and your specific inputs to craft dynamic, hyper-personalized itineraries that evolve with you. No more generic suggestions; just perfect, tailor-made experiences.
+**Mechanism Reveal**: Enter Voyage AI: the revolutionary platform that transforms how you discover and experience the world. We've built an intelligent local guide that understands your unique preferences across ALL 9 essential categories – Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, and Food & Drink. Our proprietary AI engine, powered by advanced machine learning, analyzes millions of data points, real-time trends, and your specific inputs to craft dynamic, hyper-personalized itineraries that evolve with you. No more generic suggestions; just perfect, tailor-made experiences.
 
 #### Feature Stacking
 
 **Name**: Hyper-Personalized Itinerary Builder
 
-**Description**: Crafts unique daily plans. For Travelers, this means discovering hidden Culture gems and off-beat Adventure trails. For Companions, it seamlessly blends diverse interests, from a relaxing Wellness spa day to a vibrant Nightlife experience, ensuring everyone's desires are met.
+**Description**: Crafts unique daily plans. For Travelers, this means discovering hidden Culture gems and off-beat Adventure trails. For Local Guides, it seamlessly blends diverse interests, from a relaxing Wellness spa day to a vibrant Nightlife experience, ensuring everyone's desires are met.
 
 ---
 
 **Name**: Real-Time Adaptability
 
-**Description**: Plans adjust instantly to weather, closures, or your spontaneous mood. Missed an Event? Voyage AI suggests alternatives nearby – perhaps a local Cinema showing or a new Food & Drink spot. Perfect for both flexible Travelers and Companions managing dynamic group needs.
+**Description**: Plans adjust instantly to weather, closures, or your spontaneous mood. Missed an Event? Voyage AI suggests alternatives nearby – perhaps a local Cinema showing or a new Food & Drink spot. Perfect for both flexible Travelers and Local Guides managing dynamic group needs.
 
 ---
 
@@ -59,7 +59,7 @@ title: Campaign Page Copy
 
 ---
 
-**Name**: Collaborative Planning for Companions
+**Name**: Collaborative Planning for Local Guides
 
 **Description**: Share itineraries, vote on activities, and coordinate effortlessly. Perfect for families planning an Adventure, friends seeking shared Wellness, or couples designing their ultimate Lifestyle getaway, ensuring every voice is heard.
 
@@ -97,7 +97,7 @@ title: Campaign Page Copy
 
 #### Testimonials
 
-**Name**: Sarah L., Companion Traveler
+**Name**: Sarah L., Local Guide Traveler
 
 **Quote**: Planning our family's multi-generational trip used to be a nightmare of conflicting interests. Voyage AI harmonized everything, from my parents' desire for Culture and Wellness to my kids' need for Adventure and fun Events. We even found a fantastic Private cooking class everyone loved! Truly a game-changer for group travel.
 
@@ -149,7 +149,7 @@ title: Campaign Page Copy
 
 **Question**: How customizable are the itineraries?
 
-**Answer**: Extremely! Voyage AI learns from your interactions. You can tweak, swap, or reject any suggestion across all 9 categories. Travelers can fine-tune every detail, while Companions can collaborate to ensure group satisfaction, from specific Food & Drink preferences to desired Adventure levels.
+**Answer**: Extremely! Voyage AI learns from your interactions. You can tweak, swap, or reject any suggestion across all 9 categories. Travelers can fine-tune every detail, while Local Guides can collaborate to ensure group satisfaction, from specific Food & Drink preferences to desired Adventure levels.
 
 ---
 
@@ -209,9 +209,9 @@ title: Campaign Page Copy
 
 ---
 
-**Tier Name**: Voyage AI Companion (Early Bird)
+**Tier Name**: Voyage AI Local Guide (Early Bird)
 
-**Description**: Designed for Companions and group travel. Includes everything in Explorer, PLUS collaborative planning features, enhanced group interest matching, and priority access to family-friendly Adventure and Private dining recommendations. Share the magic with loved ones.
+**Description**: Designed for Local Guides and group travel. Includes everything in Explorer, PLUS collaborative planning features, enhanced group interest matching, and priority access to family-friendly Adventure and Private dining recommendations. Share the magic with loved ones.
 
 ###### Includes
 
@@ -230,11 +230,11 @@ title: Campaign Page Copy
 
 **Tier Name**: Voyage AI Globetrotter (VIP Access)
 
-**Description**: The ultimate experience for both dedicated Travelers and frequent Companions. Includes all Companion features, PLUS VIP concierge support, exclusive access to beta features (e.g., advanced Wellness tracking, bespoke Cinema event invites), and priority access to all new category integrations and premium partner offers. Experience the world like never before.
+**Description**: The ultimate experience for both dedicated Travelers and frequent Local Guides. Includes all Local Guide features, PLUS VIP concierge support, exclusive access to beta features (e.g., advanced Wellness tracking, bespoke Cinema event invites), and priority access to all new category integrations and premium partner offers. Experience the world like never before.
 
 ###### Includes
 
-- All Companion Features
+- All Local Guide Features
 - VIP Concierge Support
 - Exclusive Beta Feature Access
 - Priority New Feature/Partner Offers
@@ -259,5 +259,5 @@ title: Campaign Page Copy
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 

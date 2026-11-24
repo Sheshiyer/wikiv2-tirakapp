@@ -13,7 +13,7 @@ import { ArrowRight } from 'lucide-react';
       <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-tirak-purple/20 rounded-full blur-[120px] -z-10"></div>
 
       <p class="text-lg md:text-xl font-medium text-tirak-pink tracking-wide uppercase">
-        The companion-first travel wiki
+        Local guides for cultural experiences in Thailand
       </p>
       <h1 class="text-5xl md:text-7xl font-bold tracking-tight">
         <span class="text-gradient">Not a tour.</span>
@@ -21,15 +21,15 @@ import { ArrowRight } from 'lucide-react';
         <span class="text-white">A vibe.</span>
       </h1>
       <p class="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-        Tirak is a marketplace built for Thai companions first. You keep
-        <span class="text-white font-semibold">80–85% of every booking</span>,
-        get approved <span class="text-tirak-pink font-semibold">same-day</span>,
-        and set your own schedule. No DSLR photoshoot. No platform exploitation.
+        Tirak is built for Thai local guides first. Founding guides pay
+        <span class="text-white font-semibold">0% commission until 7 March 2027</span>,
+        get paid <span class="text-tirak-pink font-semibold">in cash at the meeting point</span>,
+        and set their own schedule. No DSLR photoshoot. No platform exploitation.
         Just real locals sharing real Bangkok.
       </p>
       <div class="flex flex-col sm:flex-row justify-center gap-4">
         <a href="/docs/03-audience/companion-persona" class="bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2 shadow-lg shadow-tirak-purple/20 hover:shadow-tirak-purple/40 text-lg">
-          Start as a companion <ArrowRight size={20} client:load />
+          Start as a local guide <ArrowRight size={20} client:load />
         </a>
         <a href="/docs/03-audience/voice-and-tone" class="border border-white/20 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/10 transition-colors flex items-center justify-center gap-2 text-lg">
           Read the voice guide
@@ -39,25 +39,23 @@ import { ArrowRight } from 'lucide-react';
 
     <!-- Benefits Grid -->
     <section class="space-y-8">
-      <h2 class="text-3xl font-bold text-center text-white">Why companions choose Tirak</h2>
+      <h2 class="text-3xl font-bold text-center text-white">Why local guides choose Tirak</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <PartnerBenefitCard
           client:visible
           iconName="banknote"
           iconColor="text-[#F5A6BF]"
-          headline="Fair earnings"
-          description="Keep 80–85% of what you earn. You do the work—you keep the money."
-          stat="80–85%"
-          statLabel="companion earnings"
+          headline="0% commission"
+          description="Founding guides pay no commission until 7 March 2027. You do the work—you keep the money."
+          stat="0%"
+          statLabel="founding guide commission"
         />
         <PartnerBenefitCard
           client:visible
           iconName="clock"
           iconColor="text-[#9B8FD9]"
-          headline="Same-day approval"
-          description="Apply in the morning, go live by the evening. No months-long waits."
-          stat="&lt; 24hr"
-          statLabel="approval time"
+          headline="Paid in cash"
+          description="During the soft launch, travelers pay you in cash at the meeting point. No waiting on payouts."
         />
         <PartnerBenefitCard
           client:visible
@@ -79,15 +77,15 @@ import { ArrowRight } from 'lucide-react';
           client:visible
           iconName="shield-check"
           iconColor="text-[#F5A6BF]"
-          headline="Verified travelers only"
-          description="ID checks, reviews, and in-app chat before you share contact details. Safety first."
+          headline="Safety first"
+          description="ID-checked guides, public meeting points, in-app chat before you share contact details, and two-way reviews."
         />
         <PartnerBenefitCard
           client:visible
           iconName="message-circle-heart"
           iconColor="text-[#9B8FD9]"
           headline="Community support"
-          description="Join Bangkok companions sharing tips, safety wins, and real earnings stories."
+          description="Join the founding local guides in Bangkok sharing tips and safety wins."
         />
       </div>
     </section>
@@ -97,11 +95,11 @@ import { ArrowRight } from 'lucide-react';
       <h2 class="text-3xl font-bold text-center text-white">How it works</h2>
       <div class="max-w-2xl mx-auto">
         <GlassCard className="p-8 !bg-white/5" client:visible>
-          <OnboardingStep client:visible stepNumber={1} title="Apply" description="Fill out your companion application in about 5 minutes. Tell us about you and the Bangkok you love." />
-          <OnboardingStep client:visible stepNumber={2} title="Get approved" description="We review and approve you same-day. No months-long black boxes." />
+          <OnboardingStep client:visible stepNumber={1} title="Apply" description="Fill out your local guide application in about 5 minutes. Tell us about you and the Bangkok you love." />
+          <OnboardingStep client:visible stepNumber={2} title="ID check" description="The Tirak team reviews your application and checks your ID. No months-long black boxes." />
           <OnboardingStep client:visible stepNumber={3} title="Set your profile" description="Set your rates, availability, and the vibe you want to share. Use real photos, not stock shots." />
-          <OnboardingStep client:visible stepNumber={4} title="Go live" description="Travelers can find you instantly. You choose which bookings to accept." />
-          <OnboardingStep client:visible stepNumber={5} title="Earn and build community" description="Host experiences, get paid fast, and join a network of companions doing the same." isLast={true} />
+          <OnboardingStep client:visible stepNumber={4} title="Go live" description="Invited travelers can find you and send requests. You choose which bookings to accept." />
+          <OnboardingStep client:visible stepNumber={5} title="Earn and build community" description="Meet at a public meeting point, get paid in cash, and join the other founding guides doing the same." isLast={true} />
         </GlassCard>
       </div>
     </section>
@@ -111,7 +109,7 @@ import { ArrowRight } from 'lucide-react';
       <GlassCard className="p-12 !bg-gradient-to-br !from-[#F5A6BF]/10 !to-[#9B8FD9]/10" client:visible>
         <h2 class="text-3xl font-bold text-white mb-4">Ready to earn on your own terms?</h2>
         <p class="text-gray-300 text-lg mb-6 max-w-xl mx-auto">
-          Browse the wiki to learn how Tirak treats companions fairly, keeps travelers safe, and builds a community around authentic Thai culture.
+          Browse the wiki to learn how Tirak treats local guides fairly, keeps travelers safe, and builds a community around authentic Thai culture.
         </p>
         <a href="/docs/01-introduction/welcome" class="inline-flex items-center gap-2 bg-gradient-to-r from-tirak-pink to-tirak-purple text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-opacity shadow-lg shadow-tirak-purple/20 text-lg">
           Explore the wiki

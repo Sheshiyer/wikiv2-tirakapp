@@ -35,61 +35,61 @@ title: Pre Launch Email Sequence
 
 **Intro**: Get ready to redefine how you explore the world and connect with others. Tirak, your ultimate platform for shared experiences, is launching in just 7 days! We're thrilled to introduce a new way to discover, engage, and truly live.
 
-**Value Proposition**: Whether you're a seasoned Traveler seeking authentic local encounters or a passionate Companion eager to share your expertise, Tirak brings your world to life. Imagine effortlessly finding the perfect partner for any adventure or sharing your unique passions with appreciative explorers.
+**Value Proposition**: Whether you're a seasoned Traveler seeking authentic local encounters or a passionate Local Guide eager to share your expertise, Tirak brings your world to life. Imagine effortlessly finding the perfect partner for any adventure or sharing your unique passions with appreciative explorers.
 
 ##### Category Benefits
 
 **Category**: Culture
 
-**Description**: For Travelers: Discover hidden historical gems with local guides. For Companions: Share your city's rich heritage, from art walks to museum tours.
+**Description**: For Travelers: Discover hidden historical gems with local guides. For Local Guides: Share your city's rich heritage, from art walks to museum tours.
 
 ---
 
 **Category**: Adventure
 
-**Description**: For Travelers: Find hiking buddies, dive partners, or cycling companions for your next thrill. For Companions: Lead exhilarating expeditions, from mountain biking to kayaking.
+**Description**: For Travelers: Find hiking buddies, dive partners, or cycling local guides for your next thrill. For Local Guides: Lead exhilarating expeditions, from mountain biking to kayaking.
 
 ---
 
 **Category**: Wellness
 
-**Description**: For Travelers: Connect with yoga instructors, meditation groups, or fitness partners abroad. For Companions: Offer unique wellness retreats, personal training, or guided mindfulness sessions.
+**Description**: For Travelers: Connect with yoga instructors, meditation groups, or fitness partners abroad. For Local Guides: Offer unique wellness retreats, personal training, or guided mindfulness sessions.
 
 ---
 
 **Category**: Nightlife
 
-**Description**: For Travelers: Explore vibrant local bars, secret speakeasies, and dance floors with insider Companions. For Companions: Curate unforgettable nights out, from pub crawls to exclusive club access.
+**Description**: For Travelers: Explore vibrant local bars, secret speakeasies, and dance floors with insider Local Guides. For Local Guides: Curate unforgettable nights out, from pub crawls to exclusive club access.
 
 ---
 
 **Category**: Lifestyle
 
-**Description**: For Travelers: Find shopping partners, fashion advisors, or local experts for bespoke experiences. For Companions: Share your expertise in fashion, photography, or unique local trends.
+**Description**: For Travelers: Find shopping partners, fashion advisors, or local experts for bespoke experiences. For Local Guides: Share your expertise in fashion, photography, or unique local trends.
 
 ---
 
 **Category**: Private
 
-**Description**: For Travelers: Secure exclusive, personalized tours and bespoke services. For Companions: Offer high-end, confidential experiences, from private chefs to executive guides.
+**Description**: For Travelers: Secure exclusive, personalized tours and bespoke services. For Local Guides: Offer high-end, confidential experiences, from private chefs to executive guides.
 
 ---
 
 **Category**: Cinema
 
-**Description**: For Travelers: Discover local film festivals, indie movie nights, or classic cinema clubs. For Companions: Organize themed movie marathons, film discussions, or guide visits to iconic film locations.
+**Description**: For Travelers: Discover local film festivals, indie movie nights, or classic cinema clubs. For Local Guides: Organize themed movie marathons, film discussions, or guide visits to iconic film locations.
 
 ---
 
 **Category**: Events
 
-**Description**: For Travelers: Find partners for concerts, festivals, sports games, or local gatherings. For Companions: Host unique events, from themed parties to local workshops, connecting with eager participants.
+**Description**: For Travelers: Find partners for concerts, festivals, sports games, or local gatherings. For Local Guides: Host unique events, from themed parties to local workshops, connecting with eager participants.
 
 ---
 
 **Category**: Food & Drink
 
-**Description**: For Travelers: Embark on culinary tours, discover authentic eateries, or join cooking classes. For Companions: Lead gastronomic adventures, from street food safaris to wine tastings, sharing your local foodie secrets.
+**Description**: For Travelers: Embark on culinary tours, discover authentic eateries, or join cooking classes. For Local Guides: Lead gastronomic adventures, from street food safaris to wine tastings, sharing your local foodie secrets.
 
 ---
 
@@ -103,7 +103,7 @@ title: Pre Launch Email Sequence
 #### Image Slots
 
 - Hero image: Dynamic collage showcasing diverse people connecting across various activities (e.g., hiking, cooking, exploring a city, attending an event).
-- Feature image: Split visual demonstrating 'Traveler' perspective (e.g., looking for an activity) and 'Companion' perspective (e.g., offering an activity).
+- Feature image: Split visual demonstrating 'Traveler' perspective (e.g., looking for an activity) and 'Local Guide' perspective (e.g., offering an activity).
 
 #### Button Cta
 
@@ -134,13 +134,13 @@ title: Pre Launch Email Sequence
 
 **Intro**: The wait is almost over! As a valued VIP, your exclusive early access to Tirak begins tomorrow, [VIP_WINDOW_START_TIME]. Get ready to be among the very first to explore a world of connections and experiences, before the general public.
 
-**Value Proposition**: This is your chance to get a head start – discover unique Companions, plan your next adventure, or set up your profile to offer unparalleled experiences. Tirak is designed to seamlessly connect Travelers with passionate Companions, fostering genuine interactions across every interest.
+**Value Proposition**: This is your chance to get a head start – discover unique Guides, plan your next adventure, or set up your profile to offer unparalleled experiences. Tirak is designed to seamlessly connect Travelers with passionate Local Guides, fostering genuine interactions across every interest.
 
 ##### Category Benefits
 
 **Category**: Culture, Adventure, Wellness
 
-**Description**: Be the first to secure your spot on exclusive cultural tours, adventurous excursions, or rejuvenating wellness retreats. Travelers, find your perfect guide; Companions, showcase your unique offerings.
+**Description**: Be the first to secure your spot on exclusive cultural tours, adventurous excursions, or rejuvenating wellness retreats. Travelers, find your perfect guide; Local Guides, showcase your unique offerings.
 
 ---
 
@@ -197,7 +197,7 @@ title: Pre Launch Email Sequence
 
 **Intro**: The moment you've been waiting for is almost here! Tirak officially launches tomorrow, [LAUNCH_DATE_TIME]. Prepare to unlock a world of incredible connections and experiences designed just for you.
 
-**Value Proposition**: Whether you're a Traveler eager to discover new places with local insights or a Companion ready to share your passions and expertise, Tirak is your gateway to meaningful interactions and unforgettable moments. Say goodbye to solo adventures and hello to a community built on shared interests.
+**Value Proposition**: Whether you're a Traveler eager to discover new places with local insights or a Local Guide ready to share your passions and expertise, Tirak is your gateway to meaningful interactions and unforgettable moments. Say goodbye to solo adventures and hello to a community built on shared interests.
 
 ##### Category Benefits
 
@@ -209,7 +209,7 @@ title: Pre Launch Email Sequence
 
 **Category**: Wellness & Nightlife
 
-**Description**: Discover local wellness activities or dive into vibrant nightlife scenes with informed Companions.
+**Description**: Discover local wellness activities or dive into vibrant nightlife scenes with informed Local Guides.
 
 ---
 
@@ -221,7 +221,7 @@ title: Pre Launch Email Sequence
 
 **Category**: Cinema & Events
 
-**Description**: Find companions for film screenings, concerts, festivals, and local events that truly resonate with you.
+**Description**: Find local guides for film screenings, concerts, festivals, and local events that truly resonate with you.
 
 ---
 

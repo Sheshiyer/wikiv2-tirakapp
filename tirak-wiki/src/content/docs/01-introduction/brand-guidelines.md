@@ -49,7 +49,7 @@ See full [Voice & Tone Documentation](/docs/03-audience/voice-and-tone) for deta
 1. **Fairness**: 15-20% commission (vs 30-40%).
 2. **Authenticity**: Real people, real connections.
 3. **Safety**: Verification and support.
-4. **Autonomy**: Companions control their business.
+4. **Autonomy**: Local Guides control their business.
 5. **Community**: We support each other.
 
 ### Do's and Don'ts
@@ -57,7 +57,7 @@ See full [Voice & Tone Documentation](/docs/03-audience/voice-and-tone) for deta
 | Do | Don't |
 |----|-------|
 | **Be Real**: Use natural language. | **Be Corporate**: Use jargon like "synergy". |
-| **Be Empowering**: Focus on companion earnings. | **Be Paternalistic**: Act like we're saving them. |
+| **Be Empowering**: Focus on local guide earnings. | **Be Paternalistic**: Act like we're saving them. |
 | **Be Fun**: Use emojis and casual phrasing. | **Be Sloppy**: Ignore grammar or clarity. |
 | **Be Direct**: Explain fees clearly. | **Be Evasive**: Hide costs in fine print. |
 
@@ -77,4 +77,4 @@ See full [Voice & Tone Documentation](/docs/03-audience/voice-and-tone) for deta
 
 Interested in joining the Tirak Dream Journeys partner network? Learn how you can list your experiences and keep **80–85% of every booking**.
 
-[**Explore partnership opportunities →**](/docs/06-vendor-pipeline/pipeline-overview)
+[**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)

@@ -2,13 +2,13 @@
 title: Mds Messaging Direction Summary
 ---
 
-**Product Pitch**: Tirak is the ultimate curated platform connecting discerning travelers and adventurous locals to authentic, hyper-local experiences across Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, and Food & Drink. It transforms discovery into meaningful connection, offering personalized itineraries and unique opportunities that go beyond the ordinary, fostering genuine immersion and unforgettable memories for both companions and travelers.
+**Product Pitch**: Tirak is the ultimate curated platform connecting discerning travelers and adventurous locals to authentic, hyper-local experiences across Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, and Food & Drink. It transforms discovery into meaningful connection, offering personalized itineraries and unique opportunities that go beyond the ordinary, fostering genuine immersion and unforgettable memories for both local guides and travelers.
 
 ## Features Benefits
 
 **Feature**: Hyper-Personalized Discovery Engine
 
-**Benefit**: Travelers find exactly what they're looking for, avoiding generic tourist traps. Companions discover new local gems they might have overlooked. Tailors experience recommendations based on user preferences, past activities, and real-time location across all 9 categories.
+**Benefit**: Travelers find exactly what they're looking for, avoiding generic tourist traps. Local Guides discover new local gems they might have overlooked. Tailors experience recommendations based on user preferences, past activities, and real-time location across all 9 categories.
 
 ---
 
@@ -18,15 +18,15 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Feature**: Dual-Persona Interface (Traveler & Companion)
+**Feature**: Dual-Persona Interface (Traveler & Local Guide)
 
-**Benefit**: Seamlessly connects demand with supply, empowering locals to share their passion and travelers to access insider knowledge. Dedicated functionalities for 'Travelers' seeking experiences and 'Companions' offering them (e.g., hosting, guiding, organizing).
+**Benefit**: Seamlessly connects demand with supply, empowering locals to share their passion and travelers to access insider knowledge. Dedicated functionalities for 'Travelers' seeking experiences and 'Local Guides' offering them (e.g., hosting, guiding, organizing).
 
 ---
 
 **Feature**: Integrated Booking & Messaging
 
-**Benefit**: Convenience and peace of mind for both users, simplifying logistics. Streamlined in-app booking, secure payment processing, and direct communication with hosts/organizers.
+**Benefit**: Convenience and peace of mind for both users, simplifying logistics. Streamlined in-app booking requests, clear up-front pricing (paid to the guide in cash at the meeting point during the soft launch), and direct communication with local guides.
 
 ---
 
@@ -77,7 +77,7 @@ title: Mds Messaging Direction Summary
 
 **Category**: Nightlife & Events
 
-**Scenario**: A group of friends in Berlin wants to discover underground clubs and local favorite bars not in guidebooks, or attend a unique pop-up event. Tirak provides real-time recommendations from local 'Companions' and exclusive access.
+**Scenario**: A group of friends in Berlin wants to discover underground clubs and local favorite bars not in guidebooks, or attend a unique pop-up event. Tirak provides real-time recommendations from local 'Local Guides' and exclusive access.
 
 ---
 
@@ -85,11 +85,11 @@ title: Mds Messaging Direction Summary
 
 **Category**: Wellness & Lifestyle
 
-**Scenario**: A visitor to Bali is looking for a sunrise yoga session on a secluded beach and a local artisan workshop. Tirak connects them with 'Companions' offering these unique, curated experiences.
+**Scenario**: A visitor to Bali is looking for a sunrise yoga session on a secluded beach and a local artisan workshop. Tirak connects them with 'Local Guides' offering these unique, curated experiences.
 
 ---
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Lifestyle & Culture
 
@@ -97,7 +97,7 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Wellness & Private
 
@@ -105,7 +105,7 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Cinema & Events
 
@@ -113,7 +113,7 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Food & Drink & Private
 
@@ -136,7 +136,7 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Persona**: The Passionate Companion (25-60, Diverse HHI, Global)
+**Persona**: The Passionate Local Guide (25-60, Diverse HHI, Global)
 
 **Demographics**: Locals, experts, hobbyists, small business owners, event organizers. Diverse backgrounds and income levels.
 
@@ -155,7 +155,7 @@ title: Mds Messaging Direction Summary
 
 **For Travelers**: Seamless discovery and booking of curated local experiences across all 9 categories. Access to authentic, non-touristy activities. Personalized recommendations. Secure transactions and communication.
 
-**For Companions**: Easy-to-use platform to list, manage, and monetize unique local offerings. Access to a global audience of discerning travelers. Secure payment processing. Flexible management tools.
+**For Local Guides**: Easy-to-use platform to list, manage, and monetize unique local offerings. Access to invited travelers looking for cultural experiences. 0% commission for founding guides until 7 March 2027. Flexible management tools.
 
 ---
 
@@ -163,7 +163,7 @@ title: Mds Messaging Direction Summary
 
 **For Travelers**: Feel like an insider, not a tourist. Experience genuine connection and cultural immersion. Sense of adventure, discovery, and personal growth. Joy of unforgettable memories. Peace of mind from vetted experiences and local support.
 
-**For Companions**: Pride in sharing their culture/passion. Satisfaction from creating memorable experiences for others. Sense of community and belonging. Empowerment through entrepreneurship and cultural ambassadorship.
+**For Local Guides**: Pride in sharing their culture/passion. Satisfaction from creating memorable experiences for others. Sense of community and belonging. Empowerment through entrepreneurship and cultural ambassadorship.
 
 ---
 
@@ -171,7 +171,7 @@ title: Mds Messaging Direction Summary
 
 **For Travelers**: Express their identity as an adventurous, culturally curious, and discerning explorer. Showcase their unique travel style and commitment to authentic experiences.
 
-**For Companions**: Express their unique skills, passions, and local expertise. Establish themselves as a cultural ambassador or niche expert, contributing to their community and personal brand.
+**For Local Guides**: Express their unique skills, passions, and local expertise. Establish themselves as a cultural ambassador or niche expert, contributing to their community and personal brand.
 
 ---
 
@@ -186,13 +186,13 @@ title: Mds Messaging Direction Summary
 
 **Objection**: I can find these experiences on other platforms/Google.
 
-**Rebuttal**: While some activities might be listed elsewhere, Tirak's differentiation is its hyper-curated selection, focus on *authentic* local 'Companions,' and seamless dual-persona experience. We vet and highlight unique opportunities across all 9 categories that are often hidden from mainstream search, ensuring a quality and authenticity unmatched by broad platforms.
+**Rebuttal**: While some activities might be listed elsewhere, Tirak's differentiation is its hyper-curated selection, focus on *authentic* local 'Local Guides,' and seamless dual-persona experience. We vet and highlight unique opportunities across all 9 categories that are often hidden from mainstream search, ensuring a quality and authenticity unmatched by broad platforms.
 
 ---
 
 **Objection**: How do I know the experiences are safe/reliable?
 
-**Rebuttal**: Tirak employs a rigorous vetting process for all 'Companions' and experiences, including background checks, quality assessments, and a robust community review system. We prioritize safety and reliability, offering support and mediation if issues arise, ensuring peace of mind for both travelers and companions.
+**Rebuttal**: Tirak employs a rigorous vetting process for all 'Local Guides' and experiences, including an ID check by the Tirak team and a two-way review system. We prioritize safety and reliability, offering support and mediation if issues arise, ensuring peace of mind for both travelers and local guides.
 
 ---
 
@@ -202,9 +202,9 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Objection**: As a Companion, is it worth my time/effort?
+**Objection**: As a Local Guide, is it worth my time/effort?
 
-**Rebuttal**: Tirak provides a powerful platform with extensive marketing reach, secure payment processing, and easy management tools, significantly reducing administrative burden. It connects you directly with a high-value audience specifically seeking authentic experiences across all categories, maximizing your earning potential and impact without extensive self-promotion.
+**Rebuttal**: Tirak provides a powerful platform with a growing invite-led traveler community, 0% commission for founding guides until 7 March 2027, and easy management tools, significantly reducing administrative burden. It connects you directly with a high-value audience specifically seeking authentic experiences across all categories, maximizing your earning potential and impact without extensive self-promotion.
 
 ---
 
@@ -227,7 +227,7 @@ title: Mds Messaging Direction Summary
 
 **Competitor**: Local Event Platforms (Eventbrite/Meetup)
 
-**Differentiation**: While we list events, Tirak's scope is broader, encompassing ongoing curated experiences, private bookings, and a strong emphasis on the 'Companion' role, not just event organizers. Our focus is on depth of experience across all 9 categories, facilitating sustained engagement rather than just singular event listings.
+**Differentiation**: While we list events, Tirak's scope is broader, encompassing ongoing curated experiences, private bookings, and a strong emphasis on the 'Local Guide' role, not just event organizers. Our focus is on depth of experience across all 9 categories, facilitating sustained engagement rather than just singular event listings.
 
 ---
 
@@ -237,16 +237,16 @@ title: Mds Messaging Direction Summary
 
 ---
 
-**Differentiation Summary**: Tirak's core strength lies in its meticulous curation, explicit dual-persona optimization (Traveler & Companion), and comprehensive coverage of ALL 9 categories with an unwavering emphasis on authenticity and genuine local connection. We bridge the gap between high-quality, personalized discovery and community-powered sharing, offering a truly unique value proposition.
+**Differentiation Summary**: Tirak's core strength lies in its meticulous curation, explicit dual-persona optimization (Traveler & Local Guide), and comprehensive coverage of ALL 9 categories with an unwavering emphasis on authenticity and genuine local connection. We bridge the gap between high-quality, personalized discovery and community-powered sharing, offering a truly unique value proposition.
 
 ---
 
 
-**Usp**: Tirak is the only platform that hyper-curates and connects you to truly authentic, locally-led experiences across **ALL NINE categories** (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink), empowering both discerning travelers and passionate local companions to discover, share, and create unforgettable moments of genuine immersion.
+**Usp**: Tirak is the only platform that hyper-curates and connects you to truly authentic, locally-led experiences across **ALL NINE categories** (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink), empowering both discerning travelers and passionate local guides to discover, share, and create unforgettable moments of genuine immersion.
 
 ## Supporting Proof
 
-- Our proprietary vetting system ensures every 'Companion' is a verified local expert and every experience meets our authenticity and quality standards.
+- Our proprietary vetting system ensures every 'Local Guide' is a verified local expert and every experience meets our authenticity and quality standards.
 - Unlike broad booking sites, Tirak's advanced AI learns your preferences, delivering personalized recommendations for experiences you won't find anywhere else.
 - Our dual-interface design seamlessly empowers locals to share their passions and travelers to connect with the true heart of a destination, fostering a unique ecosystem.
 
@@ -254,7 +254,7 @@ title: Mds Messaging Direction Summary
 
 **For Travelers**: Inspired, excited, connected, immersed, adventurous, enlightened, satisfied, safe, confident, authentic, belonging, curious, enriched.
 
-**For Companions**: Proud, valued, empowered, connected, fulfilled, recognized, inspired, entrepreneurial, community-driven, impactful, respected.
+**For Local Guides**: Proud, valued, empowered, connected, fulfilled, recognized, inspired, entrepreneurial, community-driven, impactful, respected.
 
 ---
 
@@ -262,5 +262,5 @@ title: Mds Messaging Direction Summary
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 

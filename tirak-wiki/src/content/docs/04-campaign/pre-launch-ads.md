@@ -65,7 +65,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Instagram Story Ad
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Culture
 
@@ -120,7 +120,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Twitter Post
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Adventure
 
@@ -174,7 +174,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Carousel Ad (Slide 1)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Wellness
 
@@ -228,7 +228,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Video Ad (15s Concept)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Nightlife
 
@@ -282,13 +282,13 @@ title: Pre Launch Ads
 
 **Ad Type**: Twitter Post
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Lifestyle
 
 **Headline**: Live Your Best Life, Together! TIRAK for Lifestyle Travel.
 
-**Body Copy**: Elevate your next group getaway. TIRAK helps you discover chic cafes, trendy boutiques, and unique local experiences for you and your travel companions. Sign up for launch alerts! #TIRAK #LifestyleTravel #FriendsWhoTravel
+**Body Copy**: Elevate your next group getaway. TIRAK helps you discover chic cafes, trendy boutiques, and unique local experiences for you and your local guides. Sign up for launch alerts! #TIRAK #LifestyleTravel #FriendsWhoTravel
 
 **Cta**: Explore Lifestyle Trips
 
@@ -336,7 +336,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Feed Ad
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Private
 
@@ -390,7 +390,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Twitter Post
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Cinema
 
@@ -444,7 +444,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Feed Ad
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Events
 
@@ -498,7 +498,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Email Subject Line
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Food & Drink
 
@@ -551,7 +551,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Instagram Story Ad (Retargeting)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Lifestyle
 
@@ -569,7 +569,7 @@ title: Pre Launch Ads
 - friends getaway deals
 - boutique travel for groups
 
-**Target Audience Segment**: Website visitors who viewed 'Lifestyle' content for companions
+**Target Audience Segment**: Website visitors who viewed 'Lifestyle' content for local guides
 
 ---
 
@@ -603,7 +603,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Email Body Snippet
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Events
 
@@ -657,7 +657,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Video Ad (15s Concept)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Food & Drink
 
@@ -711,7 +711,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Email Subject Line
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Private
 
@@ -763,7 +763,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Google Search Ad Headline
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Nightlife
 
@@ -815,7 +815,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Instagram Story Ad
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Events
 
@@ -867,7 +867,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Pinterest Idea Pin (Image + Text)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Culture
 
@@ -919,7 +919,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Facebook Carousel Ad (Slide 2)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Adventure
 
@@ -971,7 +971,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Twitter Post
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: Cinema
 
@@ -1049,7 +1049,7 @@ title: Pre Launch Ads
 
 **Ad Type**: Instagram Feed Ad (General Awareness)
 
-**Persona**: Companion
+**Persona**: Local Guide
 
 **Category**: All Categories (General)
 
