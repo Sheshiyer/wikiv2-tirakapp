@@ -1,40 +1,24 @@
 ---
-title: "Partner Success Stories"
-description: "Hear from experience vendors who have grown their business with Tirak Dream Journeys"
+title: "Founding Guide Stories"
+description: "Stories from Tirak's founding local guides in Bangkok — coming after the soft launch"
 category: "resources"
 order: 5
 icon: "star"
-tags: ["partners", "testimonials", "success-stories"]
+tags: ["local guides", "founding guides", "stories"]
 ---
 
-# Partner Success Stories
+# Founding Guide Stories
 
-Real stories from Tirak Dream Journeys partners across Thailand.
+Tirak's soft launch in Bangkok is invite-led and just getting started. We'll share real stories from our founding local guides here once they've hosted their first travelers — no made-up testimonials.
 
-## 🏛️ Featured Partners
+## What we'll share
 
-### Adventure Operator — Chiang Mai
-> "Since joining Tirak, our bookings have increased significantly. The 80–85% earnings model means we keep much more compared to other platforms."
->
-> *Coming Soon — Partner interview in progress*
-
-### Food Tour Provider — Bangkok
-> "The same-day approval was a game changer. We were live and receiving bookings within 24 hours of applying."
->
-> *Coming Soon — Partner interview in progress*
-
-### Wellness Retreat — Koh Samui
-> "What we love most is the no-exclusivity policy. We can keep our direct bookings and other channels while reaching new customers through Tirak."
->
-> *Coming Soon — Partner interview in progress*
-
-### Boutique Hotel — Phuket
-> "The partner dashboard makes it easy to manage our listings, and the 24–48 hour payout cycle keeps our cash flow healthy."
->
-> *Coming Soon — Partner interview in progress*
+- How founding guides found their first travelers
+- The cultural experiences travelers loved most
+- What guides learned from their first bookings
 
 ---
 
-*Have a success story to share? Contact us at partners@tirak.app*
+*Are you a founding guide with a story to share? Contact us at partners@tirak.app*
 
-[**Join the network →**](/docs/06-vendor-pipeline/pipeline-overview)
+[**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)

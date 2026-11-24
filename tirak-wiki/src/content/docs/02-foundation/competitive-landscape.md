@@ -7,17 +7,17 @@ icon: swords
 lastUpdated: 2026-01-22
 ---
 
-# Competitor Intelligence Dossier: Travel Companion Platforms
+# Competitor Intelligence Dossier: Local Guide Platforms
 
 ## Executive Summary
 
-**Market Category:** Travel companion & local experience marketplaces  
+**Market Category:** Local Guide & local experience marketplaces  
 **Analysis Date:** 2026-01-21  
 **Geographic Focus:** Southeast Asia (Thailand), with global platform comparisons  
 **Key Competitors Analyzed:**
 1. **Withlocals** (Primary competitor - European focus, expanding Asia)
 2. **ToursByLocals** (Secondary competitor - luxury private guide marketplace)
-3. **Airbnb Experiences** (Indirect competitor - activity marketplace, not companion-focused)
+3. **Airbnb Experiences** (Indirect competitor - activity marketplace, not guide-focused)
 
 ---
 
@@ -55,7 +55,7 @@ lastUpdated: 2026-01-22
 * [ ] Dynamic pricing (hosts locked into fixed rates unless manually updated)
 * [ ] Same-day onboarding (2-4 week approval wait)
 * [ ] Low commission (30% is high compared to newer platforms)
-* [ ] Companion-first positioning (activity-focused, not human connection)
+* [ ] Guide-first positioning (activity-focused, not human connection)
 
 ---
 
@@ -184,11 +184,11 @@ The platform focuses on **private experiences** (no group tours), emphasizing in
 * [x] Custom itinerary requests
 * [x] Dedicated customer support
 * [x] Insurance coverage included
-* [ ] Casual hangout options (all experiences are formal tours)
+* [ ] Casual experience options (all experiences are formal tours)
 * [ ] Flexible pricing (guides locked into day rates)
 * [ ] Fast onboarding (2-month approval process)
 * [ ] Low commission (40% is industry-high)
-* [ ] Companion vibe (very transactional, formal, professional)
+* [ ] Local Guide vibe (very transactional, formal, professional)
 
 ---
 
@@ -274,7 +274,7 @@ The platform emphasizes **expertise and professionalism**: guides are vetted for
 * [x] Lower commission than competitors (20%)
 * [ ] Fast approval (3-6 month wait is brutal)
 * [ ] Authentic local focus (favors polished influencer-types over real locals)
-* [ ] Companion positioning (activity-focused, not human connection)
+* [ ] Local Guide positioning (activity-focused, not human connection)
 * [ ] Professional photo flexibility (iPhone selfies rejected)
 
 ---
@@ -296,7 +296,7 @@ Airbnb Experiences launched in 2016 as an extension of Airbnb's accommodation ma
 **Key weaknesses:**
 - Slow approval process (3-6 months)
 - High aesthetic bar (professional photos required)
-- Activity-focused, not companion-focused
+- Activity-focused, not guide-focused
 
 ---
 
@@ -304,4 +304,4 @@ Airbnb Experiences launched in 2016 as an extension of Airbnb's accommodation ma
 
 As a Tirak partner, you benefit from our unique market positioning. Our platform is designed to give vendors the best possible deal — **80–85% earnings** compared to 60–70% on competing platforms.
 
-[**See full partner benefits →**](/docs/06-vendor-pipeline/scraping-scripts)
+[**See founding guide benefits →**](/docs/06-vendor-pipeline/scraping-scripts)

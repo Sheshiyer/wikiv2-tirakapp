@@ -11,7 +11,7 @@ interface ChecklistItem {
 
 const defaultItems: ChecklistItem[] = [
   { id: 'apply', label: 'Submit partner application', description: 'Fill out the form at tirak.app/partners' },
-  { id: 'review', label: 'Application reviewed', description: 'Our team reviews within 24 hours' },
+  { id: 'review', label: 'Application reviewed', description: 'The Tirak team reviews your application and checks your ID' },
   { id: 'profile', label: 'Create your partner profile', description: 'Add business details, logo, and contact info' },
   { id: 'photos', label: 'Upload experience photos', description: 'High-quality images of your offerings' },
   { id: 'descriptions', label: 'Write experience descriptions', description: 'Compelling descriptions that attract travelers' },

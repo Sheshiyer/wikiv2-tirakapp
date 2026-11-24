@@ -7,3 +7,24 @@ vendor-pipeline/logs/
 workers/rag/.dev.vars
 workers/rag/.wrangler/
 .vercel
+
+# Build output and Astro cache (generated; never commit)
+dist/
+.astro/
+
+# Scraped vendor / lead data contains third-party personal data (emails, phones).
+# It must never be committed or published. Keep it outside this repository.
+vendor-pipeline/data/
+vendor-pipeline/outreach/
+vendor-pipeline/reports/
+vendor-pipeline/scripts/
+vendor-pipeline/**/*.csv
+vendor-pipeline/**/*.xlsx
+public/downloads/*.csv
+src/data/vendors*
+*vendor*directory*.csv
+*vendor*directory*.json
+*_vendors*.csv
+*_vendors*.json
+*leads*.csv
+*leads*.json

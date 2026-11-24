@@ -1,85 +1,59 @@
 ---
-title: "Partner Benefits"
-description: "Why Thailand's top experience vendors choose Tirak Dream Journeys"
+title: "Founding Guide Benefits"
+description: "Why local guides in Bangkok are joining Tirak as founding guides"
 category: "vendor-pipeline"
 order: 2
 icon: "star"
-tags: ["benefits", "partners", "earnings", "commission"]
-cta_text: "Become a Partner"
+tags: ["benefits", "local guides", "earnings", "commission"]
+cta_text: "Become a Founding Guide"
 cta_url: "https://tirak.app/partners"
 ---
 
-# Partner Benefits
+# Founding Guide Benefits
 
-Tirak Dream Journeys is built for vendors first. Here's why **614+ Thailand experience providers** have joined our partner network.
+Tirak is built for local guides first. We're launching small in Bangkok with an invite-led soft launch, and founding guides get the best deal we'll ever offer.
 
-## Fair Earnings
+## 0% Commission Until 7 March 2027
 
-**Keep 80–85% of every booking.** While other platforms take 25–40% in commission, Tirak charges a small service fee to travelers — not vendors. Your pricing, your earnings.
+**Founding guides pay 0% commission until 7 March 2027.** You set the price for your experience and keep all of it.
 
-### How It Works
+### How Payment Works During the Soft Launch
 - You set your experience price
-- Travelers pay a small service fee on top
-- You receive 80–85% of the booking value
-- Payouts arrive within 24–48 hours via bank transfer
+- The traveler sends a booking request and you accept
+- The traveler pays you **in cash at the meeting point**
+- There are no in-app payments yet — we'll tell you well in advance before that changes
 
-### Commission Comparison
+## Get Discovered
 
-| Platform | Vendor Earnings | Tirak Advantage |
-|----------|----------------|-----------------|
-| Withlocals | ~70% | +10–15% more with Tirak |
-| ToursByLocals | ~60% | +20–25% more with Tirak |
-| Cookly | ~70–75% | +5–15% more with Tirak |
-| GetYourGuide | ~70–75% | +5–15% more with Tirak |
-| Booking.com | ~75–85% | Comparable + no exclusivity |
+Get found by travelers looking for authentic cultural experiences in Bangkok.
 
-## Instant Visibility
-
-Get discovered by travelers actively searching for authentic Thailand experiences.
-
-- **Same-day listing approval** — no weeks-long review process
-- **SEO-optimized profiles** — your experiences rank in search results
-- **Featured placement** — top-performing partners get highlighted
-- **10 experience categories** — travelers browse by interest, not geography
+- **Profiles built around you** — your interests, your neighborhoods, your vibe
+- **Invite-led travelers** — we grow the traveler side in small waves so every request gets attention
+- **Experience categories** — travelers browse by what they want to feel, not by tour package
 
 ## Full Control
 
-You run your business. We just help you reach more customers.
+You run your time. We help you meet the right travelers.
 
-- **Set your own prices** — no minimum or maximum restrictions
-- **Manage availability** — real-time calendar with blackout dates
+- **Set your own prices** — no minimum or maximum
+- **Choose your availability** — accept only the requests that suit you
 - **No exclusivity** — keep all your other channels active
-- **Data transparency** — see exactly where bookings come from
 
-## Marketing Support
+## Trust and Safety
 
-We invest in bringing travelers to your doorstep.
+- **ID-checked guides** — the Tirak team checks every guide's ID before approval
+- **Public meeting points** — first meetings happen in public places
+- **Two-way reviews** — guides and travelers review each other
+- **Report button** — safety reports go straight to the Tirak team
 
-- **Platform promotion** — your experiences featured across Tirak channels
-- **Content marketing** — we create travel guides featuring partner experiences
-- **Social media** — partner spotlights and experience highlights
-- **Targeted ads** — we run campaigns that drive bookings to partners
-
-## Growing Network Effect
-
-The more partners join, the more travelers discover Tirak — and the more bookings flow to everyone.
-
-- **614+ active partners** across Thailand
-- **10 experience categories** from adventure to wellness
-- **Network effects** — more variety attracts more travelers
-- **Cross-promotion** — travelers booking one experience discover others
-
-## Partner Support
+## Guide Support
 
 We're here when you need us.
 
-- **Dedicated partnerships team** available via WhatsApp and LINE
-- **24-hour response time** for support requests
-- **Partner dashboard** for managing listings, bookings, and payments
-- **Onboarding assistance** — we help you create compelling listings
+- **Founder-led support** via WhatsApp, LINE, and partners@tirak.app
+- **Onboarding help** — we help you write a profile travelers love
+- **Founding guide community** — share tips with the other first guides in Bangkok
 
 ## Ready to Join?
 
-[**Apply to become a partner →**](https://tirak.app/partners)
-
-Join 614+ vendors who trust Tirak with their business.
+[**Apply to become a founding guide →**](https://tirak.app/partners)

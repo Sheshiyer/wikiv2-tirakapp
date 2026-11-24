@@ -1,5 +1,5 @@
 ---
-title: Companion Persona
+title: Local Guide Persona
 description: Detailed persona for Nok "The Culture Connector" (80% supply-side focus).
 category: audience
 order: 1
@@ -7,7 +7,7 @@ icon: user-check
 lastUpdated: 2026-01-22
 ---
 
-# Buyer Persona Dossier: Tirak Companion
+# Buyer Persona Dossier: Tirak Local Guide
 
 ## 1. Executive Summary
 
@@ -71,7 +71,7 @@ The real issue isn't that Nok lacks skills or that travelers don't want what she
 - **Reddit and Facebook groups** optimize for **zero friction** (anyone can post, no verification) at the expense of safety and accountability. It's the Wild West - no trust layer, no payment infrastructure, no recourse if someone ghosts or misbehaves.
 - **Hotel referrals** optimize for **relationship favors** (informal handshakes, family connections) at the expense of scalability and professionalism.
 
-What Nok needs is a platform that **optimizes for host empowerment**: fair commissions (15-20%, not 30-40%), fast onboarding (same day, not 4 months), flexible pricing (she sets rates, not locked tiers), safety infrastructure (verified travelers, in-app messaging, review system), and authenticity (no pressure to perform scripted tours or hire professional photographers).
+What Nok needs is a platform that **optimizes for host empowerment**: fair commissions (15-20%, not 30-40%), simple onboarding (an ID check, not a 4-month approval), flexible pricing (she sets rates, not locked tiers), safety infrastructure (verified travelers, in-app messaging, review system), and authenticity (no pressure to perform scripted tours or hire professional photographers).
 
 The fundamental shift is from "platform-first" to "host-first." Existing platforms see hosts as supply to be managed and monetized. Tirak should see hosts as partners to be empowered and protected. That's the unlock.
 
@@ -98,18 +98,18 @@ The fundamental shift is from "platform-first" to "host-first." Existing platfor
 If a Magic Genie created the perfect platform for Nok, it would deliver:
 
 1. **Fair commission rates** - Keep 80-85% of earnings (not 60-70%)
-2. **Same-day approval** - Apply in the morning, go live by afternoon (not 3-6 months)
+2. **Simple approval** - A short application and an ID check by the Tirak team (not 3-6 months of review)
 3. **No photo police** - Upload authentic selfies and real photos (no ฿5K photographer required)
 4. **Flexible availability** - Turn bookings on/off with one tap (work weekends only, or just Fridays, or whenever)
-5. **Dynamic pricing** - Charge ฿800 for coffee hangout, ฿2,500 for full-day adventure, adjust anytime
+5. **Dynamic pricing** - Charge ฿800 for coffee meetup, ฿2,500 for full-day adventure, adjust anytime
 6. **Verified travelers** - Know who's booking (real ID, reviews, not sketchy anonymous DMs)
-7. **In-app payments** - Travelers pay through platform, money hits bank account 24-48 hours later (no awkward cash)
+7. **Getting paid** - During the soft launch, travelers pay the guide in cash at the meeting point; founding guides pay 0% commission until 7 March 2027
 8. **Safety features** - Report button, emergency contact, block list for bad actors
 9. **Instant messaging** - Chat with travelers before booking (but not give out personal phone number)
 10. **Review system** - Both sides leave reviews (build reputation, filter out flakes)
 11. **Weekend warrior mode** - Work only Saturdays/Sundays while keeping day job (not forced into full-time commitment)
 12. **Spontaneous bookings** - Accept last-minute requests ("I'm free tonight, who wants to hit up Chinatown?")
-13. **Companion community** - Connect with other hosts, share tips, learn from experienced people
+13. **Local Guide community** - Connect with other hosts, share tips, learn from experienced people
 14. **Earnings dashboard** - See real-time income, forecast monthly earnings, track best-performing experiences
 15. **No rigid scripts** - Design experiences based on personality (not forced into "Temple Tour #47" templates)
 16. **Geographic flexibility** - Host in Bangkok, Chiang Mai, Phuket (wherever travels or moves)
@@ -167,7 +167,7 @@ Nok does NOT want to:
 
 * **Pride:** She'd feel respected as a professional, not exploited as cheap labor. Platform would treat her as valued partner, not interchangeable commodity.
 
-* **Safety:** She'd host travelers knowing they're verified, background-checked, and accountable. No more sketchy Reddit DMs or drunk no-shows.
+* **Safety:** She'd host travelers knowing they've requested through Tirak, meet at a public meeting point, and are accountable through reviews. No more sketchy Reddit DMs or drunk no-shows.
 
 * **Growth:** Her reputation would compound over time—more reviews, more repeat clients, more referrals. She'd build sustainable side business, not one-off gigs.
 
@@ -175,7 +175,7 @@ Nok does NOT want to:
 
 * **Flexibility:** She could work weekends only while keeping day job, or ramp up to full-time when ready. No forced commitment, no binary choice.
 
-* **Community:** She'd be part of network of other Thai hosts—sharing tips, supporting each other, learning from experienced companions who've built thriving businesses.
+* **Community:** She'd be part of network of other Thai hosts—sharing tips, supporting each other, learning from experienced local guides who've built thriving businesses.
 
 * **Recognition:** Travelers would seek HER out specifically (not just "any Bangkok guide"), valuing her unique personality, local knowledge, and vibe.
 
@@ -202,7 +202,7 @@ Nok does NOT want to:
   "meta_project": {
     "product_name": "Tirak Dream Journeys",
     "persona_name": "Nok 'The Culture Connector'",
-    "persona_type": "companion",
+    "persona_type": "local guide",
     "tone_source": "BK Magazine",
     "market": "thailand_bangkok",
     "language": "english_thai_bilingual"
@@ -248,12 +248,12 @@ Nok does NOT want to:
   ],
   "ideal_outcomes": [
     "Keep 80-85% of earnings",
-    "Same-day approval process",
+    "Simple application with an ID check",
     "No professional photo requirements",
     "Flexible availability toggle",
     "Dynamic pricing control",
     "Verified travelers only",
-    "In-app payments with 24-48hr payout",
+    "0% commission for founding guides until 7 March 2027",
     "Safety features and reporting",
     "Build reputation through reviews",
     "Weekend warrior part-time option"
@@ -284,4 +284,4 @@ Nok does NOT want to:
 
 Understanding these customer personas helps you craft better experiences. When you list on Tirak, you're reaching travelers who match these profiles — people actively seeking authentic local experiences in Thailand.
 
-[**Start listing your experiences →**](/docs/06-vendor-pipeline/pipeline-overview)
+[**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)

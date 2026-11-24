@@ -9,97 +9,87 @@ lastUpdated: 2026-01-22
 
 # FAQ & Handling Objections
 
-This document outlines the most common objections from both Companions (Supply) and Travelers (Demand) and provides scripted rebuttals and proof points.
+This document outlines the most common objections from both Local Guides (supply) and Travelers (demand) and gives honest answers for the Bangkok soft launch. Only use proof points we can actually back up — no invented stats.
 
-## For Companions (Supply-Side)
+## For Local Guides (Supply-Side)
 
 ### Safety & Trust
 **Objection:** "How do I know travelers are safe? What if someone is creepy?"
-- **Rebuttal:** "Every traveler is ID-verified. You see their profile and reviews before accepting. You never share your phone number until you're comfortable. We have a report button, emergency contact, and block list. Your safety is non-negotiable."
-- **Proof Point:** "0 reported safety incidents in 1,000+ bookings."
+- **Answer:** "You see the traveler's profile and request before you accept, and you only accept what feels right. First meetings happen at public meeting points. There's a report button, and the Tirak team follows up on every safety report. Your safety is non-negotiable."
+- **Proof Point:** Our target is zero safety reports left open for more than 24 hours.
 
 ### Reliability
 **Objection:** "What if travelers don't show up? I wasted my Saturday."
-- **Rebuttal:** "Travelers must cancel 24 hours in advance for a refund. If they cancel late, you get 50%. If they no-show, you get 100%. We penalize flaky travelers."
-- **Proof Point:** "98.5% booking show-up rate."
+- **Answer:** "We're starting invite-led, with small waves of travelers, so we can follow up on every no-show. Travelers who flake lose access."
+- **Proof Point:** Two-way reviews — guides review travelers too.
 
 ### Earnings & Fees
-**Objection:** "15-20% commission seems too good to be true. What's the catch?"
-- **Rebuttal:** "No catch. We're bootstrapped and lean. We don't have fancy offices. We prioritize your earnings. 15-20% covers payment processing, insurance, and platform maintenance."
-- **Proof Point:** Commission breakdown transparency in App.
+**Objection:** "What's the catch?"
+- **Answer:** "No catch. Founding guides pay 0% commission until 7 March 2027. During the soft launch, the traveler pays you in cash at the meeting point, so the money goes straight to you."
+- **Proof Point:** Any change to commission will be announced well before 7 March 2027.
 
 ### Bookings
 **Objection:** "Will I actually get bookings?"
-- **Rebuttal:** "We are supply-first. 80% of our marketing budget goes to finding travelers for YOU. Our algorithm highlights new hosts so you don't get buried."
-- **Proof Point:** "New hosts average 2-3 bookings in their first 2 weeks."
+- **Answer:** "We're honest about this: we're new. We're inviting travelers in small waves and working to bring every founding guide real requests. You'll hear from us directly about how it's going."
+- **Proof Point:** Founder-led support for every founding guide.
 
 ### Requirements
 **Objection:** "I don't have professional photos."
-- **Rebuttal:** "Good! We want authenticity. iPhone selfies at street food stalls are better than staged studio shots. Travelers want to see the real you."
-- **Proof Point:** Top earners use authentic photos.
+- **Answer:** "Good! We want authenticity. iPhone photos at your favorite street food stall beat staged studio shots. Travelers want to see the real you."
+- **Proof Point:** No photoshoot required to apply.
 
 ---
 
 ## For Travelers (Demand-Side)
 
 ### Safety & Quality
-**Objection:** "How do I know companions aren't scammers?"
-- **Rebuttal:** "All companions are ID-verified and reviewed. We monitor for 'tourist trap' behavior and ban instantly. You can read reviews from other travelers."
-- **Proof Point:** "0 reported scams in 1,000+ bookings."
+**Objection:** "How do I know local guides aren't scammers?"
+- **Answer:** "The Tirak team checks every guide's ID before approval. You can read guide profiles and reviews, message before you meet, and first meetings happen at public meeting points."
+- **Proof Point:** ID-checked guides and a report button that reaches the Tirak team.
 
 ### Fit & Vibe
 **Objection:** "What if we don't vibe?"
-- **Rebuttal:** "Read reviews to gauge personality. Message beforehand. If it's truly terrible, support can help. But 98% of travelers rate 4+ stars."
-- **Proof Point:** "4.8 average traveler satisfaction rating."
+- **Answer:** "Read the profile, message beforehand, and pick experiences that match what you're into. If something goes wrong, tell us."
 
 ### Nature of Interaction
 **Objection:** "Is this just Tinder?"
-- **Rebuttal:** "No. It is explicitly platonic. Zero tolerance for romance/harassment. Companions are professionals earning income."
-- **Proof Point:** "5 bans issued for inappropriate behavior."
+- **Answer:** "No. Tirak is for local guides and cultural experiences — explicitly platonic. Zero tolerance for romance or harassment."
 
 ### Value
 **Objection:** "Why not just use Reddit for free?"
-- **Rebuttal:** "Reddit has no accountability. Tirak guarantees verified people, safety, and show-ups. It's worth paying for certainty and quality."
-- **Proof Point:** "98.5% show-up rate vs ~20% for random meetups."
+- **Answer:** "Reddit has no accountability. On Tirak, guides are ID-checked, both sides leave reviews, and you have a team to report to if something goes wrong."
 
-### Pricing
-**Objection:** "฿1,500-2,500 seems expensive."
-- **Rebuttal:** "Compare to ToursByLocals (฿10,000) or group tours (฿2,000 for scripted buses). This is private, personalized, and fair—locals keep 85%."
-- **Proof Point:** Price comparison chart.
+### Pricing & Payment
+**Objection:** "How do I pay?"
+- **Answer:** "During the soft launch you pay your guide in cash at the meeting point. There are no in-app payments yet."
 
 ---
 
-## Partner FAQ
+## Local Guide FAQ
 
 ### How much do I earn per booking?
-Partners keep **80–85% of every booking**. Tirak charges a small service fee to travelers, not vendors.
+Founding guides pay **0% commission until 7 March 2027** — you keep the full price you set.
 
 ### How long does approval take?
-Most applications are reviewed and approved within **24 hours**.
+The Tirak team reviews every application and checks your ID before approval. We'll keep you updated while we review.
 
 ### Do I need to be exclusive to Tirak?
-No. There's **no exclusivity requirement**. Keep all your other channels — Tirak complements your existing business.
+No. There's **no exclusivity requirement**. Keep all your other channels — Tirak complements what you already do.
 
 ### How do I get paid?
-Payments are processed via **bank transfer within 24–48 hours** of a completed booking.
+During the soft launch, the traveler pays you **in cash at the meeting point**. There are no in-app payments yet.
 
 ### Can I set my own prices?
-Yes. You have **full pricing control** — set your own rates with no minimum or maximum restrictions.
+Yes. You have **full pricing control** — set your own rates with no minimum or maximum.
 
-### What categories do you support?
-We support **10 experience categories**: Leisure & Experience DMCs, MICE & Event DMCs, Transport & Transfer, Adventure & Outdoor, Food & Culinary, Wellness & Spa, Boutique Hotels & Hostels, Nightlife & Entertainment, Cinema & Entertainment, and Lifestyle & Experiences.
-
-### How many partners are in the network?
-Currently **614+ verified partners** across Thailand.
+### Where is Tirak available?
+The soft launch is **Bangkok only**, invite-led, on Android and the web app.
 
 ### Do I need professional photos?
-High-quality photos help attract bookings. For early adopters, we can assist with professional photography.
-
-### What if I need to block certain dates?
-You have **full calendar control** with blackout dates, so you can manage your availability in real time.
+No. Real photos from your phone are perfect.
 
 ### How do I contact Tirak for support?
-Reach us via **WhatsApp, LINE, or email** (partners@tirak.app). We respond within 24 hours.
+Reach us via **WhatsApp, LINE, or email** (partners@tirak.app).
 
-### Can I update my listings after going live?
-Yes. You can **update your listings anytime** — change descriptions, photos, pricing, and availability through the partner dashboard.
+### Can I update my profile after approval?
+Yes. You can update your description, photos, price, and availability anytime.

@@ -32,7 +32,7 @@ lastUpdated: 2026-01-22
 - **Authenticity** - Wants real Thailand, not Khao San Road tourist bubble or group tour scripts
 - **Connection** - Traveling alone, craves social interaction with locals and expats beyond hostel small talk
 - **Efficiency** - Short on time (works 9am-5pm), wants curated experiences without hours of research
-- **Safety & Trust** - Needs verification that companions are legit (not scammers, not dangerous)
+- **Safety & Trust** - Needs verification that local guides are legit (not scammers, not dangerous)
 - **Flexibility** - Spontaneous plans, last-minute bookings, adaptable to changing schedules
 - **Status** - Wants Instagram-worthy moments and unique stories to share with friends back home
 - **Learning** - Curious about culture, language, history beyond Lonely Planet surface-level facts
@@ -54,10 +54,10 @@ Connor wants authentic local experiences in Thailand that feel like hanging out 
   * *Frustration:* "I posted 'What should I do in Chiang Mai this weekend?' and got 47 conflicting answers. Half were generic ('temples, night market, cooking class'), half were sketchy ('DM me bro I can show you around' from accounts with zero post history and no reviews). I spent 6 hours sorting through replies, Googling names, checking if people were legit, and STILL didn't know who to trust. One guy offered to show me around, I DM'd him, he asked for $20 upfront via PayPal 'for gas,' then ghosted. Waste of time."
 
 * **Method:** Meeting random locals at bars/hostels and hoping they'll show you around
-  * *Frustration:* "I met a cool Thai dude at a rooftop bar in Thonglor and he offered to show me around Bangkok the next day. I was pumped—finally, a local friend! We exchanged numbers, made plans for 11am coffee. He bailed last minute with no explanation ('sorry bro something came up'). Another time, I met someone at a hostel who insisted on taking me to their 'friend's shop' for 30 minutes—obvious commission deal, super uncomfortable. I just want low-pressure hangouts with people who aren't trying to extract money or favors. Is that too much to ask?"
+  * *Frustration:* "I met a cool Thai dude at a rooftop bar in Thonglor and he offered to show me around Bangkok the next day. I was pumped—finally, a local friend! We exchanged numbers, made plans for 11am coffee. He bailed last minute with no explanation ('sorry bro something came up'). Another time, I met someone at a hostel who insisted on taking me to their 'friend's shop' for 30 minutes—obvious commission deal, super uncomfortable. I just want low-pressure experiences with people who aren't trying to extract money or favors. Is that too much to ask?"
 
 * **Method:** Hiring private guides from Google searches or hostel referrals
-  * *Frustration:* "I Googled 'Bangkok private tour guide' and the results were either luxury concierge services ($300/day, way overkill for a casual hangout) or random websites with no reviews ('Book Now! Best Guide in Bangkok!'). I booked one through my hostel's recommendation—the guy showed up an hour late, didn't speak much English (even though his profile said 'fluent'), and took me to a bunch of tourist traps anyway (floating market, generic temple tour). No way to vet them beforehand, no reviews, no accountability. Felt scammed."
+  * *Frustration:* "I Googled 'Bangkok private tour guide' and the results were either luxury concierge services ($300/day, way overkill for a casual experience) or random websites with no reviews ('Book Now! Best Guide in Bangkok!'). I booked one through my hostel's recommendation—the guy showed up an hour late, didn't speak much English (even though his profile said 'fluent'), and took me to a bunch of tourist traps anyway (floating market, generic temple tour). No way to vet them beforehand, no reviews, no accountability. Felt scammed."
 
 * **Method:** Using dating apps (Tinder, Bumble) to meet locals and asking them to hang out
   * *Frustration:* "Okay, this sounds weird, but I tried using Tinder to meet local Thai people just to hang out (I switched my profile to 'looking for friends'). It... did not work. Most matches ghosted after I explained I just wanted to explore the city together (not hook up). The few who were down to hang out either flaked last minute or had wildly different vibes than me (one person wanted to go clubbing until 4am on a Tuesday when I had work the next day). It's the wrong platform for this. I need a way to match with locals based on interests and availability, not swipe left/right on selfies."
@@ -71,7 +71,7 @@ Connor's problem isn't lack of curiosity or budget—he's willing to pay $50-100
 - **Random bar encounters** optimize for **spontaneity**: fun in theory (organic meetups!), unreliable in practice (no commitment, no vetting, no guarantee they'll show up).
 - **Private guide directories** optimize for **coverage**: list everyone, let the user figure it out. No curation, no trust layer, no way to separate good guides from mediocre ones.
 
-What Connor needs is a platform that **optimizes for trust and curation**: verified local companions (background checks, real profiles, review history), vibe-based matching (find someone whose personality and interests align with his), instant booking (no DM negotiations or haggling), and safety infrastructure (secure payments, in-app messaging, report system).
+What Connor needs is a platform that **optimizes for trust and curation**: ID-checked local guides (real profiles, review history), vibe-based matching (find someone whose personality and interests align with his), instant booking (no DM negotiations or haggling), and safety infrastructure (public meeting points, in-app messaging, report system).
 
 The fundamental shift is from "find anyone" to "find the RIGHT person." Existing platforms give you volume; Tirak should give you precision. It's the difference between Tinder (swipe through 100 randoms) and eHarmony (match with 3 highly compatible people).
 
@@ -97,25 +97,25 @@ The fundamental shift is from "find anyone" to "find the RIGHT person." Existing
 
 If a Magic Genie created the perfect platform for Connor, it would deliver:
 
-1. **Vibe-based matching** - Filter companions by interests (food, nightlife, wellness, adventure, culture) and personality type
-2. **Verified companion profiles** - See real photos, read reviews, check languages spoken, verify ID before booking
+1. **Vibe-based matching** - Filter local guides by interests (food, nightlife, wellness, adventure, culture) and personality type
+2. **Verified guide profiles** - See real photos, read reviews, check languages spoken, verify ID before booking
 3. **Instant booking** - Confirm experiences in seconds with one click (no DM negotiations or price haggling)
 4. **Transparent pricing** - Know exactly what you're paying upfront (no hidden fees, no tipping pressure, no surprise markups)
 5. **Last-minute availability** - Book same-day or next-day experiences for spontaneous plans ("I'm free tonight, who's available?")
-6. **Secure in-app payments** - Pay through platform with credit card, no awkward cash exchanges or Venmo requests
-7. **In-app messaging** - Chat with companion before booking to confirm vibe and logistics (but not give out personal phone number)
+6. **Clear pricing** - The guide's price is agreed up front; during the soft launch you pay the guide in cash at the meeting point
+7. **In-app messaging** - Chat with local guide before booking to confirm vibe and logistics (but not give out personal phone number)
 8. **Review system** - Read honest reviews from other travelers, leave feedback after experience
-9. **Local expertise** - Companions who actually live there (not expats who moved 6 months ago), speak Thai, know hidden spots
-10. **Flexible experience lengths** - Book 2-hour coffee hangout, 4-hour food tour, or 8-hour full-day adventure
-11. **Personalized itineraries** - Companions who adapt to your interests (not follow rigid scripts or checklists)
-12. **English fluency verification** - Filter for companions who speak your language level (conversational vs fluent)
-13. **Safety features** - Platform verifies IDs, holds payment in escrow, provides emergency contact system
-14. **Repeat booking option** - Re-book favorite companions easily if first experience was great
-15. **Social proof** - See companion's rating (4.9/5.0), number of experiences hosted (127), response time (2 hours average)
+9. **Local expertise** - Local Guides who actually live there (not expats who moved 6 months ago), speak Thai, know hidden spots
+10. **Flexible experience lengths** - Book 2-hour coffee meetup, 4-hour food tour, or 8-hour full-day adventure
+11. **Personalized itineraries** - Local Guides who adapt to your interests (not follow rigid scripts or checklists)
+12. **English fluency verification** - Filter for local guides who speak your language level (conversational vs fluent)
+13. **Safety features** - The Tirak team checks guide IDs, first meetings at public meeting points, report button
+14. **Repeat booking option** - Re-book favorite guides easily if first experience was great
+15. **Social proof** - See local guide's rating (4.9/5.0), number of experiences hosted (127), response time (2 hours average)
 16. **Cancellation policy** - Clear rules on cancellations and refunds (no ambiguity or lost money)
-17. **Local insider access** - Companions who can get you into members-only speakeasies, rooftop bars, hidden restaurants
+17. **Local insider access** - Local Guides who can get you into members-only speakeasies, rooftop bars, hidden restaurants
 18. **Cultural education** - Learn about Thai history, politics, religion beyond Wikipedia facts (from someone who actually knows)
-19. **Photography help** - Companions who'll take Instagram photos for you without being asked (because they get it)
+19. **Photography help** - Local Guides who'll take Instagram photos for you without being asked (because they get it)
 20. **Friendship potential** - Option to stay in touch after experience (exchange socials, meet up again later)
 
 ### The 20 Anti-Goals (The "Don't Wants")
@@ -131,16 +131,16 @@ Connor does NOT want to:
 7. **Give out personal phone** - No sharing WhatsApp with strangers before meeting them
 8. **Handle cash transactions** - No scrambling for ATM or asking "Do you have change for ฿1,000?"
 9. **Follow rigid itineraries** - No being forced to visit temples when he wants food, or markets when he wants bars
-10. **Deal with language barriers** - No companions who say "fluent English" but can barely hold conversation
+10. **Deal with language barriers** - No local guides who say "fluent English" but can barely hold conversation
 11. **Get taken to tourist traps** - No "friend's shop" detours or commission-based stops at overpriced stores
 12. **Navigate alone** - No solo wandering while trying to translate street signs or ask for directions
 13. **Settle for mediocre** - No booking someone just because they're available (wants quality match)
-14. **Waste time on no-shows** - No sitting at coffee shop for 45 minutes wondering if companion will show up
-15. **Pay luxury prices** - No $300/day concierge services when he just wants casual hangout
+14. **Waste time on no-shows** - No sitting at coffee shop for 45 minutes wondering if local guide will show up
+15. **Pay luxury prices** - No $300/day concierge services when he just wants casual experience
 16. **Feel like a burden** - No asking locals for favors ("Can you show me around?") and feeling guilty
 17. **Miss hidden gems** - No visiting only Lonely Planet Top 10 spots that every tourist hits
 18. **Travel alone constantly** - No eating solo at restaurants or exploring temples by himself (craves social connection)
-19. **Get catfished** - No showing up to meet companion and realizing their profile was fake/outdated
+19. **Get catfished** - No showing up to meet local guide and realizing their profile was fake/outdated
 20. **Overpay for nothing** - No spending $60 on Viator tour that he could've done better himself for free
 
 ### Anti-Goal Voices (Direct Quotes)
@@ -151,7 +151,7 @@ Connor does NOT want to:
 
 > "I met a local at a bar who offered to show me around, we exchanged numbers, made plans, and he bailed last minute with 'sorry bro something came up.' That's the third time this has happened. I get that things come up, but there's zero accountability. No penalty for flaking, no bad review he has to worry about. If there's no consequences for ghosting, why would anyone show up?"
 
-> "I don't want to use Tinder to find friends. That's not what it's for. But there's literally no other app that lets me match with locals based on shared interests and availability. So I'm stuck either swiping through dating profiles (weird) or posting on Reddit (sketchy). Someone needs to build the 'Tinder for platonic local hangouts.' Please."
+> "I don't want to use Tinder to find friends. That's not what it's for. But there's literally no other app that lets me match with locals based on shared interests and availability. So I'm stuck either swiping through dating profiles (weird) or posting on Reddit (sketchy). Someone needs to build the 'Tinder for platonic local experiences.' Please."
 
 > "Group tours are the worst ROI in travel. $60 to stand in the back of a crowd, hear facts I could've Googled, and visit places that are packed with other tourists doing the same tour. I'd rather pay $80 to hang out one-on-one with a local who actually knows the city and can show me places tourists don't go. But where's that option?"
 
@@ -173,7 +173,7 @@ Connor does NOT want to:
 
 * **Status:** His Instagram would reflect authentic travel, not tourist clichés—hidden rooftop bars, local markets, genuine cultural moments (not Khao San Road or elephant sanctuaries every expat visits).
 
-* **Safety:** He'd explore Bangkok without fear of scams, sketchy situations, or getting lost in neighborhoods where no one speaks English. Verified companions = peace of mind.
+* **Safety:** He'd explore Bangkok without fear of scams, sketchy situations, or getting lost in neighborhoods where no one speaks English. Verified guides = peace of mind.
 
 * **Value:** He'd feel like his money was well spent—$80 for 4 hours with a cool local who showed him hidden gems beats $60 for a mediocre group tour with 25 strangers.
 
@@ -181,7 +181,7 @@ Connor does NOT want to:
 
 * **Adventure:** He'd take risks and try spontaneous plans ("Let's check out that night market tonight!") without fear of wasting time or money on bad decisions.
 
-* **Social fulfillment:** He'd cure loneliness that comes with solo travel—eating meals with companions, laughing over beers, sharing travel stories, feeling part of a community.
+* **Social fulfillment:** He'd cure loneliness that comes with solo travel—eating meals with local guides, laughing over beers, sharing travel stories, feeling part of a community.
 
 * **Trust:** He'd trust the process—know that if he books someone through Tirak, they're verified, reviewed, reliable. No more anxiety about "Is this person legit?"
 
@@ -251,10 +251,10 @@ Connor does NOT want to:
   ],
   "ideal_outcomes": [
     "Vibe-based matching (filter by interests and personality)",
-    "Verified companion profiles with reviews and ratings",
+    "Verified guide profiles with reviews and ratings",
     "Instant booking with transparent pricing",
     "Last-minute availability for spontaneous plans",
-    "Secure in-app payments (no cash)",
+    "Clear up-front pricing (cash to the guide at the meeting point during the soft launch)",
     "In-app messaging (no personal phone sharing)",
     "Local expertise (hidden gems, insider access)",
     "Flexible experience lengths (2hr to 8hr)",
@@ -289,4 +289,4 @@ Connor does NOT want to:
 
 Understanding these customer personas helps you craft better experiences. When you list on Tirak, you're reaching travelers who match these profiles — people actively seeking authentic local experiences in Thailand.
 
-[**Start listing your experiences →**](/docs/06-vendor-pipeline/pipeline-overview)
+[**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)

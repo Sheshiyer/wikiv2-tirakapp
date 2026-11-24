@@ -24,7 +24,7 @@ title: Product Positioning Summary
 - Access to unique, local, and off-the-beaten-path activity options.
 - Reliability and trust in booking platforms to ensure a smooth experience.
 
-#### Companion
+#### Local Guide
 
 **Description**: An individual accompanying the Traveler, desiring to be included in the experience selection, enjoy shared moments, and participate easily without the burden of planning. Their satisfaction is key to a successful shared experience.
 
@@ -42,9 +42,9 @@ title: Product Positioning Summary
 
 **Category**: Experience Discovery & Booking Platform (Personalized & Group-Focused)
 
-**Core Problem**: The fragmented, time-consuming, and often unpersonalized process of finding, planning, and booking diverse experiences for individuals and groups across various interest categories. Existing platforms often lack the depth of personalization or robust group coordination features, failing to cater comprehensively to both the primary planner (Traveler) and their participants (Companions).
+**Core Problem**: The fragmented, time-consuming, and often unpersonalized process of finding, planning, and booking diverse experiences for individuals and groups across various interest categories. Existing platforms often lack the depth of personalization or robust group coordination features, failing to cater comprehensively to both the primary planner (Traveler) and their participants (Local Guides).
 
-**Simple Description**: TIRAK is the ultimate, AI-powered platform for personalized and seamless discovery, planning, and booking of diverse experiences across 9 core categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink), meticulously designed to empower both independent Travelers and their Companions to create unforgettable memories together.
+**Simple Description**: TIRAK is the ultimate, AI-powered platform for personalized and seamless discovery, planning, and booking of diverse experiences across 9 core categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink), meticulously designed to empower both independent Travelers and their Local Guides to create unforgettable memories together.
 
 #### Performance
 
@@ -57,13 +57,13 @@ title: Product Positioning Summary
 
 ##### Points Of Difference
 
-- Hyper-personalization for dual personas (Traveler & Companion) via advanced AI-driven recommendation engines, considering individual and group dynamics.
+- Hyper-personalization for dual personas (Traveler & Local Guide) via advanced AI-driven recommendation engines, considering individual and group dynamics.
 - Exhaustive, curated coverage across ALL 9 categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink), ensuring unparalleled depth and variety beyond typical platforms.
 - Streamlined group booking, flexible payment splitting, and intuitive itinerary sharing features, simplifying complex coordination.
 - Exclusive access to unique, local, and niche experiences often overlooked by mainstream platforms, emphasizing authenticity.
 - Conversion-focused user journey with intuitive design, transparent pricing, and clear value proposition, optimizing for quick and confident bookings.
 
-**Value Logic**: TIRAK delivers unparalleled convenience, significantly reduces planning stress, and maximizes satisfaction by offering a single, intelligent hub for all experiential needs. It not only saves invaluable time and effort for the Traveler but also deeply enhances engagement and enjoyment for the Companion, fostering stronger connections and creating truly memorable shared moments across every conceivable interest category and budget.
+**Value Logic**: TIRAK delivers unparalleled convenience, significantly reduces planning stress, and maximizes satisfaction by offering a single, intelligent hub for all experiential needs. It not only saves invaluable time and effort for the Traveler but also deeply enhances engagement and enjoyment for the Local Guide, fostering stronger connections and creating truly memorable shared moments across every conceivable interest category and budget.
 
 #### Imagery
 
@@ -81,9 +81,9 @@ title: Product Positioning Summary
 
 ---
 
-**Persona**: Companion
+**Persona**: Local Guide
 
-**Scene**: A Companion receives a personalized notification from TIRAK: 'Your friend just suggested a 'Culture' walking tour and a 'Food & Drink' tasting workshop for your upcoming trip!' They can instantly view details, express interest, and contribute their share of the cost, feeling excited and fully included in the decision-making.
+**Scene**: A Local Guide receives a personalized notification from TIRAK: 'Your friend just suggested a 'Culture' walking tour and a 'Food & Drink' tasting workshop for your upcoming trip!' They can instantly view details, express interest, and contribute their share of the cost, feeling excited and fully included in the decision-making.
 
 ---
 
@@ -139,7 +139,7 @@ title: Product Positioning Summary
 - Relaxed
 - In Control
 
-###### Companion
+###### Local Guide
 
 - Included
 - Delighted
@@ -176,11 +176,11 @@ title: Product Positioning Summary
 - Integration with local expert guides and communities to ensure authentic, insider offerings and support local economies.
 - Robust features for collaborative planning, voting, and real-time communication within groups, enhancing collective decision-making.
 
-**Narrative Traveler Persona**: For the modern Traveler, the quest for authentic, enriching experiences often comes with the burden of endless research, scattered bookings, and the challenge of coordinating with companions. TIRAK emerges as the definitive solution, transforming the planning process into an effortless journey of discovery. We understand that your travel isn't just about destinations, but about the unique moments within them, whether you're seeking the thrill of an **Adventure**, the tranquility of **Wellness**, a deep dive into local **Culture**, or an unforgettable **Nightlife** experience.
+**Narrative Traveler Persona**: For the modern Traveler, the quest for authentic, enriching experiences often comes with the burden of endless research, scattered bookings, and the challenge of coordinating with local guides. TIRAK emerges as the definitive solution, transforming the planning process into an effortless journey of discovery. We understand that your travel isn't just about destinations, but about the unique moments within them, whether you're seeking the thrill of an **Adventure**, the tranquility of **Wellness**, a deep dive into local **Culture**, or an unforgettable **Nightlife** experience.
 
-TIRAK's core value lies in its hyper-personalized approach. Forget generic search results; our AI-driven engine learns your preferences, presenting curated options across all 9 categories – from exclusive **Private** tours to immersive **Food & Drink** tastings, captivating **Cinema** events, and dynamic local **Events**. What sets TIRAK apart is not just the breadth of options but the depth of personalization and the seamless integration for group planning. You're not just booking an activity; you're securing a meticulously tailored experience that aligns perfectly with your adventurous spirit and ensures your companions are equally delighted. We alleviate the stress of coordination, allowing you to focus on the excitement of anticipation and the joy of shared memories. Choose TIRAK to unlock a world of personalized experiences, streamline your planning, and ensure every journey is extraordinary, every time.
+TIRAK's core value lies in its hyper-personalized approach. Forget generic search results; our AI-driven engine learns your preferences, presenting curated options across all 9 categories – from exclusive **Private** tours to immersive **Food & Drink** tastings, captivating **Cinema** events, and dynamic local **Events**. What sets TIRAK apart is not just the breadth of options but the depth of personalization and the seamless integration for group planning. You're not just booking an activity; you're securing a meticulously tailored experience that aligns perfectly with your adventurous spirit and ensures your local guides are equally delighted. We alleviate the stress of coordination, allowing you to focus on the excitement of anticipation and the joy of shared memories. Choose TIRAK to unlock a world of personalized experiences, streamline your planning, and ensure every journey is extraordinary, every time.
 
-**Narrative Companion Persona**: As a Companion, your joy often comes from shared experiences, but the hassle of planning or feeling left out of the decision-making can diminish the excitement. TIRAK is designed to bring you into the heart of every adventure, ensuring you're not just a participant, but an integral part of creating unforgettable memories. We recognize that while the Traveler might handle the initial logistics, your preferences for a relaxing **Wellness** retreat, an exciting **Adventure**, a vibrant **Nightlife** excursion, or a captivating **Culture** immersion are equally vital.
+**Narrative Local Guide Persona**: As a Local Guide, your joy often comes from shared experiences, but the hassle of planning or feeling left out of the decision-making can diminish the excitement. TIRAK is designed to bring you into the heart of every adventure, ensuring you're not just a participant, but an integral part of creating unforgettable memories. We recognize that while the Traveler might handle the initial logistics, your preferences for a relaxing **Wellness** retreat, an exciting **Adventure**, a vibrant **Nightlife** excursion, or a captivating **Culture** immersion are equally vital.
 
-TIRAK empowers Companions by offering an intuitive, personalized interface that complements the Traveler's planning. Our platform delivers tailored recommendations based on your shared interests, making it easy to discover and engage with activities across all 9 categories – from unique **Lifestyle** workshops to engaging **Food & Drink** experiences, special **Cinema** showings, and local **Events**. The days of complicated group bookings are over; TIRAK simplifies payment, communication, and itinerary sharing, ensuring you feel included and excited from the moment of discovery to the experience itself. We build trust through curated, high-quality offerings and foster feelings of connection and delight. With TIRAK, you're always in sync, always celebrated, and always ready to embrace the next incredible moment together, effortlessly enhancing every shared journey.
+TIRAK empowers Local Guides by offering an intuitive, personalized interface that complements the Traveler's planning. Our platform delivers tailored recommendations based on your shared interests, making it easy to discover and engage with activities across all 9 categories – from unique **Lifestyle** workshops to engaging **Food & Drink** experiences, special **Cinema** showings, and local **Events**. The days of complicated group bookings are over; TIRAK simplifies payment, communication, and itinerary sharing, ensuring you feel included and excited from the moment of discovery to the experience itself. We build trust through curated, high-quality offerings and foster feelings of connection and delight. With TIRAK, you're always in sync, always celebrated, and always ready to embrace the next incredible moment together, effortlessly enhancing every shared journey.
 
