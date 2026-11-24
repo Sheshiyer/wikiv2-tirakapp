@@ -1,4 +1,5 @@
 import { getAppConfig, getDefaults, isAuthorizedRequest, type Env } from './config';
+import { checkPublicChatRateLimit, getAllowedCorsOrigin, MAX_PUBLIC_QUERY_CHARS } from './access';
 import { createChatCompletion } from './nvidia';
 import { formatContext, ingestCorpusForApp, searchAppCorpus } from './retrieve';
 import type { CorpusFile } from './types';
@@ -127,8 +128,22 @@ async function handleChat(request: Request, env: Env): Promise<Response> {
     return json(createLocalDevChatResponse(appId, body));
   }
 
-  if (!(await isAuthorizedRequest(env, request, appId))) {
-    return json({ error: 'Unauthorized' }, 401);
+  // Server-to-server callers may still present the per-app bearer token.
+  // Browsers never hold it: public chat is allowed only from an exact
+  // allowlisted Origin and is rate limited per client IP.
+  const hasBearer = await isAuthorizedRequest(env, request, appId);
+  if (!hasBearer) {
+    if (!getAllowedCorsOrigin(request.headers.get('origin'), env)) {
+      return json({ error: 'Origin not allowed' }, 403);
+    }
+
+    if (body.query.length > MAX_PUBLIC_QUERY_CHARS) {
+      return json({ error: `query must be at most ${MAX_PUBLIC_QUERY_CHARS} characters` }, 400);
+    }
+
+    if (!(await checkPublicChatRateLimit(request, env, appId))) {
+      return json({ error: 'Too many requests. Please wait a minute and try again.' }, 429);
+    }
   }
 
   const appConfig = await getAppConfig(env, appId);
@@ -356,28 +371,6 @@ function corsHeaders(request: Request, env: Env): Record<string, string> {
   }
 
   return headers;
-}
-
-function getAllowedCorsOrigin(origin: string | null, env: Env): string | null {
-  if (!origin) {
-    return null;
-  }
-
-  try {
-    const url = new URL(origin);
-    const hostname = url.hostname.toLowerCase();
-    const isTirakDomain = hostname === 'tirak.app' || hostname.endsWith('.tirak.app');
-    const isVercelPreview = hostname === 'vercel.app' || hostname.endsWith('.vercel.app');
-    const isLocalDev = env.ENVIRONMENT === 'development' && (hostname === 'localhost' || hostname === '127.0.0.1');
-
-    if ((url.protocol === 'https:' && (isTirakDomain || isVercelPreview)) || (url.protocol === 'http:' && isLocalDev)) {
-      return origin;
-    }
-  } catch {
-    return null;
-  }
-
-  return null;
 }
 
 async function withTimeout<T>(promise: Promise<T>, timeoutMs: number, message: string): Promise<T> {

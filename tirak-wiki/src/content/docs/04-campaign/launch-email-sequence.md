@@ -14,7 +14,7 @@ title: Launch Email Sequence
 
 The moment you've been waiting for has arrived. TIRAK is officially LIVE, and as a valued member of our community, you have exclusive first access to redefine your world of experiences. TIRAK isn't just travel; it's a curated journey designed for discovery, connection, and pure indulgence.
 
-Whether you're a solo **Traveler** seeking a thrilling **Adventure** or a serene **Wellness** retreat, or planning an unforgettable shared experience like a bespoke **Food & Drink** tour or an exclusive **Private** event with a **Companion**, TIRAK delivers. Explore vibrant **Culture**, electrifying **Nightlife**, immersive **Cinema** experiences, captivating **Events**, and a refined **Lifestyle** – all seamlessly arranged and tailored to your desires.
+Whether you're a solo **Traveler** seeking a thrilling **Adventure** or a serene **Wellness** retreat, or planning an unforgettable shared experience like a bespoke **Food & Drink** tour or an exclusive **Private** event with a **Local Guide**, TIRAK delivers. Explore vibrant **Culture**, electrifying **Nightlife**, immersive **Cinema** experiences, captivating **Events**, and a refined **Lifestyle** – all seamlessly arranged and tailored to your desires.
 
 Forget the endless planning and discover a world where every detail is perfected, every moment is meaningful. Your journey to unparalleled experiences begins now.
 
@@ -55,7 +55,7 @@ The TIRAK Team
 
 The response to TIRAK's launch has been incredible! We've seen an overwhelming rush for our curated experiences, and many of our most sought-after launch offers and unique experiences are filling up fast.
 
-This is a quick reminder: Don't let this opportunity slip away to secure your spot for a truly unique **Culture** immersion, a thrilling **Adventure** expedition, or a vibrant **Nightlife** escapade. Imagine planning a seamless **Lifestyle** getaway with your **Companion**, or diving deep into a **Cinema** festival or an exclusive **Private** culinary tour without any of the hassle. Our **Wellness** retreats and VIP **Events** are also seeing high demand.
+This is a quick reminder: Don't let this opportunity slip away to secure your spot for a truly unique **Culture** immersion, a thrilling **Adventure** expedition, or a vibrant **Nightlife** escapade. Imagine planning a seamless **Lifestyle** getaway with your **Local Guide**, or diving deep into a **Cinema** festival or an exclusive **Private** culinary tour without any of the hassle. Our **Wellness** retreats and VIP **Events** are also seeing high demand.
 
 These exclusive launch offers won't last. Ensure you claim your preferred TIRAK experience before they're gone.
 
@@ -96,7 +96,7 @@ The TIRAK Team
 
 We heard you! The excitement around TIRAK's launch has been phenomenal, and many of you reached out needing a little more time to explore our offerings. To ensure fairness and give everyone a chance, we've extended our exclusive launch offers for another {extension_duration}!
 
-This is your opportunity to truly delve into the unparalleled world of TIRAK. Whether you're a **Traveler** yearning for a solo **Adventure** or a deep **Culture** immersion, or a **Companion** looking to surprise a loved one with a unique **Food & Drink** experience, TIRAK offers meticulously curated options across all 9 categories – from serene **Wellness** to thrilling **Events**, from sophisticated **Lifestyle** experiences to exclusive **Private** access and vibrant **Nightlife** or captivating **Cinema** screenings.
+This is your opportunity to truly delve into the unparalleled world of TIRAK. Whether you're a **Traveler** yearning for a solo **Adventure** or a deep **Culture** immersion, or a **Local Guide** looking to surprise a loved one with a unique **Food & Drink** experience, TIRAK offers meticulously curated options across all 9 categories – from serene **Wellness** to thrilling **Events**, from sophisticated **Lifestyle** experiences to exclusive **Private** access and vibrant **Nightlife** or captivating **Cinema** screenings.
 
 Don't let this second chance pass you by. Explore the possibilities and craft your next unforgettable memory.
 
@@ -135,7 +135,7 @@ The TIRAK Team
 
 What truly sets TIRAK apart from the ordinary? Our unwavering commitment to seamless personalization and access to experiences you simply won't find anywhere else. Forget the stress of endless research and planning; TIRAK curates your perfect escape, making every moment effortless.
 
-For the discerning **Traveler**, this means bespoke **Culture** tours designed to your interests, solo **Adventure** treks into uncharted territories, or private **Wellness** retreats tailored just for your rejuvenation. For the thoughtful **Companion**, it means effortlessly arranging a romantic **Lifestyle** getaway, a thrilling **Nightlife** experience for two, or a truly unique **Private** event that delights everyone – all without lifting a finger.
+For the discerning **Traveler**, this means bespoke **Culture** tours designed to your interests, solo **Adventure** treks into uncharted territories, or private **Wellness** retreats tailored just for your rejuvenation. For the thoughtful **Local Guide**, it means effortlessly arranging a romantic **Lifestyle** getaway, a thrilling **Nightlife** experience for two, or a truly unique **Private** event that delights everyone – all without lifting a finger.
 
 We unlock doors to hidden gems: from intimate **Cinema** screenings and exclusive **Food & Drink** tastings to VIP access at major **Events**. TIRAK transforms your aspirations into unforgettable realities.
 
@@ -178,7 +178,7 @@ At TIRAK, quality is paramount. Our experiences are not just selected; they are 
 
 *   `{press_quote_1}` - *'TIRAK redefines luxury travel, offering an unparalleled spectrum from heart-pounding **Adventure** to serene **Wellness** retreats, perfect for the discerning **Traveler**.'* 
 
-*   `{press_quote_2}` - *'For **Companions** seeking truly unique shared moments, TIRAK's curated **Food & Drink** tours, vibrant **Nightlife**, and exclusive **Events** are simply unmatched. It's the ultimate **Lifestyle** upgrade.'*
+*   `{press_quote_2}` - *'For **Local Guides** seeking truly unique shared moments, TIRAK's curated **Food & Drink** tours, vibrant **Nightlife**, and exclusive **Events** are simply unmatched. It's the ultimate **Lifestyle** upgrade.'*
 
 This commitment to excellence spans every single category, ensuring whether you're exploring ancient **Culture**, indulging in a **Private** culinary masterclass, or immersing yourself in a **Cinema** festival, your TIRAK experience will be nothing short of extraordinary. We ensure every detail, every moment, reflects the highest standard.
 
@@ -217,7 +217,7 @@ The TIRAK Team
 
 **Body**: Dear {first_name},
 
-It's been an incredible launch week, with over {current_bookings_number} **Travelers** and **Companions** already embarking on their unique TIRAK journeys! This is your final opportunity to secure our special launch offers before they conclude on {launch_period_end_date}.
+It's been an incredible launch week, with over {current_bookings_number} **Travelers** and **Local Guides** already embarking on their unique TIRAK journeys! This is your final opportunity to secure our special launch offers before they conclude on {launch_period_end_date}.
 
 Don't miss out on the chance to effortlessly explore a world of curated experiences:
 
@@ -231,7 +231,7 @@ Don't miss out on the chance to effortlessly explore a world of curated experien
 *   **Events:** VIP passes to major happenings & bespoke gatherings.
 *   **Food & Drink:** Gourmet tasting menus & authentic culinary classes.
 
-Whether you're planning a solo escape or an unforgettable journey with a **Companion**, TIRAK makes every moment count. This is your last call for these exclusive launch benefits.
+Whether you're planning a solo escape or an unforgettable journey with a **Local Guide**, TIRAK makes every moment count. This is your last call for these exclusive launch benefits.
 
 Secure your next extraordinary experience today.
 
@@ -285,5 +285,5 @@ The TIRAK Team
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 

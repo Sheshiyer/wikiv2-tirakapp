@@ -8,11 +8,11 @@ title: Visual Identity Core
 
 **Mood**: Curated Connection & Authentic Exploration
 
-**Description**: The visual strategy aims to strike a balance between the intimate, shared experiences sought by the 'Companion' persona and the adventurous, discovery-driven spirit of the 'Traveler' persona, spanning all nine categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink). The overall aesthetic is aspirational yet grounded in authenticity, fostering a sense of warmth, trust, and excitement. It’s conversion-focused, meaning visuals are clear, inviting, and directly communicate the value proposition of unique, personalized experiences. The 'lean' budget tier necessitates smart choices in imagery and typography that are impactful without being overly complex or custom-intensive. The visual mood evokes a sense of possibility, seamless connection, and the joy of shared or individual discovery.
+**Description**: The visual strategy aims to strike a balance between the intimate, shared experiences sought by the 'Local Guide' persona and the adventurous, discovery-driven spirit of the 'Traveler' persona, spanning all nine categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink). The overall aesthetic is aspirational yet grounded in authenticity, fostering a sense of warmth, trust, and excitement. It’s conversion-focused, meaning visuals are clear, inviting, and directly communicate the value proposition of unique, personalized experiences. The 'lean' budget tier necessitates smart choices in imagery and typography that are impactful without being overly complex or custom-intensive. The visual mood evokes a sense of possibility, seamless connection, and the joy of shared or individual discovery.
 
 #### Persona Integration
 
-**Companion**: For the Companion, visuals emphasize shared moments, intimate connections, comfort, and ease. Imagery will often feature two or more people engaging joyfully, making eye contact, or sharing an experience (e.g., a couple enjoying a meal, friends at a concert, family exploring a cultural site). The focus is on the emotional bond and the seamlessness of creating memorable experiences together.
+**Local Guide**: For the Local Guide, visuals emphasize shared moments, intimate connections, comfort, and ease. Imagery will often feature two or more people engaging joyfully, making eye contact, or sharing an experience (e.g., a couple enjoying a meal, friends at a concert, family exploring a cultural site). The focus is on the emotional bond and the seamlessness of creating memorable experiences together.
 
 **Traveler**: For the Traveler, visuals highlight discovery, immersion, freedom, and unique local insights. Imagery will often showcase individuals or small groups actively exploring, engaging with local culture, or adventuring in scenic environments. The perspective often invites the viewer into the scene, emphasizing the breadth of experiences and the personal growth that comes from authentic exploration.
 
@@ -179,7 +179,7 @@ title: Visual Identity Core
 
 **Color Palette**: Consistent, slightly desaturated base with strategic pops of the brand's accent color (Vibrant Coral) to highlight key elements or emotions. Overall warmth and inviting tones.
 
-##### Examples Companion
+##### Examples Local Guide
 
 - A couple laughing while sharing a dish at a local restaurant (Food & Drink).
 - Friends cheering at a live concert, arms around each other (Events, Nightlife).

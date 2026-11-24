@@ -64,7 +64,7 @@ The Brandmint Team
 
 **Traveler**: Messaging highlights personal discovery, unique solo adventures, and exclusive access tailored to individual passions across the TIRAK categories (e.g., 'cultural deep-dives', 'thrilling adventures'). Emphasizes the freedom and depth of personal exploration.
 
-**Companion**: Messaging subtly incorporates the joy of shared experiences, ease of planning for two, and diverse options that cater to different preferences within a pair or group (e.g., 'those who cherish shared moments'). Implies that the VIP status enhances joint journeys.
+**Local Guide**: Messaging subtly incorporates the joy of shared experiences, ease of planning for two, and diverse options that cater to different preferences within a pair or group (e.g., 'those who cherish shared moments'). Implies that the VIP status enhances joint journeys.
 
 **Category Integration**: The email broadly covers the 9 TIRAK categories (Culture, Adventure, Wellness, Nightlife, Lifestyle, Private, Cinema, Events, Food & Drink) through evocative language such as 'cultural deep-dives,' 'thrilling adventures,' 'serene wellness retreats,' 'vibrant nightlife,' and 'unforgettable culinary journeys.' This ensures all facets of experience are hinted at without explicitly listing them, maintaining flow while assuring breadth.
 
@@ -105,7 +105,7 @@ The Brandmint Team
 
 **Reconfirmation**: Just a friendly reminder that your VIP status is active, and there's a world of exclusive experiences waiting for you.
 
-**Benefit Reinforcement**: Remember those unparalleled adventures we promised? From private cinema screenings and exclusive events to bespoke lifestyle experiences and gourmet food & drink tours – all tailored for the discerning traveler and their companions. Our private VIP group is where you'll find the keys to these unique moments, designed to elevate every journey, whether it's a personal quest or a shared escapade.
+**Benefit Reinforcement**: Remember those unparalleled adventures we promised? From private cinema screenings and exclusive events to bespoke lifestyle experiences and gourmet food & drink tours – all tailored for the discerning traveler and their local guides. Our private VIP group is where you'll find the keys to these unique moments, designed to elevate every journey, whether it's a personal quest or a shared escapade.
 
 ##### Cta Private Group
 
@@ -126,7 +126,7 @@ The Brandmint Team
 
 **Traveler**: Reinforces the opportunity for individual adventure and unique discovery across the TIRAK categories. Emphasizes 'personal quest' and securing 'first dibs' on experiences that align with their specific interests.
 
-**Companion**: Highlights the ease and enrichment of 'shared escapades' and 'creating cherished memories with someone special.' Positions the private group as a resource for coordinating and discovering diverse options suitable for joint experiences.
+**Local Guide**: Highlights the ease and enrichment of 'shared escapades' and 'creating cherished memories with someone special.' Positions the private group as a resource for coordinating and discovering diverse options suitable for joint experiences.
 
 **Category Integration**: This email explicitly mentions more specific examples from the 9 TIRAK categories: 'private cinema screenings,' 'exclusive events,' 'bespoke lifestyle experiences,' and 'gourmet food & drink tours.' This reinforces the breadth and premium nature of offerings, directly addressing more categories to ensure comprehensive coverage.
 
@@ -134,7 +134,7 @@ The Brandmint Team
 
 - Exclusivity & Status (Being a 'VIP', part of an inner circle, early access to premium experiences)
 - Anticipation & Discovery (The thrill of upcoming unique experiences, uncovering hidden gems, new adventures)
-- Connection & Shared Joy (For companions: joy of shared memories; for travelers: connecting with a like-minded community, enriching personal journeys)
+- Connection & Shared Joy (For local guides: joy of shared memories; for travelers: connecting with a like-minded community, enriching personal journeys)
 
 ## Technical Claims
 

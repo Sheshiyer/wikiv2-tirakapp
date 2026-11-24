@@ -32,7 +32,7 @@ const responseModes = [
 
 const promptSuggestions = [
   'Tell me about Tirak.',
-  'How do I start as a companion?',
+  'How do I start as a local guide?',
   'What makes Tirak different from other platforms?',
 ];
 
@@ -48,10 +48,11 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
   const config = useMemo(() => ({
     endpoint: import.meta.env.PUBLIC_RAG_API_URL ?? '',
     appId: import.meta.env.PUBLIC_RAG_APP_ID ?? 'tirak-wiki',
-    token: import.meta.env.PUBLIC_RAG_TOKEN ?? '',
   }), []);
 
-  const configMissing = !config.endpoint || !config.token;
+  // The browser never holds a RAG secret. The worker authorises public chat by
+  // strict Origin allowlist plus per-IP rate limiting (see workers/rag/README.md).
+  const configMissing = !config.endpoint;
   const submitDisabled = isLoading || !query.trim();
   const inputDisabled = isLoading;
 
@@ -64,7 +65,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
     }
 
     if (configMissing) {
-      setError('The assistant backend is not configured. Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN, then refresh.');
+      setError('The assistant backend is not configured. Set PUBLIC_RAG_API_URL, then refresh.');
       setIsLoading(false);
       return;
     }
@@ -84,7 +85,6 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
         signal: controller.signal,
         headers: {
           'content-type': 'application/json',
-          authorization: `Bearer ${config.token}`,
         },
         body: JSON.stringify({
           appId: config.appId,
@@ -194,7 +194,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
               </div>
               <p className="mt-2">
                 {configMissing
-                  ? 'Set PUBLIC_RAG_API_URL and PUBLIC_RAG_TOKEN to enable answers. You can still type a question below; the assistant will explain how to connect the backend.'
+                  ? 'Set PUBLIC_RAG_API_URL to enable answers. You can still type a question below; the assistant will explain how to connect the backend.'
                   : 'Connected to the configured RAG worker and scoped to the current page context.'}
               </p>
             </div>
@@ -206,7 +206,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
             <div className="flex items-center justify-between gap-3">
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-400">Conversation</p>
-                <p className="mt-1 text-sm text-gray-500">Ask anything about the current doc, product context, or companion guidance.</p>
+                <p className="mt-1 text-sm text-gray-500">Ask anything about the current doc, product context, or local guide guidance.</p>
               </div>
               <div className="flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-3 py-2 text-xs text-gray-300">
                 <span className={cn('h-2 w-2 rounded-full', configMissing ? 'bg-amber-400' : 'bg-emerald-400')} />
@@ -293,7 +293,7 @@ export const WikiAssistant = ({ docSlug, docTitle }: WikiAssistantProps) => {
                 onChange={(event) => setQuery(event.target.value)}
                 rows={3}
                 autoFocus
-                placeholder="Ask about companion onboarding, messaging, positioning, or any page-specific detail."
+                placeholder="Ask about local guide onboarding, messaging, positioning, or any page-specific detail."
                 disabled={inputDisabled}
                 className="pointer-events-auto w-full rounded-2xl border border-white/10 bg-[#17171d] px-4 py-4 text-sm text-white outline-none transition focus:border-[#9B8FD9] disabled:cursor-not-allowed disabled:opacity-50"
               />

@@ -32,7 +32,7 @@ title: Niche Validator
 
 - Overcrowded tourist traps, lack of authentic local interaction, difficulty finding niche cultural experiences, language barriers, disrespectful tourists, superficial understanding of local traditions.
 
-#### Companion
+#### Local Guide
 
 - Difficulty agreeing on cultural sites, making cultural experiences engaging for diverse group interests/ages, finding family-friendly cultural activities, coordinating group visits, balancing educational depth with entertainment.
 
@@ -42,7 +42,7 @@ title: Niche Validator
 
 - Safety concerns, lack of transparency in tour operators, difficulty finding unique or extreme adventures, high costs, permits/regulations, feeling unprepared or ill-equipped.
 
-#### Companion
+#### Local Guide
 
 - Finding adventures suitable for varying fitness levels/preferences within a group, ensuring safety for everyone, managing group dynamics during challenging activities, coordinating logistics for multiple people, differing appetite for risk.
 
@@ -52,7 +52,7 @@ title: Niche Validator
 
 - Overpriced wellness retreats, lack of genuine wellness options (too commercial), difficulty verifying credentials of practitioners, finding specific niche wellness (e.g., silent retreats, specific yoga styles), feeling pressured to participate.
 
-#### Companion
+#### Local Guide
 
 - Finding wellness options that appeal to everyone in a group, balancing relaxation with other activities, ensuring privacy/comfort for all, coordinating group spa/wellness bookings, differing comfort levels with shared experiences.
 
@@ -62,7 +62,7 @@ title: Niche Validator
 
 - Safety concerns (solo), difficulty finding local, non-touristy spots, high cover charges/drink prices, language barriers, feeling out of place, scams or overcharging.
 
-#### Companion
+#### Local Guide
 
 - Agreeing on nightlife venues, ensuring safety for the group, managing different energy levels/preferences, finding places suitable for different group sizes/vibes, coordinating transport home.
 
@@ -72,7 +72,7 @@ title: Niche Validator
 
 - Feeling disconnected from local life, difficulty maintaining routines (fitness, diet), finding local services (hair, gym, specific shopping), ethical consumption concerns, loneliness or isolation.
 
-#### Companion
+#### Local Guide
 
 - Balancing individual lifestyle needs with group activities, finding amenities that cater to various preferences (e.g., vegan options, specific gym), coordinating shopping/personal errands, differing priorities for relaxation vs. activity.
 
@@ -82,7 +82,7 @@ title: Niche Validator
 
 - Exorbitant costs, lack of genuine exclusivity (still feels mass-market), difficulty vetting high-end providers, privacy concerns, feeling underserved despite high price.
 
-#### Companion
+#### Local Guide
 
 - Ensuring everyone's comfort and privacy in exclusive settings, managing expectations for luxury, coordinating bespoke arrangements for a group, justifying high costs for all, differing expectations of service level.
 
@@ -92,7 +92,7 @@ title: Niche Validator
 
 - Difficulty finding independent/arthouse cinemas, missing local film festivals, language barriers for foreign films, finding unique cinematic events, poor seating or viewing experience.
 
-#### Companion
+#### Local Guide
 
 - Agreeing on film choices, finding family-friendly screenings, coordinating group visits to festivals, dealing with ticketing for multiple people, managing noise or distractions from others.
 
@@ -102,7 +102,7 @@ title: Niche Validator
 
 - Missing out on local events, difficulty getting tickets for popular events, navigating large crowds, language barriers at local events, feeling unsafe in large gatherings.
 
-#### Companion
+#### Local Guide
 
 - Coordinating group attendance, securing tickets for everyone, managing different interests for events, dealing with logistics (transport, meeting points), keeping track of everyone in a crowd.
 
@@ -112,7 +112,7 @@ title: Niche Validator
 
 - Tourist trap restaurants, difficulty finding authentic local cuisine, dietary restrictions not accommodated, language barriers for ordering, high prices, poor food quality.
 
-#### Companion
+#### Local Guide
 
 - Agreeing on restaurants, accommodating diverse dietary needs/preferences within a group, managing budget for group dining, finding places suitable for different group sizes/ambiances, differing palates and adventurousness.
 
@@ -167,5 +167,5 @@ title: Niche Validator
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)
 

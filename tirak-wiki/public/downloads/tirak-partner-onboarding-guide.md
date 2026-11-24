@@ -1,58 +1,41 @@
-# Tirak Partner Onboarding Guide
+# Tirak Local Guide Onboarding Guide
 
-Welcome to the Tirak Dream Journeys partner network! This guide walks you through getting started.
+Welcome to Tirak Dream Journeys — local guides for cultural experiences in Thailand. This guide walks you through getting started as a founding guide in Bangkok.
 
-## Why Partner with Tirak?
+## Why Guide with Tirak?
 
-- **80–85% earnings** — keep the lion's share of every booking
-- **Same-day listing approval** — go live fast
-- **600+ partner network** — join Thailand's growing experience marketplace
+- **0% commission for founding guides** until 7 March 2027
+- **Paid in cash** — during the soft launch, travelers pay you at the meeting point
+- **ID-checked community** — the Tirak team checks every guide's ID
 - **Full pricing control** — you set your own rates
 - **No exclusivity** — keep your other channels
 
 ## Onboarding Steps
 
 ### Step 1: Apply
-Visit [tirak.app/partners](https://tirak.app/partners) and fill out the partner application form.
+Visit [tirak.app/partners](https://tirak.app/partners) and fill out the guide application.
 
-### Step 2: Review
-Our team reviews your application within 24 hours. We verify your business details and experience offerings.
+### Step 2: ID check
+The Tirak team reviews your application and checks your ID before approval.
 
-### Step 3: Set Up Your Profile
-- Upload high-quality photos of your experiences
-- Write compelling descriptions
-- Set your pricing and availability
-- Configure blackout dates
+### Step 3: Set up your profile
+- Add real photos (your phone is fine)
+- Describe the experiences you want to share
+- Set your price and availability
 
-### Step 4: Go Live
-Once approved, your listings are immediately visible to Tirak travelers across Thailand.
+### Step 4: Accept requests
+Travelers send booking requests. You choose which ones to accept and agree on a public meeting point.
 
-### Step 5: Earn
-- Receive bookings directly through the platform
-- Get paid within 24–48 hours via bank transfer
-- Track your earnings in the partner dashboard
-
-## Partner Categories
-
-We work with vendors across 10 experience categories:
-
-1. Leisure & Experience DMCs
-2. MICE & Event DMCs
-3. Transport & Transfer Services
-4. Adventure & Outdoor Operators
-5. Food & Culinary Operators
-6. Wellness & Spa Services
-7. Boutique Hotels & Hostels
-8. Nightlife & Entertainment
-9. Cinema & Entertainment
-10. Lifestyle & Experiences
+### Step 5: Meet and get paid
+- Meet the traveler at a public meeting point
+- The traveler pays you in cash at the meeting point
+- Both of you leave a review afterward
 
 ## Need Help?
 
 - **WhatsApp/LINE**: Message us directly for quick support
 - **Email**: partners@tirak.app
-- **Partner Dashboard**: Manage your listings, bookings, and payments
 
 ---
 
-© 2025 Tirak Dream Journeys. All rights reserved.
+© 2026 Tirak Dream Journeys. All rights reserved.

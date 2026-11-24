@@ -11,15 +11,15 @@ lastUpdated: 2026-01-22
 
 **Brand Name:** Tirak Dream Journeys  
 **Tagline:** "Not a tour. A vibe."  
-**Category:** Travel companion marketplace platform  
+**Category:** Local Guide Marketplace platform  
 **Launch Channel:** Direct-to-Consumer (DTC) / Platform Launch  
 **Stage:** Pre-launch (Building supply before demand)
 
 ## Product Description
 
-Tirak is a travel companion platform that connects travelers with verified Thai locals who share authentic cultural experiences—not scripted tours, but genuine hangouts. Companions set their own rates, keep 80-85% of earnings (vs. 30-40% industry standard), and showcase their unique personalities. Travelers discover hidden gems through locals who actually vibe with their interests.
+Tirak is a local guide platform that connects travelers with verified Thai locals who share authentic cultural experiences—not scripted tours, but genuine experiences. Local Guides set their own rates, keep 80-85% of earnings (vs. 30-40% industry standard), and showcase their unique personalities. Travelers discover hidden gems through locals who actually vibe with their interests.
 
-**Core Philosophy:** Supply Creates Demand - Focus on companion acquisition first (80% of marketing budget) before traveler demand generation (20%).
+**Core Philosophy:** Supply Creates Demand - Focus on local guide acquisition first (80% of marketing budget) before traveler demand generation (20%).
 
 **Positioning:** "Think Airbnb for human connection, not just accommodations."
 
@@ -28,35 +28,35 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 **Platform Type:** Two-sided marketplace (supply-side focus)  
 **Primary Markets:** Bangkok, Chiang Mai, Phuket, Pattaya  
 **Target Launch Geography:** Thailand (Southeast Asia expansion planned)  
-**Revenue Model:** 15-20% commission per booking  
+**Revenue Model:** 15-20% commission per booking (planned; founding guides pay 0% until 7 March 2027, and in-app payments are off during the soft launch)  
 **Technology:** Mobile-responsive web + native apps (iOS TestFlight, Android APK)
 
 ### Key Features
 
-**For Companions (Supply-Side - 80% focus):**
+**For Local Guides (Supply-Side - 80% focus):**
 - 15-20% commission (vs. 30-40% competitors)
-- Same-day onboarding, no professional photos required
+- Simple onboarding with an ID check by the Tirak team, no professional photos required
 - Instant availability toggle (on/off with one tap)
 - Dynamic rate setting (adjust prices anytime)
 - Verified traveler system (safety first)
 - In-app messaging (no personal number sharing)
 - Reputation building with reviews/ratings
 - Earnings dashboard with forecasting
-- Companion community for support
+- Local Guide community for support
 - Flexible experience types (no rigid scripts)
 
 **For Travelers (Demand-Side - 20% focus):**
 - Vibe-based matching (filter by interests: food, nightlife, wellness, adventure)
-- Verified companion profiles with real photos and reviews
+- Verified guide profiles with real photos and reviews
 - Instant booking (no DM negotiations)
-- Secure in-app payments
+- Pay the guide in cash at the meeting point (soft launch)
 - Spontaneous discovery (last-minute availability)
 - Transparent pricing (no hidden fees)
-- Safety features (report system, background checks)
+- Safety features (report system, ID-checked guides, public meeting points)
 
 ## Target Audience
 
-### Primary Audience 1: Thai Companions (Supply-Side Priority)
+### Primary Audience 1: Thai Guides (Supply-Side Priority)
 
 **Demographics:**
 - Age: 22-35 years old
@@ -120,7 +120,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Discover hidden gems locals actually go to
 - Make genuine connections with Thai people
 - Avoid tourist traps and generic experiences
-- Feel safe and trust companions
+- Feel safe and trust local guides
 - Get Instagram-worthy moments
 - Learn about culture beyond surface level
 
@@ -138,25 +138,25 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 **Tirak's Differentiators:**
 - **Lowest commission** (15-20% vs. 30-40%)
-- **Fastest onboarding** (same-day vs. weeks/months)
-- **Companion-first approach** (supply creates demand philosophy)
+- **Simple onboarding** (ID check by the Tirak team; no photoshoot, video audition, or reference letters)
+- **Guide-first approach** (supply creates demand philosophy)
 - **Southeast Asia focus** (less saturated than Europe)
 - **Authenticity celebrated** (no professional photo requirements)
 - **Vibe-based matching** (human connection over activity types)
 
 ## Pricing & Business Model
 
-**For Companions:**
+**For Local Guides:**
 - Set your own rates (suggested range: ฿500-2,500/experience)
-- Keep 80-85% of earnings
-- Instant payouts (24-48 hours)
+- Founding guides pay 0% commission until 7 March 2027
+- Paid in cash by the traveler at the meeting point during the soft launch
 - No upfront costs, no monthly fees
 
 **For Travelers:**
 - Pay per experience (range: ฿600-3,000 typical)
 - Transparent pricing (no hidden fees)
-- Secure in-app payments
-- Instant booking confirmation
+- Pay the guide in cash at the meeting point (no in-app payments during the soft launch)
+- Booking requests the guide accepts
 
 **Platform Revenue:**
 - 15-20% commission per booking
@@ -173,9 +173,9 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Authentic and transparent
 
 **Key Messages:**
-- "Supply creates demand" - Build the companion community first
+- "Supply creates demand" - Build the local guide community first
 - "Not a tour. A vibe." - Human connection over scripted activities
-- "Your city, your way, your earnings" - Companion empowerment
+- "Your city, your way, your earnings" - Local Guide empowerment
 - "Real people. Real Bangkok. Real connections." - Authenticity focus
 
 ## Launch Context
@@ -183,22 +183,22 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 **Timeline:** 60-day acceleration sprint  
 **Budget:** Bootstrapped / Lean (<$5K initial marketing)  
 **Team Size:** Solo founder + part-time support  
-**Priority:** Companion acquisition (80%) > Platform visibility (15%) > Traveler demand (5%)  
-**Challenge:** Cold start problem - need supply (companions) before demand (travelers)
+**Priority:** Local Guide acquisition (80%) > Platform visibility (15%) > Traveler demand (5%)  
+**Challenge:** Cold start problem - need supply (local guides) before demand (travelers)
 
 **Marketing Channels:**
 - Facebook ads targeting Thai millennials in Bangkok/Chiang Mai
-- Instagram story ads showcasing companion success stories
-- WhatsApp community for companion support
+- Instagram story ads showcasing local guide success stories
+- WhatsApp community for local guide support
 - Reddit outreach in r/Thailand, r/digitalnomad
-- Email sequences for companion onboarding and nurture
+- Email sequences for local guide onboarding and nurture
 - Press coverage in Thai tech/startup media
 
 **Success Metrics:**
-- 100 verified companions in first 30 days
+- 100 verified guides in first 30 days
 - 500 bookings in first 90 days
 - 4.5+ star average rating
-- 50% companion reactivation rate (return to platform)
+- 50% local guide reactivation rate (return to platform)
 - 30% traveler repeat booking rate
 
 ## Resources & Constraints
@@ -218,23 +218,23 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Trust and safety challenges
 
 **Critical Success Factors:**
-1. **Companion quality** - Vet for social skills, English proficiency, reliability
+1. **Local Guide quality** - Vet for social skills, English proficiency, reliability
 2. **Safety systems** - ID verification, review system, report mechanisms
-3. **Companion retention** - Keep them active with regular bookings
+3. **Local Guide retention** - Keep them active with regular bookings
 4. **Unit economics** - Ensure 15-20% commission covers platform costs
-5. **Network effects** - More companions = more traveler choice = more bookings
+5. **Network effects** - More local guides = more traveler choice = more bookings
 
 ## Strategic Priorities
 
 **Phase 1: Foundation (Days 1-15)**
-- Build companion waitlist (target: 200+ sign-ups)
+- Build local guide waitlist (target: 200+ sign-ups)
 - Set up onboarding infrastructure
-- Create companion community (WhatsApp group)
+- Create local guide community (WhatsApp group)
 - Develop vetting criteria and processes
 
 **Phase 2: Activation (Days 16-30)**
-- Onboard first 50 companions
-- Launch companion acquisition ads (Facebook/Instagram)
+- Onboard first 50 local guides
+- Launch local guide acquisition ads (Facebook/Instagram)
 - Start email nurture sequences
 - Build testimonials and case studies
 
@@ -242,7 +242,7 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - Soft-launch to digital nomad communities
 - Activate traveler pre-launch emails
 - Run limited traveler ads (test messaging)
-- Enable companion referral program
+- Enable local guide referral program
 
 **Phase 4: Scale (Days 46-60)**
 - Ramp up traveler acquisition
@@ -263,11 +263,11 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 - 60-day aggressive timeline
 
 **Key Adaptations Needed:**
-- Dual persona approach (companions + travelers, not just customers)
-- Supply-side emphasis (80% of messaging targets companion recruitment)
+- Dual persona approach (local guides + travelers, not just customers)
+- Supply-side emphasis (80% of messaging targets local guide recruitment)
 - Geographic segmentation (Bangkok/Chiang Mai/Phuket/Pattaya)
 - Replace "product launch" language with "platform activation"
-- Cold start strategy (companion acquisition before traveler demand)
+- Cold start strategy (local guide acquisition before traveler demand)
 
 ---
 
@@ -275,12 +275,12 @@ Tirak is a travel companion platform that connects travelers with verified Thai 
 
 As a Tirak partner, you benefit from our unique market positioning. Our platform is designed to give vendors the best possible deal — **80–85% earnings** compared to 60–70% on competing platforms.
 
-[**See full partner benefits →**](/docs/06-vendor-pipeline/scraping-scripts)
+[**See founding guide benefits →**](/docs/06-vendor-pipeline/scraping-scripts)
 
 **Expected Deliverables:**
-- Companion recruitment email sequences (welcome, onboarding, nurture)
+- Local Guide recruitment email sequences (welcome, onboarding, nurture)
 - Traveler pre-launch and launch email sequences
-- Facebook/Instagram ad campaigns (companion-focused + traveler-focused)
+- Facebook/Instagram ad campaigns (guide-focused + traveler-focused)
 - Press release and media kit
 - Community management scripts
 - Referral program messaging

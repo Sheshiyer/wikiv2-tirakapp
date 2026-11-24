@@ -7,7 +7,7 @@ Use these scripted rebuttals during phone/WhatsApp outreach. Each objection come
 ## Commission & Pricing
 
 ### "15-20% commission seems too good to be true."
-> **Rebuttal:** "No catch. We're bootstrapped and lean — no fancy offices in Amsterdam like Withlocals. We prioritize your earnings over platform profits. 15-20% covers payment processing, insurance, and platform maintenance. We publish the breakdown transparently."
+> **Rebuttal:** "No catch. We're bootstrapped and lean — no fancy offices in Amsterdam like Withlocals. We prioritize your earnings over platform profits. Founding partners pay 0% commission until 7 March 2027."
 
 ### "I'm already on [Withlocals/Viator/Klook]. Why switch?"
 > **Rebuttal:** "You don't have to switch — Tirak isn't exclusive. List on multiple platforms. But compare: Withlocals takes 30%, ToursByLocals takes 40%. On a ฿2,000 booking, you keep ฿1,700 with Tirak vs. ฿1,400 on Withlocals. That's ฿300 more per booking. Over 10 bookings a month, that's ฿3,000 extra in your pocket."
@@ -20,10 +20,10 @@ Use these scripted rebuttals during phone/WhatsApp outreach. Each objection come
 ## Trust & Legitimacy
 
 ### "I've never heard of Tirak."
-> **Rebuttal:** "We're new but growing fast — 600+ Thai vendors already across 10 categories. We're Thailand-focused, not trying to be everything to everyone. Think of us as the local platform that actually understands Thai tourism, not a European company expanding into Asia as an afterthought."
+> **Rebuttal:** "We're new and launching small and invite-led in Bangkok. We're Thailand-focused, not trying to be everything to everyone. Think of us as the local platform that actually understands Thai tourism, not a European company expanding into Asia as an afterthought."
 
 ### "How do I know travelers are real / safe?"
-> **Rebuttal:** "Every traveler is ID-verified before they can book. They have reviews from other vendors. You chat with them in-app before accepting — no personal phone number sharing. We have a report button, emergency contacts, and block list. Zero reported safety incidents so far."
+> **Rebuttal:** "The Tirak team checks guide IDs, first meetings happen at public meeting points, and both sides leave reviews. You chat with them in-app before accepting — no personal phone number sharing. We have a report button, emergency contacts, and block list."
 
 ### "What if Tirak shuts down?"
 > **Rebuttal:** "We're not asking you to leave other platforms. List on Tirak AND keep your other listings. There's no exclusivity, no lock-in. If we disappear tomorrow, you've lost nothing. But if we grow — which is happening — you've gained a new channel of travelers."
@@ -33,7 +33,7 @@ Use these scripted rebuttals during phone/WhatsApp outreach. Each objection come
 ## Effort & Setup
 
 ### "I don't have time for another platform."
-> **Rebuttal:** "Setup takes 10 minutes. Literally. Upload a few photos (iPhone is fine), write a short description, set your rates, go live. No professional photoshoots, no video auditions, no reference letters. You can do it during a coffee break."
+> **Rebuttal:** "Setup takes 10 minutes. Literally. Upload a few photos (iPhone is fine), write a short description, set your rates. The Tirak team checks your ID before approval. No professional photoshoots, no video auditions, no reference letters. You can do it during a coffee break."
 
 ### "I don't have professional photos."
 > **Rebuttal:** "Good — we actually prefer authentic photos. iPhone selfies at your restaurant, your spa, your tour bus? Perfect. Travelers want to see the real you, not a staged studio shoot. Our top-performing vendors use authentic photos."
@@ -46,7 +46,7 @@ Use these scripted rebuttals during phone/WhatsApp outreach. Each objection come
 ## Logistics
 
 ### "How do payments work?"
-> **Rebuttal:** "Travelers pay through the app. Your earnings hit your bank account within 24-48 hours. No cash handling, no chasing payments, no 'I'll Venmo you later' situations. Clean, secure, fast."
+> **Rebuttal:** "During the soft launch, travelers pay you in cash at the meeting point. There are no in-app payments yet, and founding partners pay 0% commission until 7 March 2027."
 
 ### "Can I control my schedule?"
 > **Rebuttal:** "100%. Toggle availability on/off with one tap. Weekend-only? Fine. Random Tuesday off? Toggle off. Available tonight for last-minute bookings? Toggle on. You control everything."

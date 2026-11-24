@@ -26,11 +26,23 @@ type AuthRecord = {
   clientKey?: string;
 };
 
+/** Minimal shape of the Cloudflare Workers Rate Limiting binding. */
+export type RateLimitBinding = {
+  limit(options: { key: string }): Promise<{ success: boolean }>;
+};
+
 export type Env = {
   APP_CONFIG: KVNamespace;
   APP_INDEX: KVNamespace;
   NVIDIA_API_KEY: string;
   ENVIRONMENT?: string;
+  /**
+   * Comma-separated list of exact extra origins allowed to call public chat,
+   * e.g. a specific Vercel preview URL. No wildcards are interpreted.
+   */
+  ALLOWED_ORIGINS?: string;
+  /** Rate Limiting binding for public (unauthenticated) chat, keyed per client IP. */
+  CHAT_RATE_LIMITER?: RateLimitBinding;
 };
 
 const DEFAULTS_KEY = 'rag:defaults';

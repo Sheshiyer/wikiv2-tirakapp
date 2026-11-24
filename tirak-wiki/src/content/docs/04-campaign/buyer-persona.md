@@ -4,9 +4,9 @@ title: Buyer Persona
 
 ## Personas
 
-**Persona Name**: The Savvy Companion
+**Persona Name**: The Savvy Local Guide
 
-**Description**: The Savvy Companion travels primarily with others – a partner, family, or close friends. Their joy comes from shared experiences and ensuring everyone has a fantastic time. While they prioritize group harmony, they also have their own desires for unique, value-driven activities that enhance the collective journey. They are budget-conscious but willing to invest in memorable moments that foster connection.
+**Description**: The Savvy Local Guide travels primarily with others – a partner, family, or close friends. Their joy comes from shared experiences and ensuring everyone has a fantastic time. While they prioritize group harmony, they also have their own desires for unique, value-driven activities that enhance the collective journey. They are budget-conscious but willing to invest in memorable moments that foster connection.
 
 #### Demographics
 
@@ -201,4 +201,4 @@ title: Buyer Persona
 
 Looking for materials to help grow your business on Tirak? Visit our [Partner Resources](/partner-resources) page for downloadable guides, brand assets, and onboarding materials.
 
-[**Download partner materials →**](/partner-resources) | [**Browse partner network →**](/vendor-directory)
+[**Download guide materials →**](/partner-resources) | [**Become a founding guide →**](/docs/06-vendor-pipeline/pipeline-overview)

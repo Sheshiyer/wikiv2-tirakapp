@@ -1,2 +1,16 @@
 /.claude
 .vercel/
+node_modules/
+dist/
+.DS_Store
+
+# Third-party vendor/lead data (emails, phone numbers) must never be committed.
+**/vendor-pipeline/data/
+**/vendor-pipeline/outreach/
+**/vendor-pipeline/reports/
+**/vendor-pipeline/scripts/
+*_vendors*.csv
+*_vendors*.json
+*leads*.csv
+*leads*.json
+*vendor*.xlsx

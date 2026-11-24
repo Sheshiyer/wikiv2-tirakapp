@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /vendor-pipeline/
-Sitemap: https://wiki.tirak.app/sitemap.xml

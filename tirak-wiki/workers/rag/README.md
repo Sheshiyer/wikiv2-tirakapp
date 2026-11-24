@@ -132,6 +132,28 @@ For the current wiki implementation, `APP_INDEX` temporarily stores embedded chu
 }
 ```
 
+## Access Model
+
+- `POST /v1/ingest` and `POST /v1/search` are admin calls and require the per-app bearer token stored in `auth:<appId>` (KV). Never put this token in a `PUBLIC_*` env var, a client bundle, or a committed doc.
+- `POST /v1/chat` accepts either that bearer token (server-to-server) or a browser request whose `Origin` is on the exact allowlist:
+  - `https://wiki.tirak.app` (always, see `src/access.ts`)
+  - any exact origins listed in the `ALLOWED_ORIGINS` var (comma-separated, no wildcards), for example one Vercel preview URL
+  - `http://localhost:*` and `http://127.0.0.1:*` only when `ENVIRONMENT=development`
+- Public (no bearer) chat is rate limited per client IP by the `CHAT_RATE_LIMITER` Rate Limiting binding (10 requests / 60 s, see `wrangler.jsonc`) and queries are capped at 1000 characters.
+- An `Origin` header can be forged by non-browser clients, so the allowlist only stops other websites from using the chat; the rate limit is what bounds cost. If abuse appears, add Cloudflare Turnstile in front of public chat.
+
+### Environment variables
+
+| Where | Name | Purpose |
+| --- | --- | --- |
+| Vercel (wiki build) | `PUBLIC_RAG_API_URL` | Worker base URL used by the browser |
+| Vercel (wiki build) | `PUBLIC_RAG_APP_ID` | Defaults to `tirak-wiki` |
+| Worker var | `ALLOWED_ORIGINS` | Extra exact origins (preview URLs) |
+| Worker secret | `NVIDIA_API_KEY` | NVIDIA NIM credential |
+| KV `APP_CONFIG` | `auth:tirak-wiki` | Admin bearer token for ingest/search |
+
+`PUBLIC_RAG_TOKEN` is no longer read; remove it from Vercel.
+
 ## Local Development
 
 ```bash
